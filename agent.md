@@ -15,6 +15,8 @@ Each conversation file should use this structure:
     "title": "your awesome title",
     "description": "گفتگو با یک پزشک",
     "words": ["hi", "help"],
+    "grammarId": 1 | null,
+    "Level": "A1",
     "sentences" [
         {
             "order": 0,
@@ -48,6 +50,7 @@ Use the conversation number in the title. If the title changes, rename the file 
 - Keep the focus vocabulary list exactly aligned with the conversation's CSV entries.
 - If replacing a conversation, remove the old `conversation id` from words that are no longer focus vocabulary for that conversation.
 - Use an expression from `expressions.csv` if possible.
+- Connect each story to 
 
 
 ## A1 Language Style
