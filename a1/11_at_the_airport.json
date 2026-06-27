@@ -1,0 +1,91 @@
+{
+    "title": "11 - At the Airport",
+    "description": "تحویل چمدان و گرفتن کارت پرواز در فرودگاه.",
+    "words": ["ticket", "passport", "bag", "flight", "delay", "gate", "window", "seat", "boarding", "trip", "minute"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello. Can I see your ticket and passport?",
+            "translation": "سلام. می‌توانم بلیت و پاسپورتتان را ببینم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Here you are.",
+            "translation": "بفرمایید."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Thank you. How many bags are you checking?",
+            "translation": "ممنون. چند چمدان تحویل می‌دهید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Just one.",
+            "translation": "فقط یک چمدان."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Please put it here.",
+            "translation": "لطفاً آن را اینجا بگذارید."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Is the flight on time?",
+            "translation": "پرواز سر وقت است؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "There is a short delay, about thirty minutes.",
+            "translation": "کمی تأخیر دارد، حدود سی دقیقه."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Okay. Which gate is it?",
+            "translation": "باشه. کدام گیت است؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Gate twelve.",
+            "translation": "گیت دوازده است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Can I have a window seat?",
+            "translation": "می‌توانم صندلی کنار پنجره داشته باشم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes. Here is your boarding pass.",
+            "translation": "بله. این هم کارت پروازتان."
+        },
+        {
+            "order": 11,
+            "person": 1,
+            "text": "Boarding starts at two o'clock.",
+            "translation": "سوار شدن به هواپیما ساعت دو شروع می‌شود."
+        },
+        {
+            "order": 12,
+            "person": 2,
+            "text": "Thank you. Have a good day.",
+            "translation": "ممنون. روز خوبی داشته باشید."
+        },
+        {
+            "order": 13,
+            "person": 1,
+            "text": "Have a safe trip!",
+            "translation": "سفر خوبی داشته باشید!"
+        }
+    ]
+}

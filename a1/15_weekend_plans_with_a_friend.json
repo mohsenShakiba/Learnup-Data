@@ -1,0 +1,85 @@
+{
+    "title": "15 - Weekend Plans with a Friend",
+    "description": "برنامه‌ریزی برای پیک‌نیک آخر هفته با یک دوست.",
+    "words": ["plan", "weekend", "park", "Sunday", "picnic", "bring", "food", "drinks", "join", "meet", "morning"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Do you have plans this weekend?",
+            "translation": "این آخر هفته برنامه‌ای داری؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Not yet. Why do you ask?",
+            "translation": "هنوز نه. چرا می‌پرسی؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Let's go to the park on Sunday.",
+            "translation": "بیا یکشنبه برویم پارک."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That sounds fun. Are we having a picnic?",
+            "translation": "به نظر جالب می‌آید. قرار است پیک‌نیک داشته باشیم؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Yes! I can bring food.",
+            "translation": "آره! من می‌توانم غذا بیاورم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Great. I will bring drinks.",
+            "translation": "عالیه. من نوشیدنی می‌آورم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Can your sister come too?",
+            "translation": "خواهرت هم می‌تواند بیاید؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Sure. She loves the park.",
+            "translation": "حتماً. او پارک را خیلی دوست دارد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Let's meet in the morning.",
+            "translation": "بیا صبح همدیگر را ببینیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "What time?",
+            "translation": "چه ساعتی؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "How about ten o'clock?",
+            "translation": "ساعت ده چطور؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Perfect. See you on Sunday!",
+            "translation": "عالی. یکشنبه می‌بینمت!"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Sounds good. See you then!",
+            "translation": "خوبه. پس می‌بینمت!"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "title": "4 - At a Restaurant",
+    "description": "سفارش غذا و گرفتن صورتحساب در رستوران.",
+    "words": ["table", "menu", "water", "order", "chicken", "rice", "salad", "drink", "food", "hungry", "delicious", "bill", "evening", "ready"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Good evening. A table for two?",
+            "translation": "عصر بخیر. میز برای دو نفر؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, please.",
+            "translation": "بله، لطفاً."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Here is the menu.",
+            "translation": "این هم منو."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Thank you. Could we have some water?",
+            "translation": "ممنون. می‌شود کمی آب بیاورید؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Of course. Are you ready to order?",
+            "translation": "البته. آماده‌اید سفارش بدهید؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes. I'll have the chicken and rice.",
+            "translation": "بله. من مرغ و برنج می‌خورم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Good choice. And a salad?",
+            "translation": "انتخاب خوبی است. و سالاد؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, a small salad, please.",
+            "translation": "بله، یک سالاد کوچک، لطفاً."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Anything to drink?",
+            "translation": "چیزی برای نوشیدن؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Just water for now.",
+            "translation": "فعلاً فقط آب."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Okay. Your food will come soon.",
+            "translation": "باشه. غذایتان به‌زودی می‌آید."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you. We are very hungry.",
+            "translation": "ممنون. خیلی گرسنه‌ایم."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Here is your food. Enjoy!",
+            "translation": "این هم غذای شما. نوش جان!"
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "It looks delicious.",
+            "translation": "خوشمزه به نظر می‌رسد."
+        },
+        {
+            "order": 14,
+            "person": 2,
+            "text": "Could we have the bill, please?",
+            "translation": "می‌شود صورتحساب را بیاورید، لطفاً؟"
+        },
+        {
+            "order": 15,
+            "person": 1,
+            "text": "Sure. Here you go.",
+            "translation": "حتماً. بفرمایید."
+        }
+    ]
+}

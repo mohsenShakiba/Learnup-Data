@@ -1,0 +1,85 @@
+{
+    "title": "19 - Calling Tech Support",
+    "description": "تماس با پشتیبانی فنی برای حل مشکل اینترنت.",
+    "words": ["internet", "working", "fix", "light", "router", "green", "red", "turn", "again", "connect", "works", "minute"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello, tech support. How can I help you?",
+            "translation": "سلام، پشتیبانی فنی. چطور می‌توانم کمکتان کنم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "My internet is not working.",
+            "translation": "اینترنتم کار نمی‌کند."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'm sorry about that. Let's fix it together.",
+            "translation": "متأسفم بابت این مشکل. بیایید با هم درستش کنیم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Thank you.",
+            "translation": "ممنون."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Is the light on the box green?",
+            "translation": "چراغ روی مودم سبز است؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "No, it is red.",
+            "translation": "نه، قرمز است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Please turn the router off and on again.",
+            "translation": "لطفاً روتر را خاموش و دوباره روشن کنید."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Okay, one moment... Done.",
+            "translation": "باشه، یک لحظه... انجام شد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Now wait one minute.",
+            "translation": "حالا یک دقیقه صبر کنید."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "The light is green now!",
+            "translation": "حالا چراغ سبز است!"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Great. Can you connect now?",
+            "translation": "عالی. حالا می‌توانید وصل شوید؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Yes, it works! Thank you so much.",
+            "translation": "بله، کار می‌کند! خیلی ممنون."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "You're welcome. Have a good day!",
+            "translation": "خواهش می‌کنم. روز خوبی داشته باشید!"
+        }
+    ]
+}

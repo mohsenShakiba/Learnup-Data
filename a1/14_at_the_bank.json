@@ -1,0 +1,85 @@
+{
+    "title": "14 - At the Bank",
+    "description": "باز کردن یک حساب جدید در بانک.",
+    "words": ["bank", "account", "open", "form", "deposit", "dollar", "card", "money", "ATM", "help"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Good morning. How can I help you?",
+            "translation": "صبح بخیر. چطور می‌توانم کمکتان کنم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I'd like to open an account.",
+            "translation": "می‌خواهم یک حساب باز کنم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Sure. Do you have your ID?",
+            "translation": "حتماً. کارت شناسایی دارید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, here it is.",
+            "translation": "بله، بفرمایید."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Please fill out this form.",
+            "translation": "لطفاً این فرم را پر کنید."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Okay. All done.",
+            "translation": "باشه. تمام شد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "How much do you want to deposit?",
+            "translation": "چقدر می‌خواهید واریز کنید؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "One hundred dollars.",
+            "translation": "صد دلار."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Thank you. Here is your new card.",
+            "translation": "ممنون. این هم کارت جدید شما."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Can I withdraw money with this card?",
+            "translation": "می‌توانم با این کارت پول برداشت کنم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes, at any ATM.",
+            "translation": "بله، از هر خودپردازی."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Great. Thank you for your help.",
+            "translation": "عالی. ممنون از کمکتان."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "You're welcome. Have a good day!",
+            "translation": "خواهش می‌کنم. روز خوبی داشته باشید!"
+        }
+    ]
+}

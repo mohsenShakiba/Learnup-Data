@@ -1,0 +1,79 @@
+{
+    "title": "3 - Asking for Directions",
+    "description": "پرسیدن آدرس بانک از یک رهگذر در خیابان.",
+    "words": ["excuse", "help", "where", "bank", "street", "far", "near", "minute", "walk", "straight", "turn", "left", "corner", "right", "lost"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Excuse me, can you help me?",
+            "translation": "ببخشید، می‌توانید به من کمک کنید؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Sure. What are you looking for?",
+            "translation": "حتماً. دنبال چی می‌گردید؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Where is the bank?",
+            "translation": "بانک کجاست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "It's on Main Street.",
+            "translation": "توی خیابان اصلی است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Is it far?",
+            "translation": "دور است؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "No, it's near. You can walk there in five minutes.",
+            "translation": "نه، نزدیک است. می‌توانی پنج دقیقه‌ای پیاده به آنجا بروی."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "How do I get there?",
+            "translation": "چطور برسم آنجا؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Walk straight, then turn left.",
+            "translation": "مستقیم بروید، بعد به چپ بپیچید."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Left at the corner?",
+            "translation": "سر نبش به چپ؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Yes. The bank is on the right.",
+            "translation": "بله. بانک سمت راست است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thank you so much. I was lost.",
+            "translation": "خیلی ممنون. گم شده بودم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "No problem. Take care!",
+            "translation": "خواهش می‌کنم. موفق باشید!"
+        }
+    ]
+}

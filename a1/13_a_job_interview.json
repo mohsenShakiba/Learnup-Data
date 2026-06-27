@@ -1,0 +1,91 @@
+{
+    "title": "13 - A Job Interview",
+    "description": "مصاحبه شغلی درباره تجربه و ساعات کاری.",
+    "words": ["job", "work", "learn", "experience", "shop", "year", "weekend", "available", "hours", "question", "start", "week"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello. Please sit down.",
+            "translation": "سلام. لطفاً بنشینید."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Thank you.",
+            "translation": "ممنون."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "So, why do you want this job?",
+            "translation": "خب، چرا این شغل را می‌خواهید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I like this kind of work, and I want to learn.",
+            "translation": "این نوع کار را دوست دارم و می‌خواهم یاد بگیرم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Do you have experience?",
+            "translation": "تجربه دارید؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, I worked in a shop for two years.",
+            "translation": "بله، دو سال در یک مغازه کار کردم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Good. Can you work on weekends?",
+            "translation": "خوب است. می‌توانید آخر هفته‌ها کار کنید؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, I'm available.",
+            "translation": "بله، می‌توانم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "The hours are nine to five.",
+            "translation": "ساعت کار از نه تا پنج است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That works for me.",
+            "translation": "برای من مناسب است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Do you have any questions?",
+            "translation": "سؤالی دارید؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Yes. When can I start?",
+            "translation": "بله. کی می‌توانم شروع کنم؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "We will call you next week.",
+            "translation": "هفته بعد به شما زنگ می‌زنیم."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Thank you for your time.",
+            "translation": "ممنون از وقتتان."
+        }
+    ]
+}

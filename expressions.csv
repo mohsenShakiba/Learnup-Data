@@ -1,0 +1,1001 @@
+id,expression,category
+1,Nice to meet you,Greetings & Farewells
+2,How are you doing?,Greetings & Farewells
+3,What's up?,Greetings & Farewells
+4,Long time no see,Greetings & Farewells
+5,Good to see you,Greetings & Farewells
+6,How have you been?,Greetings & Farewells
+7,Take care,Greetings & Farewells
+8,See you later,Greetings & Farewells
+9,Catch you later,Greetings & Farewells
+10,Have a good one,Greetings & Farewells
+11,Have a great day,Greetings & Farewells
+12,See you soon,Greetings & Farewells
+13,Until next time,Greetings & Farewells
+14,It was nice seeing you,Greetings & Farewells
+15,Keep in touch,Greetings & Farewells
+16,Stay in touch,Greetings & Farewells
+17,Drop me a line,Greetings & Farewells
+18,How's it going?,Greetings & Farewells
+19,What's new?,Greetings & Farewells
+20,What's going on?,Greetings & Farewells
+21,How's everything?,Greetings & Farewells
+22,How's life treating you?,Greetings & Farewells
+23,Good morning,Greetings & Farewells
+24,Good afternoon,Greetings & Farewells
+25,Good evening,Greetings & Farewells
+26,Good night,Greetings & Farewells
+27,Sleep tight,Greetings & Farewells
+28,Sweet dreams,Greetings & Farewells
+29,Rise and shine,Greetings & Farewells
+30,Welcome back,Greetings & Farewells
+31,Fancy seeing you here,Greetings & Farewells
+32,Small world,Greetings & Farewells
+33,Speak of the devil,Greetings & Farewells
+34,I was just thinking about you,Greetings & Farewells
+35,Let's get together soon,Greetings & Farewells
+36,We should hang out,Greetings & Farewells
+37,See you around,Greetings & Farewells
+38,Peace out,Greetings & Farewells
+39,Howdy,Greetings & Farewells
+40,Hey there,Greetings & Farewells
+41,I'm feeling blue,Feelings & Emotions
+42,I'm on top of the world,Feelings & Emotions
+43,I'm under the weather,Feelings & Emotions
+44,I'm over the moon,Feelings & Emotions
+45,I'm walking on air,Feelings & Emotions
+46,I'm feeling down,Feelings & Emotions
+47,I'm feeling off today,Feelings & Emotions
+48,I'm not myself today,Feelings & Emotions
+49,I'm feeling out of sorts,Feelings & Emotions
+50,I'm on cloud nine,Feelings & Emotions
+51,I'm in a good mood,Feelings & Emotions
+52,I'm in a bad mood,Feelings & Emotions
+53,I'm feeling overwhelmed,Feelings & Emotions
+54,I'm feeling stressed out,Feelings & Emotions
+55,I'm feeling burned out,Feelings & Emotions
+56,I'm at my wit's end,Feelings & Emotions
+57,I'm beside myself,Feelings & Emotions
+58,I'm over it,Feelings & Emotions
+59,I'm fed up,Feelings & Emotions
+60,I've had it up to here,Feelings & Emotions
+61,I'm losing my mind,Feelings & Emotions
+62,I'm at peace,Feelings & Emotions
+63,I'm thrilled,Feelings & Emotions
+64,I'm ecstatic,Feelings & Emotions
+65,I'm devastated,Feelings & Emotions
+66,I'm heartbroken,Feelings & Emotions
+67,I'm green with envy,Feelings & Emotions
+68,I'm seeing red,Feelings & Emotions
+69,I'm tickled pink,Feelings & Emotions
+70,I'm on edge,Feelings & Emotions
+71,I'm nervous as a cat,Feelings & Emotions
+72,I'm scared stiff,Feelings & Emotions
+73,I'm bored to tears,Feelings & Emotions
+74,I'm bored out of my mind,Feelings & Emotions
+75,I'm pumped up,Feelings & Emotions
+76,I'm fired up,Feelings & Emotions
+77,I'm feeling nostalgic,Feelings & Emotions
+78,I'm homesick,Feelings & Emotions
+79,I'm head over heels,Feelings & Emotions
+80,I'm smitten,Feelings & Emotions
+81,I'm in a funk,Feelings & Emotions
+82,I'm in high spirits,Feelings & Emotions
+83,I'm in low spirits,Feelings & Emotions
+84,I'm feeling hopeful,Feelings & Emotions
+85,I'm feeling hopeless,Feelings & Emotions
+86,I'm on the verge of tears,Feelings & Emotions
+87,I'm falling apart,Feelings & Emotions
+88,I'm losing it,Feelings & Emotions
+89,I'm feeling grateful,Feelings & Emotions
+90,I'm feeling blessed,Feelings & Emotions
+91,I'm feeling lucky,Feelings & Emotions
+92,I'm feeling confident,Feelings & Emotions
+93,I'm feeling insecure,Feelings & Emotions
+94,I'm feeling inspired,Feelings & Emotions
+95,I'm feeling motivated,Feelings & Emotions
+96,I'm feeling drained,Feelings & Emotions
+97,I'm feeling energized,Feelings & Emotions
+98,I'm feeling exhausted,Feelings & Emotions
+99,I'm feeling refreshed,Feelings & Emotions
+100,I'm feeling restless,Feelings & Emotions
+101,I'm feeling calm,Feelings & Emotions
+102,I'm feeling uneasy,Feelings & Emotions
+103,I'm feeling frustrated,Feelings & Emotions
+104,I'm feeling disappointed,Feelings & Emotions
+105,I'm feeling satisfied,Feelings & Emotions
+106,I'm feeling fulfilled,Feelings & Emotions
+107,I'm feeling empty,Feelings & Emotions
+108,I'm feeling numb,Feelings & Emotions
+109,I'm feeling torn,Feelings & Emotions
+110,I'm feeling conflicted,Feelings & Emotions
+111,I'm feeling confused,Feelings & Emotions
+112,I'm feeling lost,Feelings & Emotions
+113,I'm feeling trapped,Feelings & Emotions
+114,I'm feeling free,Feelings & Emotions
+115,I'm feeling like a million bucks,Feelings & Emotions
+116,I need a break,Rest & Relaxation
+117,I need some time off,Rest & Relaxation
+118,I need to recharge,Rest & Relaxation
+119,I need some rest,Rest & Relaxation
+120,I need to sleep on it,Rest & Relaxation
+121,I need to clear my head,Rest & Relaxation
+122,I need some fresh air,Rest & Relaxation
+123,I need some space,Rest & Relaxation
+124,I need time to think,Rest & Relaxation
+125,I'm running on empty,Rest & Relaxation
+126,I'm burning the candle at both ends,Rest & Relaxation
+127,I need to slow down,Rest & Relaxation
+128,I need to take it easy,Rest & Relaxation
+129,I need a vacation,Rest & Relaxation
+130,I need a change of scenery,Rest & Relaxation
+131,I'm dead on my feet,Rest & Relaxation
+132,I can barely keep my eyes open,Rest & Relaxation
+133,I'm ready to drop,Rest & Relaxation
+134,I've been burning the midnight oil,Rest & Relaxation
+135,I'm going to hit the hay,Rest & Relaxation
+136,I'm going to hit the sack,Rest & Relaxation
+137,I'm going to catch some z's,Rest & Relaxation
+138,I need to step away,Rest & Relaxation
+139,I need to disconnect,Rest & Relaxation
+140,I haven't slept in days,Rest & Relaxation
+141,I couldn't agree more,Agreement & Disagreement
+142,You took the words right out of my mouth,Agreement & Disagreement
+143,That's exactly what I was thinking,Agreement & Disagreement
+144,You're preaching to the choir,Agreement & Disagreement
+145,I see where you're coming from,Agreement & Disagreement
+146,Fair enough,Agreement & Disagreement
+147,That makes sense,Agreement & Disagreement
+148,I get what you're saying,Agreement & Disagreement
+149,Point taken,Agreement & Disagreement
+150,I stand corrected,Agreement & Disagreement
+151,You have a point,Agreement & Disagreement
+152,I'll give you that,Agreement & Disagreement
+153,I beg to differ,Agreement & Disagreement
+154,That's debatable,Agreement & Disagreement
+155,I'm not so sure about that,Agreement & Disagreement
+156,I have my doubts,Agreement & Disagreement
+157,With all due respect,Agreement & Disagreement
+158,I'm on the fence,Agreement & Disagreement
+159,It's a gray area,Agreement & Disagreement
+160,That depends,Agreement & Disagreement
+161,We'll have to agree to disagree,Agreement & Disagreement
+162,No way,Agreement & Disagreement
+163,Absolutely not,Agreement & Disagreement
+164,That's out of the question,Agreement & Disagreement
+165,I don't buy it,Agreement & Disagreement
+166,That doesn't add up,Agreement & Disagreement
+167,That doesn't make sense,Agreement & Disagreement
+168,That's beside the point,Agreement & Disagreement
+169,I see both sides,Agreement & Disagreement
+170,Having said that,Agreement & Disagreement
+171,On the other hand,Agreement & Disagreement
+172,Then again,Agreement & Disagreement
+173,All things considered,Agreement & Disagreement
+174,At the end of the day,Agreement & Disagreement
+175,When all is said and done,Agreement & Disagreement
+176,Bottom line,Agreement & Disagreement
+177,Long story short,Agreement & Disagreement
+178,The thing is,Agreement & Disagreement
+179,Absolutely,Agreement & Disagreement
+180,Totally,Agreement & Disagreement
+181,Let's touch base,Work & Business
+182,Let's circle back,Work & Business
+183,Let's take this offline,Work & Business
+184,I'll keep you in the loop,Work & Business
+185,Keep me posted,Work & Business
+186,I'll follow up,Work & Business
+187,Can we jump on a call?,Work & Business
+188,What's the timeline?,Work & Business
+189,What's the deadline?,Work & Business
+190,We're behind schedule,Work & Business
+191,We're ahead of schedule,Work & Business
+192,We're on track,Work & Business
+193,We need to pivot,Work & Business
+194,Let's think outside the box,Work & Business
+195,Let's hit the ground running,Work & Business
+196,Let's table that for now,Work & Business
+197,Let's put a pin in it,Work & Business
+198,That's a game changer,Work & Business
+199,It's a win-win,Work & Business
+200,It's a no-brainer,Work & Business
+201,It's low-hanging fruit,Work & Business
+202,We need to scale up,Work & Business
+203,Let's streamline this,Work & Business
+204,Let's get on the same page,Work & Business
+205,We're not on the same page,Work & Business
+206,Let's do a deep dive,Work & Business
+207,Let's take a step back,Work & Business
+208,Let's look at the big picture,Work & Business
+209,What's the bottom line?,Work & Business
+210,Time is money,Work & Business
+211,We need to be proactive,Work & Business
+212,Let's be strategic,Work & Business
+213,What's the plan B?,Work & Business
+214,We need a contingency plan,Work & Business
+215,Let's manage expectations,Work & Business
+216,Under promise and over deliver,Work & Business
+217,Let's set clear expectations,Work & Business
+218,Let's run the numbers,Work & Business
+219,Let's crunch the numbers,Work & Business
+220,It's not rocket science,Work & Business
+221,Let's not reinvent the wheel,Work & Business
+222,Going forward,Work & Business
+223,Moving forward,Work & Business
+224,As per my last email,Work & Business
+225,Please advise,Work & Business
+226,As discussed,Work & Business
+227,Per our conversation,Work & Business
+228,I wanted to follow up,Work & Business
+229,Just checking in,Work & Business
+230,Looping in,Work & Business
+231,In the pipeline,Work & Business
+232,On my radar,Work & Business
+233,Off my plate,Work & Business
+234,In the works,Work & Business
+235,In progress,Work & Business
+236,Green light,Work & Business
+237,All systems go,Work & Business
+238,Ready to launch,Work & Business
+239,I'm swamped,Work & Business
+240,I'm slammed,Work & Business
+241,I have a lot on my plate,Work & Business
+242,I'm stretched thin,Work & Business
+243,I'm putting out fires,Work & Business
+244,Let's prioritize,Work & Business
+245,What are the action items?,Work & Business
+246,Let's get everyone aligned,Work & Business
+247,Best practices,Work & Business
+248,Lessons learned,Work & Business
+249,I'm bogged down,Work & Business
+250,Back burner,Work & Business
+251,You've got my back,Relationships & Social
+252,I've got your back,Relationships & Social
+253,We're in this together,Relationships & Social
+254,You can count on me,Relationships & Social
+255,I'll be there for you,Relationships & Social
+256,You can lean on me,Relationships & Social
+257,I'm here for you,Relationships & Social
+258,That's what friends are for,Relationships & Social
+259,You're one of a kind,Relationships & Social
+260,You're one in a million,Relationships & Social
+261,You mean the world to me,Relationships & Social
+262,You're my rock,Relationships & Social
+263,You're my anchor,Relationships & Social
+264,We go way back,Relationships & Social
+265,We have history,Relationships & Social
+266,We've been through a lot together,Relationships & Social
+267,Birds of a feather flock together,Relationships & Social
+268,Opposites attract,Relationships & Social
+269,The more the merrier,Relationships & Social
+270,Don't burn your bridges,Relationships & Social
+271,Don't bite the hand that feeds you,Relationships & Social
+272,Cut someone some slack,Relationships & Social
+273,Give someone the benefit of the doubt,Relationships & Social
+274,Meet halfway,Relationships & Social
+275,Bury the hatchet,Relationships & Social
+276,Let bygones be bygones,Relationships & Social
+277,Turn over a new leaf,Relationships & Social
+278,No hard feelings,Relationships & Social
+279,Water under the bridge,Relationships & Social
+280,Let it go,Relationships & Social
+281,Move on,Relationships & Social
+282,Life goes on,Relationships & Social
+283,Everything happens for a reason,Relationships & Social
+284,Things could be worse,Relationships & Social
+285,Count your blessings,Relationships & Social
+286,Look on the bright side,Relationships & Social
+287,Every cloud has a silver lining,Relationships & Social
+288,When life gives you lemons make lemonade,Relationships & Social
+289,Keep your chin up,Relationships & Social
+290,Hang in there,Relationships & Social
+291,It gets better,Relationships & Social
+292,This too shall pass,Relationships & Social
+293,Better days are coming,Relationships & Social
+294,Light at the end of the tunnel,Relationships & Social
+295,Things will work out,Relationships & Social
+296,Everything will be fine,Relationships & Social
+297,Don't worry be happy,Relationships & Social
+298,Seize the day,Relationships & Social
+299,Live in the moment,Relationships & Social
+300,Take it one day at a time,Relationships & Social
+301,Can you do me a favor?,Requests & Suggestions
+302,Could you lend me a hand?,Requests & Suggestions
+303,Mind if I ask you something?,Requests & Suggestions
+304,Would you mind?,Requests & Suggestions
+305,If you don't mind,Requests & Suggestions
+306,If it's not too much trouble,Requests & Suggestions
+307,When you get a chance,Requests & Suggestions
+308,At your earliest convenience,Requests & Suggestions
+309,Take your time,Requests & Suggestions
+310,No rush,Requests & Suggestions
+311,Whenever you're ready,Requests & Suggestions
+312,I hate to bother you but,Requests & Suggestions
+313,Sorry to bother you,Requests & Suggestions
+314,I have a quick question,Requests & Suggestions
+315,Can I pick your brain?,Requests & Suggestions
+316,Can I get your input?,Requests & Suggestions
+317,What do you think?,Requests & Suggestions
+318,What's your take on this?,Requests & Suggestions
+319,Any thoughts?,Requests & Suggestions
+320,What do you recommend?,Requests & Suggestions
+321,Any suggestions?,Requests & Suggestions
+322,What would you do in my shoes?,Requests & Suggestions
+323,Help me out here,Requests & Suggestions
+324,I could use some advice,Requests & Suggestions
+325,What's your opinion?,Requests & Suggestions
+326,I'd love to hear your thoughts,Requests & Suggestions
+327,I value your opinion,Requests & Suggestions
+328,Whatever you think is best,Requests & Suggestions
+329,Your call,Requests & Suggestions
+330,Just a thought,Requests & Suggestions
+331,Off the top of my head,Requests & Suggestions
+332,For what it's worth,Requests & Suggestions
+333,Take it or leave it,Requests & Suggestions
+334,Just saying,Requests & Suggestions
+335,Don't quote me on that,Requests & Suggestions
+336,Take it with a grain of salt,Requests & Suggestions
+337,Don't hold me to that,Requests & Suggestions
+338,If you have a minute,Requests & Suggestions
+339,Got any ideas?,Requests & Suggestions
+340,What would you suggest?,Requests & Suggestions
+341,I'm sorry,Apologies & Forgiveness
+342,I apologize,Apologies & Forgiveness
+343,My bad,Apologies & Forgiveness
+344,My mistake,Apologies & Forgiveness
+345,I messed up,Apologies & Forgiveness
+346,I was wrong,Apologies & Forgiveness
+347,I owe you an apology,Apologies & Forgiveness
+348,I should have known better,Apologies & Forgiveness
+349,I didn't mean to,Apologies & Forgiveness
+350,It wasn't intentional,Apologies & Forgiveness
+351,Please forgive me,Apologies & Forgiveness
+352,Can you forgive me?,Apologies & Forgiveness
+353,No offense intended,Apologies & Forgiveness
+354,No offense taken,Apologies & Forgiveness
+355,I take full responsibility,Apologies & Forgiveness
+356,That's on me,Apologies & Forgiveness
+357,Don't blame yourself,Apologies & Forgiveness
+358,It's not your fault,Apologies & Forgiveness
+359,It happens,Apologies & Forgiveness
+360,Everyone makes mistakes,Apologies & Forgiveness
+361,Don't be too hard on yourself,Apologies & Forgiveness
+362,Let it slide,Apologies & Forgiveness
+363,Forgive and forget,Apologies & Forgiveness
+364,I should have been more careful,Apologies & Forgiveness
+365,I wasn't thinking,Apologies & Forgiveness
+366,I hope you can forgive me,Apologies & Forgiveness
+367,Blame me,Apologies & Forgiveness
+368,I made a mistake,Apologies & Forgiveness
+369,I didn't think,Apologies & Forgiveness
+370,Two wrongs don't make a right,Apologies & Forgiveness
+371,Thank you so much,Gratitude & Appreciation
+372,Thanks a million,Gratitude & Appreciation
+373,I can't thank you enough,Gratitude & Appreciation
+374,I really appreciate it,Gratitude & Appreciation
+375,That means a lot to me,Gratitude & Appreciation
+376,You're too kind,Gratitude & Appreciation
+377,You're so thoughtful,Gratitude & Appreciation
+378,You're the best,Gratitude & Appreciation
+379,You're amazing,Gratitude & Appreciation
+380,What would I do without you?,Gratitude & Appreciation
+381,You saved the day,Gratitude & Appreciation
+382,You're a lifesaver,Gratitude & Appreciation
+383,You're a godsend,Gratitude & Appreciation
+384,From the bottom of my heart,Gratitude & Appreciation
+385,I'm so grateful,Gratitude & Appreciation
+386,Words can't express how grateful I am,Gratitude & Appreciation
+387,I'm in your debt,Gratitude & Appreciation
+388,I owe you one,Gratitude & Appreciation
+389,I owe you big time,Gratitude & Appreciation
+390,You didn't have to do that,Gratitude & Appreciation
+391,You went above and beyond,Gratitude & Appreciation
+392,You outdid yourself,Gratitude & Appreciation
+393,That was so nice of you,Gratitude & Appreciation
+394,That made my day,Gratitude & Appreciation
+395,You really came through,Gratitude & Appreciation
+396,Kudos to you,Gratitude & Appreciation
+397,Hats off to you,Gratitude & Appreciation
+398,You deserve all the credit,Gratitude & Appreciation
+399,Give credit where credit is due,Gratitude & Appreciation
+400,You earned it,Gratitude & Appreciation
+401,Well deserved,Gratitude & Appreciation
+402,I'm proud of you,Gratitude & Appreciation
+403,You should be proud of yourself,Gratitude & Appreciation
+404,You've come so far,Gratitude & Appreciation
+405,Look how far you've come,Gratitude & Appreciation
+406,All your hard work has paid off,Gratitude & Appreciation
+407,Your efforts paid off,Gratitude & Appreciation
+408,It was worth every bit,Gratitude & Appreciation
+409,You always come through,Gratitude & Appreciation
+410,I knew I could count on you,Gratitude & Appreciation
+411,Hit the nail on the head,Idioms & Figurative
+412,Beat around the bush,Idioms & Figurative
+413,Bite the bullet,Idioms & Figurative
+414,Break a leg,Idioms & Figurative
+415,Call it a day,Idioms & Figurative
+416,Cost an arm and a leg,Idioms & Figurative
+417,Cut corners,Idioms & Figurative
+418,Kill two birds with one stone,Idioms & Figurative
+419,Let the cat out of the bag,Idioms & Figurative
+420,Once in a blue moon,Idioms & Figurative
+421,Pull someone's leg,Idioms & Figurative
+422,Spill the beans,Idioms & Figurative
+423,The ball is in your court,Idioms & Figurative
+424,Throw in the towel,Idioms & Figurative
+425,Add fuel to the fire,Idioms & Figurative
+426,Back to square one,Idioms & Figurative
+427,Bite off more than you can chew,Idioms & Figurative
+428,Blow off steam,Idioms & Figurative
+429,Break the ice,Idioms & Figurative
+430,By the skin of your teeth,Idioms & Figurative
+431,Catch someone red-handed,Idioms & Figurative
+432,Cut the mustard,Idioms & Figurative
+433,Don't rock the boat,Idioms & Figurative
+434,Every dog has its day,Idioms & Figurative
+435,Face the music,Idioms & Figurative
+436,Fight fire with fire,Idioms & Figurative
+437,Find a needle in a haystack,Idioms & Figurative
+438,Get a taste of your own medicine,Idioms & Figurative
+439,Get out of hand,Idioms & Figurative
+440,Get the ball rolling,Idioms & Figurative
+441,Go back to the drawing board,Idioms & Figurative
+442,Go the extra mile,Idioms & Figurative
+443,Have a blast,Idioms & Figurative
+444,Hit the road,Idioms & Figurative
+445,Jump on the bandwagon,Idioms & Figurative
+446,Kick the bucket,Idioms & Figurative
+447,Know the ropes,Idioms & Figurative
+448,Lay low,Idioms & Figurative
+449,Leave no stone unturned,Idioms & Figurative
+450,Let sleeping dogs lie,Idioms & Figurative
+451,Make ends meet,Idioms & Figurative
+452,Miss the boat,Idioms & Figurative
+453,Mum's the word,Idioms & Figurative
+454,No pain no gain,Idioms & Figurative
+455,Off the hook,Idioms & Figurative
+456,On thin ice,Idioms & Figurative
+457,Once bitten twice shy,Idioms & Figurative
+458,Out of the blue,Idioms & Figurative
+459,Pass the buck,Idioms & Figurative
+460,Pull yourself together,Idioms & Figurative
+461,Put your foot in your mouth,Idioms & Figurative
+462,Read between the lines,Idioms & Figurative
+463,Run out of steam,Idioms & Figurative
+464,Saved by the bell,Idioms & Figurative
+465,See eye to eye,Idioms & Figurative
+466,Shoot yourself in the foot,Idioms & Figurative
+467,Smell a rat,Idioms & Figurative
+468,Steal someone's thunder,Idioms & Figurative
+469,The best of both worlds,Idioms & Figurative
+470,The tip of the iceberg,Idioms & Figurative
+471,Throw caution to the wind,Idioms & Figurative
+472,Tie the knot,Idioms & Figurative
+473,Under someone's thumb,Idioms & Figurative
+474,Up in the air,Idioms & Figurative
+475,Bite the dust,Idioms & Figurative
+476,Blood is thicker than water,Idioms & Figurative
+477,Come out of your shell,Idioms & Figurative
+478,Cross your fingers,Idioms & Figurative
+479,Cut to the chase,Idioms & Figurative
+480,The devil is in the details,Idioms & Figurative
+481,Easier said than done,Idioms & Figurative
+482,Eat crow,Idioms & Figurative
+483,Fly off the handle,Idioms & Figurative
+484,Get cold feet,Idioms & Figurative
+485,Get off on the wrong foot,Idioms & Figurative
+486,A penny for your thoughts,Idioms & Figurative
+487,Burning bridges,Idioms & Figurative
+488,Carry the torch,Idioms & Figurative
+489,Cry wolf,Idioms & Figurative
+490,Don't judge a book by its cover,Idioms & Figurative
+491,You know what I mean?,Everyday Conversation
+492,Know what I'm saying?,Everyday Conversation
+493,If you know what I mean,Everyday Conversation
+494,As I was saying,Everyday Conversation
+495,Like I said,Everyday Conversation
+496,To be honest,Everyday Conversation
+497,To tell you the truth,Everyday Conversation
+498,If I'm being completely honest,Everyday Conversation
+499,Between you and me,Everyday Conversation
+500,Off the record,Everyday Conversation
+501,Don't tell anyone but,Everyday Conversation
+502,Strictly between us,Everyday Conversation
+503,Can you keep a secret?,Everyday Conversation
+504,Honestly speaking,Everyday Conversation
+505,Truth be told,Everyday Conversation
+506,Funny you should mention that,Everyday Conversation
+507,Speaking of which,Everyday Conversation
+508,That reminds me,Everyday Conversation
+509,Now that you mention it,Everyday Conversation
+510,Come to think of it,Everyday Conversation
+511,I almost forgot,Everyday Conversation
+512,By the way,Everyday Conversation
+513,Anyway,Everyday Conversation
+514,Where was I,Everyday Conversation
+515,Before I forget,Everyday Conversation
+516,One more thing,Everyday Conversation
+517,Last but not least,Everyday Conversation
+518,First things first,Everyday Conversation
+519,All in all,Everyday Conversation
+520,In a nutshell,Everyday Conversation
+521,To cut a long story short,Everyday Conversation
+522,The gist of it,Everyday Conversation
+523,In other words,Everyday Conversation
+524,In layman's terms,Everyday Conversation
+525,Simply put,Everyday Conversation
+526,To put it another way,Everyday Conversation
+527,In plain English,Everyday Conversation
+528,The bottom line is,Everyday Conversation
+529,Needless to say,Everyday Conversation
+530,Goes without saying,Everyday Conversation
+531,Of course,Everyday Conversation
+532,Obviously,Everyday Conversation
+533,Clearly,Everyday Conversation
+534,As you can see,Everyday Conversation
+535,It stands to reason,Everyday Conversation
+536,It's safe to say,Everyday Conversation
+537,It's fair to say,Everyday Conversation
+538,If I had to guess,Everyday Conversation
+539,I would imagine,Everyday Conversation
+540,It seems to me,Everyday Conversation
+541,As far as I can tell,Everyday Conversation
+542,As far as I know,Everyday Conversation
+543,To the best of my knowledge,Everyday Conversation
+544,If memory serves,Everyday Conversation
+545,If I recall correctly,Everyday Conversation
+546,Out of curiosity,Everyday Conversation
+547,Just out of interest,Everyday Conversation
+548,All of a sudden,Everyday Conversation
+549,Before you know it,Everyday Conversation
+550,Next thing you know,Everyday Conversation
+551,When you least expect it,Everyday Conversation
+552,Caught off guard,Everyday Conversation
+553,Taken by surprise,Everyday Conversation
+554,Out of nowhere,Everyday Conversation
+555,Without warning,Everyday Conversation
+556,I mean,Everyday Conversation
+557,You see,Everyday Conversation
+558,Here's the thing,Everyday Conversation
+559,The thing about it is,Everyday Conversation
+560,For what it's worth,Everyday Conversation
+561,You've got this,Encouragement & Motivation
+562,You can do it,Encouragement & Motivation
+563,Believe in yourself,Encouragement & Motivation
+564,Trust the process,Encouragement & Motivation
+565,Keep going,Encouragement & Motivation
+566,Don't give up,Encouragement & Motivation
+567,Never give up,Encouragement & Motivation
+568,Keep pushing,Encouragement & Motivation
+569,Stay the course,Encouragement & Motivation
+570,Stay strong,Encouragement & Motivation
+571,Bounce back,Encouragement & Motivation
+572,Rise to the occasion,Encouragement & Motivation
+573,Step up to the plate,Encouragement & Motivation
+574,Give it your all,Encouragement & Motivation
+575,Give it everything you've got,Encouragement & Motivation
+576,Leave it all on the field,Encouragement & Motivation
+577,Go big or go home,Encouragement & Motivation
+578,Nothing ventured nothing gained,Encouragement & Motivation
+579,Fortune favors the bold,Encouragement & Motivation
+580,Step outside your comfort zone,Encouragement & Motivation
+581,Push the boundaries,Encouragement & Motivation
+582,Raise the bar,Encouragement & Motivation
+583,Aim high,Encouragement & Motivation
+584,Dream big,Encouragement & Motivation
+585,Shoot for the stars,Encouragement & Motivation
+586,Sky's the limit,Encouragement & Motivation
+587,The world is your oyster,Encouragement & Motivation
+588,You have what it takes,Encouragement & Motivation
+589,Don't sell yourself short,Encouragement & Motivation
+590,Don't underestimate yourself,Encouragement & Motivation
+591,Make it happen,Encouragement & Motivation
+592,Follow your heart,Encouragement & Motivation
+593,Chase your dreams,Encouragement & Motivation
+594,Live your best life,Encouragement & Motivation
+595,Be the best version of yourself,Encouragement & Motivation
+596,Progress not perfection,Encouragement & Motivation
+597,Done is better than perfect,Encouragement & Motivation
+598,Just start,Encouragement & Motivation
+599,Take the first step,Encouragement & Motivation
+600,One step at a time,Encouragement & Motivation
+601,Little by little,Encouragement & Motivation
+602,Slow and steady wins the race,Encouragement & Motivation
+603,Consistency is key,Encouragement & Motivation
+604,Show up every day,Encouragement & Motivation
+605,Put in the work,Encouragement & Motivation
+606,Hard work pays off,Encouragement & Motivation
+607,Nothing worth having comes easy,Encouragement & Motivation
+608,Prove yourself,Encouragement & Motivation
+609,Lead by example,Encouragement & Motivation
+610,Be the change you want to see,Encouragement & Motivation
+611,It takes two to tango,Life & Wisdom
+612,That ship has sailed,Life & Wisdom
+613,The damage is done,Life & Wisdom
+614,Damage control,Life & Wisdom
+615,Take the high road,Life & Wisdom
+616,Rise above it,Life & Wisdom
+617,Be the bigger person,Life & Wisdom
+618,Kill them with kindness,Life & Wisdom
+619,An eye for an eye makes the whole world blind,Life & Wisdom
+620,Treat others how you want to be treated,Life & Wisdom
+621,What comes around goes around,Life & Wisdom
+622,Karma's a boomerang,Life & Wisdom
+623,You reap what you sow,Life & Wisdom
+624,Nothing is free,Life & Wisdom
+625,There's no free lunch,Life & Wisdom
+626,You get what you pay for,Life & Wisdom
+627,Quality over quantity,Life & Wisdom
+628,Less is more,Life & Wisdom
+629,Don't overcomplicate things,Life & Wisdom
+630,Make it brief,Life & Wisdom
+631,Food for thought,Life & Wisdom
+632,Something to think about,Life & Wisdom
+633,Worth noting,Life & Wisdom
+634,Case in point,Life & Wisdom
+635,A prime example,Life & Wisdom
+636,Absence makes the heart grow fonder,Life & Wisdom
+637,All that glitters is not gold,Life & Wisdom
+638,Don't put all your eggs in one basket,Life & Wisdom
+639,The grass is always greener on the other side,Life & Wisdom
+640,You can't have your cake and eat it too,Life & Wisdom
+641,A penny saved is a penny earned,Life & Wisdom
+642,If it ain't broke don't fix it,Life & Wisdom
+643,Where there's a will there's a way,Life & Wisdom
+644,Necessity is the mother of invention,Life & Wisdom
+645,Practice makes perfect,Life & Wisdom
+646,Two heads are better than one,Life & Wisdom
+647,Laughter is the best medicine,Life & Wisdom
+648,Honesty is the best policy,Life & Wisdom
+649,Knowledge is power,Life & Wisdom
+650,Time is of the essence,Life & Wisdom
+651,Look before you leap,Life & Wisdom
+652,Don't count your chickens before they hatch,Life & Wisdom
+653,The early bird catches the worm,Life & Wisdom
+654,A bird in the hand is worth two in the bush,Life & Wisdom
+655,A picture is worth a thousand words,Life & Wisdom
+656,The truth will set you free,Life & Wisdom
+657,To err is human to forgive is divine,Life & Wisdom
+658,All is fair in love and war,Life & Wisdom
+659,The apple doesn't fall far from the tree,Life & Wisdom
+660,Curiosity killed the cat,Life & Wisdom
+661,Great minds think alike,Life & Wisdom
+662,Every rose has its thorn,Life & Wisdom
+663,There are two sides to every story,Life & Wisdom
+664,You win some you lose some,Life & Wisdom
+665,That's the way the cookie crumbles,Life & Wisdom
+666,Such is life,Life & Wisdom
+667,Life is full of surprises,Life & Wisdom
+668,Life is what you make it,Life & Wisdom
+669,Life is too short,Life & Wisdom
+670,Live life to the fullest,Life & Wisdom
+671,Make every moment count,Life & Wisdom
+672,Time waits for no one,Life & Wisdom
+673,Enjoy the little things,Life & Wisdom
+674,Stop and smell the roses,Life & Wisdom
+675,Appreciate what you have,Life & Wisdom
+676,Count your blessings not your problems,Life & Wisdom
+677,Good things come in small packages,Life & Wisdom
+678,Don't sweat the small stuff,Life & Wisdom
+679,Pick your battles,Life & Wisdom
+680,Choose your words wisely,Life & Wisdom
+681,Think before you speak,Life & Wisdom
+682,Silence is golden,Life & Wisdom
+683,If you have nothing nice to say say nothing,Life & Wisdom
+684,Words can hurt,Life & Wisdom
+685,Sticks and stones,Life & Wisdom
+686,The truth hurts,Life & Wisdom
+687,Honesty is hard,Life & Wisdom
+688,Coming to terms with it,Life & Wisdom
+689,Facing reality,Life & Wisdom
+690,Wake up call,Life & Wisdom
+691,Reality check,Life & Wisdom
+692,Back to reality,Life & Wisdom
+693,Snap out of it,Life & Wisdom
+694,Get a grip,Life & Wisdom
+695,Keep calm and carry on,Life & Wisdom
+696,Chin up,Life & Wisdom
+697,Stand your ground,Life & Wisdom
+698,Hold your ground,Life & Wisdom
+699,Don't back down,Life & Wisdom
+700,Never say never,Life & Wisdom
+701,What are you up to?,Small Talk
+702,Not much just hanging,Small Talk
+703,Same old same old,Small Talk
+704,Can't complain,Small Talk
+705,Living the dream,Sarcasm & Humor
+706,Oh the irony,Sarcasm & Humor
+707,Yeah right,Sarcasm & Humor
+708,As if,Sarcasm & Humor
+709,Oh really?,Sarcasm & Humor
+710,You don't say,Sarcasm & Humor
+711,No kidding,Sarcasm & Humor
+712,You're joking,Sarcasm & Humor
+713,You're pulling my leg,Sarcasm & Humor
+714,No way José,Sarcasm & Humor
+715,Very funny,Sarcasm & Humor
+716,Funny you should say that,Small Talk
+717,Speaking of the devil,Small Talk
+718,Wouldn't you know it,Small Talk
+719,Wouldn't you believe it,Small Talk
+720,Go figure,Small Talk
+721,What are the odds?,Small Talk
+722,Of all the luck,Small Talk
+723,Just my luck,Small Talk
+724,Murphy's law,Small Talk
+725,Story of my life,Small Talk
+726,Tell me about it,Small Talk
+727,You're telling me,Small Talk
+728,I feel you,Small Talk
+729,I hear you,Small Talk
+730,I know right?,Small Talk
+731,Totally feel that,Small Talk
+732,Been there done that,Small Talk
+733,I get it,Small Talk
+734,Enough said,Small Talk
+735,Said no one ever,Sarcasm & Humor
+736,Calm before the storm,Idioms & Figurative
+737,A blessing in disguise,Idioms & Figurative
+738,Better safe than sorry,Idioms & Figurative
+739,Bite your tongue,Idioms & Figurative
+740,Burn the midnight oil,Idioms & Figurative
+741,Couch potato,Idioms & Figurative
+742,Devil's advocate,Idioms & Figurative
+743,Doesn't hold water,Idioms & Figurative
+744,Down to earth,Idioms & Figurative
+745,Drop the ball,Idioms & Figurative
+746,Eager beaver,Idioms & Figurative
+747,Everything but the kitchen sink,Idioms & Figurative
+748,Feel under the gun,Idioms & Figurative
+749,Fifth wheel,Idioms & Figurative
+750,Fit as a fiddle,Idioms & Figurative
+751,Get a second wind,Idioms & Figurative
+752,Give someone the cold shoulder,Idioms & Figurative
+753,Go down in flames,Idioms & Figurative
+754,Going out on a limb,Idioms & Figurative
+755,Hang in the balance,Idioms & Figurative
+756,Hit below the belt,Idioms & Figurative
+757,Holding all the cards,Idioms & Figurative
+758,Home stretch,Idioms & Figurative
+759,In hot water,Idioms & Figurative
+760,In the same boat,Idioms & Figurative
+761,It cost a pretty penny,Idioms & Figurative
+762,It takes a village,Idioms & Figurative
+763,It's a long shot,Idioms & Figurative
+764,It's a piece of cake,Idioms & Figurative
+765,It's a slippery slope,Idioms & Figurative
+766,It's anyone's guess,Idioms & Figurative
+767,Jump the gun,Idioms & Figurative
+768,Keep a low profile,Idioms & Figurative
+769,Keep an eye out,Idioms & Figurative
+770,Knuckle down,Idioms & Figurative
+771,Leave well enough alone,Idioms & Figurative
+772,Like a fish out of water,Idioms & Figurative
+773,Lock horns,Idioms & Figurative
+774,Loose cannon,Idioms & Figurative
+775,Miss the mark,Idioms & Figurative
+776,Nail it,Idioms & Figurative
+777,Nip it in the bud,Idioms & Figurative
+778,Not my cup of tea,Idioms & Figurative
+779,On the ball,Idioms & Figurative
+780,On the same wavelength,Idioms & Figurative
+781,Open a can of worms,Idioms & Figurative
+782,Over the hill,Idioms & Figurative
+783,Pain in the neck,Idioms & Figurative
+784,Par for the course,Idioms & Figurative
+785,Piece of the pie,Idioms & Figurative
+786,Play it by ear,Idioms & Figurative
+787,Put all your cards on the table,Idioms & Figurative
+788,Rain on someone's parade,Idioms & Figurative
+789,Rule of thumb,Idioms & Figurative
+790,Sit tight,Idioms & Figurative
+791,Skating on thin ice,Idioms & Figurative
+792,Sleep on it,Idioms & Figurative
+793,Stab in the back,Idioms & Figurative
+794,Stand on your own two feet,Idioms & Figurative
+795,Start from scratch,Idioms & Figurative
+796,Take a rain check,Idioms & Figurative
+797,The last straw,Idioms & Figurative
+798,Throw someone under the bus,Idioms & Figurative
+799,Too little too late,Idioms & Figurative
+800,Under the radar,Idioms & Figurative
+801,Cross that bridge when we come to it,Life & Wisdom
+802,Take it step by step,Life & Wisdom
+803,Rome wasn't built in a day,Life & Wisdom
+804,Good things take time,Life & Wisdom
+805,Patience is a virtue,Life & Wisdom
+806,It was meant to be,Life & Wisdom
+807,It is what it is,Life & Wisdom
+808,What will be will be,Life & Wisdom
+809,Go with the flow,Life & Wisdom
+810,Roll with the punches,Life & Wisdom
+811,Take it as it comes,Life & Wisdom
+812,Expect the unexpected,Life & Wisdom
+813,Hope for the best prepare for the worst,Life & Wisdom
+814,Forewarned is forearmed,Life & Wisdom
+815,Better late than never,Life & Wisdom
+816,It's never too late,Life & Wisdom
+817,Live and learn,Life & Wisdom
+818,You learn something new every day,Life & Wisdom
+819,Hindsight is 20/20,Life & Wisdom
+820,We live we learn,Life & Wisdom
+821,I have a gut feeling,Intuition & Certainty
+822,Something feels off,Intuition & Certainty
+823,I have a hunch,Intuition & Certainty
+824,Trust your instincts,Intuition & Certainty
+825,My gut says no,Intuition & Certainty
+826,I just know,Intuition & Certainty
+827,Call it a feeling,Intuition & Certainty
+828,I can feel it in my bones,Intuition & Certainty
+829,Something tells me,Intuition & Certainty
+830,I sense something is wrong,Intuition & Certainty
+831,Without a doubt,Certainty
+832,Beyond a shadow of a doubt,Certainty
+833,Hands down,Certainty
+834,No question about it,Certainty
+835,That's for sure,Certainty
+836,You can bet on it,Certainty
+837,Mark my words,Certainty
+838,Believe you me,Certainty
+839,Not a chance,Certainty
+840,Not in a million years,Certainty
+841,Over my dead body,Certainty
+842,When pigs fly,Certainty
+843,Fat chance,Certainty
+844,Don't hold your breath,Certainty
+845,I wouldn't count on it,Certainty
+846,I highly doubt it,Certainty
+847,I have mixed feelings,Uncertainty & Doubt
+848,I'm not sure,Uncertainty & Doubt
+849,It's up in the air,Uncertainty & Doubt
+850,Who knows,Uncertainty & Doubt
+851,Your guess is as good as mine,Uncertainty & Doubt
+852,I have no idea,Uncertainty & Doubt
+853,Beats me,Uncertainty & Doubt
+854,Don't ask me,Uncertainty & Doubt
+855,I'm in the dark,Uncertainty & Doubt
+856,Hard to say,Uncertainty & Doubt
+857,Remains to be seen,Uncertainty & Doubt
+858,Time will tell,Uncertainty & Doubt
+859,Only time will tell,Uncertainty & Doubt
+860,We'll see,Uncertainty & Doubt
+861,I'll believe it when I see it,Uncertainty & Doubt
+862,Could go either way,Uncertainty & Doubt
+863,Fifty-fifty,Uncertainty & Doubt
+864,Toss up,Uncertainty & Doubt
+865,Oh my goodness,Surprise & Shock
+866,Oh my word,Surprise & Shock
+867,You're kidding me,Surprise & Shock
+868,No way!,Surprise & Shock
+869,Are you serious?,Surprise & Shock
+870,I can't believe it,Surprise & Shock
+871,Unbelievable,Surprise & Shock
+872,Incredible,Surprise & Shock
+873,Mind-blowing,Surprise & Shock
+874,That blew my mind,Surprise & Shock
+875,I'm speechless,Surprise & Shock
+876,I'm flabbergasted,Surprise & Shock
+877,I'm floored,Surprise & Shock
+878,I'm stunned,Surprise & Shock
+879,Holy cow,Surprise & Shock
+880,What in the world,Surprise & Shock
+881,What on earth,Surprise & Shock
+882,I never saw that coming,Surprise & Shock
+883,That came out of nowhere,Surprise & Shock
+884,That caught me off guard,Surprise & Shock
+885,What a plot twist,Surprise & Shock
+886,Who would have thought,Surprise & Shock
+887,I had no idea,Surprise & Shock
+888,Color me surprised,Surprise & Shock
+889,Well I'll be,Surprise & Shock
+890,Get this straight,Clarification
+891,Let me get this right,Clarification
+892,What do you mean exactly?,Clarification
+893,Could you elaborate?,Clarification
+894,Can you be more specific?,Clarification
+895,What are you getting at?,Clarification
+896,I'm not following,Clarification
+897,Could you say that again?,Clarification
+898,Come again?,Clarification
+899,I beg your pardon,Clarification
+900,I didn't catch that,Clarification
+901,Run that by me again,Clarification
+902,You lost me,Clarification
+903,I'm confused,Clarification
+904,That went over my head,Clarification
+905,Can you break it down?,Clarification
+906,If I understand correctly,Clarification
+907,What I'm hearing is,Clarification
+908,So what you're saying is,Clarification
+909,Correct me if I'm wrong,Clarification
+910,Let me make sure I understand,Clarification
+911,Are we on the same page?,Clarification
+912,Is that right?,Clarification
+913,Just to be clear,Clarification
+914,To clarify,Clarification
+915,Let me rephrase that,Clarification
+916,What I'm trying to say is,Clarification
+917,The point I'm making is,Clarification
+918,Get the picture?,Clarification
+919,Does that make sense?,Clarification
+920,Are you with me?,Clarification
+921,Still with me?,Clarification
+922,Following so far?,Clarification
+923,Any questions?,Clarification
+924,Is that clear?,Clarification
+925,We good?,Wrap-Up
+926,All good,Wrap-Up
+927,Good to go,Wrap-Up
+928,We're all set,Wrap-Up
+929,That's a wrap,Wrap-Up
+930,That about covers it,Wrap-Up
+931,I think that about does it,Wrap-Up
+932,That's everything,Wrap-Up
+933,We covered a lot of ground,Wrap-Up
+934,Let's leave it there,Wrap-Up
+935,That's the whole story,Wrap-Up
+936,That's the full picture,Wrap-Up
+937,That's the long and short of it,Wrap-Up
+938,And that's that,Wrap-Up
+939,So there you have it,Wrap-Up
+940,There you go,Wrap-Up
+941,And there it is,Wrap-Up
+942,I rest my case,Wrap-Up
+943,Case closed,Wrap-Up
+944,My final answer,Wrap-Up
+945,Pay it forward,Life & Wisdom
+946,Lift as you climb,Life & Wisdom
+947,Be a role model,Life & Wisdom
+948,Inspire others,Life & Wisdom
+949,Leave a legacy,Life & Wisdom
+950,Pave your own path,Life & Wisdom
+951,March to the beat of your own drum,Life & Wisdom
+952,Self-improvement is a journey,Life & Wisdom
+953,Growth mindset,Life & Wisdom
+954,A journey of a thousand miles begins with a single step,Life & Wisdom
+955,No shortcuts to success,Life & Wisdom
+956,Earn your keep,Life & Wisdom
+957,Strike while the iron is hot,Life & Wisdom
+958,Make hay while the sun shines,Life & Wisdom
+959,Don't throw stones in glass houses,Life & Wisdom
+960,The pot calling the kettle black,Life & Wisdom
+961,Fools rush in where angels fear to tread,Life & Wisdom
+962,Do unto others as you would have them do unto you,Life & Wisdom
+963,The golden rule,Life & Wisdom
+964,Actions speak louder than words,Life & Wisdom
+965,Carry your own weight,Life & Wisdom
+966,Pull your own weight,Life & Wisdom
+967,Stand on your own two feet,Life & Wisdom
+968,Fend for yourself,Life & Wisdom
+969,Bite the hand that feeds you,Life & Wisdom
+970,Don't air your dirty laundry,Life & Wisdom
+971,Sweep it under the rug,Life & Wisdom
+972,Elephant in the room,Life & Wisdom
+973,Hit the nail on the head,Life & Wisdom
+974,Miss the forest for the trees,Life & Wisdom
+975,Barking up the wrong tree,Life & Wisdom
+976,On the right track,Life & Wisdom
+977,On the wrong track,Life & Wisdom
+978,Back on track,Life & Wisdom
+979,Off the beaten path,Life & Wisdom
+980,Blaze a trail,Life & Wisdom
+981,Take the road less traveled,Life & Wisdom
+982,Follow the crowd,Life & Wisdom
+983,Stand out from the crowd,Life & Wisdom
+984,Fit in,Life & Wisdom
+985,Blend in,Life & Wisdom
+986,Stand your ground,Life & Wisdom
+987,Hold your horses,Everyday Conversation
+988,Not so fast,Everyday Conversation
+989,Pump the brakes,Everyday Conversation
+990,Slow your roll,Everyday Conversation
+991,Easy does it,Everyday Conversation
+992,Take it down a notch,Everyday Conversation
+993,Chill out,Everyday Conversation
+994,Calm down,Everyday Conversation
+995,Settle down,Everyday Conversation
+996,Cool it,Everyday Conversation
+997,Keep it together,Everyday Conversation
+998,Hold it together,Everyday Conversation
+999,Get yourself together,Everyday Conversation
+1000,Keep your cool,Everyday Conversation

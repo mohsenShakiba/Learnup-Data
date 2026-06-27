@@ -1,0 +1,79 @@
+{
+    "title": "20 - Saying Goodbye",
+    "description": "خداحافظی با یک دوست پیش از مهاجرت به شهر دیگر.",
+    "words": ["goodbye", "move", "city", "miss", "job", "luck", "visit", "keep", "touch", "call", "week", "friend"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "So, today is the big day.",
+            "translation": "خب، امروز روز بزرگی است."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes. I'm moving to a new city.",
+            "translation": "بله. دارم به شهر جدیدی می‌روم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'll miss you so much.",
+            "translation": "خیلی دلم برایت تنگ می‌شود."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I'll miss you too.",
+            "translation": "من هم دلم برایت تنگ می‌شود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Why are you moving?",
+            "translation": "چرا می‌روی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I got a new job there.",
+            "translation": "آنجا کار جدیدی پیدا کردم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's wonderful. Good luck!",
+            "translation": "چه عالی. موفق باشی!"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Thank you. Please come and visit.",
+            "translation": "ممنون. لطفاً به دیدنم بیا."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I will. Let's keep in touch.",
+            "translation": "حتماً. بیا در ارتباط بمانیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Of course. I'll call you every week.",
+            "translation": "البته. هر هفته بهت زنگ می‌زنم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Take care, my friend.",
+            "translation": "مراقب خودت باش، دوست عزیزم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "You too. Goodbye!",
+            "translation": "تو هم همینطور. خداحافظ!"
+        }
+    ]
+}

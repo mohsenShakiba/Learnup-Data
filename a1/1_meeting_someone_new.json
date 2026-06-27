@@ -1,0 +1,73 @@
+{
+    "title": "1 - Meeting Someone New",
+    "description": "آشنایی دو نفر و معرفی خودشان به یکدیگر.",
+    "words": ["hi", "name", "meet", "nice", "new", "first", "day", "welcome", "from", "like", "people", "kind", "great", "later"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, I'm Anna.",
+            "translation": "سلام، من آنا هستم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Hi Anna. I'm Tom. Nice to meet you.",
+            "translation": "سلام آنا. من تام هستم. از آشنایی با تو خوشحالم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Nice to meet you too. Are you new here?",
+            "translation": "من هم از آشنایی با تو خوشحالم. تازه اینجا آمدی؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, this is my first day.",
+            "translation": "بله، امروز روز اول من است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Welcome! Where are you from?",
+            "translation": "خوش آمدی! اهل کجایی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I'm from Spain. And you?",
+            "translation": "من اهل اسپانیا هستم. تو چطور؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I'm from Canada.",
+            "translation": "من اهل کانادا هستم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Nice. Do you like it here?",
+            "translation": "خوبه. اینجا را دوست دارید؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Yes, I do. The people are kind.",
+            "translation": "بله، دوست دارم. مردم مهربان هستند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Great. See you later, Anna.",
+            "translation": "عالیه. بعداً می‌بینمت، آنا."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "See you later, Tom.",
+            "translation": "بعداً می‌بینمت، تام."
+        }
+    ]
+}

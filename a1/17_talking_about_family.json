@@ -1,0 +1,85 @@
+{
+    "title": "17 - Talking About Family",
+    "description": "صحبت درباره اعضای خانواده و فرزندان.",
+    "words": ["family", "brother", "sister", "older", "younger", "live", "parents", "city", "married", "children", "son", "daughter", "visit"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Do you have a big family?",
+            "translation": "خانواده بزرگی داری؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, I have two brothers and one sister.",
+            "translation": "بله، دو برادر و یک خواهر دارم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "That's nice. Are they older than you?",
+            "translation": "چه خوب. از تو بزرگ‌ترند؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "My brothers are older. My sister is younger.",
+            "translation": "برادرهایم بزرگ‌ترند. خواهرم کوچک‌تر است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Do they live near you?",
+            "translation": "نزدیک تو زندگی می‌کنند؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "My sister lives with my parents. My brothers live in another city.",
+            "translation": "خواهرم با پدر و مادرم زندگی می‌کند. برادرهایم در شهر دیگری زندگی می‌کنند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Are you married?",
+            "translation": "ازدواج کرده‌ای؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, I have two children.",
+            "translation": "بله، دو فرزند دارم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "A son and a daughter?",
+            "translation": "یک پسر و یک دختر؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Yes! How about you?",
+            "translation": "بله! تو چطور؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I have one daughter. She is five.",
+            "translation": "من یک دختر دارم. پنج ساله است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Maybe we can meet sometime.",
+            "translation": "شاید بتوانیم یک روز همدیگر را ببینیم."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "That sounds nice.",
+            "translation": "به نظر خوب می‌آید."
+        }
+    ]
+}

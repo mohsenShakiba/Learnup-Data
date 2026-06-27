@@ -1,0 +1,97 @@
+{
+    "title": "5 - Shopping for Clothes",
+    "description": "خرید یک پیراهن و امتحان کردن آن در فروشگاه لباس.",
+    "words": ["shirt", "size", "wear", "color", "blue", "medium", "try", "fitting", "room", "fits", "price", "buy", "pay", "cash"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello! Can I help you?",
+            "translation": "سلام! می‌توانم کمکتان کنم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes. I'm looking for a shirt.",
+            "translation": "بله. دنبال یک پیراهن می‌گردم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What size do you wear?",
+            "translation": "چه سایزی می‌پوشید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Medium, I think.",
+            "translation": "فکر کنم متوسط."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What color do you like?",
+            "translation": "چه رنگی دوست دارید؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I like blue.",
+            "translation": "آبی دوست دارم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Here is a blue shirt in a medium.",
+            "translation": "این هم یک پیراهن آبی سایز متوسط."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Can I try it on?",
+            "translation": "می‌توانم آن را امتحان کنم؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Yes. The fitting room is over there.",
+            "translation": "بله. اتاق پرو آنجاست."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "It fits well. How much is it?",
+            "translation": "خوب اندازه است. چقدر می‌شود؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "It's twenty dollars.",
+            "translation": "بیست دلار است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That's a good price. I'll take it.",
+            "translation": "قیمت خوبی است. برش می‌دارم."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "How do you want to pay?",
+            "translation": "چطور می‌خواهید پرداخت کنید؟"
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "With cash, please.",
+            "translation": "با پول نقد، لطفاً."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Thank you. Have a great day!",
+            "translation": "ممنون. روز خوبی داشته باشید!"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "title": "2 - Ordering Coffee",
+    "description": "سفارش قهوه و چای و پرداخت پول در کافه.",
+    "words": ["coffee", "tea", "milk", "sugar", "hot", "cold", "small", "large", "drink", "ready", "dollar", "card", "pay", "morning"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Good morning! What can I get for you?",
+            "translation": "صبح بخیر! چی براتون بیارم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Hi. Can I get a coffee, please?",
+            "translation": "سلام. میشه یه قهوه بگیرم، لطفاً؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Sure. Small or large?",
+            "translation": "حتماً. کوچک یا بزرگ؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Large, please.",
+            "translation": "بزرگ، لطفاً."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Do you want milk and sugar?",
+            "translation": "شیر و شکر می‌خواهید؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Just milk, please. No sugar.",
+            "translation": "فقط شیر، لطفاً. بدون شکر."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Hot or cold?",
+            "translation": "گرم یا سرد؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Hot, please.",
+            "translation": "گرم، لطفاً."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Okay. Anything else?",
+            "translation": "باشه. چیز دیگه‌ای می‌خواهید؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Yes, one tea too. How much is it?",
+            "translation": "بله، یه چای هم. چقدر می‌شود؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That's six dollars.",
+            "translation": "شش دلار می‌شود."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Can I pay by card?",
+            "translation": "می‌توانم با کارت پرداخت کنم؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Yes, of course.",
+            "translation": "بله، البته."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Thank you.",
+            "translation": "ممنون."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Your drinks are ready. Have a great day!",
+            "translation": "نوشیدنی‌هایتان آماده است. روز خوبی داشته باشید!"
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "You too. Thank you!",
+            "translation": "شما هم همینطور. ممنون!"
+        }
+    ]
+}
