@@ -19,7 +19,7 @@
             "order": 2,
             "person": 1,
             "text": "Do you have a fever?",
-            "translation": "تب داری؟"
+            "translation": "تب دارید؟"
         },
         {
             "order": 3,
@@ -31,7 +31,7 @@
             "order": 4,
             "person": 1,
             "text": "Does your throat hurt too?",
-            "translation": "گلویت هم درد می‌کند؟"
+            "translation": "گلویتان هم درد می‌کند؟"
         },
         {
             "order": 5,

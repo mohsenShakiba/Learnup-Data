@@ -73,13 +73,13 @@
             "order": 11,
             "person": 2,
             "text": "I will. Thank you!",
-            "translation": "حتماً این کار را می‌کنم. ممنون!"
+            "translation": "حتماً. ممنون!"
         },
         {
             "order": 12,
             "person": 1,
             "text": "You can do it!",
-            "translation": "تو می‌توانی!"
+            "translation": "شما می‌توانید!"
         }
     ]
 }

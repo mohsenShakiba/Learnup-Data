@@ -18,8 +18,8 @@
         {
             "order": 2,
             "person": 2,
-            "text": "How would you like your hair?",
-            "translation": "موهایتان را چطور می‌خواهید؟"
+            "text": "What style would you like today?",
+            "translation": "امروز چه مدلی می‌خواهید؟"
         },
         {
             "order": 3,
@@ -66,14 +66,20 @@
         {
             "order": 10,
             "person": 2,
-            "text": "All done. Look in the mirror.",
-            "translation": "تمام شد. به آینه نگاه کنید."
+            "text": "All done. Your hair is ready. Look in the mirror.",
+            "translation": "تمام شد. موهایتان آماده است. به آینه نگاه کنید."
         },
         {
             "order": 11,
             "person": 1,
-            "text": "It looks great. Thank you so much.",
-            "translation": "خیلی خوب شده. خیلی ممنون."
+            "text": "It looks great. Thank you so much. Here is a tip.",
+            "translation": "خیلی خوب شده. خیلی ممنون. این هم انعام."
+        },
+        {
+            "order": 12,
+            "person": 2,
+            "text": "Thank you! Come again.",
+            "translation": "ممنون! باز هم تشریف بیاورید."
         }
     ]
 }

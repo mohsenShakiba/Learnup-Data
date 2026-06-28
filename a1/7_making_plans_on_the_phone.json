@@ -12,14 +12,14 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Hi Nora! What are you doing?",
-            "translation": "سلام نورا! چه می‌کنی؟"
+            "text": "Hi Nora! I'm happy you called.",
+            "translation": "سلام نورا! خوشحالم که زنگ زدی."
         },
         {
             "order": 2,
             "person": 1,
-            "text": "Not much. Are you free this weekend?",
-            "translation": "کار خاصی نه. این آخر هفته وقت داری؟"
+            "text": "Me too. Are you free this weekend?",
+            "translation": "من هم. این آخر هفته وقت داری؟"
         },
         {
             "order": 3,
@@ -73,7 +73,7 @@
             "order": 11,
             "person": 2,
             "text": "I won't. Bye, Nora.",
-            "translation": "نمی‌کنم. خداحافظ، نورا."
+            "translation": "دیر نمی‌کنم. خداحافظ، نورا."
         }
     ]
 }

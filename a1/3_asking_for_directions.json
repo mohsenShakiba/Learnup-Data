@@ -37,7 +37,7 @@
             "order": 5,
             "person": 2,
             "text": "No, it's near. You can walk there in five minutes.",
-            "translation": "نه، نزدیک است. می‌توانی پنج دقیقه‌ای پیاده به آنجا بروی."
+            "translation": "نه، نزدیک است. می‌توانید پنج دقیقه‌ای پیاده به آنجا بروید."
         },
         {
             "order": 6,
@@ -73,7 +73,7 @@
             "order": 11,
             "person": 2,
             "text": "No problem. Take care!",
-            "translation": "خواهش می‌کنم. موفق باشید!"
+            "translation": "خواهش می‌کنم. مراقب خودتان باشید!"
         }
     ]
 }

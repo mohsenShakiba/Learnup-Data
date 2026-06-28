@@ -1,13 +1,13 @@
 {
     "title": "31 - At the Train Station",
     "description": "پرسیدن اطلاعات درباره قطار و سکو در ایستگاه راه‌آهن.",
-    "words": ["train", "platform", "ticket", "next", "leave", "late", "delay", "track", "change", "direct", "arrive", "board", "hurry", "trip"],
+    "words": ["train", "platform", "ticket", "next", "leave", "late", "delay", "change", "direct", "arrive", "board", "hurry", "trip"],
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Excuse me, when is the next train to Paris?",
-            "translation": "ببخشید، قطار بعدی به پاریس کی است؟"
+            "text": "Excuse me, I have a ticket to Paris. When is the next train?",
+            "translation": "ببخشید، یک بلیط به پاریس دارم. قطار بعدی کی است؟"
         },
         {
             "order": 1,
@@ -72,8 +72,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "There are two cafes near platform one.",
-            "translation": "دو کافه نزدیک سکوی یک هست."
+            "text": "You have time, so there's no need to hurry.",
+            "translation": "وقت دارید، پس عجله‌ای نیست."
         },
         {
             "order": 12,

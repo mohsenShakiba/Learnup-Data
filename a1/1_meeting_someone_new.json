@@ -6,8 +6,8 @@
         {
             "order": 0,
             "person": 1,
-            "text": "Hi, I'm Anna.",
-            "translation": "سلام، من آنا هستم."
+            "text": "Hi, my name is Anna.",
+            "translation": "سلام، اسم من آنا است."
         },
         {
             "order": 1,
@@ -49,7 +49,7 @@
             "order": 7,
             "person": 2,
             "text": "Nice. Do you like it here?",
-            "translation": "خوبه. اینجا را دوست دارید؟"
+            "translation": "خوبه. اینجا را دوست داری؟"
         },
         {
             "order": 8,

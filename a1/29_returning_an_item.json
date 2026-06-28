@@ -1,13 +1,13 @@
 {
     "title": "29 - Returning an Item",
     "description": "پس دادن یک کالای خریداری‌شده و گرفتن پول یا تعویض آن.",
-    "words": ["return", "buy", "size", "small", "receipt", "refund", "exchange", "shirt", "fit", "color", "different", "money", "back", "problem"],
+    "words": ["return", "buy", "size", "small", "receipt", "exchange", "shirt", "fit", "color", "different", "money", "back", "problem"],
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hello, I'd like to return this shirt.",
-            "translation": "سلام، می‌خواهم این پیراهن را پس بدهم."
+            "text": "Hello, I'd like to return this shirt. I bought it yesterday.",
+            "translation": "سلام، می‌خواهم این پیراهن را پس بدهم. دیروز خریدمش."
         },
         {
             "order": 1,
@@ -36,8 +36,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Would you like a refund or an exchange?",
-            "translation": "بازگشت پول می‌خواهید یا تعویض؟"
+            "text": "Would you like your money back or an exchange?",
+            "translation": "پولتان را پس می‌خواهید یا تعویض؟"
         },
         {
             "order": 6,

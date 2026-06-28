@@ -12,14 +12,14 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Yes, I'd like one large pizza, please.",
-            "translation": "بله، یک پیتزای بزرگ می‌خواهم، لطفاً."
+            "text": "Yes, I'd like a pizza, please.",
+            "translation": "بله، یک پیتزا می‌خواهم، لطفاً."
         },
         {
             "order": 2,
             "person": 1,
-            "text": "What size and what toppings?",
-            "translation": "چه اندازه و چه موادی روی آن؟"
+            "text": "Sure. What size would you like?",
+            "translation": "حتماً. چه اندازه‌ای می‌خواهید؟"
         },
         {
             "order": 3,

@@ -30,8 +30,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Here you are. Where are the history books?",
-            "translation": "بفرمایید. کتاب‌های تاریخ کجا هستند؟"
+            "text": "Here you are. Where can I find the history books?",
+            "translation": "بفرمایید. کتاب‌های تاریخ را کجا می‌توانم پیدا کنم؟"
         },
         {
             "order": 5,
@@ -48,8 +48,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "You can borrow five books.",
-            "translation": "می‌توانید پنج کتاب امانت بگیرید."
+            "text": "With this library card you can borrow five books.",
+            "translation": "با این کارت کتابخانه می‌توانید پنج کتاب امانت بگیرید."
         },
         {
             "order": 8,

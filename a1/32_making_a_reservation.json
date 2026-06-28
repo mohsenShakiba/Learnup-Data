@@ -42,14 +42,14 @@
         {
             "order": 6,
             "person": 1,
-            "text": "We have a table available at eight.",
-            "translation": "ساعت هشت یک میز خالی داریم."
+            "text": "We have a table available at eight. Tonight we have a special dish.",
+            "translation": "ساعت هشت یک میز خالی داریم. امشب یک غذای ویژه داریم."
         },
         {
             "order": 7,
             "person": 2,
-            "text": "Can we have a table near the window?",
-            "translation": "می‌توانیم یک میز کنار پنجره داشته باشیم؟"
+            "text": "Can we have a table near the window or outside?",
+            "translation": "می‌توانیم یک میز کنار پنجره یا بیرون داشته باشیم؟"
         },
         {
             "order": 8,

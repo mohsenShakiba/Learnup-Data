@@ -30,8 +30,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "You need to rest now.",
-            "translation": "حالا باید استراحت کنی."
+            "text": "You're home now. You need to rest.",
+            "translation": "حالا خانه‌ای. باید استراحت کنی."
         },
         {
             "order": 5,
@@ -60,7 +60,7 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Wonderful. Can we watch a movie tonight?",
+            "text": "Wonderful. Can we watch a movie this evening?",
             "translation": "عالی. می‌توانیم امشب فیلم ببینیم؟"
         },
         {

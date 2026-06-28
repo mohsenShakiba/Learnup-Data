@@ -30,8 +30,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "How much is it per month?",
-            "translation": "ماهانه چقدر است؟"
+            "text": "How much do I pay per month?",
+            "translation": "ماهانه چقدر باید پرداخت کنم؟"
         },
         {
             "order": 5,
@@ -72,8 +72,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "Good choice. Please sign the contract here.",
-            "translation": "انتخاب خوبی است. لطفاً قرارداد را اینجا امضا کنید."
+            "text": "Good choice. You'll get a new number. Please sign the contract here.",
+            "translation": "انتخاب خوبی است. یک شماره جدید می‌گیرید. لطفاً قرارداد را اینجا امضا کنید."
         }
     ]
 }

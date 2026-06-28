@@ -12,8 +12,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Sure. Let me weigh it.",
-            "translation": "حتماً. بگذارید وزنش کنم."
+            "text": "Sure. Let me put it in a box and weigh it.",
+            "translation": "حتماً. بگذارید در یک جعبه بگذارم و وزنش کنم."
         },
         {
             "order": 2,
@@ -48,14 +48,14 @@
         {
             "order": 7,
             "person": 1,
-            "text": "Done. Do I need a stamp?",
-            "translation": "انجام شد. تمبر لازم دارم؟"
+            "text": "Done. I also have this letter. Does it need a stamp?",
+            "translation": "انجام شد. این نامه را هم دارم. تمبر می‌خواهد؟"
         },
         {
             "order": 8,
             "person": 2,
-            "text": "No, the box price includes it. Please sign here.",
-            "translation": "نه، قیمت بسته شامل آن می‌شود. لطفاً اینجا را امضا کنید."
+            "text": "Yes, I'll add a stamp. For the package, please sign here.",
+            "translation": "بله، یک تمبر می‌زنم. برای بسته، لطفاً اینجا را امضا کنید."
         },
         {
             "order": 9,

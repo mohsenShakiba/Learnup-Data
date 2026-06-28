@@ -1,7 +1,7 @@
 {
     "title": "36 - At the Supermarket Checkout",
     "description": "پرداخت خرید در صندوق سوپرمارکت.",
-    "words": ["checkout", "bag", "pay", "card", "cash", "total", "change", "scan", "queue", "receipt", "heavy", "help", "discount", "thanks"],
+    "words": ["bag", "pay", "card", "cash", "total", "change", "scan", "receipt", "heavy", "help", "discount", "thanks"],
     "sentences": [
         {
             "order": 0,
@@ -30,8 +30,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Let me scan everything.",
-            "translation": "بگذارید همه را اسکن کنم."
+            "text": "Let me scan everything. I can help with the heavy bags.",
+            "translation": "بگذارید همه را اسکن کنم. می‌توانم با کیسه‌های سنگین کمک کنم."
         },
         {
             "order": 5,
@@ -54,8 +54,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Twenty-five dollars. Cash or card?",
-            "translation": "بیست و پنج دلار. نقد یا کارت؟"
+            "text": "Twenty-five dollars. How do you want to pay, cash or card?",
+            "translation": "بیست و پنج دلار. چطور می‌خواهید پرداخت کنید، نقد یا کارت؟"
         },
         {
             "order": 9,
@@ -72,7 +72,7 @@
         {
             "order": 11,
             "person": 2,
-            "text": "Thank you. Have a nice day.",
+            "text": "Thanks. Have a nice day.",
             "translation": "ممنون. روز خوبی داشته باشید."
         }
     ]

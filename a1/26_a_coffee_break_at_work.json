@@ -66,14 +66,14 @@
         {
             "order": 10,
             "person": 1,
-            "text": "We can relax this weekend.",
-            "translation": "این آخر هفته می‌توانیم استراحت کنیم."
+            "text": "We can rest and relax this weekend.",
+            "translation": "این آخر هفته می‌توانیم استراحت کنیم و آرام بگیریم."
         },
         {
             "order": 11,
             "person": 2,
-            "text": "I hope so. The weekend can't come soon enough.",
-            "translation": "امیدوارم. آخر هفته هر چه زودتر بیاید بهتر است."
+            "text": "I hope so. The weekend will be here soon.",
+            "translation": "امیدوارم. آخر هفته زود می‌رسد."
         }
     ]
 }

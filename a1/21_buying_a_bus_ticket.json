@@ -18,8 +18,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Single, please. When is the next bus?",
-            "translation": "یک‌طرفه، لطفاً. اتوبوس بعدی کی است؟"
+            "text": "Single, please. When does the next bus leave the station?",
+            "translation": "یک‌طرفه، لطفاً. اتوبوس بعدی کی از ایستگاه حرکت می‌کند؟"
         },
         {
             "order": 3,
@@ -42,20 +42,20 @@
         {
             "order": 6,
             "person": 2,
-            "text": "Yes, card or cash is fine.",
-            "translation": "بله، کارت یا پول نقد هر دو خوب است."
+            "text": "Sorry, we only take cash today.",
+            "translation": "ببخشید، امروز فقط پول نقد می‌گیریم."
         },
         {
             "order": 7,
             "person": 1,
-            "text": "Here is my card. Which platform is it?",
-            "translation": "این کارت من است. کدام سکو است؟"
+            "text": "Okay. Here is twenty dollars. Which platform is it?",
+            "translation": "باشه. این هم بیست دلار. کدام سکو است؟"
         },
         {
             "order": 8,
             "person": 2,
-            "text": "Platform three. Your seat is number eight.",
-            "translation": "سکوی سه. صندلی شما شماره هشت است."
+            "text": "Platform three. Here is your change, and your seat is number eight.",
+            "translation": "سکوی سه. این هم بقیه پولتان، و صندلی شما شماره هشت است."
         },
         {
             "order": 9,
