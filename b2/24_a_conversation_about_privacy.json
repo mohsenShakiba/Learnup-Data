@@ -1,0 +1,79 @@
+{
+    "title": "24 - A Conversation About Privacy",
+    "description": "دو دوست درباره حریم خصوصی داده‌ها و ردیابی آنلاین گفتگو می‌کنند.",
+    "words": ["privacy", "data", "track", "consent", "surveillance", "permission", "concern", "anonymous", "leak", "protect", "convenience", "aware", "regulation", "tradeoff"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Does it bother you how apps track us?",
+            "translation": "اینکه برنامه‌ها ما را ردیابی می‌کنند آزارت می‌دهد؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It does, actually. It feels intrusive.",
+            "translation": "راستش بله. حس تجاوز به حریم می‌دهد."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "They collect so much of our data.",
+            "translation": "حجم زیادی از داده‌های ما را جمع می‌کنند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "And we often consent without reading.",
+            "translation": "و ما اغلب بدون خواندن رضایت می‌دهیم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "True. Nobody reads the terms.",
+            "translation": "درست است. هیچ‌کس شرایط را نمی‌خواند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "But the convenience is hard to give up.",
+            "translation": "اما صرف‌نظر کردن از راحتی‌اش سخت است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's the real tradeoff.",
+            "translation": "این همان معامله دوسویه واقعی است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I try to limit what I share.",
+            "translation": "سعی می‌کنم آنچه را به اشتراک می‌گذارم محدود کنم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Do you think regulation helps?",
+            "translation": "فکر می‌کنی مقررات کمک می‌کند؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Somewhat, but companies find loopholes.",
+            "translation": "تا حدی، اما شرکت‌ها راه‌های فرار پیدا می‌کنند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "We should at least stay aware.",
+            "translation": "لااقل باید آگاه بمانیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Agreed. Awareness is our best protection.",
+            "translation": "موافقم. آگاهی بهترین محافظ ماست."
+        }
+    ]
+}

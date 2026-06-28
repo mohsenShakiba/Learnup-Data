@@ -1,0 +1,443 @@
+{
+  "grammar": {
+    "name": "Articles",
+    "levelId": 1,
+    "order": 4,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس به شکل ساده توضیح می‌دهد که چه زمانی از a، an و the استفاده می‌کنیم، تفاوت اشاره غیرمشخص و مشخص چیست، و چرا انتخاب بین a و an به صدای اول کلمه بستگی دارد.",
+    "lessons": [
+      {
+        "title": "حروف تعریف",
+        "htmlTag": 1,
+        "content": "حروف تعریف",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "حروف تعریف",
+        "htmlTag": 0,
+        "content": "در انگلیسی قبل از بعضی اسم‌ها از article استفاده می‌کنیم. سه article اصلی در این درس a، an و the هستند. این کلمات کمک می‌کنند بفهمیم اسم موردنظر برای شنونده نامشخص است یا مشخص، و به همین دلیل در جمله‌سازی روزمره خیلی مهم هستند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a برای اسم مفرد قابل‌شمارش و غیرمشخص",
+        "htmlTag": 2,
+        "content": "کاربرد 1: a برای اسم مفرد قابل‌شمارش و غیرمشخص",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a برای اسم مفرد قابل‌شمارش و غیرمشخص",
+        "htmlTag": 0,
+        "content": "I need a pen.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a برای اسم مفرد قابل‌شمارش و غیرمشخص",
+        "htmlTag": 0,
+        "content": "در این مثال، pen یک خودکار نامشخص است. گوینده فقط به یک خودکار نیاز دارد و مشخص نیست کدام خودکار، پس از a استفاده می‌کنیم.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: an برای اسم مفرد قابل‌شمارش با صدای اول مصوت",
+        "htmlTag": 2,
+        "content": "کاربرد 2: an برای اسم مفرد قابل‌شمارش با صدای اول مصوت",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: an برای اسم مفرد قابل‌شمارش با صدای اول مصوت",
+        "htmlTag": 0,
+        "content": "She ate an apple.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: an برای اسم مفرد قابل‌شمارش با صدای اول مصوت",
+        "htmlTag": 0,
+        "content": "اینجا apple با صدای مصوت شروع می‌شود، بنابراین به جای a از an استفاده می‌کنیم. اسم هم مفرد و قابل‌شمارش است و به یک مورد نامشخص اشاره دارد.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: the برای اسم مشخص",
+        "htmlTag": 2,
+        "content": "کاربرد 3: the برای اسم مشخص",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: the برای اسم مشخص",
+        "htmlTag": 0,
+        "content": "The door is open.",
+        "order": 10,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: the برای اسم مشخص",
+        "htmlTag": 0,
+        "content": "در این جمله door برای شنونده و گوینده مشخص است؛ مثلا هر دو می‌دانند درباره درِ اتاق حرف می‌زنند. به همین دلیل از the استفاده می‌شود.",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "به طور کلی وقتی اسم را برای اولین بار و به شکل نامشخص معرفی می‌کنیم، معمولا از a یا an استفاده می‌کنیم. وقتی همان اسم بعدا مشخص می‌شود یا از قبل برای مخاطب روشن است، معمولا از the استفاده می‌کنیم.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I saw a cat. The cat was under the table.",
+        "order": 15,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در بخش اول، a cat یعنی یک گربه نامشخص. در بخش دوم، چون حالا همان گربه مشخص شده است، از the cat استفاده می‌کنیم.",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He wants an orange.",
+        "order": 17,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال orange با صدای مصوت شروع می‌شود، پس an درست است. همچنین منظور یک پرتقال نامشخص است، نه یک پرتقال خاص.",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "فرق a و an",
+        "htmlTag": 1,
+        "content": "فرق a و an",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "فرق a و an",
+        "htmlTag": 0,
+        "content": "فرق اصلی بین a و an در شکل نوشتاری کلمه نیست، بلکه در صدای اول کلمه است. اگر اسم با صدای همخوان شروع شود، معمولا a می‌آید و اگر با صدای مصوت شروع شود، معمولا an می‌آید.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a قبل از صدای همخوان",
+        "htmlTag": 2,
+        "content": "کاربرد 1: a قبل از صدای همخوان",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a قبل از صدای همخوان",
+        "htmlTag": 0,
+        "content": "He bought a book.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a قبل از صدای همخوان",
+        "htmlTag": 0,
+        "content": "کلمه book با صدای /b/ شروع می‌شود که صدای همخوان است، بنابراین a درست است. اسم هم مفرد، قابل‌شمارش و نامشخص است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: an قبل از صدای مصوت",
+        "htmlTag": 2,
+        "content": "کاربرد 2: an قبل از صدای مصوت",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: an قبل از صدای مصوت",
+        "htmlTag": 0,
+        "content": "She has an umbrella.",
+        "order": 25,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: an قبل از صدای مصوت",
+        "htmlTag": 0,
+        "content": "کلمه umbrella با صدای مصوت شروع می‌شود، پس an می‌آید. باز هم اسم مفرد و قابل‌شمارش است و به یک مورد خاص اشاره نمی‌کند.",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: صدا مهم‌تر از حرف اول است",
+        "htmlTag": 2,
+        "content": "کاربرد 3: صدا مهم‌تر از حرف اول است",
+        "order": 27,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: صدا مهم‌تر از حرف اول است",
+        "htmlTag": 0,
+        "content": "She studies at a university.",
+        "order": 28,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: صدا مهم‌تر از حرف اول است",
+        "htmlTag": 0,
+        "content": "با اینکه university با حرف u شروع می‌شود، صدای اول آن /ju:/ است که شبیه y است و همخوان حساب می‌شود. به همین دلیل a university درست است، نه an university.",
+        "order": 29,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "گاهی حرف اول کلمه ما را گمراه می‌کند. مثلا hour با حرف h شروع می‌شود، اما h در تلفظ خوانده نمی‌شود و کلمه با صدای مصوت شروع می‌شود. پس باید به صدا گوش کنیم، نه فقط به املا.",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It took an hour.",
+        "order": 33,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال h در hour بی‌صدا است و کلمه با صدای /au/ شروع می‌شود، بنابراین an hour درست است.",
+        "order": 34,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They visited a European city.",
+        "order": 35,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "European با اینکه با حرف e شروع می‌شود، صدای اول آن /ju:/ است. برای همین a European city درست است.",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "the و مرور نهایی",
+        "htmlTag": 1,
+        "content": "the و مرور نهایی",
+        "order": 37,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "the و مرور نهایی",
+        "htmlTag": 0,
+        "content": "حرف تعریف the زمانی استفاده می‌شود که اسم برای گوینده و شنونده مشخص باشد. این مشخص بودن می‌تواند به خاطر اشاره قبلی در جمله، موقعیت روشن، یا یکتا بودن آن چیز باشد.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اسم قبلا معرفی شده است",
+        "htmlTag": 2,
+        "content": "کاربرد 1: اسم قبلا معرفی شده است",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اسم قبلا معرفی شده است",
+        "htmlTag": 0,
+        "content": "I bought a book. The book is interesting.",
+        "order": 40,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اسم قبلا معرفی شده است",
+        "htmlTag": 0,
+        "content": "در جمله اول book برای اولین بار و به شکل نامشخص آمده است، پس a book می‌گوییم. در جمله دوم همان کتاب مشخص شده است، بنابراین از the book استفاده می‌کنیم.",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اسم در موقعیت مشخص است",
+        "htmlTag": 2,
+        "content": "کاربرد 2: اسم در موقعیت مشخص است",
+        "order": 42,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اسم در موقعیت مشخص است",
+        "htmlTag": 0,
+        "content": "Please close the window.",
+        "order": 43,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اسم در موقعیت مشخص است",
+        "htmlTag": 0,
+        "content": "در اینجا منظور یک پنجره مشخص در همان موقعیت است؛ مثلا پنجره اتاقی که هر دو نفر داخل آن هستند. به همین دلیل the window طبیعی است.",
+        "order": 44,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: چیز یکتا یا کاملا روشن",
+        "htmlTag": 2,
+        "content": "کاربرد 3: چیز یکتا یا کاملا روشن",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: چیز یکتا یا کاملا روشن",
+        "htmlTag": 0,
+        "content": "The sun is hot.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 3: چیز یکتا یا کاملا روشن",
+        "htmlTag": 0,
+        "content": "خورشید برای همه مشخص و یکتا است، بنابراین از the استفاده می‌کنیم. در اینجا شنونده دقیقا می‌داند درباره چه چیزی صحبت می‌شود.",
+        "order": 47,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 48,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "همه اسم‌های مفرد قابل‌شمارش the نمی‌گیرند. اگر اسم جدید و نامشخص باشد، معمولا a یا an لازم است. اگر مشخص باشد، the می‌آید. همین تفاوت ساده پایه اصلی این درس است.",
+        "order": 49,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 50,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The car is outside.",
+        "order": 51,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا car برای مخاطب مشخص است؛ مثلا هر دو می‌دانند منظور کدام ماشین است. برای همین the car درست است.",
+        "order": 52,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Can you open the door?",
+        "order": 53,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این جمله door یک در مشخص در همان موقعیت است. شنونده لازم نیست حدس بزند کدام در، پس the به کار می‌رود.",
+        "order": 54,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

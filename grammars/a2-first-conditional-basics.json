@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "First conditional basics",
+    "levelId": 2,
+    "order": 10,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس شرطی نوع اول را برای موقعیت‌های واقعی یا محتمل در آینده، ساختار if + present simple و نتیجه با will توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "معنای اصلی شرطی نوع اول",
+        "htmlTag": 1,
+        "content": "معنای اصلی شرطی نوع اول",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "معنای اصلی شرطی نوع اول",
+        "htmlTag": 0,
+        "content": "شرطی نوع اول برای موقعیت‌هایی به کار می‌رود که در آینده ممکن و واقعی هستند. در این ساختار درباره نتیجه‌ای حرف می‌زنیم که اگر شرطی اتفاق بیفتد، احتمال دارد در آینده رخ دهد.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه محتمل در آینده",
+        "htmlTag": 2,
+        "content": "کاربرد 1: نتیجه محتمل در آینده",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه محتمل در آینده",
+        "htmlTag": 0,
+        "content": "If it rains, we will stay home.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه محتمل در آینده",
+        "htmlTag": 0,
+        "content": "باران یک احتمال واقعی در آینده است و staying home نتیجه ممکن آن است. به همین دلیل این جمله نمونه خوبی از شرطی نوع اول است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هشدار یا برنامه وابسته به شرط",
+        "htmlTag": 2,
+        "content": "کاربرد 2: هشدار یا برنامه وابسته به شرط",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هشدار یا برنامه وابسته به شرط",
+        "htmlTag": 0,
+        "content": "If you leave now, you will catch the bus.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هشدار یا برنامه وابسته به شرط",
+        "htmlTag": 0,
+        "content": "اینجا شرط leave now واقعی و قابل انجام است و نتیجه catch the bus هم در آینده رخ می‌دهد. جمله رابطه مستقیم شرط و نتیجه را نشان می‌دهد.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در شرطی نوع اول درباره خیال‌پردازی یا گذشته حرف نمی‌زنیم، بلکه درباره آینده‌ای صحبت می‌کنیم که از نظر گوینده ممکن است واقعا رخ دهد.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If she studies, she will pass the test.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال مطالعه کردن یک شرط واقعی است و قبولی نتیجه محتمل آن است. ساختار برای توصیه و پیش‌بینی بسیار مناسب است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If we hurry, we will be on time.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا شرط و نتیجه هر دو به آینده مربوط هستند و هر دو امکان واقعی دارند.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "شکل جمله و ترتیب دو بخش",
+        "htmlTag": 1,
+        "content": "شکل جمله و ترتیب دو بخش",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "شکل جمله و ترتیب دو بخش",
+        "htmlTag": 0,
+        "content": "در شرطی نوع اول معمولا در بخش if از حال ساده استفاده می‌کنیم و در بخش نتیجه از will به علاوه شکل پایه فعل. این دو بخش می‌توانند جایشان را عوض کنند، اما معنی اصلی تغییر نمی‌کند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اگر if-clause اول بیاید",
+        "htmlTag": 2,
+        "content": "کاربرد 1: اگر if-clause اول بیاید",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اگر if-clause اول بیاید",
+        "htmlTag": 0,
+        "content": "If I see Maria, I will tell her.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اگر if-clause اول بیاید",
+        "htmlTag": 0,
+        "content": "در این مثال بخش شرط اول آمده و بعد از آن ویرگول گذاشته شده است. tell نتیجه‌ای است که در صورت وقوع شرط انجام می‌شود.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اگر نتیجه اول بیاید",
+        "htmlTag": 2,
+        "content": "کاربرد 2: اگر نتیجه اول بیاید",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اگر نتیجه اول بیاید",
+        "htmlTag": 0,
+        "content": "I will tell Maria if I see her.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اگر نتیجه اول بیاید",
+        "htmlTag": 0,
+        "content": "اینجا بخش نتیجه اول آمده است، اما معنی همان است. فقط وقتی if-clause در ابتدا نیست، معمولا نیازی به ویرگول نداریم.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "نکته مهم این است که بعد از if در این ساختار معمولا will نمی‌آوریم. بخش شرط با حال ساده ساخته می‌شود و آینده بودن از کل رابطه جمله فهمیده می‌شود.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If they do not leave soon, they will miss the train.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال بخش شرط منفی شده است، اما همچنان از حال ساده استفاده شده و بخش نتیجه با will آمده است.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What will you do if he calls?",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا بخش نتیجه به صورت سوالی آمده و شرط با if و حال ساده ساخته شده است. ساختار همچنان همان شرطی نوع اول است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربردهای رایج و مرور",
+        "htmlTag": 1,
+        "content": "کاربردهای رایج و مرور",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربردهای رایج و مرور",
+        "htmlTag": 0,
+        "content": "شرطی نوع اول در زندگی روزمره برای قول، هشدار، پیشنهاد و برنامه‌ریزی بسیار کاربردی است. چون این ساختار درباره آینده واقعی حرف می‌زند، در مکالمه‌های عادی زیاد به کار می‌رود.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: قول یا کمک",
+        "htmlTag": 2,
+        "content": "کاربرد 1: قول یا کمک",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: قول یا کمک",
+        "htmlTag": 0,
+        "content": "If you need help, I will come.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: قول یا کمک",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده قول می‌دهد اگر شرط اتفاق بیفتد، کمک خواهد کرد. این کاربرد در گفتگوهای دوستانه رایج است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هشدار",
+        "htmlTag": 2,
+        "content": "کاربرد 2: هشدار",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هشدار",
+        "htmlTag": 0,
+        "content": "If you do not wear a coat, you will get cold.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هشدار",
+        "htmlTag": 0,
+        "content": "اینجا جمله درباره نتیجه احتمالی یک انتخاب هشدار می‌دهد. این یکی از کاربردهای رایج شرطی نوع اول در نصیحت و مراقبت است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "برای ساخت جمله‌های طبیعی، بهتر است رابطه بین شرط و نتیجه واضح و منطقی باشد. اگر نتیجه خیلی خیالی یا غیرواقعی باشد، معمولا باید از نوع دیگری از شرطی استفاده کنیم.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If the shop is open, we will buy some bread.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال شرط و نتیجه هر دو به موقعیتی واقعی و آینده مربوط هستند. جمله برای برنامه‌ریزی روزمره مناسب است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If he arrives late, we will start without him.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا نتیجه به یک وضعیت آینده وابسته شده است و ساختار روشن و کاربردی شرطی نوع اول را نشان می‌دهد.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

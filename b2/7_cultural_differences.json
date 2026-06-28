@@ -1,0 +1,79 @@
+{
+    "title": "7 - Talking About Cultural Differences",
+    "description": "دو همکار درباره تفاوت‌های فرهنگی در محیط کار بین‌المللی صحبت می‌کنند.",
+    "words": ["culture", "differences", "adapt", "custom", "polite", "direct", "misunderstanding", "respect", "perspective", "norm", "abroad", "appreciate", "assume", "open-minded"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Working with an international team is fascinating.",
+            "translation": "کار با یک تیم بین‌المللی جذاب است."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It is, though the cultural differences can be tricky.",
+            "translation": "همینطور است، هرچند تفاوت‌های فرهنگی می‌تواند پیچیده باشد."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What do you mean exactly?",
+            "translation": "دقیقاً منظورت چیست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "In some cultures, people are very direct.",
+            "translation": "در برخی فرهنگ‌ها، مردم خیلی صریح هستند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "True. Others prefer a more polite approach.",
+            "translation": "درست است. دیگران رویکرد مؤدبانه‌تری را ترجیح می‌دهند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "That can lead to misunderstandings.",
+            "translation": "این می‌تواند به سوءتفاهم منجر شود."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I try not to assume anything.",
+            "translation": "سعی می‌کنم هیچ فرضی نکنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That's wise. It's important to stay open-minded.",
+            "translation": "عاقلانه است. مهم است که ذهن باز داشته باشی."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I've learned to respect different customs.",
+            "translation": "یاد گرفته‌ام به آداب و رسوم مختلف احترام بگذارم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Living abroad really changes your perspective.",
+            "translation": "زندگی در خارج واقعاً دیدگاهت را تغییر می‌دهد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Absolutely. I appreciate other viewpoints more now.",
+            "translation": "قطعاً. حالا بیشتر قدر دیدگاه‌های دیگران را می‌دانم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Diversity makes the team stronger.",
+            "translation": "تنوع، تیم را قوی‌تر می‌کند."
+        }
+    ]
+}

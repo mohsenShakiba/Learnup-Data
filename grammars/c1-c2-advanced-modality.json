@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Advanced modality",
+    "levelId": 5,
+    "order": 9,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس modality پیشرفته را برای بیان درجات ظریفِ قطعیت، الزام، ارزیابی، فاصله‌گذاری و موضع‌گیری نویسنده یا گوینده توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "درجات مختلف قطعیت و احتمال",
+        "htmlTag": 1,
+        "content": "درجات مختلف قطعیت و احتمال",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "درجات مختلف قطعیت و احتمال",
+        "htmlTag": 0,
+        "content": "modality پیشرفته فقط به can و should محدود نیست. در سطح بالا از modalها و ساخت‌های نزدیک به آن‌ها برای نشان دادن میزان اطمینان، شک، استنتاج و فاصله گرفتن از یک ادعا استفاده می‌کنیم.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: استنتاج قوی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: استنتاج قوی",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: استنتاج قوی",
+        "htmlTag": 0,
+        "content": "The figures must reflect a recent change in demand.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: استنتاج قوی",
+        "htmlTag": 0,
+        "content": "در این جمله must اجبار نمی‌سازد، بلکه استنتاجی قوی بر پایه شواهد را نشان می‌دهد. گوینده تقریبا مطمئن است، اما هنوز حرفش را به‌عنوان نتیجه‌گیری بیان می‌کند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: احتمال محتاطانه",
+        "htmlTag": 2,
+        "content": "کاربرد 2: احتمال محتاطانه",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: احتمال محتاطانه",
+        "htmlTag": 0,
+        "content": "There may well be other factors we have not considered.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: احتمال محتاطانه",
+        "htmlTag": 0,
+        "content": "اینجا may well یک امکان جدی اما نه قطعی را بیان می‌کند. این ساختار برای حفظ دقت و احتیاط تحلیلی بسیار مفید است.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در متون دانشگاهی و حرفه‌ای، انتخاب modal مناسب نشان می‌دهد نویسنده چقدر نسبت به ادعای خود متعهد است. تفاوت between must، may، might و could فقط دستوری نیست؛ این تفاوت بخشی از موضع‌گیری فکری متن است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The delay could simply be due to a technical issue.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال could یک توضیح ممکن را مطرح می‌کند، بدون این‌که آن را به‌عنوان تنها تفسیر معتبر جا بزند.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "This result cannot be explained by chance alone.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا cannot be explained یک رد قوی را بیان می‌کند و نشان می‌دهد نویسنده این تفسیر را نامعتبر می‌داند.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الزام، توصیه و موضع‌گیری نرم یا سخت",
+        "htmlTag": 1,
+        "content": "الزام، توصیه و موضع‌گیری نرم یا سخت",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الزام، توصیه و موضع‌گیری نرم یا سخت",
+        "htmlTag": 0,
+        "content": "modality همچنین برای مدیریت شدتِ توصیه، ضرورت و فشار استفاده می‌شود. در سطح پیشرفته تفاوت بین must، should، need to، be supposed to و be expected to فقط تفاوت شکل نیست؛ هر کدام رابطه اجتماعی و درجه فشار متفاوتی می‌سازند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: الزام تحلیلی یا نهادی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: الزام تحلیلی یا نهادی",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: الزام تحلیلی یا نهادی",
+        "htmlTag": 0,
+        "content": "Applicants must provide evidence of prior experience.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: الزام تحلیلی یا نهادی",
+        "htmlTag": 0,
+        "content": "در این جمله must لحن الزام‌آور و رسمی دارد و نشان می‌دهد این کار شرط یا requirement روشن فرایند است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: انتظار نهادی یا حرفه‌ای",
+        "htmlTag": 2,
+        "content": "کاربرد 2: انتظار نهادی یا حرفه‌ای",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: انتظار نهادی یا حرفه‌ای",
+        "htmlTag": 0,
+        "content": "Managers are expected to respond within two working days.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: انتظار نهادی یا حرفه‌ای",
+        "htmlTag": 0,
+        "content": "اینجا expectation نهادی مطرح است، نه لزوما دستور مستقیم. این ساختار لحن رسمی‌تری دارد و فشار را کمی غیرشخصی‌تر بیان می‌کند.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "گاهی نویسنده یا گوینده intentionally شدت modal را پایین می‌آورد تا حرفه‌ای‌تر، مودبانه‌تر یا محتاط‌تر به نظر برسد. این انتخاب‌های ظریف در ایمیل‌های رسمی، مذاکره و نوشتار دانشگاهی بسیار مهم‌اند.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We should consider a less costly alternative.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال should پیشنهاد قوی اما هنوز باز را نشان می‌دهد. جمله راه‌حل را مطرح می‌کند، نه این‌که آن را تنها گزینه ممکن اعلام کند.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The team may need to revise its assumptions.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا may need to هم احتمال و هم ضرورت را به شکلی محتاطانه ترکیب می‌کند و برای نقد حرفه‌ای بسیار مناسب است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "modality برای فاصله‌گذاری و ظرافت بلاغی",
+        "htmlTag": 1,
+        "content": "modality برای فاصله‌گذاری و ظرافت بلاغی",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "modality برای فاصله‌گذاری و ظرافت بلاغی",
+        "htmlTag": 0,
+        "content": "در متون سطح بالا، modality ابزاری برای مدیریت رابطه نویسنده با ادعاست. گاهی می‌خواهیم موضع روشن بگیریم، و گاهی intentionally فاصله بگذاریم تا فضا برای تفسیر، احتیاط یا مذاکره باقی بماند.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فاصله‌گذاری محتاطانه",
+        "htmlTag": 2,
+        "content": "کاربرد 1: فاصله‌گذاری محتاطانه",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فاصله‌گذاری محتاطانه",
+        "htmlTag": 0,
+        "content": "The policy could be interpreted as overly restrictive.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فاصله‌گذاری محتاطانه",
+        "htmlTag": 0,
+        "content": "در این جمله نویسنده یک تفسیر ممکن را مطرح می‌کند، نه یک حقیقت قطعی را. این فاصله‌گذاری برای تحلیل متوازن و حرفه‌ای بسیار مفید است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: موضع‌گیری سنجیده",
+        "htmlTag": 2,
+        "content": "کاربرد 2: موضع‌گیری سنجیده",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: موضع‌گیری سنجیده",
+        "htmlTag": 0,
+        "content": "This may suggest that the earlier model was incomplete.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: موضع‌گیری سنجیده",
+        "htmlTag": 0,
+        "content": "اینجا may suggest نشان می‌دهد نویسنده به سمت یک نتیجه می‌رود، اما هنوز آن را با احتیاط بیان می‌کند. چنین لحن‌هایی در نوشتار دانشگاهی طبیعی‌اند.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر همه جمله‌ها با قطعیت کامل نوشته شوند، متن ممکن است غیرعلمی، متکبر یا کم‌دقت به نظر برسد. برعکس، اگر همه چیز بیش‌ازحد hedged شود، متن قدرتش را از دست می‌دهد. advanced modality یعنی پیدا کردن تعادل بین این دو.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "One might argue that the reform came too late.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال نویسنده یک دیدگاه قابل‌طرح را معرفی می‌کند، بدون این‌که آن را به‌طور کامل به خودش نسبت دهد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The findings would appear to support a different conclusion.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا would appear to زبانی محتاط و تحلیلی می‌سازد و نشان می‌دهد نتیجه‌گیری با احتیاط انجام می‌شود.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

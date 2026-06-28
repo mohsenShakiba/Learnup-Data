@@ -1,0 +1,79 @@
+{
+    "title": "39 - Talking About Stress at Work",
+    "description": "دو همکار درباره منابع استرس کاری و راه‌های مقابله با آن گفتگو می‌کنند.",
+    "words": ["stress", "workload", "deadline", "overwhelmed", "cope", "manage", "support", "delegate", "boundary", "burnout", "prioritize", "relax", "honest", "improve"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I've been feeling really stressed at work.",
+            "translation": "سر کار واقعاً احساس استرس کرده‌ام."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I've noticed. What's causing it?",
+            "translation": "متوجه شده‌ام. علتش چیست؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The workload keeps increasing.",
+            "translation": "حجم کار مدام بیشتر می‌شود."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Have you spoken to your manager?",
+            "translation": "با مدیرت صحبت کرده‌ای؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Not yet. I don't want to seem weak.",
+            "translation": "هنوز نه. نمی‌خواهم ضعیف به نظر برسم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Being honest isn't a weakness.",
+            "translation": "صادق بودن ضعف نیست."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "You're right. I feel overwhelmed lately.",
+            "translation": "حق با توست. اخیراً احساس می‌کنم زیر فشارم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Try to prioritize the urgent tasks.",
+            "translation": "سعی کن کارهای فوری را در اولویت بگذاری."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "And maybe delegate some of them.",
+            "translation": "و شاید بعضی‌شان را به دیگران بسپارم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Exactly. You can't do everything alone.",
+            "translation": "دقیقاً. نمی‌توانی همه‌چیز را تنهایی انجام دهی."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I need to set better boundaries.",
+            "translation": "باید مرزهای بهتری تعیین کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That will really help prevent burnout.",
+            "translation": "این واقعاً به جلوگیری از فرسودگی کمک می‌کند."
+        }
+    ]
+}

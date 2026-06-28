@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Advanced inversion",
+    "levelId": 5,
+    "order": 2,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس inversion پیشرفته را برای تاکید، رسمیت، و ساخت‌های خاصی مانند negative adverbials، شرطی‌های رسمی و so/such توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "inversion بعد از negative adverbials",
+        "htmlTag": 1,
+        "content": "inversion بعد از negative adverbials",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "inversion بعد از negative adverbials",
+        "htmlTag": 0,
+        "content": "در انگلیسی پیشرفته گاهی برای تاکید یا رسمیت، ترتیب معمول فاعل و فعل را عوض می‌کنیم. این اتفاق especially بعد از عبارت‌هایی مثل never، rarely، scarcely و under no circumstances رخ می‌دهد و جمله را برجسته‌تر می‌کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید با never",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تاکید با never",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید با never",
+        "htmlTag": 0,
+        "content": "Never have I seen such a confusing report.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید با never",
+        "htmlTag": 0,
+        "content": "در این جمله inversion بعد از never باعث تاکید شدید می‌شود. اگر ترتیب عادی را نگه می‌داشتیم، جمله از نظر معنا درست بود، اما قدرت بلاغی کمتری داشت.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ممنوعیت یا تاکید رسمی",
+        "htmlTag": 2,
+        "content": "کاربرد 2: ممنوعیت یا تاکید رسمی",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ممنوعیت یا تاکید رسمی",
+        "htmlTag": 0,
+        "content": "Under no circumstances should the data be shared.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ممنوعیت یا تاکید رسمی",
+        "htmlTag": 0,
+        "content": "اینجا inversion بعد از عبارت منفی، لحن جمله را رسمی و قاطع می‌کند. این ساختار در نوشتار اداری و هشدارهای جدی زیاد دیده می‌شود.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "وقتی این نوع عبارت‌ها در ابتدای جمله می‌آیند، inversion الزامی یا بسیار طبیعی می‌شود. اما اگر همان عبارت‌ها در جای دیگر جمله باشند، معمولا ترتیب عادی برمی‌گردد.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Rarely do we encounter such clear evidence.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال inversion بعد از rarely روی غیرمعمول بودن موقعیت تاکید می‌کند و جمله را رسمی‌تر می‌سازد.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Only then did she realize the mistake.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا only then جمله را به نقطه زمانی خاصی گره می‌زند و inversion باعث تاکید روایی می‌شود.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "inversion در شرطی‌های رسمی",
+        "htmlTag": 1,
+        "content": "inversion در شرطی‌های رسمی",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "inversion در شرطی‌های رسمی",
+        "htmlTag": 0,
+        "content": "در بعضی ساخت‌های رسمی می‌توان if را حذف کرد و جمله را با inversion ساخت. این الگو در نوشتار رسمی، سخنرانی‌ها و سبک ادبی بیشتر دیده می‌شود و نوعی فشردگی و رسمیت به جمله می‌دهد.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حذف if با should",
+        "htmlTag": 2,
+        "content": "کاربرد 1: حذف if با should",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حذف if با should",
+        "htmlTag": 0,
+        "content": "Should you need any assistance, please contact us.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حذف if با should",
+        "htmlTag": 0,
+        "content": "در این جمله should you need جای if you should need را گرفته است. معنی تغییری نکرده، اما ساختار رسمی‌تر و فشرده‌تر شده است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حذف if با had",
+        "htmlTag": 2,
+        "content": "کاربرد 2: حذف if با had",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حذف if با had",
+        "htmlTag": 0,
+        "content": "Had they acted sooner, the damage would have been smaller.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حذف if با had",
+        "htmlTag": 0,
+        "content": "اینجا had they acted شکل معکوسِ if they had acted است. این نوع inversion به‌ویژه در شرطی‌های نوع سوم رسمی و نوشتاری رایج است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "این inversionها بیشتر سبک را تغییر می‌دهند تا معنی را. با این حال، اگر در جای نامناسب استفاده شوند، متن ممکن است بیش‌ازحد رسمی یا مصنوعی به نظر برسد، پس باید با بافت هماهنگ باشند.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Were I in your position, I would reconsider the offer.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال were I ساختی رسمی‌تر از if I were است و برای توصیه یا فرض‌های رسمی‌تر استفاده می‌شود.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Should the situation worsen, we will revise the plan.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا inversion یک شرط آینده را با لحنی رسمی و پیش‌بینی‌محور بیان می‌کند.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "inversion با so و such و کاربرد بلاغی",
+        "htmlTag": 1,
+        "content": "inversion با so و such و کاربرد بلاغی",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "inversion با so و such و کاربرد بلاغی",
+        "htmlTag": 0,
+        "content": "گاهی inversion برای شدت دادن به صفت یا نتیجه یک موقعیت می‌آید، especially در ساخت‌های so ... that و such ... that. این کاربرد بیشتر در سبک روایی یا ادبی و در نوشته‌هایی دیده می‌شود که می‌خواهند اثر عاطفی یا بلاغی بیشتری ایجاد کنند.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so + adjective",
+        "htmlTag": 2,
+        "content": "کاربرد 1: so + adjective",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so + adjective",
+        "htmlTag": 0,
+        "content": "So intense was the pressure that several staff members resigned.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so + adjective",
+        "htmlTag": 0,
+        "content": "در این جمله inversion شدت pressure را در آغاز جمله برجسته می‌کند. این ترتیب لحن جمله را رسمی‌تر و ادبی‌تر می‌کند.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: such + noun phrase",
+        "htmlTag": 2,
+        "content": "کاربرد 2: such + noun phrase",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: such + noun phrase",
+        "htmlTag": 0,
+        "content": "Such was the confusion that nobody knew where to begin.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: such + noun phrase",
+        "htmlTag": 0,
+        "content": "اینجا inversion بعد از such کل وضعیت را به شکلی فشرده و تاثیرگذار معرفی می‌کند. جمله به‌جای گزارش ساده، نوعی رنگ بلاغی پیدا می‌کند.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "advanced inversion ابزاری برای تاکید و سازمان‌دهی بلاغی جمله است. اگر دلیل روشنی برای این جابه‌جایی نداشته باشیم، ساختار عادی often طبیعی‌تر است. پس مهم است که inversion را انتخاب سبکی آگاهانه بدانیم، نه فقط یک ترفند دستوری.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Little did he know that the email had been sent to everyone.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال inversion حس غافلگیری را قوی‌تر می‌کند و برای روایت بسیار موثر است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Not only was the proposal expensive, but it was also impractical.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا inversion بعد از not only برای موازی‌سازی و تاکید استفاده شده و دو نقد را به‌صورت متوازن کنار هم می‌گذارد.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

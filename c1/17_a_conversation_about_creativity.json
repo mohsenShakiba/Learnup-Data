@@ -1,0 +1,79 @@
+{
+    "title": "17 - A Conversation About Creativity",
+    "description": "دو هنرمند درباره منشأ خلاقیت و اینکه آیا می‌توان آن را پرورش داد بحث می‌کنند.",
+    "words": ["creativity", "inspiration", "constraint", "cultivate", "originality", "intuition", "discipline", "spontaneous", "incubate", "derivative", "elusive", "vulnerability", "flow", "nurture"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Do you think creativity can be taught?",
+            "translation": "فکر می‌کنی خلاقیت را می‌توان آموزش داد؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Cultivated, perhaps, more than taught.",
+            "translation": "شاید پرورش داد، بیش از آموزش دادن."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "So it's not purely innate?",
+            "translation": "پس کاملاً ذاتی نیست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "No, discipline matters as much as talent.",
+            "translation": "نه، نظم به اندازه استعداد مهم است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Interesting. I always wait for inspiration.",
+            "translation": "جالب است. من همیشه منتظر الهام می‌مانم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "But inspiration often follows the work.",
+            "translation": "اما الهام اغلب پس از کار می‌آید."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's counterintuitive, yet true.",
+            "translation": "این برخلاف شهود است، اما درست."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Strangely, constraints can spark originality.",
+            "translation": "عجیب است که محدودیت‌ها می‌توانند جرقه اصالت بزنند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Limitations force us to think differently.",
+            "translation": "محدودیت‌ها ما را وادار می‌کنند متفاوت فکر کنیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "And creating means risking vulnerability.",
+            "translation": "و آفریدن یعنی پذیرفتن خطر آسیب‌پذیری."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Perhaps that's why it feels so elusive.",
+            "translation": "شاید برای همین این‌قدر گریزپا به نظر می‌رسد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "We simply have to keep nurturing it.",
+            "translation": "فقط باید مدام آن را پرورش دهیم."
+        }
+    ]
+}

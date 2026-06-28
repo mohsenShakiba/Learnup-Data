@@ -1,0 +1,79 @@
+{
+    "title": "22 - At the Lost and Found",
+    "description": "گم شدن یک کیف و مراجعه به بخش اشیای گمشده.",
+    "words": ["lost", "found", "bag", "describe", "color", "inside", "wallet", "keys", "left", "yesterday", "report", "fill", "form", "lucky"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, I think I lost my bag here yesterday.",
+            "translation": "سلام، فکر کنم دیروز کیفم را اینجا گم کردم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I'm sorry to hear that. Can you describe it?",
+            "translation": "متأسفم که این را می‌شنوم. می‌توانید توصیفش کنید؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "It's a small black bag.",
+            "translation": "یک کیف کوچک مشکی است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "What was inside it?",
+            "translation": "داخلش چه بود؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "My wallet, some keys, and a book.",
+            "translation": "کیف پولم، چند کلید و یک کتاب."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Where did you leave it?",
+            "translation": "کجا جایش گذاشتید؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I think near the main entrance.",
+            "translation": "فکر می‌کنم نزدیک ورودی اصلی."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Let me check. We found a black bag this morning.",
+            "translation": "بگذارید چک کنم. امروز صبح یک کیف مشکی پیدا کردیم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Really? That might be mine!",
+            "translation": "واقعاً؟ شاید مال من باشد!"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Is this it?",
+            "translation": "همین است؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes! Thank you so much. I'm so lucky.",
+            "translation": "بله! خیلی ممنون. خیلی خوش‌شانسم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "You're welcome. Please fill in this form.",
+            "translation": "خواهش می‌کنم. لطفاً این فرم را پر کنید."
+        }
+    ]
+}

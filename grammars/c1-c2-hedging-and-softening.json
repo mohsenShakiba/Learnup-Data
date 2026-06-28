@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Hedging and softening",
+    "levelId": 5,
+    "order": 6,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس hedging و softening را برای بیان محتاطانه‌تر، مودبانه‌تر و تحلیلی‌ترِ نظر، نقد و پیشنهاد توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "hedging برای کاهش قطعیت",
+        "htmlTag": 1,
+        "content": "hedging برای کاهش قطعیت",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "hedging برای کاهش قطعیت",
+        "htmlTag": 0,
+        "content": "hedging به ما کمک می‌کند ادعاها را با احتیاط بیشتری مطرح کنیم. در بسیاری از بافت‌های حرفه‌ای و دانشگاهی، قطعیت بیش از حد نه‌تنها لازم نیست، بلکه ممکن است متن را خام یا غیرعلمی جلوه دهد.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کاهش شدت ادعا",
+        "htmlTag": 2,
+        "content": "کاربرد 1: کاهش شدت ادعا",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کاهش شدت ادعا",
+        "htmlTag": 0,
+        "content": "This may suggest a weakness in the original design.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کاهش شدت ادعا",
+        "htmlTag": 0,
+        "content": "در این جمله نویسنده نتیجه‌گیری را با may suggest نرم‌تر کرده است. او احتمال یا برداشت خود را مطرح می‌کند، نه یک حقیقت قطعی و نهایی را.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: استفاده از adverbهای محتاطانه",
+        "htmlTag": 2,
+        "content": "کاربرد 2: استفاده از adverbهای محتاطانه",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: استفاده از adverbهای محتاطانه",
+        "htmlTag": 0,
+        "content": "The figures are slightly misleading.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: استفاده از adverbهای محتاطانه",
+        "htmlTag": 0,
+        "content": "اینجا slightly شدت نقد را پایین می‌آورد و جمله را سنجیده‌تر می‌کند. softening sometimes باعث می‌شود شنونده یا خواننده دفاعی‌تر واکنش نشان ندهد.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "hedging نشانه ضعف فکری نیست؛ برعکس، often نشانه دقت و بلوغ تحلیلی است. گوینده با این ابزار نشان می‌دهد مرز بین مشاهده، تفسیر و قطعیت را می‌شناسد.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It seems that the team underestimated the cost.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال seems فاصله‌ای سنجیده بین نویسنده و ادعا ایجاد می‌کند و جمله را حرفه‌ای‌تر می‌سازد.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There is some evidence that the policy needs revision.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا some evidence ادعا را بر پایه شواهد محدود یا اولیه معرفی می‌کند، نه به‌عنوان حکم قطعی.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "softening در پیشنهاد، نقد و مخالفت",
+        "htmlTag": 1,
+        "content": "softening در پیشنهاد، نقد و مخالفت",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "softening در پیشنهاد، نقد و مخالفت",
+        "htmlTag": 0,
+        "content": "softening فقط برای نوشتار علمی نیست؛ در گفتگو، جلسه، ایمیل و مذاکره هم بسیار مهم است. گاهی محتوای جمله همان است، اما با تغییر لحن می‌توان آن را بسیار قابل‌پذیرش‌تر و حرفه‌ای‌تر کرد.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پیشنهاد نرم‌تر",
+        "htmlTag": 2,
+        "content": "کاربرد 1: پیشنهاد نرم‌تر",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پیشنهاد نرم‌تر",
+        "htmlTag": 0,
+        "content": "We might want to review the schedule again.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پیشنهاد نرم‌تر",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده پیشنهاد می‌دهد، اما آن را به‌صورت مستقیم و آمرانه بیان نمی‌کند. might want to فضای همکاری و گفت‌وگو را باز نگه می‌دارد.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت محترمانه",
+        "htmlTag": 2,
+        "content": "کاربرد 2: مخالفت محترمانه",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت محترمانه",
+        "htmlTag": 0,
+        "content": "I am not entirely convinced that this is the best option.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت محترمانه",
+        "htmlTag": 0,
+        "content": "اینجا مخالفت وجود دارد، اما with careful wording بیان می‌شود. entirely و ساختار کلی جمله شدت رد کردن را پایین می‌آورند و لحن را حرفه‌ای نگه می‌دارند.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در بسیاری از موقعیت‌ها، محتوای خامِ جمله مشکل‌ساز نیست؛ مشکل در میزان فشار یا مستقیم بودن آن است. softening کمک می‌کند همان پیام را بدون آسیب‌زدن به رابطه یا tone منتقل کنیم.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Perhaps we could explore a cheaper alternative.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال perhaps و could هر دو پیشنهاد را نرم‌تر می‌کنند و آن را به‌صورت گزینه‌ای قابل‌بحث ارائه می‌دهند.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There may be a simpler way to approach this issue.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا نقد غیرمستقیم مطرح می‌شود، اما لحن جمله همچنان سازنده و مودبانه باقی می‌ماند.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تعادل بین وضوح و احتیاط",
+        "htmlTag": 1,
+        "content": "تعادل بین وضوح و احتیاط",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تعادل بین وضوح و احتیاط",
+        "htmlTag": 0,
+        "content": "اگر بیش از حد hedge کنیم، متن ضعیف و دودل به نظر می‌رسد. اگر اصلا hedge نکنیم، متن خشک، قاطع یا حتی تهاجمی می‌شود. مهارت واقعی در این است که بدانیم کجا باید موضع روشن بگیریم و کجا باید برای دقت یا ادب، شدت را کم کنیم.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: قطعیتِ لازم",
+        "htmlTag": 2,
+        "content": "کاربرد 1: قطعیتِ لازم",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: قطعیتِ لازم",
+        "htmlTag": 0,
+        "content": "The company must address the security breach immediately.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: قطعیتِ لازم",
+        "htmlTag": 0,
+        "content": "در این جمله شدت بالا تعمدی است، چون موقعیت اضطراری و جدی است. hedging بیش از حد در چنین بافتی می‌تواند پیام را ضعیف کند.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: احتیاطِ لازم",
+        "htmlTag": 2,
+        "content": "کاربرد 2: احتیاطِ لازم",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: احتیاطِ لازم",
+        "htmlTag": 0,
+        "content": "The company may need to reconsider its current approach.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: احتیاطِ لازم",
+        "htmlTag": 0,
+        "content": "اینجا لحن محتاطانه‌تر است، چون جمله بیشتر تحلیل و پیشنهاد ارائه می‌دهد تا هشدار فوری. این تفاوت tone برای حرفه‌ای بودن مهم است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "hedging و softening ابزارهای بلاغی‌اند، نه قاعده‌هایی که همیشه باید استفاده شوند. هدف آن‌ها ساختن لحن متناسب با بافت، رابطه و سطح قطعیت واقعیِ ادعاست.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It would appear that several assumptions were unrealistic.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این ساختار نتیجه‌گیری را با فاصله و احتیاط بیان می‌کند و برای نقد نوشتاری بسیار مناسب است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I wonder if we might be overlooking a simpler explanation.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال نقد به شکل پرسش غیرمستقیم و بسیار نرم مطرح شده است و مقاومت طرف مقابل را کاهش می‌دهد.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

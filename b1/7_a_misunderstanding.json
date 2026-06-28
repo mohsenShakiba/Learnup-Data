@@ -1,0 +1,79 @@
+{
+    "title": "7 - Clearing Up a Misunderstanding",
+    "description": "روشن کردن یک سوءتفاهم درباره پیامی که اشتباه فهمیده شده بود.",
+    "words": ["message", "said", "told", "thought", "actually", "mean", "confused", "mention", "promise", "remember", "clear", "assume", "explain", "realize"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I thought you said the meeting was at three.",
+            "translation": "فکر کردم گفتی جلسه ساعت سه است."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Actually, I said it was at two.",
+            "translation": "راستش گفتم ساعت دو است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Oh no. I must have misheard you.",
+            "translation": "وای نه. حتماً اشتباه شنیدم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I told everyone in the message yesterday.",
+            "translation": "دیروز در پیام به همه گفتم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I didn't see that message.",
+            "translation": "من آن پیام را ندیدم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Maybe I forgot to add you to the group.",
+            "translation": "شاید فراموش کردم تو را به گروه اضافه کنم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That explains why I was confused.",
+            "translation": "این توضیح می‌دهد چرا گیج شده بودم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I'm sorry. I assumed you knew.",
+            "translation": "متأسفم. فکر کردم می‌دانی."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "It's okay. Now I understand.",
+            "translation": "اشکالی ندارد. حالا متوجه شدم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Next time I'll make sure it's clear.",
+            "translation": "دفعه بعد مطمئن می‌شوم که واضح باشد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thanks. Let's not let it happen again.",
+            "translation": "ممنون. بیا نگذاریم دوباره اتفاق بیفتد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Agreed. I'll send you the details now.",
+            "translation": "موافقم. همین حالا جزئیات را برایت می‌فرستم."
+        }
+    ]
+}

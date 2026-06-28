@@ -1,0 +1,79 @@
+{
+    "title": "25 - Negotiating a Pay Rise",
+    "description": "کارمندی با دلیل و آرامش از مدیرش درخواست افزایش حقوق می‌کند.",
+    "words": ["raise", "value", "contribution", "market", "justify", "performance", "responsibility", "review", "reasonable", "deserve", "budget", "consider", "appreciate", "discuss"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Thanks for meeting me. I'd like to discuss my pay.",
+            "translation": "ممنون که ملاقاتم کردید. می‌خواهم درباره حقوقم صحبت کنم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. What did you have in mind?",
+            "translation": "البته. چه چیزی مد نظر داشتی؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I believe a raise is justified.",
+            "translation": "معتقدم افزایش حقوق منطقی است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Can you tell me why?",
+            "translation": "می‌توانی بگویی چرا؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "My responsibilities have grown significantly.",
+            "translation": "مسئولیت‌هایم به‌طور قابل‌توجهی بیشتر شده."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "That's true. You've taken on a lot.",
+            "translation": "درست است. کارهای زیادی را به عهده گرفته‌ای."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "My performance reviews have been strong too.",
+            "translation": "ارزیابی‌های عملکردم هم قوی بوده‌اند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I can't argue with that.",
+            "translation": "نمی‌توانم با آن مخالفت کنم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "My salary is also below the market rate.",
+            "translation": "حقوقم هم زیر نرخ بازار است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Let me review the budget this week.",
+            "translation": "بگذار این هفته بودجه را بررسی کنم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'd really appreciate that.",
+            "translation": "واقعاً قدردانی می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "You've made a reasonable case. I'll consider it.",
+            "translation": "استدلال منطقی‌ای ارائه دادی. در نظرش می‌گیرم."
+        }
+    ]
+}

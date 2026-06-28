@@ -1,0 +1,79 @@
+{
+    "title": "40 - Talking About Future Technology",
+    "description": "گفتگوی ساده درباره اینکه فناوری در آینده چگونه ممکن است زندگی را تغییر دهد.",
+    "words": ["technology", "future", "robot", "electric", "car", "smart", "change", "useful", "imagine", "machine", "faster", "everyday", "worry", "exciting"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "How do you think technology will change?",
+            "translation": "فکر می‌کنی فناوری چطور تغییر می‌کند؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I think robots will do more work.",
+            "translation": "فکر می‌کنم ربات‌ها کارهای بیشتری انجام خواهند داد."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Do you think that's a good thing?",
+            "translation": "فکر می‌کنی این چیز خوبی است؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Mostly, but some people worry about jobs.",
+            "translation": "بیشتر، اما بعضی‌ها نگران شغل‌ها هستند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Cars will be electric, right?",
+            "translation": "ماشین‌ها برقی خواهند بود، درست است؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, and maybe they will drive themselves.",
+            "translation": "بله، و شاید خودشان رانندگی کنند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's hard to imagine!",
+            "translation": "تصورش سخت است!"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Our homes will be smarter too.",
+            "translation": "خانه‌هایمان هم هوشمندتر خواهند شد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I hope it makes life easier.",
+            "translation": "امیدوارم زندگی را آسان‌تر کند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "It will, but we must be careful.",
+            "translation": "می‌کند، اما باید مراقب باشیم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "The future sounds really exciting.",
+            "translation": "آینده واقعاً هیجان‌انگیز به نظر می‌رسد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "It does. I can't wait to see it.",
+            "translation": "همینطور است. طاقت ندارم آن را ببینم."
+        }
+    ]
+}

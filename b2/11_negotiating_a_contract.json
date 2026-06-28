@@ -1,0 +1,79 @@
+{
+    "title": "11 - Negotiating a Contract",
+    "description": "دو طرف درباره شرایط یک قرارداد تجاری مذاکره می‌کنند.",
+    "words": ["contract", "terms", "clause", "negotiate", "deadline", "penalty", "flexible", "commitment", "obligation", "amend", "mutual", "guarantee", "renew", "finalize"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Thank you for sending over the draft contract.",
+            "translation": "ممنون که پیش‌نویس قرارداد را فرستادید."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "You're welcome. Do you have any concerns?",
+            "translation": "خواهش می‌کنم. نگرانی‌ای دارید؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "A few. The delivery deadline seems tight.",
+            "translation": "چند تا. مهلت تحویل فشرده به نظر می‌رسد."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "We could be flexible on that clause.",
+            "translation": "می‌توانیم درباره آن بند انعطاف نشان دهیم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Good. I'd also like to discuss the penalty terms.",
+            "translation": "خوب است. می‌خواهم درباره شرایط جریمه هم صحبت کنم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "What did you have in mind?",
+            "translation": "چه چیزی مد نظر داشتید؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "A lower penalty for minor delays.",
+            "translation": "جریمه کمتر برای تأخیرهای جزئی."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That's reasonable. We can amend that.",
+            "translation": "منطقی است. می‌توانیم آن را اصلاح کنیم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "In return, we'll guarantee a long-term commitment.",
+            "translation": "در مقابل، یک تعهد بلندمدت تضمین می‌کنیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That works for both sides.",
+            "translation": "این برای هر دو طرف خوب است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Shall we add an option to renew?",
+            "translation": "گزینه تمدید را اضافه کنیم؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Agreed. Let's finalize the details tomorrow.",
+            "translation": "موافقم. بیایید جزئیات را فردا نهایی کنیم."
+        }
+    ]
+}

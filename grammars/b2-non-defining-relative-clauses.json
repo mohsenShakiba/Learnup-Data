@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Non-defining relative clauses",
+    "levelId": 4,
+    "order": 7,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس non-defining relative clause را برای افزودن اطلاعات اضافی درباره شخص یا چیزِ از قبل مشخص توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "نقش non-defining relative clause",
+        "htmlTag": 1,
+        "content": "نقش non-defining relative clause",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نقش non-defining relative clause",
+        "htmlTag": 0,
+        "content": "non-defining relative clause اطلاعات اضافه می‌دهد، نه اطلاعات ضروری. یعنی اسم قبل از آن از قبل برای شنونده یا خواننده مشخص است و clause فقط توضیح بیشتری به آن اضافه می‌کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اطلاعات اضافه درباره شخص",
+        "htmlTag": 2,
+        "content": "کاربرد 1: اطلاعات اضافه درباره شخص",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اطلاعات اضافه درباره شخص",
+        "htmlTag": 0,
+        "content": "My brother, who lives in Dubai, is visiting us next week.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اطلاعات اضافه درباره شخص",
+        "htmlTag": 0,
+        "content": "در این جمله we already know who my brother is و بخش who lives in Dubai فقط توضیح اضافی می‌دهد. اگر clause را حذف کنیم، هویت برادر همچنان روشن می‌ماند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اطلاعات اضافه درباره چیز",
+        "htmlTag": 2,
+        "content": "کاربرد 2: اطلاعات اضافه درباره چیز",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اطلاعات اضافه درباره چیز",
+        "htmlTag": 0,
+        "content": "The museum, which was renovated last year, is very popular now.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اطلاعات اضافه درباره چیز",
+        "htmlTag": 0,
+        "content": "اینجا clause فقط اطلاعات تکمیلی درباره موزه می‌دهد. موزه از قبل مشخص است و relative clause فقط جزئیات بیشتری به متن اضافه می‌کند.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "برخلاف defining clause، در این نوع clause از ویرگول استفاده می‌کنیم، چون اطلاعات داخل آن بخش جدا و غیرضروری برای شناسایی مرجع است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Tehran, which is the capital of Iran, is very crowded.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال نام شهر از قبل مشخص است و clause فقط یک حقیقت تکمیلی را اضافه می‌کند.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Mr. Lee, who taught me at university, has written a new book.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا relative clause فقط اطلاعات پس‌زمینه‌ای درباره Mr. Lee می‌دهد و برای شناسایی او ضروری نیست.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "which، who و whose در clauseهای غیرتعریفی",
+        "htmlTag": 1,
+        "content": "which، who و whose در clauseهای غیرتعریفی",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "which، who و whose در clauseهای غیرتعریفی",
+        "htmlTag": 0,
+        "content": "در non-defining clause معمولا از who برای people و which برای things استفاده می‌کنیم. whose هم برای نشان دادن مالکیت به کار می‌رود و می‌تواند درباره people و sometimes things استفاده شود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: who برای توضیح شخص",
+        "htmlTag": 2,
+        "content": "کاربرد 1: who برای توضیح شخص",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: who برای توضیح شخص",
+        "htmlTag": 0,
+        "content": "Sara, who speaks three languages, works for an airline.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: who برای توضیح شخص",
+        "htmlTag": 0,
+        "content": "در این جمله who clause توضیحی را به Sara اضافه می‌کند. این بخش دانستنی جالبی است، اما برای فهمیدن این‌که منظور کدام Sara است ضروری نیست.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: whose برای مالکیت",
+        "htmlTag": 2,
+        "content": "کاربرد 2: whose برای مالکیت",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: whose برای مالکیت",
+        "htmlTag": 0,
+        "content": "My neighbor, whose son studies medicine, is moving soon.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: whose برای مالکیت",
+        "htmlTag": 0,
+        "content": "اینجا whose رابطه مالکیت را نشان می‌دهد و اطلاعاتی درباره پسر همسایه اضافه می‌کند. این ساختار در نوشتار رسمی و دقیق بسیار مفید است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در non-defining clause معمولا از that استفاده نمی‌کنیم. این یکی از تفاوت‌های مهم با defining clause است و دانستن آن برای نوشتار دقیق و سطح بالاتر اهمیت زیادی دارد.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The hotel, which overlooks the sea, is expensive.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال which اطلاعات اضافی درباره موقعیت هتل می‌دهد، اما clause برای شناسایی هتل ضروری نیست.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Dr. Green, whose lectures are always full, won an award.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا whose یک ویژگی مرتبط با او را از طریق lectures توضیح می‌دهد و متن را غنی‌تر می‌کند.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت با defining clause و اشتباه‌های رایج",
+        "htmlTag": 1,
+        "content": "تفاوت با defining clause و اشتباه‌های رایج",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت با defining clause و اشتباه‌های رایج",
+        "htmlTag": 0,
+        "content": "مهم‌ترین تفاوت این است که defining clause مرجع را محدود می‌کند، اما non-defining clause فقط اطلاعات اضافه می‌دهد. اگر این تفاوت را نادیده بگیریم، ممکن است هم معنا و هم علامت‌گذاری جمله اشتباه شود.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: clause ضروری",
+        "htmlTag": 2,
+        "content": "کاربرد 1: clause ضروری",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: clause ضروری",
+        "htmlTag": 0,
+        "content": "Students who miss the exam must contact the office.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: clause ضروری",
+        "htmlTag": 0,
+        "content": "در این جمله clause ضروری است، چون فقط گروه خاصی از students منظور است. بنابراین این جمله defining است و ویرگول نمی‌گیرد.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: clause اضافی",
+        "htmlTag": 2,
+        "content": "کاربرد 2: clause اضافی",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: clause اضافی",
+        "htmlTag": 0,
+        "content": "My students, who are very hardworking, finished the project early.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: clause اضافی",
+        "htmlTag": 0,
+        "content": "اینجا my students already مشخص هستند و clause فقط یک نظر یا اطلاعات تکمیلی درباره آن‌ها می‌دهد. پس sentence non-defining است و ویرگول لازم دارد.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "یکی از خطاهای رایج این است که ویرگول را فراموش کنیم یا از that استفاده کنیم. هر دو خطا می‌توانند باعث شوند جمله از نظر لحن و معنا طبیعی نباشد.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The car, which I bought in 2020, still runs perfectly.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال ماشین از قبل مشخص است و clause فقط اطلاعات پس‌زمینه‌ای درباره زمان خرید می‌دهد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "People who work night shifts often feel tired during the day.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این جمله برای مقایسه مفید است، چون clause در آن نقش تعریفی دارد و درباره یک گروه خاص از people حرف می‌زند.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Some, any, much, many, a lot of",
+    "levelId": 2,
+    "order": 7,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس some، any، much، many و a lot of را برای بیان مقدار در جمله‌های مثبت، منفی و پرسشی توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "some و any",
+        "htmlTag": 1,
+        "content": "some و any",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "some و any",
+        "htmlTag": 0,
+        "content": "some و any برای اشاره به مقدار نامشخص به کار می‌روند. some بیشتر در جمله‌های مثبت و پیشنهادها رایج است، و any معمولا در جمله‌های منفی و بیشتر سوال‌ها دیده می‌شود.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some در جمله مثبت",
+        "htmlTag": 2,
+        "content": "کاربرد 1: some در جمله مثبت",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some در جمله مثبت",
+        "htmlTag": 0,
+        "content": "We bought some fruit.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some در جمله مثبت",
+        "htmlTag": 0,
+        "content": "اینجا some مقدار نامشخصی از fruit را در یک جمله مثبت نشان می‌دهد. هدف فقط گفتن وجود مقداری از آن است، نه عدد دقیق.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any در جمله منفی",
+        "htmlTag": 2,
+        "content": "کاربرد 2: any در جمله منفی",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any در جمله منفی",
+        "htmlTag": 0,
+        "content": "I do not have any money.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any در جمله منفی",
+        "htmlTag": 0,
+        "content": "در این جمله any با ساختار منفی آمده و نشان می‌دهد هیچ پولی وجود ندارد یا مقدار آن صفر است. این کاربرد بسیار رایج است.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در بعضی سوال‌های مودبانه یا پیشنهادها هم some طبیعی است، چون گوینده انتظار پاسخ مثبت دارد یا چیزی پیشنهاد می‌کند. بنابراین جای some و any همیشه فقط به مثبت و منفی محدود نیست.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Are there any eggs in the fridge?",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا any در سوال آمده چون گوینده فقط درباره وجود تخم‌مرغ می‌پرسد و مقدار مشخصی را فرض نمی‌کند.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Would you like some tea?",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال some در یک پیشنهاد مودبانه آمده است، چون گوینده مقدار واقعی را مطرح نمی‌کند و انتظار دارد طرف مقابل شاید قبول کند.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "much و many",
+        "htmlTag": 1,
+        "content": "much و many",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "much و many",
+        "htmlTag": 0,
+        "content": "much و many هر دو برای صحبت درباره مقدار زیاد یا پرسش از مقدار به کار می‌روند، اما much بیشتر با اسم‌های غیرقابل‌شمارش می‌آید و many با اسم‌های قابل‌شمارش جمع.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: many با اسم قابل‌شمارش جمع",
+        "htmlTag": 2,
+        "content": "کاربرد 1: many با اسم قابل‌شمارش جمع",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: many با اسم قابل‌شمارش جمع",
+        "htmlTag": 0,
+        "content": "How many students are in the class?",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: many با اسم قابل‌شمارش جمع",
+        "htmlTag": 0,
+        "content": "چون students قابل‌شمارش و جمع است، از many استفاده می‌کنیم. این ساختار برای پرسیدن تعداد بسیار رایج است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: much با اسم غیرقابل‌شمارش",
+        "htmlTag": 2,
+        "content": "کاربرد 2: much با اسم غیرقابل‌شمارش",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: much با اسم غیرقابل‌شمارش",
+        "htmlTag": 0,
+        "content": "How much time do we have?",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: much با اسم غیرقابل‌شمارش",
+        "htmlTag": 0,
+        "content": "اینجا time غیرقابل‌شمارش در نظر گرفته شده است، بنابراین much شکل درست برای پرسیدن مقدار آن است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در جمله‌های مثبت روزمره، a lot of معمولا طبیعی‌تر از much است. much بیشتر در سوال‌ها، جمله‌های منفی و بعضی سبک‌های رسمی‌تر دیده می‌شود.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There are not many buses at night.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال many با buses آمده چون bus قابل‌شمارش است. جمله منفی است و مقدار کم را نشان می‌دهد.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We do not have much milk left.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا much با milk آمده چون milk غیرقابل‌شمارش است. جمله مقدار کمِ باقی‌مانده را نشان می‌دهد.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "a lot of و مرور",
+        "htmlTag": 1,
+        "content": "a lot of و مرور",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "a lot of و مرور",
+        "htmlTag": 0,
+        "content": "a lot of یک quantifier بسیار انعطاف‌پذیر است و می‌تواند هم با اسم‌های قابل‌شمارش جمع و هم با غیرقابل‌شمارش بیاید. به همین دلیل در مکالمه روزمره خیلی پرکاربرد و ساده است.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a lot of با اسم قابل‌شمارش",
+        "htmlTag": 2,
+        "content": "کاربرد 1: a lot of با اسم قابل‌شمارش",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a lot of با اسم قابل‌شمارش",
+        "htmlTag": 0,
+        "content": "She has a lot of friends.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: a lot of با اسم قابل‌شمارش",
+        "htmlTag": 0,
+        "content": "اینجا friends قابل‌شمارش و جمع است، اما a lot of بدون مشکل قبل از آن آمده و مقدار زیاد را نشان می‌دهد.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: a lot of با اسم غیرقابل‌شمارش",
+        "htmlTag": 2,
+        "content": "کاربرد 2: a lot of با اسم غیرقابل‌شمارش",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: a lot of با اسم غیرقابل‌شمارش",
+        "htmlTag": 0,
+        "content": "They drink a lot of water.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: a lot of با اسم غیرقابل‌شمارش",
+        "htmlTag": 0,
+        "content": "در این جمله water غیرقابل‌شمارش است، ولی a lot of همچنان مناسب است. این انعطاف یکی از مزیت‌های مهم این عبارت است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر نمی‌دانیم much یا many باید استفاده کنیم، در جمله مثبت اغلب می‌توانیم از a lot of کمک بگیریم. این انتخاب طبیعی‌تر است و اشتباه را کمتر می‌کند.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We saw a lot of cars on the road.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال a lot of با اسم جمع قابل‌شمارش cars آمده و مقدار زیاد را بیان می‌کند.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There is a lot of noise here.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا noise غیرقابل‌شمارش است و a lot of مقدار زیاد آن را نشان می‌دهد. این ساختار در مکالمه کاملا طبیعی است.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

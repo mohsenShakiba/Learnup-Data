@@ -1,0 +1,79 @@
+{
+    "title": "16 - Discussing a Book",
+    "description": "دو دوست درباره کتابی که اخیراً خوانده‌اند و نظرشان درباره آن صحبت می‌کنند.",
+    "words": ["novel", "author", "character", "plot", "chapter", "twist", "relate", "recommend", "boring", "gripping", "theme", "ending", "imagine", "review"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Have you finished the novel I lent you?",
+            "translation": "رمانی را که قرضت دادم تمام کردی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, I couldn't put it down.",
+            "translation": "بله، نمی‌توانستم زمینش بگذارم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'm glad. What did you think of the ending?",
+            "translation": "خوشحالم. نظرت درباره پایانش چه بود؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "The twist completely surprised me.",
+            "translation": "آن چرخش داستان کاملاً غافلگیرم کرد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Me too. I didn't see it coming.",
+            "translation": "من هم. اصلاً انتظارش را نداشتم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I really related to the main character.",
+            "translation": "واقعاً با شخصیت اصلی همذات‌پنداری کردم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "She felt very real, didn't she?",
+            "translation": "خیلی واقعی به نظر می‌رسید، نه؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Some chapters were a bit slow, though.",
+            "translation": "هرچند بعضی فصل‌ها کمی کند بودند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "True, but the theme was powerful.",
+            "translation": "درست است، اما مضمونش قدرتمند بود."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Would you read more by this author?",
+            "translation": "کتاب‌های بیشتری از این نویسنده می‌خوانی؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Definitely. I've already ordered another one.",
+            "translation": "قطعاً. همین حالا یکی دیگر سفارش داده‌ام."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Let me know if it's worth reading.",
+            "translation": "بهم بگو اگر ارزش خواندن دارد."
+        }
+    ]
+}

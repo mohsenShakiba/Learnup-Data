@@ -1,0 +1,79 @@
+{
+    "title": "33 - At the Dentist",
+    "description": "مراجعه به دندان‌پزشک به دلیل درد دندان.",
+    "words": ["dentist", "tooth", "pain", "ache", "open", "mouth", "clean", "sweet", "check", "hurt", "fill", "brush", "twice", "careful"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello. What seems to be the problem?",
+            "translation": "سلام. مشکل چیست؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I have a bad toothache.",
+            "translation": "دندان‌درد شدیدی دارم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Please open your mouth wide.",
+            "translation": "لطفاً دهانتان را خوب باز کنید."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "It hurts on this side.",
+            "translation": "این طرف درد می‌کند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I see the problem. This tooth has a hole.",
+            "translation": "مشکل را می‌بینم. این دندان سوراخ دارد."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Is it serious?",
+            "translation": "جدی است؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "No, but I need to fill it today.",
+            "translation": "نه، اما باید امروز پُرش کنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Will it hurt?",
+            "translation": "درد دارد؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Just a little. I'll be careful.",
+            "translation": "فقط کمی. مراقب خواهم بود."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Thank you. What can I do at home?",
+            "translation": "ممنون. در خانه چه کار می‌توانم بکنم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Brush twice a day and eat less sweet food.",
+            "translation": "روزی دو بار مسواک بزنید و کمتر شیرینی بخورید."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Okay, I will. Thank you, doctor.",
+            "translation": "باشه، حتماً. ممنون، دکتر."
+        }
+    ]
+}

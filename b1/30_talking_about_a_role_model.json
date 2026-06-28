@@ -1,0 +1,79 @@
+{
+    "title": "30 - Talking About a Role Model",
+    "description": "گفتگو درباره فردی که الگوی زندگی و الهام‌بخش بوده است.",
+    "words": ["role model", "inspire", "admire", "values", "determined", "achieve", "overcome", "humble", "influence", "respect", "example", "dedicated", "lesson", "grateful"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Who has influenced you the most in life?",
+            "translation": "چه کسی در زندگی بیشترین تأثیر را روی تو گذاشته؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Without a doubt, my grandmother.",
+            "translation": "بدون شک، مادربزرگم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What did you admire about her?",
+            "translation": "چه چیزی‌اش را تحسین می‌کردی؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "She was incredibly determined.",
+            "translation": "فوق‌العاده مصمم بود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Did she overcome difficult times?",
+            "translation": "روزگار سختی را پشت سر گذاشت؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, she raised five children alone.",
+            "translation": "بله، پنج فرزند را به‌تنهایی بزرگ کرد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's truly inspiring.",
+            "translation": "این واقعاً الهام‌بخش است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "And yet she stayed so humble.",
+            "translation": "و با این حال خیلی فروتن ماند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "What's the biggest lesson she taught you?",
+            "translation": "بزرگ‌ترین درسی که به تو داد چه بود؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "To never give up on my values.",
+            "translation": "اینکه هرگز از ارزش‌هایم دست نکشم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "She sounds like a wonderful person.",
+            "translation": "به نظر آدم فوق‌العاده‌ای می‌آید."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "She was. I'm so grateful for her example.",
+            "translation": "بود. خیلی بابت الگو بودنش سپاسگزارم."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "9 - Debating Free Will",
+    "description": "دو دوست درباره اینکه آیا انسان واقعاً اراده آزاد دارد یا خیر بحث فلسفی می‌کنند.",
+    "words": ["free will", "determinism", "predetermined", "consciousness", "illusion", "agency", "inevitable", "philosophical", "accountable", "circumstance", "compelling", "contradict", "premise", "ultimately"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Do you genuinely believe we have free will?",
+            "translation": "واقعاً معتقدی ما اراده آزاد داریم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I do, though I admit it's hard to prove.",
+            "translation": "بله، هرچند اعتراف می‌کنم اثباتش سخت است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Some argue everything is predetermined.",
+            "translation": "بعضی‌ها استدلال می‌کنند همه چیز از پیش تعیین شده."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That's the determinist view, isn't it?",
+            "translation": "این دیدگاه جبرگراست، نه؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Yes, that our choices are merely an illusion.",
+            "translation": "بله، اینکه انتخاب‌های ما صرفاً یک توهم‌اند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "But that contradicts how we actually live.",
+            "translation": "اما این با نحوه واقعی زندگی ما در تناقض است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "True. We still hold people accountable.",
+            "translation": "درست است. ما هنوز مردم را پاسخگو می‌دانیم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Exactly. Without agency, blame is meaningless.",
+            "translation": "دقیقاً. بدون اختیار، سرزنش بی‌معناست."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Yet our circumstances shape us profoundly.",
+            "translation": "با این حال شرایطمان عمیقاً ما را شکل می‌دهد."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Perhaps freedom lies somewhere in between.",
+            "translation": "شاید آزادی جایی در این میان نهفته است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "A compelling compromise, I'll admit.",
+            "translation": "یک مصالحه متقاعدکننده، اعتراف می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Ultimately, the question may never be settled.",
+            "translation": "در نهایت، شاید این پرسش هرگز حل نشود."
+        }
+    ]
+}

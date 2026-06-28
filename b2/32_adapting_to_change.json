@@ -1,0 +1,79 @@
+{
+    "title": "32 - Adapting to Change",
+    "description": "دو همکار درباره چگونگی سازگاری با تغییرات بزرگ در محل کار صحبت می‌کنند.",
+    "words": ["change", "adapt", "uncertainty", "resist", "flexible", "transition", "embrace", "mindset", "comfort zone", "evolve", "resilient", "opportunity", "adjust", "thrive"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "The restructuring has unsettled everyone.",
+            "translation": "تجدید ساختار همه را نگران کرده."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Change is always uncomfortable at first.",
+            "translation": "تغییر همیشه اولش ناخوشایند است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Some people are really resisting it.",
+            "translation": "بعضی‌ها واقعاً در برابرش مقاومت می‌کنند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Resistance usually makes it harder.",
+            "translation": "مقاومت معمولاً کار را سخت‌تر می‌کند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "How do you stay so calm about it?",
+            "translation": "تو چطور درباره‌اش این‌قدر آرام می‌مانی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I try to see change as an opportunity.",
+            "translation": "سعی می‌کنم تغییر را یک فرصت ببینم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's a healthy mindset.",
+            "translation": "این طرز فکر سالمی است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Staying flexible helps a lot.",
+            "translation": "انعطاف‌پذیر ماندن خیلی کمک می‌کند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I suppose we have to adapt anyway.",
+            "translation": "گمان کنم به هر حال باید سازگار شویم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Those who adjust quickly tend to thrive.",
+            "translation": "کسانی که سریع تطبیق می‌یابند معمولاً شکوفا می‌شوند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "You've given me a new perspective.",
+            "translation": "دیدگاه تازه‌ای به من دادی."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Embrace it, and it gets easier.",
+            "translation": "بپذیرش، و آسان‌تر می‌شود."
+        }
+    ]
+}

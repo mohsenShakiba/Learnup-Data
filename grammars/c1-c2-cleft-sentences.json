@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Cleft and pseudo-cleft sentences",
+    "levelId": 5,
+    "order": 3,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس cleft sentenceها را برای جابه‌جایی تمرکز اطلاعاتی و تاکید روی بخش خاصی از جمله توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "it-cleft برای برجسته کردن یک عنصر",
+        "htmlTag": 1,
+        "content": "it-cleft برای برجسته کردن یک عنصر",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "it-cleft برای برجسته کردن یک عنصر",
+        "htmlTag": 0,
+        "content": "cleft sentence جمله‌ای است که به‌جای گفتن یک خبر به شکل مستقیم، آن را دوباره سازمان‌دهی می‌کند تا بخش خاصی برجسته شود. در it-cleft معمولا با It is/was ... that/who ... توجه مخاطب را روی یک شخص، زمان، مکان یا دلیل خاص متمرکز می‌کنیم.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید روی فاعل",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تاکید روی فاعل",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید روی فاعل",
+        "htmlTag": 0,
+        "content": "It was Sara who solved the problem.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید روی فاعل",
+        "htmlTag": 0,
+        "content": "در این جمله حل شدن مشکل خبر اصلی است، اما cleft باعث می‌شود توجه به شخصِ حل‌کننده جلب شود. جمله therefore از نظر اطلاعاتی جهت‌گیری تازه‌ای پیدا می‌کند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید روی زمان",
+        "htmlTag": 2,
+        "content": "کاربرد 2: تاکید روی زمان",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید روی زمان",
+        "htmlTag": 0,
+        "content": "It was after the meeting that they changed their minds.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید روی زمان",
+        "htmlTag": 0,
+        "content": "اینجا cleft زمان را برجسته می‌کند و نشان می‌دهد لحظه تغییر نظر اهمیت خاصی در روایت دارد.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "it-cleft زمانی مفید است که بخواهیم یک عنصر را در تقابل با گزینه‌های دیگر برجسته کنیم یا پاسخ دقیق‌تری به یک سوال ضمنی بدهیم. اگر تاکید اضافی لازم نباشد، شکل ساده جمله often طبیعی‌تر است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It is the lack of trust that worries investors most.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال cleft عنصر اصلی نگرانی را برجسته می‌کند و به جمله لحن تحلیلی و تاکیددار می‌دهد.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It was John who told me about the vacancy.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا تمرکز روی John است، نه صرفا روی خود خبر دادن. این ساختار وقتی هویت اطلاع‌دهنده مهم است، بسیار مفید است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "wh-cleft برای سازمان‌دهی اطلاعات",
+        "htmlTag": 1,
+        "content": "wh-cleft برای سازمان‌دهی اطلاعات",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "wh-cleft برای سازمان‌دهی اطلاعات",
+        "htmlTag": 0,
+        "content": "نوع دیگری از cleft، wh-cleft است که معمولا با what، all یا the thing آغاز می‌شود. این ساختار especially برای معرفی تدریجی اطلاعات، جمع‌بندی یا هدایت توجه مخاطب به نتیجه‌ای خاص کاربرد دارد.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: what-clause برای تمرکز بر نتیجه",
+        "htmlTag": 2,
+        "content": "کاربرد 1: what-clause برای تمرکز بر نتیجه",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: what-clause برای تمرکز بر نتیجه",
+        "htmlTag": 0,
+        "content": "What we need now is a clear decision.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: what-clause برای تمرکز بر نتیجه",
+        "htmlTag": 0,
+        "content": "در این جمله what-clause زمینه را می‌سازد و بخش بعدی نتیجه یا نقطه تمرکز را ارائه می‌دهد. ساختار therefore حس جمع‌بندی و تاکید ایجاد می‌کند.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: برجسته کردن عمل لازم",
+        "htmlTag": 2,
+        "content": "کاربرد 2: برجسته کردن عمل لازم",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: برجسته کردن عمل لازم",
+        "htmlTag": 0,
+        "content": "What he did was ignore the warning signs.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: برجسته کردن عمل لازم",
+        "htmlTag": 0,
+        "content": "اینجا what-clause رفتار او را به‌عنوان موضوع معرفی می‌کند و بخش دوم همان عنصر مهم را با وضوح و تاکید بیشتر بیان می‌کند.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "wh-cleft برای نوشتار تحلیلی و سخنرانی بسیار مفید است، چون به گوینده کمک می‌کند اطلاعات را مرحله‌به‌مرحله و با تمرکز هدایت کند. این ساختار اغلب formalتر از شکل ساده جمله به نظر می‌رسد.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What the report shows is a steady decline in demand.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال cleft کمک می‌کند یافته اصلی گزارش به‌عنوان نقطه تمرکز نهایی ارائه شود.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What surprised me most was the speed of the response.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا what-clause زمینه عاطفی یا تحلیلی را می‌سازد و بخش دوم عنصر شگفتی را روشن می‌کند.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربردهای بلاغی و محدودیت‌ها",
+        "htmlTag": 1,
+        "content": "کاربردهای بلاغی و محدودیت‌ها",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربردهای بلاغی و محدودیت‌ها",
+        "htmlTag": 0,
+        "content": "cleft sentenceها ابزارهای مفیدی برای تاکید هستند، اما اگر بیش از حد استفاده شوند، متن را سنگین یا نمایشی می‌کنند. ارزش اصلی آن‌ها در این است که ساختار اطلاعاتی جمله را مطابق هدف گوینده بازچینی کنند.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید روی دلیل",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تاکید روی دلیل",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید روی دلیل",
+        "htmlTag": 0,
+        "content": "It was because of poor planning that the launch failed.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تاکید روی دلیل",
+        "htmlTag": 0,
+        "content": "در این مثال cleft علت اصلی را به‌شدت برجسته می‌کند و نوعی پاسخ روشن به سوال «چرا؟» می‌سازد.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جمع‌بندی با what",
+        "htmlTag": 2,
+        "content": "کاربرد 2: جمع‌بندی با what",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جمع‌بندی با what",
+        "htmlTag": 0,
+        "content": "What matters most is how the team responds now.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جمع‌بندی با what",
+        "htmlTag": 0,
+        "content": "اینجا wh-cleft جمله را حول محور اصلی بحث سازمان‌دهی می‌کند و توجه را به مهم‌ترین نکته فعلی می‌برد.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر بدون نیاز واقعی به تاکید از cleft استفاده کنیم، جمله مصنوعی می‌شود. بهترین استفاده زمانی است که بخواهیم تضاد، تصحیح، جمع‌بندی یا هدایت توجه ایجاد کنیم.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It was not the cost that caused concern, but the delay.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال cleft برای تقابل و تصحیح برداشت احتمالی مخاطب به کار رفته است و ساختار تاکید را دوچندان می‌کند.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What the audience remembered was the final story, not the statistics.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا cleft عنصر به‌یادماندنی را برجسته می‌کند و در برابر بخش کم‌اثرتر قرار می‌دهد.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

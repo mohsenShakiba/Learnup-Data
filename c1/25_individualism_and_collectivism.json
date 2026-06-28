@@ -1,0 +1,79 @@
+{
+    "title": "25 - Individualism and Collectivism",
+    "description": "دو نفر درباره تنش میان آزادی فردی و خیر جمعی در جوامع مختلف بحث می‌کنند.",
+    "words": ["individualism", "collectivism", "autonomy", "communal", "obligation", "society", "interdependent", "prioritize", "tension", "cohesion", "liberty", "sacrifice", "cultural", "equilibrium"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Western culture really prizes individualism.",
+            "translation": "فرهنگ غربی واقعاً فردگرایی را ارج می‌نهد."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "While many other societies are more communal.",
+            "translation": "در حالی که بسیاری جوامع دیگر جمع‌گراترند."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Each has clear strengths and weaknesses.",
+            "translation": "هرکدام نقاط قوت و ضعف روشنی دارند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Individualism fosters innovation and liberty.",
+            "translation": "فردگرایی نوآوری و آزادی را پرورش می‌دهد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "But it can erode social cohesion.",
+            "translation": "اما می‌تواند انسجام اجتماعی را تضعیف کند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Whereas collectivism strengthens belonging.",
+            "translation": "در حالی که جمع‌گرایی حس تعلق را تقویت می‌کند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yet it may suppress personal autonomy.",
+            "translation": "با این حال ممکن است استقلال فردی را سرکوب کند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "So there's an inherent tension between them.",
+            "translation": "پس تنشی ذاتی میان آن‌ها وجود دارد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Is one objectively better, though?",
+            "translation": "اما آیا یکی به‌طور عینی بهتر است؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I doubt it. Context shapes what works.",
+            "translation": "شک دارم. زمینه تعیین می‌کند چه چیزی جواب می‌دهد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Perhaps the healthiest societies find equilibrium.",
+            "translation": "شاید سالم‌ترین جوامع به تعادل می‌رسند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Balancing the self with the common good.",
+            "translation": "ایجاد توازن میان فرد و خیر مشترک."
+        }
+    ]
+}

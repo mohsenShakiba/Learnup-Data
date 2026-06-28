@@ -15,7 +15,6 @@ Each conversation file should use this structure:
     "title": "your awesome title",
     "description": "گفتگو با یک پزشک",
     "words": ["hi", "help"],
-    "grammarId": 1 | null,
     "Level": "A1",
     "sentences" [
         {

@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Future continuous and future perfect",
+    "levelId": 4,
+    "order": 3,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس future continuous و future perfect را برای بیان عملِ در حال انجام در یک زمان آینده و عملی که تا قبل از نقطه‌ای در آینده کامل می‌شود توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "future continuous برای عمل در حال انجام در آینده",
+        "htmlTag": 1,
+        "content": "future continuous برای عمل در حال انجام در آینده",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "future continuous برای عمل در حال انجام در آینده",
+        "htmlTag": 0,
+        "content": "future continuous زمانی به کار می‌رود که بخواهیم یک عمل را در میانه انجام شدن در یک زمان مشخصِ آینده ببینیم. این زمان بیشتر روی روند و جریان عمل تمرکز دارد، نه فقط روی شروع یا پایان آن.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عمل در حال انجام در یک لحظه آینده",
+        "htmlTag": 2,
+        "content": "کاربرد 1: عمل در حال انجام در یک لحظه آینده",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عمل در حال انجام در یک لحظه آینده",
+        "htmlTag": 0,
+        "content": "This time tomorrow, I will be flying to Istanbul.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عمل در حال انجام در یک لحظه آینده",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده آینده را از یک نقطه مشخص نگاه می‌کند و می‌گوید در آن لحظه عمل پرواز در جریان خواهد بود. تمرکز روی فرایند سفر است، نه فقط وقوع آن.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کار موقتی در آینده",
+        "htmlTag": 2,
+        "content": "کاربرد 2: کار موقتی در آینده",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کار موقتی در آینده",
+        "htmlTag": 0,
+        "content": "At eight, we will be having dinner with the clients.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کار موقتی در آینده",
+        "htmlTag": 0,
+        "content": "اینجا جمله نشان می‌دهد در ساعت هشتِ آینده یک فعالیت در حال انجام خواهد بود. future continuous برای چنین صحنه‌سازی‌هایی بسیار مناسب است.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "از future continuous معمولا برای کارهایی استفاده می‌کنیم که در زمانی مشخص در آینده در جریان‌اند یا برای این‌که لحن برنامه‌ریزی‌شده و طبیعی‌تری داشته باشیم. این زمان اغلب از will + be + verb-ing ساخته می‌شود.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She will be working late tonight.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال روی ادامه داشتن کار در بخشی از امشب تمرکز می‌شود، نه فقط روی این‌که او کار خواهد کرد.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Will you be using the car this afternoon?",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا سوال درباره یک برنامه در حال جریان در آینده است و future continuous لحن مودبانه و خنثی‌تری هم ایجاد می‌کند.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "future perfect برای کامل شدن قبل از یک زمان آینده",
+        "htmlTag": 1,
+        "content": "future perfect برای کامل شدن قبل از یک زمان آینده",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "future perfect برای کامل شدن قبل از یک زمان آینده",
+        "htmlTag": 0,
+        "content": "future perfect وقتی به کار می‌رود که بخواهیم بگوییم یک عمل تا قبل از یک نقطه یا رویداد در آینده کامل خواهد شد. در این زمان بیشتر به نتیجه رسیده تا یک موعد آینده نگاه می‌کنیم.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کامل شدن تا یک زمان مشخص",
+        "htmlTag": 2,
+        "content": "کاربرد 1: کامل شدن تا یک زمان مشخص",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کامل شدن تا یک زمان مشخص",
+        "htmlTag": 0,
+        "content": "By next Friday, I will have finished the report.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کامل شدن تا یک زمان مشخص",
+        "htmlTag": 0,
+        "content": "در این جمله تا قبل از جمعه آینده گزارش کامل شده خواهد بود. by next Friday مرز زمانی را مشخص می‌کند و future perfect نتیجه نهایی را برجسته می‌سازد.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کامل شدن قبل از رویداد دیگر",
+        "htmlTag": 2,
+        "content": "کاربرد 2: کامل شدن قبل از رویداد دیگر",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کامل شدن قبل از رویداد دیگر",
+        "htmlTag": 0,
+        "content": "She will have left before we arrive.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کامل شدن قبل از رویداد دیگر",
+        "htmlTag": 0,
+        "content": "اینجا رسیدن ما نقطه مرجع آینده است و جمله می‌گوید ترک کردن قبل از آن کامل شده خواهد بود. این زمان برای نشان دادن تقدم در آینده مفید است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "future perfect از will have + past participle ساخته می‌شود. این زمان زمانی طبیعی است که پایان یک عمل نسبت به زمان یا رویداد آینده مهم باشد؛ اگر فقط درباره یک برنامه ساده حرف می‌زنیم، معمولا future simple کافی است.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "By the end of the year, they will have saved enough money.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال جمله روی رسیدن به نتیجه تا پایان سال تمرکز دارد، نه روی روند پس‌انداز در هر لحظه.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The guests will have arrived by nine.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا arrival تا قبل از ساعت نه کامل می‌شود، بنابراین future perfect مناسب است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مقایسه دو زمان و انتخاب درست",
+        "htmlTag": 1,
+        "content": "مقایسه دو زمان و انتخاب درست",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مقایسه دو زمان و انتخاب درست",
+        "htmlTag": 0,
+        "content": "تفاوت اصلی این دو زمان در زاویه دید است. future continuous عمل را در حال جریان در آینده نشان می‌دهد، اما future perfect عمل را کامل‌شده قبل از یک نقطه آینده می‌بیند. اگر این تفاوت را درست تشخیص دهیم، انتخاب زمان بسیار آسان‌تر می‌شود.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تمرکز روی روند",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تمرکز روی روند",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تمرکز روی روند",
+        "htmlTag": 0,
+        "content": "At ten, we will be driving through the mountains.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تمرکز روی روند",
+        "htmlTag": 0,
+        "content": "اینجا جمله صحنه‌ای از آینده را در میانه مسیر نشان می‌دهد. هنوز عمل تمام نشده و روی در جریان بودن آن تاکید می‌شود.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تمرکز روی نتیجه کامل‌شده",
+        "htmlTag": 2,
+        "content": "کاربرد 2: تمرکز روی نتیجه کامل‌شده",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تمرکز روی نتیجه کامل‌شده",
+        "htmlTag": 0,
+        "content": "By ten, we will have reached the hotel.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تمرکز روی نتیجه کامل‌شده",
+        "htmlTag": 0,
+        "content": "در این مثال ساعت ده یک مرز است و جمله می‌گوید تا آن زمان رسیدن کامل شده است. پس دیگر روی مسیر، بلکه روی نتیجه نهایی تمرکز داریم.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "عبارت‌هایی مثل by then یا by the time معمولا ما را به سمت future perfect می‌برند، در حالی‌که this time tomorrow یا at five o'clock بیشتر با future continuous جور در می‌آیند.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "This time next week, I will be sitting on the beach.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال گوینده خودش را در یک لحظه آینده تصور می‌کند و عمل sitting را در حال انجام می‌بیند.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "By this time next week, I will have finished my exams.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا عبارت by this time next week نشان می‌دهد عمل تمام شده و نتیجه آن تا آن نقطه آینده حاصل خواهد شد.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

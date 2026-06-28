@@ -1,0 +1,73 @@
+{
+    "title": "22 - At the Post Office",
+    "description": "ارسال یک بسته از اداره پست.",
+    "words": ["package", "send", "letter", "stamp", "weigh", "heavy", "address", "box", "fast", "slow", "deliver", "sign", "receipt", "abroad"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Good morning. I want to send this package.",
+            "translation": "صبح بخیر. می‌خواهم این بسته را بفرستم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Sure. Let me weigh it.",
+            "translation": "حتماً. بگذارید وزنش کنم."
+        },
+        {
+            "order": 2,
+            "person": 2,
+            "text": "It is a little heavy. Where is it going?",
+            "translation": "کمی سنگین است. کجا می‌رود؟"
+        },
+        {
+            "order": 3,
+            "person": 1,
+            "text": "It is going abroad, to Spain.",
+            "translation": "به خارج می‌رود، به اسپانیا."
+        },
+        {
+            "order": 4,
+            "person": 2,
+            "text": "Do you want fast or slow delivery?",
+            "translation": "ارسال سریع می‌خواهید یا آهسته؟"
+        },
+        {
+            "order": 5,
+            "person": 1,
+            "text": "Fast, please. How many days?",
+            "translation": "سریع، لطفاً. چند روز طول می‌کشد؟"
+        },
+        {
+            "order": 6,
+            "person": 2,
+            "text": "About four days. Please write the address here.",
+            "translation": "حدود چهار روز. لطفاً آدرس را اینجا بنویسید."
+        },
+        {
+            "order": 7,
+            "person": 1,
+            "text": "Done. Do I need a stamp?",
+            "translation": "انجام شد. تمبر لازم دارم؟"
+        },
+        {
+            "order": 8,
+            "person": 2,
+            "text": "No, the box price includes it. Please sign here.",
+            "translation": "نه، قیمت بسته شامل آن می‌شود. لطفاً اینجا را امضا کنید."
+        },
+        {
+            "order": 9,
+            "person": 1,
+            "text": "Here you are. Can I have a receipt?",
+            "translation": "بفرمایید. می‌توانم رسید بگیرم؟"
+        },
+        {
+            "order": 10,
+            "person": 2,
+            "text": "Of course. We will deliver it soon.",
+            "translation": "البته. به‌زودی آن را می‌رسانیم."
+        }
+    ]
+}

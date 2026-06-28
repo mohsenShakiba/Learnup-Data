@@ -1,0 +1,79 @@
+{
+    "title": "39 - Talking About Long-Term Goals",
+    "description": "دو دوست درباره برنامه‌های پنج‌ساله و چشم‌اندازشان از آینده صحبت می‌کنند.",
+    "words": ["long-term", "vision", "milestone", "aspire", "commitment", "realistic", "evolve", "priority", "achieve", "flexible", "purpose", "invest", "steady", "fulfil"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Where do you see yourself in five years?",
+            "translation": "خودت را پنج سال دیگر کجا می‌بینی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Hopefully running my own small business.",
+            "translation": "امیدوارم کسب‌وکار کوچک خودم را اداره کنم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "That's a clear vision.",
+            "translation": "این چشم‌انداز روشنی است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I've set milestones to get there.",
+            "translation": "نقاط عطفی برای رسیدن به آن تعیین کرده‌ام."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Do you have a realistic plan?",
+            "translation": "برنامه واقع‌بینانه‌ای داری؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, I'm saving and learning steadily.",
+            "translation": "بله، به‌طور پیوسته پس‌انداز و یادگیری می‌کنم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "What if your priorities change?",
+            "translation": "اگر اولویت‌هایت تغییر کنند چه؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I try to stay flexible.",
+            "translation": "سعی می‌کنم انعطاف‌پذیر بمانم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Goals should evolve over time.",
+            "translation": "اهداف باید در طول زمان تکامل یابند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Exactly. What matters is the direction.",
+            "translation": "دقیقاً. آنچه مهم است جهت حرکت است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "You've inspired me to plan ahead.",
+            "translation": "تو الهامم دادی که از قبل برنامه‌ریزی کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "A clear purpose makes everything easier.",
+            "translation": "یک هدف روشن همه چیز را آسان‌تر می‌کند."
+        }
+    ]
+}

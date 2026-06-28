@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Modal perfects",
+    "levelId": 4,
+    "order": 9,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس modal perfectها را برای حدس زدن درباره گذشته، پشیمانی، انتقاد ملایم و ارزیابی احتمال رویدادهای گذشته توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "حدس درباره گذشته با may have، might have و could have",
+        "htmlTag": 1,
+        "content": "حدس درباره گذشته با may have، might have و could have",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "حدس درباره گذشته با may have، might have و could have",
+        "htmlTag": 0,
+        "content": "modal perfect به ما اجازه می‌دهد درباره رویدادهای گذشته نظر بدهیم، بدون این‌که ادعای قطعیت کامل داشته باشیم. در این حالت از modal + have + past participle استفاده می‌کنیم تا احتمال، امکان یا برداشت خودمان را درباره گذشته بیان کنیم.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: احتمال در گذشته با might have",
+        "htmlTag": 2,
+        "content": "کاربرد 1: احتمال در گذشته با might have",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: احتمال در گذشته با might have",
+        "htmlTag": 0,
+        "content": "He might have missed the train.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: احتمال در گذشته با might have",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده مطمئن نیست، اما این را یکی از توضیح‌های ممکن برای وضعیت فعلی می‌داند. ساختار might have گذشته را به شکل یک احتمال تفسیر می‌کند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: امکان در گذشته با could have",
+        "htmlTag": 2,
+        "content": "کاربرد 2: امکان در گذشته با could have",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: امکان در گذشته با could have",
+        "htmlTag": 0,
+        "content": "They could have taken a different route.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: امکان در گذشته با could have",
+        "htmlTag": 0,
+        "content": "اینجا could have نشان می‌دهد یک امکان یا توضیح محتمل در گذشته وجود داشته است. گوینده نتیجه قطعی نمی‌گیرد، بلکه یکی از سناریوهای ممکن را مطرح می‌کند.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "may have و might have بسیار نزدیک‌اند، اما might have معمولا کمی ضعیف‌تر و محتاطانه‌تر به نظر می‌رسد. این تفاوت ظریف در مکالمه و نوشتار رسمی‌تر اهمیت پیدا می‌کند.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She may have forgotten the meeting.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال گوینده فراموش کردن را یک احتمال جدی می‌داند، اما هنوز مطمئن نیست.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The noise could have come from the kitchen.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله منبع احتمالی صدا را حدس می‌زند و از قطعیت پرهیز می‌کند.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "یقین و استنتاج با must have و cannot have",
+        "htmlTag": 1,
+        "content": "یقین و استنتاج با must have و cannot have",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "یقین و استنتاج با must have و cannot have",
+        "htmlTag": 0,
+        "content": "گاهی شواهد آن‌قدر قوی هستند که می‌خواهیم درباره گذشته تقریبا با اطمینان قضاوت کنیم. در این مواقع از must have برای نتیجه‌گیری قوی و از cannot have برای ناممکن دانستن یک تفسیر استفاده می‌کنیم.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: استنتاج قوی با must have",
+        "htmlTag": 2,
+        "content": "کاربرد 1: استنتاج قوی با must have",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: استنتاج قوی با must have",
+        "htmlTag": 0,
+        "content": "You must have been exhausted after the flight.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: استنتاج قوی با must have",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده بر اساس شواهد منطقی نتیجه می‌گیرد که مخاطب خسته بوده است. must have در اینجا به معنی «حتما چنین بوده» از دید استدلالی است، نه اجبار.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ناممکن دانستن با cannot have",
+        "htmlTag": 2,
+        "content": "کاربرد 2: ناممکن دانستن با cannot have",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ناممکن دانستن با cannot have",
+        "htmlTag": 0,
+        "content": "He cannot have written this email alone.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ناممکن دانستن با cannot have",
+        "htmlTag": 0,
+        "content": "اینجا گوینده با قاطعیت می‌گوید این تفسیر درست نیست. cannot have برای رد کردن یک احتمال گذشته کاربرد دارد.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "این کاربرد must با must برای اجبار فرق دارد. must have درباره استنتاج از گذشته است، نه دستور دادن. همین تفاوت معنایی اگر خوب فهمیده نشود، کل جمله اشتباه تفسیر می‌شود.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They must have arrived early, because the lights were already on.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال شواهد موجود باعث می‌شود گوینده درباره گذشته نتیجه‌گیری نسبتا قوی کند.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She cannot have forgotten your birthday; she texted you yesterday.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا وجود یک شاهد تازه باعث می‌شود فراموش کردن عملا غیرممکن به نظر برسد.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "انتقاد، فرصت از دست‌رفته و پشیمانی با should have و could have",
+        "htmlTag": 1,
+        "content": "انتقاد، فرصت از دست‌رفته و پشیمانی با should have و could have",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "انتقاد، فرصت از دست‌رفته و پشیمانی با should have و could have",
+        "htmlTag": 0,
+        "content": "بعضی modal perfectها فقط برای حدس نیستند، بلکه برای ارزیابی کارهای گذشته هم به کار می‌روند. در این کاربردها often درباره این حرف می‌زنیم که چه کاری بهتر بود انجام شود یا چه امکان مفیدی از دست رفته است.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: انتقاد یا توصیه دیرهنگام با should have",
+        "htmlTag": 2,
+        "content": "کاربرد 1: انتقاد یا توصیه دیرهنگام با should have",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: انتقاد یا توصیه دیرهنگام با should have",
+        "htmlTag": 0,
+        "content": "You should have called me earlier.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: انتقاد یا توصیه دیرهنگام با should have",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده می‌گوید تماس زودتر تصمیم بهتری بود. عمل انجام نشده یا دیر انجام شده و جمله نوعی قضاوت یا انتقاد ملایم درباره گذشته دارد.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فرصت از دست‌رفته با could have",
+        "htmlTag": 2,
+        "content": "کاربرد 2: فرصت از دست‌رفته با could have",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فرصت از دست‌رفته با could have",
+        "htmlTag": 0,
+        "content": "We could have booked the cheaper tickets.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فرصت از دست‌رفته با could have",
+        "htmlTag": 0,
+        "content": "اینجا جمله می‌گوید این امکان در گذشته وجود داشت، اما از آن استفاده نشد. بنابراین could have معنای فرصت ازدست‌رفته پیدا می‌کند.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "برای درک درست باید از بافت جمله کمک بگیریم، چون could have گاهی حدس می‌زند و گاهی فرصت از دست‌رفته را بیان می‌کند. حضور نشانه‌های احساسی یا انتقادی معمولا معنای دوم را تقویت می‌کند.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I should have studied more for the exam.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال گوینده نسبت به گذشته نوعی پشیمانی یا انتقاد از تصمیم خودش دارد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She could have won the race if she had trained more.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا could have به توان یا امکان واقعیِ تحقق‌نیافته در گذشته اشاره می‌کند.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

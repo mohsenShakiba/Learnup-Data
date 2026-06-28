@@ -1,0 +1,79 @@
+{
+    "title": "34 - A Difficult Client Negotiation",
+    "description": "مدیر فروش با مشتری سختگیری که خواهان تخفیف بزرگ است مذاکره می‌کند.",
+    "words": ["negotiation", "discount", "value", "margin", "firm", "compromise", "justify", "budget", "relationship", "concession", "reasonable", "walk away", "leverage", "agreement"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Your price is simply too high for us.",
+            "translation": "قیمت شما برای ما خیلی بالاست."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I understand, but it reflects the value.",
+            "translation": "درک می‌کنم، اما نشان‌دهنده ارزش آن است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "We'd need at least a thirty percent discount.",
+            "translation": "ما حداقل سی درصد تخفیف لازم داریم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That would cut deeply into our margin.",
+            "translation": "این به‌شدت حاشیه سود ما را کاهش می‌دهد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Other suppliers offer lower rates.",
+            "translation": "تأمین‌کنندگان دیگر نرخ‌های پایین‌تری ارائه می‌دهند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "But few match our quality and support.",
+            "translation": "اما کمتر کسی کیفیت و پشتیبانی ما را دارد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's fair. Still, I have a budget.",
+            "translation": "منصفانه است. با این حال، بودجه‌ای دارم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I can offer fifteen percent for a long contract.",
+            "translation": "می‌توانم برای یک قرارداد بلندمدت پانزده درصد بدهم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Could you add free delivery as well?",
+            "translation": "می‌توانید ارسال رایگان هم اضافه کنید؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "If you commit to two years, yes.",
+            "translation": "اگر دو سال متعهد شوید، بله."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That's a deal I can work with.",
+            "translation": "این معامله‌ای است که می‌توانم با آن کنار بیایم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Excellent. Let's put it in writing.",
+            "translation": "عالی. بیایید آن را مکتوب کنیم."
+        }
+    ]
+}

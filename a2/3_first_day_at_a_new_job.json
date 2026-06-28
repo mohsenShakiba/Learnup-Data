@@ -1,0 +1,79 @@
+{
+    "title": "3 - First Day at a New Job",
+    "description": "روز اول کار و آشنایی با مدیر و وظایف جدید.",
+    "words": ["manager", "team", "desk", "computer", "task", "explain", "training", "colleague", "schedule", "break", "question", "learn", "welcome", "ready"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Good morning. Welcome to the team!",
+            "translation": "صبح بخیر. به تیم خوش آمدید!"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Thank you. I'm a little nervous.",
+            "translation": "ممنون. کمی استرس دارم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Don't worry. I'll show you everything.",
+            "translation": "نگران نباشید. همه چیز را نشانتان می‌دهم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Where is my desk?",
+            "translation": "میز من کجاست؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "It's over here, next to your colleague Maria.",
+            "translation": "این طرف است، کنار همکارتان ماریا."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Great. What will I do first?",
+            "translation": "عالی. اول چه کاری انجام بدهم؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "This morning you'll have some training.",
+            "translation": "امروز صبح کمی آموزش خواهید داشت."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Okay. Can you explain my main tasks?",
+            "translation": "باشه. می‌توانید وظایف اصلی‌ام را توضیح دهید؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Of course. The manager will talk to you at ten.",
+            "translation": "البته. مدیر ساعت ده با شما صحبت می‌کند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "When is the lunch break?",
+            "translation": "زمان استراحت ناهار کی است؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "At one o'clock. If you have questions, just ask.",
+            "translation": "ساعت یک. اگر سؤالی داشتید، فقط بپرسید."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you. I'm ready to learn.",
+            "translation": "ممنون. آماده‌ام که یاد بگیرم."
+        }
+    ]
+}

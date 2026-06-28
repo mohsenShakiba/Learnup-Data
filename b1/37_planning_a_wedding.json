@@ -1,0 +1,79 @@
+{
+    "title": "37 - Planning a Wedding",
+    "description": "زوجی درباره برنامه‌ریزی عروسی و تصمیم‌گیری درباره جزئیات صحبت می‌کنند.",
+    "words": ["wedding", "venue", "guests", "budget", "invitation", "ceremony", "reception", "decorate", "arrange", "afford", "theme", "stressful", "memorable", "compromise"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "We need to start planning the wedding.",
+            "translation": "باید برنامه‌ریزی عروسی را شروع کنیم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I know. Where should we begin?",
+            "translation": "می‌دانم. از کجا شروع کنیم؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "First, let's decide on the venue.",
+            "translation": "اول، بیا درباره مکان تصمیم بگیریم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "How many guests are we inviting?",
+            "translation": "چند مهمان دعوت می‌کنیم؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Around eighty, if we can afford it.",
+            "translation": "حدود هشتاد نفر، اگر از پسش بربیاییم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "We should set a clear budget.",
+            "translation": "باید یک بودجه روشن تعیین کنیم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Agreed. I don't want to overspend.",
+            "translation": "موافقم. نمی‌خواهم زیادی خرج کنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "What theme do you have in mind?",
+            "translation": "چه تمی در ذهن داری؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Something simple and elegant.",
+            "translation": "چیزی ساده و شیک."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "This is getting a little stressful.",
+            "translation": "این کم‌کم دارد کمی استرس‌زا می‌شود."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Let's take it one step at a time.",
+            "translation": "بیا قدم‌به‌قدم پیش برویم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "You're right. It'll be a memorable day.",
+            "translation": "حق با توست. روز به‌یادماندنی‌ای خواهد بود."
+        }
+    ]
+}

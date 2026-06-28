@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Possessive adjectives",
+    "levelId": 1,
+    "order": 7,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس صفت‌های ملکی را برای نشان دادن مالکیت و رابطه، و تفاوت آن‌ها را با ضمیرهای فاعلی توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "مالکیت با صفت ملکی",
+        "htmlTag": 1,
+        "content": "مالکیت با صفت ملکی",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مالکیت با صفت ملکی",
+        "htmlTag": 0,
+        "content": "صفت‌های ملکی مثل my، your، his و her قبل از اسم می‌آیند و نشان می‌دهند چیزی به چه کسی مربوط است. این کلمات خودشان اسم نیستند و باید همراه یک اسم یا عبارت اسمی استفاده شوند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: my و your در مکالمه ساده",
+        "htmlTag": 2,
+        "content": "کاربرد 1: my و your در مکالمه ساده",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: my و your در مکالمه ساده",
+        "htmlTag": 0,
+        "content": "This is my phone.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: my و your در مکالمه ساده",
+        "htmlTag": 0,
+        "content": "در این جمله my قبل از phone آمده تا مالکیت را نشان دهد. بدون اسم بعد از آن، my به تنهایی کامل نیست.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: his و her برای مالکیت شخص دیگر",
+        "htmlTag": 2,
+        "content": "کاربرد 2: his و her برای مالکیت شخص دیگر",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: his و her برای مالکیت شخص دیگر",
+        "htmlTag": 0,
+        "content": "Her bag is on the chair.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: his و her برای مالکیت شخص دیگر",
+        "htmlTag": 0,
+        "content": "اینجا her نشان می‌دهد کیف به یک زن یا دختر مربوط است. صفت ملکی قبل از اسم آمده و رابطه مالکیت را مشخص کرده است.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "صفت ملکی با مالک هماهنگ می‌شود، نه با چیزی که مالک آن است. مثلا در her bag مهم این است که صاحب کیف زن است، نه این که خود bag چه جنسی دارد.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Our teacher is friendly.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال our نشان می‌دهد معلم به گروه گوینده مربوط است. صفت ملکی قبل از اسم teacher آمده است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Their house is big.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا their مالکیت چند نفر را نشان می‌دهد و قبل از house قرار گرفته است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "انتخاب صفت ملکی درست",
+        "htmlTag": 1,
+        "content": "انتخاب صفت ملکی درست",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "انتخاب صفت ملکی درست",
+        "htmlTag": 0,
+        "content": "برای انتخاب صفت ملکی باید ببینیم صاحب چیزی چه کسی است. هر صفت ملکی به یک نوع فاعل یا صاحب اشاره می‌کند و اگر آن را اشتباه انتخاب کنیم، معنی جمله عوض می‌شود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: its برای حیوان یا چیز",
+        "htmlTag": 2,
+        "content": "کاربرد 1: its برای حیوان یا چیز",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: its برای حیوان یا چیز",
+        "htmlTag": 0,
+        "content": "The cat is in its bed.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: its برای حیوان یا چیز",
+        "htmlTag": 0,
+        "content": "در این جمله its نشان می‌دهد تخت متعلق به cat است. از its برای چیزها و حیوانات، وقتی بخواهیم مالکیت را نشان دهیم، استفاده می‌کنیم.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: our و their برای گروه‌ها",
+        "htmlTag": 2,
+        "content": "کاربرد 2: our و their برای گروه‌ها",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: our و their برای گروه‌ها",
+        "htmlTag": 0,
+        "content": "We love our city.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: our و their برای گروه‌ها",
+        "htmlTag": 0,
+        "content": "اینجا our با فاعل we هماهنگ است و نشان می‌دهد شهر به گوینده و گروه او مربوط است. صفت ملکی از روی مالک انتخاب می‌شود.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "your می‌تواند هم برای یک نفر و هم برای چند نفر باشد. بنابراین برای فهم دقیق‌تر آن، باید به موقعیت یا بقیه جمله نگاه کنیم.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They clean their room every day.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال their با فاعل they هماهنگ شده و مالکیت اتاق را نشان می‌دهد. حتی اگر room مفرد باشد، صفت ملکی جمع می‌تواند قبل از آن بیاید.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Is this your pen?",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا your برای پرسیدن مالکیت یک وسیله به کار رفته است. صفت ملکی همچنان قبل از اسم pen قرار دارد.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت با ضمیرهای فاعلی",
+        "htmlTag": 1,
+        "content": "تفاوت با ضمیرهای فاعلی",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت با ضمیرهای فاعلی",
+        "htmlTag": 0,
+        "content": "صفت ملکی و ضمیر فاعلی شبیه هم به نظر می‌رسند، اما نقششان فرق دارد. ضمیر فاعلی جای فاعل می‌آید، ولی صفت ملکی فقط قبل از اسم قرار می‌گیرد و آن اسم را به یک مالک وصل می‌کند.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مقایسه he و his",
+        "htmlTag": 2,
+        "content": "کاربرد 1: مقایسه he و his",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مقایسه he و his",
+        "htmlTag": 0,
+        "content": "He likes his job.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مقایسه he و his",
+        "htmlTag": 0,
+        "content": "در این جمله he فاعل است، اما his قبل از job آمده تا مالکیت را نشان دهد. این مثال تفاوت نقش دو کلمه را روشن می‌کند.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مقایسه they و their",
+        "htmlTag": 2,
+        "content": "کاربرد 2: مقایسه they و their",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مقایسه they و their",
+        "htmlTag": 0,
+        "content": "They wash their hands.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مقایسه they و their",
+        "htmlTag": 0,
+        "content": "اینجا they نقش فاعل دارد و their اسم hands را توصیف می‌کند. پس یکی جای اسم می‌نشیند و دیگری همراه اسم می‌آید.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر بعد از کلمه مورد نظر اسم نیاید، آن کلمه دیگر صفت ملکی نیست. این نکته کمک می‌کند صفت ملکی را از ضمیرهای دیگر تشخیص دهیم.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I know her brother.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال her صفت ملکی است چون قبل از brother آمده و رابطه مالکیت یا نسبت را نشان می‌دهد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She knows my name.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا my پیش از name آمده است. این ساختار طبیعی‌ترین شکل نشان دادن مالکیت در سطح پایه است.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

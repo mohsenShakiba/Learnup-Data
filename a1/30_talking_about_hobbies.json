@@ -1,0 +1,73 @@
+{
+    "title": "30 - Talking About Hobbies",
+    "description": "گفتگوی دو دوست درباره سرگرمی‌ها و علاقه‌مندی‌ها.",
+    "words": ["hobby", "free", "time", "paint", "music", "play", "guitar", "cook", "read", "running", "weekend", "join", "club", "fun"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "What do you do in your free time?",
+            "translation": "در اوقات فراغتت چه می‌کنی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I like to paint and listen to music.",
+            "translation": "دوست دارم نقاشی کنم و موسیقی گوش بدهم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "That sounds nice. Do you play an instrument?",
+            "translation": "جالب است. ساز هم می‌زنی؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, I play the guitar a little. And you?",
+            "translation": "بله، کمی گیتار می‌زنم. تو چطور؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I love cooking and reading.",
+            "translation": "من عاشق آشپزی و کتاب خواندن هستم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Do you cook every day?",
+            "translation": "هر روز آشپزی می‌کنی؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Only on the weekend. I'm busy at work.",
+            "translation": "فقط آخر هفته. سر کار مشغولم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I also go running in the morning.",
+            "translation": "من صبح‌ها هم می‌دوم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Maybe I can join you sometime.",
+            "translation": "شاید بتوانم یک وقتی با تو بیایم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Sure! There is a running club on Saturdays.",
+            "translation": "حتماً! شنبه‌ها یک باشگاه دو هست."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Great. That sounds like fun.",
+            "translation": "عالی. به نظر سرگرم‌کننده می‌آید."
+        }
+    ]
+}

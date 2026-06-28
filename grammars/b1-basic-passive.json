@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Basic passive voice",
+    "levelId": 3,
+    "order": 6,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس passive voice را برای زمانی توضیح می‌دهد که انجام‌دهنده کار مهم نیست، معلوم نیست، یا تمرکز جمله روی خود عمل یا نتیجه آن قرار دارد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "معنای اصلی passive voice",
+        "htmlTag": 1,
+        "content": "معنای اصلی passive voice",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "معنای اصلی passive voice",
+        "htmlTag": 0,
+        "content": "در جمله passive تمرکز از روی فاعلِ انجام‌دهنده برداشته می‌شود و روی شخص یا چیزی قرار می‌گیرد که عمل روی آن انجام شده است. این ساختار زمانی مفید است که انجام‌دهنده مهم نباشد، نامش را ندانیم یا بخواهیم نتیجه کار را برجسته کنیم.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وقتی انجام‌دهنده مهم نیست",
+        "htmlTag": 2,
+        "content": "کاربرد 1: وقتی انجام‌دهنده مهم نیست",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وقتی انجام‌دهنده مهم نیست",
+        "htmlTag": 0,
+        "content": "English is spoken in many countries.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وقتی انجام‌دهنده مهم نیست",
+        "htmlTag": 0,
+        "content": "در این جمله موضوع اصلی خود زبان انگلیسی است، نه کسانی که آن را صحبت می‌کنند. passive کمک می‌کند تمرکز روی گستردگی استفاده از زبان بماند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: وقتی انجام‌دهنده معلوم نیست",
+        "htmlTag": 2,
+        "content": "کاربرد 2: وقتی انجام‌دهنده معلوم نیست",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: وقتی انجام‌دهنده معلوم نیست",
+        "htmlTag": 0,
+        "content": "My bike was stolen yesterday.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: وقتی انجام‌دهنده معلوم نیست",
+        "htmlTag": 0,
+        "content": "اینجا مهم‌ترین خبر دزدیده شدن دوچرخه است. ما یا نمی‌دانیم چه کسی این کار را کرده یا نمی‌خواهیم او را در مرکز جمله قرار دهیم.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "برای ساخت passive در بیشتر زمان‌ها از be به علاوه شکل سوم فعل استفاده می‌کنیم. اگر شکل be را اشتباه انتخاب کنیم، جمله از نظر زمان یا تطابق با فاعل نادرست می‌شود.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The office is cleaned every morning.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال passive برای بیان یک کار منظم و تکراری به کار رفته است. تمرکز روی خود دفتر و عمل تمیز شدن است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The windows were broken during the storm.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا passive نتیجه یک اتفاق را برجسته می‌کند و لازم نیست دقیقا بگوییم چه چیزی شیشه‌ها را شکسته است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ساخت passive در زمان‌های رایج",
+        "htmlTag": 1,
+        "content": "ساخت passive در زمان‌های رایج",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ساخت passive در زمان‌های رایج",
+        "htmlTag": 0,
+        "content": "در سطح B1 بیشتر passive را در حال ساده و گذشته ساده می‌بینیم، اما اصل ساخت در همه آن‌ها مشابه است: be در زمان مناسب می‌آید و بعد از آن past participle قرار می‌گیرد. تفاوت اصلی فقط در شکل be است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حال ساده passive",
+        "htmlTag": 2,
+        "content": "کاربرد 1: حال ساده passive",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حال ساده passive",
+        "htmlTag": 0,
+        "content": "Lunch is served at noon.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حال ساده passive",
+        "htmlTag": 0,
+        "content": "چون جمله درباره یک برنامه منظم یا قانون کلی است، از is served استفاده شده است. served شکل سوم فعل است و is زمان جمله را نشان می‌دهد.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گذشته ساده passive",
+        "htmlTag": 2,
+        "content": "کاربرد 2: گذشته ساده passive",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گذشته ساده passive",
+        "htmlTag": 0,
+        "content": "The email was sent last night.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گذشته ساده passive",
+        "htmlTag": 0,
+        "content": "در اینجا عمل در گذشته انجام شده، پس از was sent استفاده می‌کنیم. passive بودن جمله نشان می‌دهد تمرکز روی خود ایمیل است، نه فرستنده.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر بخواهیم انجام‌دهنده را ذکر کنیم، معمولا از by استفاده می‌کنیم، اما این بخش همیشه لازم نیست. فقط وقتی by-phrase را می‌آوریم که دانستن انجام‌دهنده برای معنی جمله واقعا ارزش داشته باشد.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The book was written by a young journalist.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال انجام‌دهنده با by آمده، چون هویت نویسنده برای جمله مهم است. پس passive همچنان حفظ شده، اما اطلاعات کامل‌تر شده است.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "These rooms are used for meetings.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا passive برای توضیح کاربرد اتاق‌ها آمده است و نیازی به ذکر استفاده‌کنندگان نیست.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "زمان استفاده و اشتباه‌های رایج",
+        "htmlTag": 1,
+        "content": "زمان استفاده و اشتباه‌های رایج",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "زمان استفاده و اشتباه‌های رایج",
+        "htmlTag": 0,
+        "content": "همه جمله‌ها را نباید passive کنیم. اگر انجام‌دهنده مهم باشد یا جمله با active طبیعی‌تر شود، بهتر است همان active را نگه داریم. هدف passive این نیست که جمله را رسمی‌تر نشان دهد، بلکه باید دلیل معنایی روشنی برای آن داشته باشیم.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وقتی نتیجه مهم‌تر از فاعل است",
+        "htmlTag": 2,
+        "content": "کاربرد 1: وقتی نتیجه مهم‌تر از فاعل است",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وقتی نتیجه مهم‌تر از فاعل است",
+        "htmlTag": 0,
+        "content": "The road was closed after the accident.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وقتی نتیجه مهم‌تر از فاعل است",
+        "htmlTag": 0,
+        "content": "در این جمله خبر اصلی بسته شدن جاده است. برای شنونده مهم‌تر است بداند چه اتفاقی افتاده، نه این‌که دقیقا چه کسی جاده را بسته است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: وقتی active مناسب‌تر است",
+        "htmlTag": 2,
+        "content": "کاربرد 2: وقتی active مناسب‌تر است",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: وقتی active مناسب‌تر است",
+        "htmlTag": 0,
+        "content": "The manager signed the contract.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: وقتی active مناسب‌تر است",
+        "htmlTag": 0,
+        "content": "این جمله active است چون manager نقش مهمی در معنا دارد. اگر انجام‌دهنده مهم باشد، passive معمولا انتخاب بهتری نیست.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "یکی از اشتباه‌های رایج این است که در passive باز هم فاعل active را محور جمله نگه می‌داریم یا شکل سوم فعل را فراموش می‌کنیم. برای جلوگیری از این خطا، اول باید تشخیص دهیم موضوع اصلی جمله چیست.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The museum was built in 1920.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا passive برای تمرکز روی ساختمان موزه و زمان ساخت آن به کار رفته است. سازنده برای این جمله اهمیت اصلی ندارد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Dinner is prepared by my father on Fridays.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال by my father اطلاعات اضافه و مفیدی می‌دهد، اما مرکز جمله همچنان dinner و عمل prepared شدن است.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

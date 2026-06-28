@@ -1,0 +1,79 @@
+{
+    "title": "5 - Renting a Car Abroad",
+    "description": "اجاره خودرو در یک کشور خارجی و بررسی شرایط و بیمه.",
+    "words": ["rent", "license", "insurance", "deposit", "automatic", "manual", "mileage", "fuel", "return", "damage", "additional", "include", "policy", "condition"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello, I'd like to rent a car for a week.",
+            "translation": "سلام، می‌خواهم برای یک هفته خودرو اجاره کنم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Certainly. May I see your driving license?",
+            "translation": "حتماً. می‌توانم گواهینامه رانندگی‌تان را ببینم؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Here it is. Do you have an automatic car?",
+            "translation": "بفرمایید. خودروی اتوماتیک دارید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, we do. Does the price include insurance?",
+            "translation": "بله داریم. قیمت شامل بیمه می‌شود؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Basic insurance is included.",
+            "translation": "بیمه پایه شامل می‌شود."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Is there an additional charge for full cover?",
+            "translation": "برای پوشش کامل هزینه اضافه‌ای هست؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yes, full cover costs ten dollars a day.",
+            "translation": "بله، پوشش کامل روزی ده دلار است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I'll take it. Is there a deposit?",
+            "translation": "برمی‌دارمش. ودیعه دارد؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Yes, and we'll return it if there's no damage.",
+            "translation": "بله، و اگر آسیبی نباشد آن را برمی‌گردانیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Should I return the car with a full tank?",
+            "translation": "خودرو را با باک پر برگردانم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes, please. Otherwise we charge for fuel.",
+            "translation": "بله لطفاً. وگرنه هزینه سوخت می‌گیریم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Understood. Let's sign the agreement.",
+            "translation": "متوجه شدم. بیایید قرارداد را امضا کنیم."
+        }
+    ]
+}

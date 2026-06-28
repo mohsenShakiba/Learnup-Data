@@ -1,0 +1,79 @@
+{
+    "title": "26 - Describing a Memorable Trip",
+    "description": "گفتگو درباره یک سفر به‌یادماندنی و تجربیاتی که در آن رخ داد.",
+    "words": ["memorable", "journey", "scenery", "local", "guide", "unexpected", "adventure", "culture", "stunning", "highlight", "experience", "recommend", "wander", "unforgettable"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "What's the most memorable trip you've taken?",
+            "translation": "به‌یادماندنی‌ترین سفری که رفته‌ای چیست؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Definitely my journey through Vietnam.",
+            "translation": "قطعاً سفرم در سراسر ویتنام."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What made it so special?",
+            "translation": "چه چیزی آن را این‌قدر خاص کرد؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "The scenery was absolutely stunning.",
+            "translation": "مناظرش کاملاً خیره‌کننده بود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Did you travel alone?",
+            "translation": "تنها سفر کردی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, which led to unexpected adventures.",
+            "translation": "بله، که به ماجراجویی‌های غیرمنتظره منجر شد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Such as?",
+            "translation": "مثلاً؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "A local family invited me for dinner.",
+            "translation": "یک خانواده محلی مرا برای شام دعوت کرد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "That must have been a real highlight.",
+            "translation": "حتماً نقطه اوج واقعی‌ای بوده."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "It was. I learned so much about the culture.",
+            "translation": "همینطور بود. خیلی درباره فرهنگشان یاد گرفتم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'd love to go someday.",
+            "translation": "دوست دارم روزی بروم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "You should. It was truly unforgettable.",
+            "translation": "حتماً برو. واقعاً فراموش‌نشدنی بود."
+        }
+    ]
+}

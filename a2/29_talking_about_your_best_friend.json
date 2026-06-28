@@ -1,0 +1,79 @@
+{
+    "title": "29 - Talking About Your Best Friend",
+    "description": "توصیف بهترین دوست و اینکه چطور با هم آشنا شدند.",
+    "words": ["friend", "met", "school", "funny", "kind", "trust", "together", "support", "similar", "share", "honest", "memory", "close", "lucky"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Tell me about your best friend.",
+            "translation": "درباره بهترین دوستت بگو."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Her name is Lena. We met at school.",
+            "translation": "اسمش لنا است. در مدرسه آشنا شدیم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "How long have you known her?",
+            "translation": "چه مدت است که او را می‌شناسی؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "For more than ten years.",
+            "translation": "بیشتر از ده سال."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What do you like about her?",
+            "translation": "چه چیزی‌اش را دوست داری؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "She's funny, kind, and very honest.",
+            "translation": "بامزه، مهربان و خیلی صادق است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Do you have a lot in common?",
+            "translation": "نقطه مشترک زیادی دارید؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, we share similar interests.",
+            "translation": "بله، علایق مشابهی داریم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Can you trust her with anything?",
+            "translation": "می‌توانی هر چیزی را به او بسپاری؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Absolutely. She always supports me.",
+            "translation": "قطعاً. همیشه از من حمایت می‌کند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "You're lucky to have such a close friend.",
+            "translation": "خوش‌شانسی که چنین دوست صمیمی‌ای داری."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "I really am. We have so many good memories.",
+            "translation": "واقعاً هستم. خاطرات خوب زیادی داریم."
+        }
+    ]
+}

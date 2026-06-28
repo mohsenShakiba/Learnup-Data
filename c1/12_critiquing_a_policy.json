@@ -1,0 +1,79 @@
+{
+    "title": "12 - Critiquing a Policy Proposal",
+    "description": "دو تحلیل‌گر یک پیشنهاد سیاستی جدید را نقد می‌کنند و نقاط ضعف آن را می‌سنجند.",
+    "words": ["policy", "proposal", "implications", "feasible", "unintended", "stakeholder", "scrutiny", "flawed", "rationale", "consequence", "ambitious", "loophole", "viable", "assess"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Have you read the new housing proposal?",
+            "translation": "پیشنهاد جدید مسکن را خوانده‌ای؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I have. It's ambitious, but deeply flawed.",
+            "translation": "خوانده‌ام. بلندپروازانه است، اما عمیقاً ناقص."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What's your main objection?",
+            "translation": "ایراد اصلی‌ات چیست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "The funding model simply isn't feasible.",
+            "translation": "مدل تأمین مالی اصلاً عملی نیست."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I agree the rationale is shaky.",
+            "translation": "موافقم که منطقش سست است."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "And it overlooks several key stakeholders.",
+            "translation": "و چند ذی‌نفع کلیدی را نادیده می‌گیرد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "There could be serious unintended consequences.",
+            "translation": "می‌تواند پیامدهای ناخواسته جدی داشته باشد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Precisely. It hasn't been properly scrutinized.",
+            "translation": "دقیقاً. به‌درستی موشکافی نشده."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "The timeline also seems unrealistic.",
+            "translation": "زمان‌بندی هم غیرواقع‌بینانه به نظر می‌رسد."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "And there's an obvious loophole in clause four.",
+            "translation": "و یک خلأ آشکار در بند چهار وجود دارد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "So how would you make it viable?",
+            "translation": "پس چطور آن را عملی می‌کنی؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "It needs phased implementation and clearer funding.",
+            "translation": "به اجرای مرحله‌ای و تأمین مالی شفاف‌تر نیاز دارد."
+        }
+    ]
+}

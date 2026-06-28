@@ -1,0 +1,73 @@
+{
+    "title": "27 - Booking a Taxi",
+    "description": "رزرو تلفنی تاکسی برای رفتن به فرودگاه.",
+    "words": ["taxi", "book", "airport", "pick", "early", "morning", "outside", "wait", "driver", "luggage", "hurry", "traffic", "flight", "ready"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello, I'd like to book a taxi, please.",
+            "translation": "سلام، می‌خواهم یک تاکسی رزرو کنم، لطفاً."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Sure. Where do you want to go?",
+            "translation": "حتماً. کجا می‌خواهید بروید؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "To the airport. My flight is at nine.",
+            "translation": "به فرودگاه. پروازم ساعت نه است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "What time should we pick you up?",
+            "translation": "چه ساعتی دنبالتان بیاییم؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Early, please. At six in the morning.",
+            "translation": "زود، لطفاً. ساعت شش صبح."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Okay. What is your address?",
+            "translation": "باشه. آدرستان چیست؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "12 Park Road. I have two bags of luggage.",
+            "translation": "خیابان پارک، پلاک ۱۲. دو چمدان دارم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "No problem. The driver will wait outside.",
+            "translation": "مشکلی نیست. راننده بیرون منتظر می‌ماند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Good. There can be a lot of traffic.",
+            "translation": "خوب است. ممکن است ترافیک زیادی باشد."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Don't worry, six is early. You won't be late.",
+            "translation": "نگران نباشید، شش زود است. دیر نمی‌رسید."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thank you. I'll be ready.",
+            "translation": "ممنون. آماده خواهم بود."
+        }
+    ]
+}

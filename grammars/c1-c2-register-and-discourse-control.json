@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Register and discourse control",
+    "levelId": 5,
+    "order": 10,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس کنترل register و discourse را برای انتخاب لحن مناسب، مدیریت رابطه با مخاطب و هدایت جریان استدلال در گفتار و نوشتار پیشرفته توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "انتخاب register متناسب با مخاطب و موقعیت",
+        "htmlTag": 1,
+        "content": "انتخاب register متناسب با مخاطب و موقعیت",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "انتخاب register متناسب با مخاطب و موقعیت",
+        "htmlTag": 0,
+        "content": "در سطح پیشرفته فقط درست بودن دستور زبان کافی نیست؛ باید بدانیم همان معنا را در بافت‌های مختلف با چه لحنی بیان کنیم. register به میزان رسمی‌بودن، فاصله‌ی اجتماعی، نوع مخاطب و هدف ارتباط بستگی دارد. انتخاب نادرست register ممکن است جمله را از نظر گرامری درست ولی از نظر اجتماعی نامناسب کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست رسمی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: درخواست رسمی",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست رسمی",
+        "htmlTag": 0,
+        "content": "Could you please forward the revised draft by noon?",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست رسمی",
+        "htmlTag": 0,
+        "content": "این جمله برای محیط حرفه‌ای مناسب است، چون هم مودبانه است و هم ساختار آن مستقیم اما نرم است. could you please فاصله‌ی حرفه‌ای را حفظ می‌کند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: بیان همان معنا در لحن دوستانه‌تر",
+        "htmlTag": 2,
+        "content": "کاربرد 2: بیان همان معنا در لحن دوستانه‌تر",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: بیان همان معنا در لحن دوستانه‌تر",
+        "htmlTag": 0,
+        "content": "Can you send me the new draft by noon?",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: بیان همان معنا در لحن دوستانه‌تر",
+        "htmlTag": 0,
+        "content": "اینجا معنا تقریباً همان است، اما register صمیمی‌تر و مستقیم‌تر شده است. در محیط رسمی، این نسخه ممکن است کمی بیش از حد blunt به نظر برسد.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "کنترل register یعنی فقط واژه‌های سخت‌تر به‌کار نبریم؛ بلکه فاصله، ادب، قطعیت و حتی طول جمله را متناسب با موقعیت تنظیم کنیم.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I would appreciate it if you could confirm receipt.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این ساختار برای ایمیل رسمی مناسب است، چون هم درخواست را مطرح می‌کند و هم لحن حرفه‌ای و غیرتحمیلی دارد.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Just let me know when you get it.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "همین معنا در لحن غیررسمی بسیار طبیعی است، اما در گزارش یا مکاتبه‌ی سازمانی معمولاً بیش از حد casual محسوب می‌شود.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کنترل discourse برای هدایت استدلال",
+        "htmlTag": 1,
+        "content": "کنترل discourse برای هدایت استدلال",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کنترل discourse برای هدایت استدلال",
+        "htmlTag": 0,
+        "content": "discourse control یعنی اینکه خواننده یا شنونده را فقط با جمله‌های درست رها نکنیم، بلکه مسیر استدلال را برای او طراحی کنیم. این کار با framing، signposting، contrast markers، stance markers و انتخاب ترتیب اطلاعات انجام می‌شود. در متن‌های C1/C2، همین کنترل است که نوشته را حرفه‌ای، منسجم و persuasive می‌کند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: framing پیش از طرح ادعا",
+        "htmlTag": 2,
+        "content": "کاربرد 1: framing پیش از طرح ادعا",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: framing پیش از طرح ادعا",
+        "htmlTag": 0,
+        "content": "From a practical standpoint, the proposal is difficult to implement.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: framing پیش از طرح ادعا",
+        "htmlTag": 0,
+        "content": "عبارت From a practical standpoint زاویه‌ی دید را از ابتدا مشخص می‌کند. این framing به مخاطب می‌گوید نویسنده از چه منظر دارد قضاوت می‌کند.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هدایت تضاد و چرخش استدلال",
+        "htmlTag": 2,
+        "content": "کاربرد 2: هدایت تضاد و چرخش استدلال",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هدایت تضاد و چرخش استدلال",
+        "htmlTag": 0,
+        "content": "The plan is ambitious; however, its funding model remains unclear.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: هدایت تضاد و چرخش استدلال",
+        "htmlTag": 0,
+        "content": "however فقط یک connector نیست؛ بلکه به خواننده علامت می‌دهد که حالا باید ادعای قبلی را در برابر یک محدودیت یا نقد بخواند.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در متون پیشرفته، انسجام فقط با grammar ساخته نمی‌شود. انتخاب دقیق markerها تعیین می‌کند که مخاطب استدلال را روان، منطقی و قابل‌پیگیری تجربه کند یا نه.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "More importantly, the data does not yet justify such a strong conclusion.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "More importantly سلسله‌مراتبِ نکات را نشان می‌دهد و توجه مخاطب را به مهم‌ترین بخش استدلال منتقل می‌کند.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "That said, we should not ignore the progress made so far.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "That said به نویسنده اجازه می‌دهد بدون تناقض آشکار، موضعی متعادل‌تر و nuanced ارائه کند.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مدیریت tone در مخالفت، نقد و اقناع",
+        "htmlTag": 1,
+        "content": "مدیریت tone در مخالفت، نقد و اقناع",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مدیریت tone در مخالفت، نقد و اقناع",
+        "htmlTag": 0,
+        "content": "بخش مهمی از discourse control این است که مخالفت یا نقد را طوری بیان کنیم که هم روشن باشد و هم رابطه را تخریب نکند. در محیط دانشگاهی و حرفه‌ای، tone اغلب به اندازه‌ی خودِ محتوا مهم است. انتخاب افعال وجهی، stance markerها و framing مناسب به ما کمک می‌کند قاطع ولی قابل‌پذیرش باقی بمانیم.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مخالفت تحلیلی و کنترل‌شده",
+        "htmlTag": 2,
+        "content": "کاربرد 1: مخالفت تحلیلی و کنترل‌شده",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مخالفت تحلیلی و کنترل‌شده",
+        "htmlTag": 0,
+        "content": "I am not convinced that the current evidence supports that conclusion.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مخالفت تحلیلی و کنترل‌شده",
+        "htmlTag": 0,
+        "content": "این جمله مخالفت را روشن بیان می‌کند، اما به‌جای حمله‌ی مستقیم، تمرکز را بر sufficiency of evidence می‌گذارد. همین انتخاب tone را حرفه‌ای نگه می‌دارد.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد اصلاح بدون تقابل شدید",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پیشنهاد اصلاح بدون تقابل شدید",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد اصلاح بدون تقابل شدید",
+        "htmlTag": 0,
+        "content": "It may be worth reconsidering how the results are presented.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد اصلاح بدون تقابل شدید",
+        "htmlTag": 0,
+        "content": "may be worth reconsidering پیشنهادی انتقادی است، اما آن را به‌صورت حمله‌ی مستقیم بیان نمی‌کند. این نوع softening برای feedback حرفه‌ای بسیار مفید است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "tone خوب معمولاً نتیجه‌ی تعدیل هوشمندانه است: نه آن‌قدر نرم که موضع از بین برود، و نه آن‌قدر مستقیم که همکاری دشوار شود. register و discourse در اینجا به هم می‌رسند.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "With respect, that interpretation overlooks several key variables.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این ساختار نشان می‌دهد می‌توان نقدی جدی مطرح کرد و در عین حال نشانۀ احترام را حفظ کرد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "A clearer distinction between correlation and causation would strengthen the argument.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "به‌جای گفتن The argument is weak، این جمله نقد را به شکل سازنده و راه‌حل‌محور بیان می‌کند.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

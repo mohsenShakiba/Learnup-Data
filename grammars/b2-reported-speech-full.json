@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Reported speech in full",
+    "levelId": 4,
+    "order": 8,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس reported speech پیشرفته‌تر را برای گزارش خبر، سوال، دستور، درخواست و تغییرهای گسترده‌ترِ زمان، ضمیر و قیدهای زمانی توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "مرور backshift و تغییرهای اصلی",
+        "htmlTag": 1,
+        "content": "مرور backshift و تغییرهای اصلی",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مرور backshift و تغییرهای اصلی",
+        "htmlTag": 0,
+        "content": "در reported speech پیشرفته‌تر باید فقط جمله خبری را گزارش نکنیم، بلکه بفهمیم چه چیزهایی با عوض شدن زاویه دید تغییر می‌کنند. زمان فعل، ضمیرها، مالکیت و قیدهای زمانی همه ممکن است با موقعیت گزارش جدید هماهنگ شوند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر زمان و ضمیر",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تغییر زمان و ضمیر",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر زمان و ضمیر",
+        "htmlTag": 0,
+        "content": "Nina said, \"I am working on my thesis.\" → Nina said that she was working on her thesis.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر زمان و ضمیر",
+        "htmlTag": 0,
+        "content": "در اینجا هم زمان am working به was working عقب رفته و هم I و my با موقعیت گزارش جدید هماهنگ شده‌اند. این ترکیب تغییرها در reported speech بسیار رایج است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تغییر present perfect",
+        "htmlTag": 2,
+        "content": "کاربرد 2: تغییر present perfect",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تغییر present perfect",
+        "htmlTag": 0,
+        "content": "He said, \"I have finished the draft.\" → He said that he had finished the draft.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تغییر present perfect",
+        "htmlTag": 0,
+        "content": "اینجا present perfect در گزارش به past perfect نزدیک شده است، چون فعل گزارشی در گذشته آمده و رویداد گزارش‌شده قبل از لحظه گزارش اصلی دیده می‌شود.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "backshift یک قانون خشک و کور نیست. اگر واقعیت هنوز برقرار باشد یا گزارش خیلی نزدیک به زمان اصلی انجام شود، sometimes می‌توان ساختار ساده‌تری نگه داشت. اما در سطح B2 باید الگوهای کلاسیک را خوب بشناسیم.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She said, \"We will start at six.\" → She said that they would start at six.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال will به would تبدیل شده و ضمیر we بسته به دید گزارش‌دهنده تغییر کرده است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Tom said, \"I can help.\" → Tom said that he could help.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا can به could تبدیل شده و reported speech رابطه زمانی و دیدگاه جدید را حفظ کرده است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "گزارش سوال‌ها، دستورها و درخواست‌ها",
+        "htmlTag": 1,
+        "content": "گزارش سوال‌ها، دستورها و درخواست‌ها",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "گزارش سوال‌ها، دستورها و درخواست‌ها",
+        "htmlTag": 0,
+        "content": "reported speech فقط برای خبر دادن نیست. ما سوال‌ها، درخواست‌ها و دستورها را هم گزارش می‌کنیم، اما ساختار آن‌ها با direct speech متفاوت می‌شود و دیگر شکل مستقیم سوال یا امر را حفظ نمی‌کند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: گزارش سوال yes/no",
+        "htmlTag": 2,
+        "content": "کاربرد 1: گزارش سوال yes/no",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: گزارش سوال yes/no",
+        "htmlTag": 0,
+        "content": "She asked if I had seen her keys.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: گزارش سوال yes/no",
+        "htmlTag": 0,
+        "content": "اینجا سوال مستقیم به reported question تبدیل شده است. از if برای معرفی محتوای سوال استفاده می‌شود و ترتیب جمله مثل یک جمله خبری است، نه سوال مستقیم.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گزارش دستور یا درخواست",
+        "htmlTag": 2,
+        "content": "کاربرد 2: گزارش دستور یا درخواست",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گزارش دستور یا درخواست",
+        "htmlTag": 0,
+        "content": "The doctor told him to rest for a few days.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گزارش دستور یا درخواست",
+        "htmlTag": 0,
+        "content": "در این مثال reported speech یک دستور یا توصیه را با ساختار tell + object + to-infinitive منتقل می‌کند. دیگر نقل‌قول مستقیم وجود ندارد، اما معنی اصلی حفظ شده است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در سوال‌های wh- از کلمه پرسشی حفظ‌شده استفاده می‌کنیم، اما جای فعل و فاعل دیگر مثل direct question نیست. در دستورها و درخواست‌ها هم اغلب از tell، ask، advise یا warn به‌همراه to-infinitive استفاده می‌شود.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They asked where we had parked the car.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال where حفظ شده، اما ساختار جمله گزارش‌شده خبری است. این یکی از تفاوت‌های کلیدی between direct and reported questions است.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "My manager warned us not to share the file.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا reported speech یک هشدار منفی را با not to-infinitive منتقل می‌کند و معنا را دقیق نگه می‌دارد.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "قیدهای زمانی و انتخاب فعل گزارشی",
+        "htmlTag": 1,
+        "content": "قیدهای زمانی و انتخاب فعل گزارشی",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "قیدهای زمانی و انتخاب فعل گزارشی",
+        "htmlTag": 0,
+        "content": "در سطح B2 انتخاب reporting verb هم مهم می‌شود. فقط say و tell نداریم؛ گاهی explain، admit، promise، deny، remind و suggest هم لازم‌اند. علاوه بر این، قیدهای زمانی مثل today، now یا yesterday باید با زمان و زاویه دید جدید سازگار شوند.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر قید زمانی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تغییر قید زمانی",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر قید زمانی",
+        "htmlTag": 0,
+        "content": "He said, \"I cannot meet you today.\" → He said that he could not meet me that day.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر قید زمانی",
+        "htmlTag": 0,
+        "content": "در اینجا today به that day تغییر کرده، چون گزارش از زمانی دیگر بیان می‌شود. این تغییر کمک می‌کند جمله از نظر زمانی طبیعی بماند.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل گزارشی دقیق‌تر",
+        "htmlTag": 2,
+        "content": "کاربرد 2: فعل گزارشی دقیق‌تر",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل گزارشی دقیق‌تر",
+        "htmlTag": 0,
+        "content": "She admitted that she had made a mistake.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل گزارشی دقیق‌تر",
+        "htmlTag": 0,
+        "content": "اینجا admitted فقط انتقال محتوا نیست؛ نوع نگرش گوینده را هم نشان می‌دهد. انتخاب فعل گزارشی مناسب باعث می‌شود معنی دقیق‌تر و سطح زبان بالاتر شود.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر فقط از said برای همه چیز استفاده کنیم، جمله‌ها از نظر گرامری شاید درست باشند، اما دقت معنایی پایین می‌آید. در reported speech پیشرفته، فعل گزارشی بخشی از خودِ معناست، نه فقط یک قالب دستوری.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They promised that they would finish the work on time.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال promised علاوه بر گزارش محتوا، تعهد گوینده‌های اصلی را هم منتقل می‌کند.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She reminded me to send the email that evening.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا reminded یک کارکرد مشخص دارد و that evening جایگزین زمان مستقیم‌تر قبلی شده تا گزارش طبیعی بماند.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+    "title": "22 - Persuasion and Influence",
+    "description": "دو حرفه‌ای درباره مرز میان متقاعدسازی اخلاقی و دستکاری بحث می‌کنند.",
+    "words": ["persuasion", "manipulation", "influence", "rhetoric", "ethical", "transparent", "leverage", "credibility", "coerce", "consent", "subtle", "principled", "exploit", "boundary"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Where's the line between persuasion and manipulation?",
+            "translation": "مرز میان متقاعدسازی و دستکاری کجاست؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Intent and transparency, mostly.",
+            "translation": "عمدتاً نیت و شفافیت."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "So persuasion respects the other's judgment?",
+            "translation": "پس متقاعدسازی به قضاوت طرف مقابل احترام می‌گذارد؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Exactly. It informs rather than exploits.",
+            "translation": "دقیقاً. آگاه می‌کند نه اینکه سوءاستفاده کند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Whereas manipulation hides its true aim.",
+            "translation": "در حالی که دستکاری هدف واقعی‌اش را پنهان می‌کند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "And it often preys on emotion.",
+            "translation": "و اغلب احساسات را شکار می‌کند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yet good rhetoric uses emotion too.",
+            "translation": "با این حال سخنوری خوب هم از احساس استفاده می‌کند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "True, but it doesn't deceive.",
+            "translation": "درست است، اما فریب نمی‌دهد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "So credibility is what keeps it ethical.",
+            "translation": "پس اعتبار همان چیزی است که آن را اخلاقی نگه می‌دارد."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Precisely. Trust shouldn't be exploited.",
+            "translation": "دقیقاً. نباید از اعتماد سوءاستفاده شود."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "It's a surprisingly subtle boundary.",
+            "translation": "مرز به‌طرز شگفت‌آوری ظریفی است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Which is why principled influence is rare.",
+            "translation": "برای همین است که نفوذ اصول‌مند نادر است."
+        }
+    ]
+}

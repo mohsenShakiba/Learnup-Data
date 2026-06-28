@@ -1,0 +1,79 @@
+{
+    "title": "27 - Recovering From Burnout",
+    "description": "فردی که دچار فرسودگی شغلی شده درباره بهبودی‌اش با یک دوست صحبت می‌کند.",
+    "words": ["burnout", "exhausted", "recover", "boundaries", "overwork", "recharge", "priorities", "guilt", "balance", "support", "perspective", "sustainable", "gradually", "wellbeing"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "You seem more relaxed than last month.",
+            "translation": "از ماه گذشته آرام‌تر به نظر می‌رسی."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I am. I hit real burnout, though.",
+            "translation": "هستم. هرچند به فرسودگی واقعی رسیده بودم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I could tell. You were exhausted.",
+            "translation": "می‌شد فهمید. خیلی خسته بودی."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I was overworking constantly.",
+            "translation": "مدام بیش از حد کار می‌کردم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What helped you recover?",
+            "translation": "چه چیزی به بهبودی‌ات کمک کرد؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I finally set proper boundaries.",
+            "translation": "بالاخره مرزهای درستی تعیین کردم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Wasn't it hard to slow down?",
+            "translation": "آهسته کردن سخت نبود؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, I felt guilty at first.",
+            "translation": "بله، اولش احساس گناه می‌کردم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "But your wellbeing comes first.",
+            "translation": "اما سلامتت در اولویت است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I realize that now.",
+            "translation": "حالا این را درک می‌کنم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "It's about a sustainable pace.",
+            "translation": "موضوع یک سرعت پایدار است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Exactly. I won't ignore the warning signs again.",
+            "translation": "دقیقاً. دیگر علائم هشدار را نادیده نمی‌گیرم."
+        }
+    ]
+}

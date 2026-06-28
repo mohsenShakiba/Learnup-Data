@@ -1,0 +1,79 @@
+{
+    "title": "16 - Resolving Team Conflict",
+    "description": "مدیری به دو عضو تیم که با هم اختلاف دارند کمک می‌کند به تفاهم برسند.",
+    "words": ["conflict", "tension", "perspective", "mediate", "resolve", "blame", "acknowledge", "compromise", "professional", "respect", "underlying", "address", "constructive", "move on"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I've noticed some tension between you two.",
+            "translation": "متوجه کمی تنش بین شما دو نفر شده‌ام."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, we've had a few disagreements.",
+            "translation": "بله، چند اختلاف‌نظر داشته‌ایم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'd like to understand both perspectives.",
+            "translation": "می‌خواهم هر دو دیدگاه را درک کنم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I feel my ideas are often dismissed.",
+            "translation": "احساس می‌کنم ایده‌هایم اغلب نادیده گرفته می‌شوند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Thank you for being honest about that.",
+            "translation": "ممنون که درباره آن صادق بودی."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I didn't mean to dismiss anyone.",
+            "translation": "قصد نداشتم کسی را نادیده بگیرم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Let's address the underlying issue.",
+            "translation": "بیایید مشکل اصلی را بررسی کنیم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Maybe we need clearer communication.",
+            "translation": "شاید به ارتباط شفاف‌تری نیاز داریم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Agreed. Let's hear each other out first.",
+            "translation": "موافقم. بیایید اول حرف هم را بشنویم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I'm willing to find a compromise.",
+            "translation": "حاضرم به یک توافق برسم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That's a constructive attitude.",
+            "translation": "این نگرش سازنده‌ای است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Let's move on and work together better.",
+            "translation": "بیایید پیش برویم و بهتر با هم کار کنیم."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "41 - The Cost of Living",
+    "description": "دو دوست درباره افزایش هزینه‌های زندگی و راه‌های مدیریت آن صحبت می‌کنند.",
+    "words": ["rent", "rising", "expenses", "afford", "bills", "income", "tight", "cut back", "essential", "budget", "struggle", "manage", "increase", "cope"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Everything seems so expensive these days.",
+            "translation": "این روزها همه چیز خیلی گران به نظر می‌رسد."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I know. The rent keeps rising.",
+            "translation": "می‌دانم. اجاره مدام بالا می‌رود."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "And the bills are higher every month.",
+            "translation": "و قبض‌ها هر ماه بیشتر می‌شوند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "It's getting harder to manage.",
+            "translation": "مدیریتش سخت‌تر می‌شود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Have you had to cut back on anything?",
+            "translation": "مجبور شده‌ای از چیزی بزنی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, I eat out much less now.",
+            "translation": "بله، حالا خیلی کمتر بیرون غذا می‌خورم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Same here. Money is really tight.",
+            "translation": "من هم همینطور. پول واقعاً کم است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I try to focus on the essentials.",
+            "translation": "سعی می‌کنم روی نیازهای اساسی تمرکز کنم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Do you think prices will go down?",
+            "translation": "فکر می‌کنی قیمت‌ها پایین می‌آیند؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Honestly, I'm not very hopeful.",
+            "translation": "صادقانه بگویم، خیلی امیدوار نیستم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "We just have to budget carefully.",
+            "translation": "فقط باید با دقت بودجه‌بندی کنیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Exactly. Little by little, we'll cope.",
+            "translation": "دقیقاً. کم‌کم از پسش برمی‌آییم."
+        }
+    ]
+}

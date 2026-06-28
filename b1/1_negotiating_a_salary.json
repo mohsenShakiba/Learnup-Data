@@ -1,0 +1,79 @@
+{
+    "title": "1 - Negotiating a Salary",
+    "description": "گفتگو با کارفرما درباره حقوق و مزایای یک پیشنهاد شغلی.",
+    "words": ["salary", "offer", "negotiate", "expect", "budget", "benefits", "experience", "raise", "consider", "flexible", "agreement", "package", "reasonable", "accept"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "We'd like to offer you the position.",
+            "translation": "می‌خواهیم این موقعیت شغلی را به شما پیشنهاد دهیم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Thank you. I'm very interested.",
+            "translation": "ممنون. خیلی علاقه‌مند هستم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The starting salary is fifty thousand a year.",
+            "translation": "حقوق اولیه سالی پنجاه هزار است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I was hoping for a little more, to be honest.",
+            "translation": "راستش امیدوار بودم کمی بیشتر باشد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What figure did you have in mind?",
+            "translation": "چه رقمی مد نظر داشتید؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Given my experience, I expected fifty-five.",
+            "translation": "با توجه به تجربه‌ام، انتظار پنجاه و پنج را داشتم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Our budget is a bit tight, but we can be flexible.",
+            "translation": "بودجه‌مان کمی محدود است، اما می‌توانیم انعطاف نشان دهیم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Could you also include extra holidays?",
+            "translation": "می‌توانید مرخصی اضافه هم در نظر بگیرید؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "If you accept fifty-two, we'll add three days.",
+            "translation": "اگر پنجاه و دو را بپذیرید، سه روز اضافه می‌کنیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That sounds reasonable. What about the benefits?",
+            "translation": "منطقی به نظر می‌رسد. مزایا چطور؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "The package includes health insurance and a bonus.",
+            "translation": "بسته شامل بیمه درمانی و پاداش می‌شود."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "In that case, I'm happy to accept.",
+            "translation": "در این صورت، با خوشحالی قبول می‌کنم."
+        }
+    ]
+}

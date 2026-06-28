@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Past continuous",
+    "levelId": 3,
+    "order": 3,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس past continuous را برای نشان دادن کار در حال انجام در گذشته، صحنه‌سازی، و همزمانی یا قطع شدن یک عمل با عمل دیگر توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "معنای اصلی past continuous",
+        "htmlTag": 1,
+        "content": "معنای اصلی past continuous",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "معنای اصلی past continuous",
+        "htmlTag": 0,
+        "content": "past continuous وقتی به کار می‌رود که بخواهیم بگوییم یک عمل در یک لحظه یا بازه‌ای در گذشته در حال انجام بوده است. این زمان بیشتر روی فرایند و ادامه داشتن عمل تمرکز دارد، نه فقط روی شروع یا پایان آن.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار در حال انجام در یک زمان مشخص",
+        "htmlTag": 2,
+        "content": "کاربرد 1: کار در حال انجام در یک زمان مشخص",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار در حال انجام در یک زمان مشخص",
+        "htmlTag": 0,
+        "content": "At eight o'clock, I was studying.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار در حال انجام در یک زمان مشخص",
+        "htmlTag": 0,
+        "content": "در این جمله تمرکز روی همان لحظه در گذشته است و نشان می‌دهد عمل مطالعه در آن زمان در جریان بوده است. past continuous به ما تصویر زنده‌تری از موقعیت می‌دهد.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: توصیف وضعیت موقت در گذشته",
+        "htmlTag": 2,
+        "content": "کاربرد 2: توصیف وضعیت موقت در گذشته",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: توصیف وضعیت موقت در گذشته",
+        "htmlTag": 0,
+        "content": "They were staying with friends for a week.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: توصیف وضعیت موقت در گذشته",
+        "htmlTag": 0,
+        "content": "اینجا staying یک وضعیت موقت و ادامه‌دار در گذشته را نشان می‌دهد. جمله فقط خبر نمی‌دهد که رفتند، بلکه می‌گوید در آن دوره کجا اقامت داشتند.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "برای ساخت past continuous از was یا were به علاوه فعل ingدار استفاده می‌کنیم. انتخاب بین was و were به فاعل بستگی دارد و فراموش کردن ing یکی از خطاهای رایج است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She was sleeping when I called.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال past continuous نشان می‌دهد خوابیدن قبل از تماس شروع شده بود و هنگام تماس هنوز ادامه داشت.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We were walking home at midnight.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله یک صحنه در گذشته را می‌سازد و روی در جریان بودن عمل walking تمرکز می‌کند.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "past continuous با past simple",
+        "htmlTag": 1,
+        "content": "past continuous با past simple",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "past continuous با past simple",
+        "htmlTag": 0,
+        "content": "یکی از مهم‌ترین کاربردهای این زمان وقتی است که یک عمل در حال انجام در گذشته با یک عمل کوتاه‌تر یا ناگهانی قطع می‌شود. در این حالت معمولا past continuous برای پس‌زمینه و past simple برای اتفاق اصلی به کار می‌رود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عمل در جریان که قطع می‌شود",
+        "htmlTag": 2,
+        "content": "کاربرد 1: عمل در جریان که قطع می‌شود",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عمل در جریان که قطع می‌شود",
+        "htmlTag": 0,
+        "content": "I was taking a shower when the phone rang.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عمل در جریان که قطع می‌شود",
+        "htmlTag": 0,
+        "content": "در این جمله taking a shower عمل طولانی‌تر و در حال انجام است، اما rang رویداد کوتاه و ناگهانی است که آن را قطع می‌کند.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: رویداد اصلی در وسط یک فرایند",
+        "htmlTag": 2,
+        "content": "کاربرد 2: رویداد اصلی در وسط یک فرایند",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: رویداد اصلی در وسط یک فرایند",
+        "htmlTag": 0,
+        "content": "They were driving to work when they saw the accident.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: رویداد اصلی در وسط یک فرایند",
+        "htmlTag": 0,
+        "content": "اینجا driving پس‌زمینه صحنه را می‌سازد و saw the accident اتفاقی است که در همان جریان رخ می‌دهد. این تفاوت به شنونده کمک می‌کند ترتیب و نوع رویدادها را بهتر بفهمد.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "کلمه when اغلب نشانه خوبی است، اما نکته اصلی فقط وجود when نیست؛ مهم این است که تشخیص دهیم کدام عمل طولانی‌تر و در جریان بوده و کدام عمل کوتاه‌تر و لحظه‌ای است.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He was cooking dinner when the lights went out.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال cooking عمل ادامه‌دار است و went out رویدادی ناگهانی است که وسط آن اتفاق می‌افتد.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I was talking to Sara when the bus arrived.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا talking پس‌زمینه است و arrived رخداد کوتاه‌تری است که زمان جمله را دقیق‌تر می‌کند.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "همزمانی و صحنه‌سازی در گذشته",
+        "htmlTag": 1,
+        "content": "همزمانی و صحنه‌سازی در گذشته",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "همزمانی و صحنه‌سازی در گذشته",
+        "htmlTag": 0,
+        "content": "past continuous همچنین برای توصیف دو عمل همزمان در گذشته یا ساختن فضای یک داستان استفاده می‌شود. این زمان کمک می‌کند گذشته را فقط به صورت فهرست رویدادها نبینیم، بلکه آن را مثل یک صحنه زنده توصیف کنیم.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: دو عمل همزمان",
+        "htmlTag": 2,
+        "content": "کاربرد 1: دو عمل همزمان",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: دو عمل همزمان",
+        "htmlTag": 0,
+        "content": "While I was doing my homework, my brother was watching TV.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: دو عمل همزمان",
+        "htmlTag": 0,
+        "content": "در این جمله هر دو عمل در یک زمان در جریان بوده‌اند، بنابراین هر دو با past continuous آمده‌اند. while رابطه همزمانی را روشن می‌کند.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صحنه‌سازی در داستان",
+        "htmlTag": 2,
+        "content": "کاربرد 2: صحنه‌سازی در داستان",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صحنه‌سازی در داستان",
+        "htmlTag": 0,
+        "content": "The sun was shining and people were laughing in the park.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صحنه‌سازی در داستان",
+        "htmlTag": 0,
+        "content": "اینجا past continuous برای ساختن تصویر پس‌زمینه استفاده شده است. جمله حس یک صحنه زنده و در حال حرکت را منتقل می‌کند.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "همه فعل‌ها به‌طور طبیعی در continuous نمی‌آیند. فعل‌های حالتی مثل know، like یا believe معمولا در این زمان کمتر استفاده می‌شوند، چون بیشتر حالت را بیان می‌کنند تا یک فعالیت در حال جریان.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It was raining, and the wind was blowing hard.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این جمله دو وضعیت همزمان را توصیف می‌کند و برای صحنه‌سازی در روایت بسیار مناسب است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "While we were waiting, the band was preparing for the show.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال هر دو بخش روندی ادامه‌دار در گذشته را نشان می‌دهند و حس انتظار و آمادگی را به‌خوبی منتقل می‌کنند.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+    "title": "26 - A Coffee Break at Work",
+    "description": "گفتگوی کوتاه دو همکار در زمان استراحت سر کار.",
+    "words": ["break", "busy", "tired", "meeting", "boss", "project", "deadline", "weekend", "rest", "lunch", "almost", "finish", "relax", "soon"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, do you want some coffee?",
+            "translation": "سلام، قهوه می‌خوری؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, please. I'm so tired today.",
+            "translation": "بله لطفاً. امروز خیلی خسته‌ام."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Me too. We are very busy this week.",
+            "translation": "من هم همینطور. این هفته خیلی سرمان شلوغ است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I know. The project has a deadline on Friday.",
+            "translation": "می‌دانم. پروژه جمعه مهلت دارد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Did you talk to the boss?",
+            "translation": "با رئیس صحبت کردی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, in the morning meeting.",
+            "translation": "بله، در جلسه صبح."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Are we almost finished?",
+            "translation": "تقریباً تمام کرده‌ایم؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Almost. Just a little more work.",
+            "translation": "تقریباً. فقط کمی کار دیگر مانده."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Let's have lunch after this.",
+            "translation": "بعد از این بیا ناهار بخوریم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Good idea. I need a real break.",
+            "translation": "فکر خوبی است. به یک استراحت واقعی نیاز دارم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "We can relax this weekend.",
+            "translation": "این آخر هفته می‌توانیم استراحت کنیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "I hope so. The weekend can't come soon enough.",
+            "translation": "امیدوارم. آخر هفته هر چه زودتر بیاید بهتر است."
+        }
+    ]
+}

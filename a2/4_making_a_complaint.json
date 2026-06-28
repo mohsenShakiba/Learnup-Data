@@ -1,0 +1,79 @@
+{
+    "title": "4 - Making a Complaint",
+    "description": "شکایت از یک کالای خراب در فروشگاه و درخواست راه‌حل.",
+    "words": ["complaint", "broken", "bought", "yesterday", "work", "refund", "replace", "manager", "sorry", "fault", "warranty", "fix", "wait", "solve"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello, I have a problem with this radio.",
+            "translation": "سلام، با این رادیو مشکل دارم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I'm sorry to hear that. What's wrong?",
+            "translation": "متأسفم. چه مشکلی دارد؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I bought it yesterday, but it doesn't work.",
+            "translation": "دیروز خریدمش، اما کار نمی‌کند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Do you have the receipt?",
+            "translation": "رسید دارید؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Yes, here it is.",
+            "translation": "بله، بفرمایید."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Thank you. This was our fault.",
+            "translation": "ممنون. این تقصیر ما بود."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Can I get a refund?",
+            "translation": "می‌توانم پولم را پس بگیرم؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Of course. Or we can replace it for free.",
+            "translation": "البته. یا می‌توانیم رایگان عوضش کنیم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I'd prefer a new one, please.",
+            "translation": "ترجیح می‌دهم یک نوی آن را بگیرم، لطفاً."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "No problem. It's still under warranty.",
+            "translation": "مشکلی نیست. هنوز گارانتی دارد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "How long do I have to wait?",
+            "translation": "چقدر باید منتظر بمانم؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Just a moment. I'll solve this right now.",
+            "translation": "فقط یک لحظه. همین حالا حلش می‌کنم."
+        }
+    ]
+}

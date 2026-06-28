@@ -1,0 +1,79 @@
+{
+    "title": "3 - Resolving a Disagreement",
+    "description": "دو همکار درباره یک سوءتفاهم کاری صحبت می‌کنند و آن را حل می‌کنند.",
+    "words": ["disagreement", "misunderstand", "explain", "apologize", "blame", "fault", "calm", "honestly", "compromise", "solution", "respect", "frustrated", "resolve", "agree"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Can we talk about what happened yesterday?",
+            "translation": "می‌توانیم درباره اتفاق دیروز صحبت کنیم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, I think there was a misunderstanding.",
+            "translation": "بله، فکر می‌کنم یک سوءتفاهم پیش آمد."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I felt frustrated when you changed the plan.",
+            "translation": "وقتی برنامه را عوض کردی احساس ناراحتی کردم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I'm sorry. I should have told you first.",
+            "translation": "متأسفم. باید اول به تو می‌گفتم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I appreciate that. I wasn't trying to blame you.",
+            "translation": "قدردانی می‌کنم. قصد نداشتم تو را سرزنش کنم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Let me explain why I made the change.",
+            "translation": "بگذار توضیح بدهم چرا تغییرش دادم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Please do. I want to understand.",
+            "translation": "حتماً بگو. می‌خواهم درک کنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "The client asked for it suddenly.",
+            "translation": "مشتری ناگهان آن را درخواست کرد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I see. That makes more sense now.",
+            "translation": "که اینطور. حالا منطقی‌تر است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Next time, let's agree on a solution together.",
+            "translation": "دفعه بعد، بیا با هم روی یک راه‌حل توافق کنیم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Agreed. I respect your opinion.",
+            "translation": "موافقم. به نظرت احترام می‌گذارم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thanks for staying calm and talking it through.",
+            "translation": "ممنون که آرام ماندی و درباره‌اش صحبت کردی."
+        }
+    ]
+}

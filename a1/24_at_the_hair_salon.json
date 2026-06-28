@@ -1,0 +1,79 @@
+{
+    "title": "24 - At the Hair Salon",
+    "description": "گفتگو با آرایشگر درباره مدل و کوتاهی مو.",
+    "words": ["hair", "cut", "short", "wash", "style", "appointment", "sit", "mirror", "color", "trim", "back", "front", "ready", "tip"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, I have an appointment at two.",
+            "translation": "سلام، ساعت دو وقت دارم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Welcome. Please sit here.",
+            "translation": "خوش آمدید. لطفاً اینجا بنشینید."
+        },
+        {
+            "order": 2,
+            "person": 2,
+            "text": "How would you like your hair?",
+            "translation": "موهایتان را چطور می‌خواهید؟"
+        },
+        {
+            "order": 3,
+            "person": 1,
+            "text": "Just a little shorter, please.",
+            "translation": "فقط کمی کوتاه‌تر، لطفاً."
+        },
+        {
+            "order": 4,
+            "person": 2,
+            "text": "Okay. Do you want a wash first?",
+            "translation": "باشه. اول می‌خواهید بشورمش؟"
+        },
+        {
+            "order": 5,
+            "person": 1,
+            "text": "Yes, please. And a small trim at the back.",
+            "translation": "بله لطفاً. و کمی کوتاهی پشت سر."
+        },
+        {
+            "order": 6,
+            "person": 2,
+            "text": "What about the front?",
+            "translation": "جلوی موها چطور؟"
+        },
+        {
+            "order": 7,
+            "person": 1,
+            "text": "Keep the front long, please.",
+            "translation": "جلو را بلند نگه دارید، لطفاً."
+        },
+        {
+            "order": 8,
+            "person": 2,
+            "text": "Do you want any color today?",
+            "translation": "امروز رنگ هم می‌خواهید؟"
+        },
+        {
+            "order": 9,
+            "person": 1,
+            "text": "No, thank you. Just the cut.",
+            "translation": "نه، ممنون. فقط کوتاهی."
+        },
+        {
+            "order": 10,
+            "person": 2,
+            "text": "All done. Look in the mirror.",
+            "translation": "تمام شد. به آینه نگاه کنید."
+        },
+        {
+            "order": 11,
+            "person": 1,
+            "text": "It looks great. Thank you so much.",
+            "translation": "خیلی خوب شده. خیلی ممنون."
+        }
+    ]
+}

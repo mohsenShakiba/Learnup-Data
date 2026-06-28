@@ -1,0 +1,79 @@
+{
+    "title": "29 - Ethics in Technology",
+    "description": "دو نفر درباره مسئولیت اخلاقی شرکت‌های فناوری در توسعه هوش مصنوعی بحث می‌کنند.",
+    "words": ["ethics", "responsibility", "automation", "bias", "accountable", "regulate", "impact", "transparency", "consequence", "displace", "safeguard", "potential", "dilemma", "oversight"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "AI is advancing faster than the rules.",
+            "translation": "هوش مصنوعی سریع‌تر از قوانین پیش می‌رود."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "That's exactly what worries me.",
+            "translation": "دقیقاً همان چیزی است که نگرانم می‌کند."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Who is accountable when it goes wrong?",
+            "translation": "وقتی اشتباه پیش می‌آید چه کسی پاسخگوست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That's the real ethical dilemma.",
+            "translation": "این همان معضل اخلاقی واقعی است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "These systems can carry hidden bias.",
+            "translation": "این سیستم‌ها می‌توانند سوگیری پنهان داشته باشند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "And they affect real people's lives.",
+            "translation": "و بر زندگی واقعی مردم اثر می‌گذارند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Companies must be more transparent.",
+            "translation": "شرکت‌ها باید شفاف‌تر باشند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Transparency alone isn't enough.",
+            "translation": "فقط شفافیت کافی نیست."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "True. We need proper oversight.",
+            "translation": "درست است. به نظارت درست نیاز داریم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "And safeguards against misuse.",
+            "translation": "و تدابیر حفاظتی در برابر سوءاستفاده."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Otherwise the consequences could be severe.",
+            "translation": "وگرنه پیامدها می‌توانند شدید باشند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Ethics has to keep pace with innovation.",
+            "translation": "اخلاق باید هم‌پای نوآوری پیش برود."
+        }
+    ]
+}

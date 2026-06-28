@@ -1,0 +1,79 @@
+{
+    "title": "21 - The Nature of Success",
+    "description": "دو نفر درباره اینکه موفقیت واقعی چیست و چگونه آن را باید سنجید بحث می‌کنند.",
+    "words": ["success", "conventional", "metric", "external", "validation", "subjective", "redefine", "fulfilment", "relentless", "yardstick", "intrinsic", "arbitrary", "measure", "contentment"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "How do you actually define success?",
+            "translation": "تو واقعاً موفقیت را چطور تعریف می‌کنی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Not by the conventional metrics anymore.",
+            "translation": "دیگر نه با معیارهای مرسوم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "You mean wealth and status?",
+            "translation": "منظورت ثروت و موقعیت است؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes. Those are largely external validation.",
+            "translation": "بله. آن‌ها عمدتاً تأیید بیرونی‌اند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "But society constantly pushes those yardsticks.",
+            "translation": "اما جامعه مدام آن معیارها را تحمیل می‌کند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Which makes them feel oddly arbitrary.",
+            "translation": "که آن‌ها را به‌طرز عجیبی دلبخواهی جلوه می‌دهد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "So success is deeply subjective?",
+            "translation": "پس موفقیت عمیقاً نسبی است؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "It has to be. Each life is different.",
+            "translation": "باید باشد. هر زندگی متفاوت است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I've chased external goals for years.",
+            "translation": "سال‌هاست دنبال اهداف بیرونی دویده‌ام."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "And did they bring lasting fulfilment?",
+            "translation": "و آیا رضایت ماندگار آوردند؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Honestly, no. They felt hollow.",
+            "translation": "صادقانه بگویم، نه. توخالی بودند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Then perhaps it's time to redefine it.",
+            "translation": "پس شاید وقتش رسیده دوباره تعریفش کنی."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "24 - Learning a Language",
+    "description": "دو نفر درباره چالش‌ها و روش‌های یادگیری یک زبان جدید گفتگو می‌کنند.",
+    "words": ["fluent", "practice", "grammar", "vocabulary", "mistake", "confident", "immerse", "progress", "pronounce", "consistent", "native", "improve", "frustrating", "rewarding"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "How is your Spanish coming along?",
+            "translation": "اسپانیایی‌ات چطور پیش می‌رود؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Slowly, but I'm making progress.",
+            "translation": "آرام، اما در حال پیشرفت هستم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What's the hardest part for you?",
+            "translation": "سخت‌ترین بخش برایت چیست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "The grammar can be really frustrating.",
+            "translation": "دستور زبان می‌تواند واقعاً ناامیدکننده باشد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Do you practice speaking much?",
+            "translation": "زیاد مکالمه تمرین می‌کنی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I try, but I'm afraid of making mistakes.",
+            "translation": "سعی می‌کنم، اما از اشتباه کردن می‌ترسم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Mistakes are how you learn, though.",
+            "translation": "هرچند اشتباهات همان راه یادگیری‌اند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "You're right. I need to be more confident.",
+            "translation": "حق با توست. باید بااعتمادبه‌نفس‌تر باشم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Try talking with native speakers online.",
+            "translation": "با گویشوران بومی به‌صورت آنلاین صحبت کن."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That's a good idea. Consistency is key, isn't it?",
+            "translation": "ایده خوبی است. تداوم کلید کار است، نه؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Exactly. A little every day really helps.",
+            "translation": "دقیقاً. کمی هر روز واقعاً کمک می‌کند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "It's hard work, but so rewarding.",
+            "translation": "کار سختی است، اما خیلی رضایت‌بخش است."
+        }
+    ]
+}

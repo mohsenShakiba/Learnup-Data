@@ -1,0 +1,79 @@
+{
+    "title": "3 - An Exit Interview",
+    "description": "گفتگوی صادقانه میان یک کارمند در حال ترک شرکت و مدیر منابع انسانی.",
+    "words": ["resignation", "candid", "constructive", "retention", "morale", "overlooked", "fulfilling", "transparent", "trajectory", "appreciate", "feedback", "amicable", "tenure", "reflect"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Thanks for being willing to do this exit interview.",
+            "translation": "ممنون که حاضر شدی این مصاحبه خروج را انجام دهی."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. I'd like to be candid with you.",
+            "translation": "البته. می‌خواهم با تو رک باشم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Please do. Your feedback is genuinely valuable.",
+            "translation": "حتماً بگو. بازخوردت واقعاً ارزشمند است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Honestly, I felt my contributions were often overlooked.",
+            "translation": "صادقانه بگویم، احساس می‌کردم مشارکت‌هایم اغلب نادیده گرفته می‌شد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "That's difficult to hear, but I appreciate your honesty.",
+            "translation": "شنیدنش سخت است، اما از صداقتت قدردانی می‌کنم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "It wasn't about money. The work stopped feeling fulfilling.",
+            "translation": "موضوع پول نبود. کار دیگر رضایت‌بخش نبود."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Is there anything we could have done differently?",
+            "translation": "آیا کاری بود که می‌توانستیم متفاوت انجام دهیم؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "More transparency about career progression would help.",
+            "translation": "شفافیت بیشتر درباره مسیر پیشرفت شغلی کمک می‌کرد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "That's constructive. We struggle with retention here.",
+            "translation": "این سازنده است. ما اینجا با حفظ نیرو مشکل داریم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I think morale could improve with clearer communication.",
+            "translation": "فکر می‌کنم با ارتباط شفاف‌تر، روحیه می‌تواند بهتر شود."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'll make sure this reaches the leadership team.",
+            "translation": "مطمئن می‌شوم این به تیم رهبری برسد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you. I'm glad we're parting on amicable terms.",
+            "translation": "ممنون. خوشحالم که با روابط دوستانه جدا می‌شویم."
+        }
+    ]
+}

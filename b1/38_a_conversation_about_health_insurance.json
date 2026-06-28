@@ -1,0 +1,79 @@
+{
+    "title": "38 - Understanding Health Insurance",
+    "description": "فردی از یک کارشناس درباره انتخاب بیمه درمانی مناسب سؤال می‌کند.",
+    "words": ["insurance", "cover", "premium", "policy", "claim", "deductible", "treatment", "include", "exclude", "monthly", "afford", "benefit", "compare", "suitable"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I'd like some help choosing health insurance.",
+            "translation": "برای انتخاب بیمه درمانی به کمک نیاز دارم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. What's most important to you?",
+            "translation": "البته. چه چیزی برایتان مهم‌تر است؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Good coverage at a reasonable price.",
+            "translation": "پوشش خوب با قیمت منطقی."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "This policy has a low monthly premium.",
+            "translation": "این بیمه‌نامه حق بیمه ماهانه پایینی دارد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What does it actually cover?",
+            "translation": "در واقع چه چیزی را پوشش می‌دهد؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Most treatments and hospital stays.",
+            "translation": "بیشتر درمان‌ها و بستری در بیمارستان."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Is anything excluded?",
+            "translation": "چیزی از پوشش خارج هست؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Dental care is not included here.",
+            "translation": "خدمات دندان‌پزشکی اینجا شامل نمی‌شود."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "What about the deductible?",
+            "translation": "فرانشیز چطور است؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "You pay the first hundred dollars per claim.",
+            "translation": "صد دلار اول هر ادعا را شما می‌پردازید."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That sounds manageable.",
+            "translation": "به نظر قابل‌مدیریت می‌رسد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Let's compare it with one more option.",
+            "translation": "بیایید آن را با یک گزینه دیگر مقایسه کنیم."
+        }
+    ]
+}

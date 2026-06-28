@@ -1,0 +1,79 @@
+{
+    "title": "23 - Discussing the Gig Economy",
+    "description": "دو نفر درباره مزایا و معایب کار آزاد و اقتصاد گیگ بحث می‌کنند.",
+    "words": ["freelance", "flexible", "income", "stability", "benefits", "client", "self-employed", "unpredictable", "autonomy", "pension", "hustle", "trade-off", "thrive", "secure"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I'm thinking of going freelance.",
+            "translation": "به فریلنسر شدن فکر می‌کنم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "That's a big change. What appeals to you?",
+            "translation": "تغییر بزرگی است. چه چیزش جذابت می‌کند؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Mainly the flexibility and autonomy.",
+            "translation": "عمدتاً انعطاف‌پذیری و استقلالش."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Those are real perks.",
+            "translation": "این‌ها مزایای واقعی‌ای هستند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "But I worry about the income stability.",
+            "translation": "اما نگران ثبات درآمد هستم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, it can be quite unpredictable.",
+            "translation": "بله، می‌تواند نسبتاً غیرقابل‌پیش‌بینی باشد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "And there are no company benefits.",
+            "translation": "و مزایای شرکتی هم وجود ندارد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Right, you'd manage your own pension.",
+            "translation": "درست است، بازنشستگی‌ات را خودت مدیریت می‌کنی."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "It's a real trade-off, isn't it?",
+            "translation": "یک معامله دوسویه واقعی است، نه؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "It is. But many people thrive on it.",
+            "translation": "همینطور است. اما خیلی‌ها در آن شکوفا می‌شوند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Maybe I'll start it as a side hustle.",
+            "translation": "شاید آن را به‌عنوان کار جانبی شروع کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That's a smart, low-risk way to begin.",
+            "translation": "این یک راه هوشمندانه و کم‌ریسک برای شروع است."
+        }
+    ]
+}

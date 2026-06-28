@@ -1,0 +1,79 @@
+{
+    "title": "6 - Discussing Art and Interpretation",
+    "description": "دو نفر پس از بازدید از یک نمایشگاه، درباره معنا و تفسیر هنر گفتگو می‌کنند.",
+    "words": ["interpretation", "abstract", "evoke", "provocative", "intention", "subjective", "aesthetic", "convey", "resonate", "underlying", "ambiguous", "challenge", "perceive", "profound"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "That last piece really stayed with me.",
+            "translation": "آن اثر آخر واقعاً در ذهنم ماند."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Same here, though I'm not sure I understood it.",
+            "translation": "من هم همینطور، هرچند مطمئن نیستم درکش کردم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Maybe understanding isn't really the point.",
+            "translation": "شاید درک کردن اصلاً هدف نباشد."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "You mean it's about what it evokes?",
+            "translation": "منظورت این است که درباره احساسی است که برمی‌انگیزد؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Exactly. Art is inherently subjective.",
+            "translation": "دقیقاً. هنر ذاتاً نسبی است."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Still, I wonder what the artist intended.",
+            "translation": "با این حال کنجکاوم بدانم هنرمند چه قصدی داشت."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Their intention matters less than how it resonates with us.",
+            "translation": "قصد آن‌ها کمتر از تأثیری که بر ما می‌گذارد اهمیت دارد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That's a liberating way to look at it.",
+            "translation": "این نگاه رهایی‌بخشی به آن است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "The ambiguity is what makes it provocative.",
+            "translation": "همین ابهام است که آن را تأمل‌برانگیز می‌کند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "It certainly challenges how I perceive things.",
+            "translation": "قطعاً نحوه درک من از چیزها را به چالش می‌کشد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Good art should unsettle you a little.",
+            "translation": "هنر خوب باید کمی آشفته‌ات کند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Then this exhibition was a profound success.",
+            "translation": "پس این نمایشگاه یک موفقیت عمیق بود."
+        }
+    ]
+}

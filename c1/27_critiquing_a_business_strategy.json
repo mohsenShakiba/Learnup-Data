@@ -1,0 +1,79 @@
+{
+    "title": "27 - Critiquing a Business Strategy",
+    "description": "دو مشاور یک استراتژی تجاری پیشنهادی را به‌طور انتقادی ارزیابی می‌کنند.",
+    "words": ["strategy", "assumption", "overextended", "diversify", "core", "vulnerable", "execution", "metric", "scalable", "contingency", "rationale", "exposure", "prudent", "pivot"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Their growth strategy worries me.",
+            "translation": "استراتژی رشدشان نگرانم می‌کند."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Why? On paper it looks aggressive but sound.",
+            "translation": "چرا؟ روی کاغذ تهاجمی اما معقول به نظر می‌رسد."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "It rests on some shaky assumptions.",
+            "translation": "بر چند فرض سست استوار است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Such as constant demand?",
+            "translation": "مثل تقاضای ثابت؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Exactly. They're dangerously overextended.",
+            "translation": "دقیقاً. به‌طور خطرناکی بیش از حد گسترده شده‌اند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "And they've neglected their core business.",
+            "translation": "و کسب‌وکار اصلی‌شان را نادیده گرفته‌اند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Which leaves them vulnerable to a downturn.",
+            "translation": "که آن‌ها را در برابر رکود آسیب‌پذیر می‌کند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Is the diversification even scalable?",
+            "translation": "آیا این تنوع‌بخشی اصلاً قابل‌گسترش است؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Not without far more capital.",
+            "translation": "نه بدون سرمایه بسیار بیشتر."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "They clearly lack a contingency plan.",
+            "translation": "واضح است که برنامه احتیاطی ندارند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "A more prudent approach would phase it in.",
+            "translation": "رویکرد محتاطانه‌تر آن را مرحله‌ای اجرا می‌کند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Agreed. They should pivot before it's too late.",
+            "translation": "موافقم. باید قبل از دیر شدن مسیر را تغییر دهند."
+        }
+    ]
+}

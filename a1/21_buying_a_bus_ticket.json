@@ -1,0 +1,73 @@
+{
+    "title": "21 - Buying a Bus Ticket",
+    "description": "خرید بلیط اتوبوس از باجه فروش بلیط.",
+    "words": ["ticket", "bus", "next", "leave", "station", "single", "return", "cost", "platform", "cash", "card", "seat", "arrive", "change"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi. I need a ticket to London, please.",
+            "translation": "سلام. یک بلیط برای لندن می‌خواهم، لطفاً."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Single or return?",
+            "translation": "یک‌طرفه یا رفت و برگشت؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Single, please. When is the next bus?",
+            "translation": "یک‌طرفه، لطفاً. اتوبوس بعدی کی است؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "It leaves at ten. How much does it cost?",
+            "translation": "ساعت ده حرکت می‌کند. قیمتش چقدر است؟"
+        },
+        {
+            "order": 4,
+            "person": 2,
+            "text": "It is twelve dollars.",
+            "translation": "دوازده دلار است."
+        },
+        {
+            "order": 5,
+            "person": 1,
+            "text": "Can I pay by card?",
+            "translation": "می‌توانم با کارت پرداخت کنم؟"
+        },
+        {
+            "order": 6,
+            "person": 2,
+            "text": "Yes, card or cash is fine.",
+            "translation": "بله، کارت یا پول نقد هر دو خوب است."
+        },
+        {
+            "order": 7,
+            "person": 1,
+            "text": "Here is my card. Which platform is it?",
+            "translation": "این کارت من است. کدام سکو است؟"
+        },
+        {
+            "order": 8,
+            "person": 2,
+            "text": "Platform three. Your seat is number eight.",
+            "translation": "سکوی سه. صندلی شما شماره هشت است."
+        },
+        {
+            "order": 9,
+            "person": 1,
+            "text": "Thank you. When does it arrive?",
+            "translation": "ممنون. کی می‌رسد؟"
+        },
+        {
+            "order": 10,
+            "person": 2,
+            "text": "At one o'clock. Have a good trip.",
+            "translation": "ساعت یک. سفر خوبی داشته باشید."
+        }
+    ]
+}

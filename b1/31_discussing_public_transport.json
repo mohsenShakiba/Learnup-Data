@@ -1,0 +1,79 @@
+{
+    "title": "31 - Discussing Public Transport",
+    "description": "دو نفر درباره حمل‌ونقل عمومی و مشکلات آن در شهر بحث می‌کنند.",
+    "words": ["transport", "reliable", "delay", "crowded", "fare", "route", "frequent", "alternative", "congestion", "convenient", "invest", "improve", "rely", "schedule"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Do you usually take the bus to work?",
+            "translation": "معمولاً با اتوبوس به سر کار می‌روی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I do, but it's not always reliable.",
+            "translation": "بله، اما همیشه قابل‌اعتماد نیست."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Are there many delays?",
+            "translation": "تأخیرهای زیادی هست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, especially in the morning.",
+            "translation": "بله، مخصوصاً صبح‌ها."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "The trains are usually more frequent.",
+            "translation": "قطارها معمولاً به‌دفعات بیشتری می‌آیند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "True, but the fares are higher.",
+            "translation": "درست است، اما کرایه‌هایشان بالاتر است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I wish the city would invest more in transport.",
+            "translation": "ای کاش شهر بیشتر روی حمل‌ونقل سرمایه‌گذاری می‌کرد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That would reduce traffic congestion too.",
+            "translation": "این ازدحام ترافیک را هم کم می‌کرد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Have you considered cycling instead?",
+            "translation": "به جایش به دوچرخه‌سواری فکر کرده‌ای؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I have, but the roads aren't very safe.",
+            "translation": "فکر کرده‌ام، اما جاده‌ها چندان امن نیستند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "We really need better alternatives.",
+            "translation": "واقعاً به گزینه‌های بهتری نیاز داریم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Agreed. Until then, I'll rely on the bus.",
+            "translation": "موافقم. تا آن موقع، به اتوبوس تکیه می‌کنم."
+        }
+    ]
+}

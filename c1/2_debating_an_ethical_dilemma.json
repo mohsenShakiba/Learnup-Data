@@ -1,0 +1,79 @@
+{
+    "title": "2 - Debating an Ethical Dilemma",
+    "description": "دو دوست درباره یک معضل اخلاقی پیچیده و مرزهای درست و نادرست بحث می‌کنند.",
+    "words": ["dilemma", "ethical", "principle", "justify", "consequence", "intention", "compromise", "integrity", "rationalize", "accountable", "nuance", "subjective", "moral", "weigh"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Would you ever bend the rules for a good cause?",
+            "translation": "آیا تا به حال برای یک هدف خوب قانون را نادیده می‌گیری؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It depends. The intention matters, but so do the consequences.",
+            "translation": "بستگی دارد. نیت مهم است، اما عواقب هم همین‌طور."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "So you think the end can justify the means?",
+            "translation": "پس فکر می‌کنی هدف می‌تواند وسیله را توجیه کند؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Not always. That's a slippery slope.",
+            "translation": "نه همیشه. این یک سراشیبی خطرناک است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Once you compromise your principles, where do you stop?",
+            "translation": "وقتی یک بار اصولت را زیر پا بگذاری، کجا متوقف می‌شوی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Precisely. It's easy to rationalize small steps.",
+            "translation": "دقیقاً. توجیه کردن قدم‌های کوچک آسان است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yet life rarely offers black-and-white choices.",
+            "translation": "با این حال زندگی به‌ندرت انتخاب‌های سیاه و سفید ارائه می‌دهد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That's the nuance people often overlook.",
+            "translation": "این همان ظرافتی است که مردم اغلب نادیده می‌گیرند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "So morality is partly subjective?",
+            "translation": "پس اخلاق تا حدی نسبی است؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "To a degree, but some lines shouldn't be crossed.",
+            "translation": "تا حدی، اما بعضی خطوط نباید رد شوند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I suppose we each have to weigh it ourselves.",
+            "translation": "گمان می‌کنم هر کداممان باید خودمان آن را بسنجیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "As long as we hold ourselves accountable.",
+            "translation": "تا زمانی که خودمان را پاسخگو بدانیم."
+        }
+    ]
+}

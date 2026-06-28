@@ -1,0 +1,79 @@
+{
+    "title": "40 - At a Birthday Party",
+    "description": "گفتگو در یک جشن تولد و دادن هدیه به دوست.",
+    "words": ["birthday", "party", "happy", "gift", "open", "cake", "candle", "wish", "music", "dance", "friend", "fun", "thank", "surprise"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Happy birthday! This is for you.",
+            "translation": "تولدت مبارک! این برای توست."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Thank you so much! Can I open it now?",
+            "translation": "خیلی ممنون! می‌توانم همین حالا بازش کنم؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Of course! I hope you like it.",
+            "translation": "البته! امیدوارم خوشت بیاید."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "It's a lovely book. What a nice gift!",
+            "translation": "یک کتاب دوست‌داشتنی است. چه هدیه قشنگی!"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I'm glad you like it. The party is great.",
+            "translation": "خوشحالم که دوستش داری. جشن عالی است."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, there is music and cake!",
+            "translation": "بله، موسیقی و کیک هست!"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "It's time for the cake. Make a wish!",
+            "translation": "وقت کیک است. یک آرزو کن!"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Okay. Let me blow out the candles.",
+            "translation": "باشه. بگذار شمع‌ها را فوت کنم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Wonderful! Now let's dance.",
+            "translation": "عالی! حالا بیا برقصیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "This is so much fun.",
+            "translation": "این خیلی خوش می‌گذرد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'm happy you came.",
+            "translation": "خوشحالم که آمدی."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you for the wonderful surprise!",
+            "translation": "ممنون بابت این سورپرایز فوق‌العاده!"
+        }
+    ]
+}

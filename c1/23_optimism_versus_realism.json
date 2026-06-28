@@ -1,0 +1,79 @@
+{
+    "title": "23 - Optimism Versus Realism",
+    "description": "دو دوست درباره اینکه آیا خوش‌بینی یا واقع‌بینی رویکرد بهتری به زندگی است بحث می‌کنند.",
+    "words": ["optimism", "realism", "pragmatic", "naive", "outlook", "temper", "disillusioned", "grounded", "expectation", "resilient", "cynical", "balance", "perspective", "constructive"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Would you call yourself an optimist?",
+            "translation": "خودت را خوش‌بین می‌نامی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "A cautious one, I'd say.",
+            "translation": "می‌گویم یک خوش‌بین محتاط."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Isn't unguarded optimism a bit naive?",
+            "translation": "خوش‌بینی بی‌محابا کمی ساده‌لوحانه نیست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "It can be, if it ignores reality.",
+            "translation": "می‌تواند باشد، اگر واقعیت را نادیده بگیرد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "That's why I lean toward realism.",
+            "translation": "برای همین به واقع‌بینی متمایلم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "But realism can slide into cynicism.",
+            "translation": "اما واقع‌بینی می‌تواند به بدبینی بلغزد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Fair point. I don't want to be jaded.",
+            "translation": "نکته درستی است. نمی‌خواهم دل‌مرده شوم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Perhaps the ideal is grounded hope.",
+            "translation": "شاید حالت ایده‌آل، امید واقع‌بینانه است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Hope tempered by pragmatism?",
+            "translation": "امیدی که با عمل‌گرایی تعدیل شده؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Exactly. You expect challenges but stay hopeful.",
+            "translation": "دقیقاً. انتظار چالش داری اما امیدوار می‌مانی."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That feels both honest and constructive.",
+            "translation": "این هم صادقانه و هم سازنده به نظر می‌رسد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "It's the balance that keeps us resilient.",
+            "translation": "همین تعادل است که ما را تاب‌آور نگه می‌دارد."
+        }
+    ]
+}

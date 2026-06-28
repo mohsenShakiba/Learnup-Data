@@ -1,0 +1,79 @@
+{
+    "title": "21 - Talking About a TV Series",
+    "description": "دو دوست درباره یک سریال تلویزیونی که دنبال می‌کنند صحبت می‌کنند.",
+    "words": ["series", "episode", "season", "character", "plot", "watch", "exciting", "boring", "favorite", "actor", "recommend", "binge", "ending", "stream"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Are you still watching that new series?",
+            "translation": "هنوز آن سریال جدید را تماشا می‌کنی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes! I finished the first season last night.",
+            "translation": "بله! دیشب فصل اول را تمام کردم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Already? How many episodes are there?",
+            "translation": "همین حالا؟ چند قسمت دارد؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Ten. I watched them all in two days.",
+            "translation": "ده تا. همه را در دو روز تماشا کردم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Wow, that's a real binge!",
+            "translation": "وای، این واقعاً یک تماشای پشت‌سرهم است!"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "The plot is so exciting. I couldn't stop.",
+            "translation": "داستانش خیلی هیجان‌انگیز است. نمی‌توانستم متوقف شوم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Who is your favorite character?",
+            "translation": "شخصیت مورد علاقه‌ات کیست؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "The detective. The actor is brilliant.",
+            "translation": "کارآگاه. بازیگرش فوق‌العاده است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Does it have a good ending?",
+            "translation": "پایان خوبی دارد؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "No spoilers! But you should watch it.",
+            "translation": "لو نمی‌دهم! اما باید تماشایش کنی."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Okay, I'll start it this weekend.",
+            "translation": "باشه، این آخر هفته شروعش می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Great. Tell me what you think after.",
+            "translation": "عالی. بعدش نظرت را بگو."
+        }
+    ]
+}

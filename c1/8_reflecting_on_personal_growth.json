@@ -1,0 +1,79 @@
+{
+    "title": "8 - Reflecting on Personal Growth",
+    "description": "دو دوست قدیمی درباره اینکه چگونه در طول سال‌ها تغییر و رشد کرده‌اند تأمل می‌کنند.",
+    "words": ["growth", "introspective", "evolve", "comfort", "humbling", "resilience", "perspective", "self-aware", "embrace", "transform", "gradual", "meaningful", "potential", "grateful"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Looking back, I barely recognize who I used to be.",
+            "translation": "وقتی به گذشته نگاه می‌کنم، به‌سختی آدم سابق را می‌شناسم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I know what you mean. We've both changed so much.",
+            "translation": "می‌دانم منظورت چیست. هر دوی ما خیلی تغییر کرده‌ایم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What pushed you to grow the most?",
+            "translation": "چه چیزی بیشترین فشار را برای رشد به تو آورد؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Honestly, my hardest failures taught me the most.",
+            "translation": "صادقانه بگویم، سخت‌ترین شکست‌هایم بیشترین درس را به من دادند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "It's humbling how much adversity shapes us.",
+            "translation": "جالب و فروتنی‌آور است که سختی چقدر ما را شکل می‌دهد."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I had to step out of my comfort zone repeatedly.",
+            "translation": "بارها مجبور شدم از منطقه امنم بیرون بیایم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That kind of growth is rarely comfortable.",
+            "translation": "این نوع رشد به‌ندرت راحت است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "No, but it's been deeply meaningful.",
+            "translation": "نه، اما عمیقاً پرمعنا بوده."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I've learned to embrace uncertainty more.",
+            "translation": "یاد گرفته‌ام عدم قطعیت را بیشتر بپذیرم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Becoming more self-aware changed everything for me.",
+            "translation": "خودآگاه‌تر شدن همه‌چیز را برایم تغییر داد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "We're still works in progress, though.",
+            "translation": "با این حال هنوز در حال ساخته شدن هستیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "And I'm grateful for every step of it.",
+            "translation": "و من بابت هر قدمش سپاسگزارم."
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+  "grammar": {
+    "name": "Basic negatives and questions",
+    "levelId": 1,
+    "order": 9,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس ساخت جمله‌های منفی و پرسشی پایه را با be، do، does و کلمه‌های پرسشی رایج توضیح می‌دهد.",
+    "lessons": [
+      {
+        "title": "منفی کردن جمله‌های ساده",
+        "htmlTag": 1,
+        "content": "منفی کردن جمله‌های ساده",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "منفی کردن جمله‌های ساده",
+        "htmlTag": 0,
+        "content": "برای منفی کردن جمله در انگلیسی روش یکسانی برای همه فعل‌ها نداریم. با فعل be مستقیما not می‌آوریم، اما با بیشتر فعل‌های معمول باید از do not یا does not استفاده کنیم. شناخت این تفاوت برای ساخت جمله‌های درست ضروری است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با فعل be",
+        "htmlTag": 2,
+        "content": "کاربرد 1: منفی با فعل be",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با فعل be",
+        "htmlTag": 0,
+        "content": "I am not tired.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با فعل be",
+        "htmlTag": 0,
+        "content": "در این جمله not مستقیم بعد از am آمده است. چون فعل اصلی جمله be است، برای منفی کردن به do نیاز نداریم.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: منفی با فعل معمول",
+        "htmlTag": 2,
+        "content": "کاربرد 2: منفی با فعل معمول",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: منفی با فعل معمول",
+        "htmlTag": 0,
+        "content": "They do not like fish.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: منفی با فعل معمول",
+        "htmlTag": 0,
+        "content": "اینجا چون like یک فعل معمول است، از do not استفاده کرده‌ایم. فعل اصلی بعد از آن به شکل پایه باقی مانده است.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "با he، she و it باید از does not استفاده کنیم، نه do not. همچنین وقتی does می‌آید، فعل اصلی دیگر s نمی‌گیرد و به شکل پایه برمی‌گردد.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He does not play basketball.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال does not جمله را منفی کرده و play بدون s آمده است. این ساختار مخصوص سوم شخص مفرد است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We are not late.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا منفی کردن فقط با افزودن not بعد از are انجام شده است. این تفاوت be با فعل‌های معمول را نشان می‌دهد.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سوال‌های بله یا خیر",
+        "htmlTag": 1,
+        "content": "سوال‌های بله یا خیر",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سوال‌های بله یا خیر",
+        "htmlTag": 0,
+        "content": "برای ساخت سوال‌های yes/no باید فعل کمکی یا خود be را به ابتدای جمله بیاوریم. این سوال‌ها معمولا پاسخ کوتاه بله یا خیر می‌خواهند و در مکالمه روزمره بسیار رایج هستند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسشی با be",
+        "htmlTag": 2,
+        "content": "کاربرد 1: پرسشی با be",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسشی با be",
+        "htmlTag": 0,
+        "content": "Are you ready?",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسشی با be",
+        "htmlTag": 0,
+        "content": "در این سوال are قبل از فاعل آمده است. همین جابه‌جایی جمله خبری را به سوال بله یا خیر تبدیل کرده است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با do و does",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پرسشی با do و does",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با do و does",
+        "htmlTag": 0,
+        "content": "Does she work here?",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با do و does",
+        "htmlTag": 0,
+        "content": "چون فعل اصلی work یک فعل معمول است، از does برای ساخت سوال استفاده شده است. فعل اصلی هم به شکل پایه آمده است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در پاسخ کوتاه معمولا همان فعل کمکی یا be را تکرار می‌کنیم. این کار هم طبیعی است و هم نشان می‌دهد ساختار سوال را درست فهمیده‌ایم.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Do they speak English?",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا do در اول جمله قرار گرفته تا سوال ساخته شود. چون فاعل they است، از do استفاده می‌کنیم.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Is the shop open?",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال خود is در ابتدای جمله آمده است، چون be فعل اصلی است. این ساختار برای پرسیدن وضعیت یا ویژگی بسیار رایج است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سوال‌های wh و پاسخ کوتاه",
+        "htmlTag": 1,
+        "content": "سوال‌های wh و پاسخ کوتاه",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سوال‌های wh و پاسخ کوتاه",
+        "htmlTag": 0,
+        "content": "اگر بخواهیم اطلاعات مشخص‌تری بگیریم، از کلمه‌های پرسشی مثل where، what و when استفاده می‌کنیم. این کلمه‌ها معمولا در ابتدای جمله می‌آیند و بعد از آن‌ها ساختار پرسشی معمول ادامه پیدا می‌کند.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسیدن درباره مکان",
+        "htmlTag": 2,
+        "content": "کاربرد 1: پرسیدن درباره مکان",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسیدن درباره مکان",
+        "htmlTag": 0,
+        "content": "Where do they live?",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسیدن درباره مکان",
+        "htmlTag": 0,
+        "content": "در این سوال where در ابتدا آمده و بعد از آن do و فاعل قرار گرفته‌اند. این الگو برای پرسیدن مکان با فعل معمول است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره اطلاعات پایه",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پرسیدن درباره اطلاعات پایه",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره اطلاعات پایه",
+        "htmlTag": 0,
+        "content": "What is your name?",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره اطلاعات پایه",
+        "htmlTag": 0,
+        "content": "اینجا چون فعل اصلی be است، بعد از what مستقیما is آمده است. این ساختار برای سوال‌های معرفی و اطلاعات شخصی بسیار رایج است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در سوال‌های wh هم باید به نوع فعل توجه کنیم. اگر جمله با be ساخته شود، از خود be استفاده می‌کنیم و اگر فعل معمول داشته باشیم، معمولا do یا does لازم می‌شود.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "When does the class start?",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال when زمان را می‌پرسد و چون فاعل سوم شخص مفرد است، does به کار رفته است. start هم به شکل پایه آمده است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Who is that girl?",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا who برای پرسیدن هویت یک شخص استفاده شده و بعد از آن فعل be آمده است. این ساختار کوتاه و طبیعی است.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

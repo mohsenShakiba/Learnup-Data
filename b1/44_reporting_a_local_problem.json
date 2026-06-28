@@ -1,0 +1,79 @@
+{
+    "title": "44 - Reporting a Local Problem",
+    "description": "شهروندی یک مشکل محلی را به دفتر شورای شهر گزارش می‌دهد.",
+    "words": ["council", "complaint", "streetlight", "broken", "report", "dangerous", "repair", "resident", "affect", "urgent", "responsible", "investigate", "fix", "follow up"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello, I'd like to report a problem.",
+            "translation": "سلام، می‌خواهم یک مشکل را گزارش دهم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. What seems to be the issue?",
+            "translation": "البته. مشکل چیست؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The streetlight on my road is broken.",
+            "translation": "چراغ خیابان جلوی خانه‌ام خراب است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "How long has it been like that?",
+            "translation": "چه مدت است که اینطور است؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "About two weeks now.",
+            "translation": "حالا حدود دو هفته."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I see. Is it causing any danger?",
+            "translation": "که اینطور. خطری ایجاد می‌کند؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yes, the street is very dark at night.",
+            "translation": "بله، خیابان شب‌ها خیلی تاریک است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That does sound urgent.",
+            "translation": "به نظر فوری می‌رسد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Several residents are worried.",
+            "translation": "چند ساکن نگران هستند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I'll send someone to investigate.",
+            "translation": "کسی را برای بررسی می‌فرستم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "How soon can it be repaired?",
+            "translation": "چقدر زود می‌تواند تعمیر شود؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Within a few days. We'll follow up with you.",
+            "translation": "تا چند روز دیگر. با شما پیگیری می‌کنیم."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "23 - A Customer Service Call",
+    "description": "تماس با خدمات مشتری برای حل مشکل یک قبض اشتباه.",
+    "words": ["account", "charge", "incorrect", "bill", "explain", "refund", "investigate", "apologize", "reference", "resolve", "double", "process", "patience", "update"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Thank you for calling. How can I help?",
+            "translation": "ممنون که تماس گرفتید. چطور می‌توانم کمک کنم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "There's an incorrect charge on my bill.",
+            "translation": "یک هزینه اشتباه روی قبضم هست."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'm sorry about that. Can you explain?",
+            "translation": "بابت آن متأسفم. می‌توانید توضیح دهید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I was charged twice for the same service.",
+            "translation": "برای یک خدمت دو بار از من هزینه گرفته شده."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Let me look into your account.",
+            "translation": "بگذارید حسابتان را بررسی کنم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Thank you. It's quite frustrating.",
+            "translation": "ممنون. نسبتاً ناامیدکننده است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I can see the double charge here.",
+            "translation": "هزینه دوگانه را اینجا می‌بینم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "So you'll refund the extra amount?",
+            "translation": "پس مبلغ اضافه را برمی‌گردانید؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Yes, I'll process the refund today.",
+            "translation": "بله، امروز بازپرداخت را انجام می‌دهم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "How long will it take to appear?",
+            "translation": "چقدر طول می‌کشد تا ظاهر شود؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "About three working days. Here's your reference number.",
+            "translation": "حدود سه روز کاری. این شماره پیگیری شماست."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you for sorting it out so quickly.",
+            "translation": "ممنون که این‌قدر سریع حلش کردید."
+        }
+    ]
+}

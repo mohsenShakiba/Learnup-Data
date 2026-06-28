@@ -1,0 +1,79 @@
+{
+    "title": "8 - Technology and Daily Habits",
+    "description": "گفتگو درباره تأثیر تلفن همراه و فناوری بر زندگی روزمره.",
+    "words": ["technology", "screen", "addicted", "notice", "distract", "limit", "balance", "social", "constantly", "productive", "control", "habit", "aware", "reduce"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I feel like I spend too much time on my phone.",
+            "translation": "احساس می‌کنم زمان زیادی را با تلفنم می‌گذرانم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I know what you mean. It's so distracting.",
+            "translation": "می‌دانم منظورت چیست. خیلی حواس‌پرت‌کننده است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I check social media constantly.",
+            "translation": "مدام شبکه‌های اجتماعی را چک می‌کنم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Have you tried setting a daily limit?",
+            "translation": "تا حالا یک محدودیت روزانه گذاشته‌ای؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Not yet. Do you think it works?",
+            "translation": "هنوز نه. فکر می‌کنی جواب می‌دهد؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "It helped me a lot. I feel more productive.",
+            "translation": "خیلی به من کمک کرد. احساس می‌کنم کارآمدتر هستم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I should probably reduce my screen time.",
+            "translation": "احتمالاً باید زمان استفاده از صفحه را کم کنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "It's all about finding a balance.",
+            "translation": "همه‌اش درباره پیدا کردن تعادل است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Technology is useful, but I need more control.",
+            "translation": "فناوری مفید است، اما به کنترل بیشتری نیاز دارم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Being aware of the habit is the first step.",
+            "translation": "آگاه بودن از این عادت اولین قدم است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "You're right. I'll start tonight.",
+            "translation": "حق با توست. از امشب شروع می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Good for you. Small changes really help.",
+            "translation": "آفرین. تغییرات کوچک واقعاً کمک می‌کنند."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "20 - Dealing with a Noisy Neighbor",
+    "description": "گفتگوی مؤدبانه با همسایه‌ای که سر و صدای زیادی ایجاد می‌کند.",
+    "words": ["noise", "late", "disturb", "polite", "music", "volume", "sleep", "weekday", "apologize", "reasonable", "respect", "complain", "solution", "appreciate"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, sorry to bother you. Do you have a minute?",
+            "translation": "سلام، ببخشید مزاحم می‌شوم. یک دقیقه وقت داری؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. Is everything okay?",
+            "translation": "البته. همه چیز خوب است؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "It's about the noise late at night.",
+            "translation": "درباره سر و صدای آخر شب است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Oh, I didn't realize it disturbed you.",
+            "translation": "اوه، نمی‌دانستم مزاحمت می‌شود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "The music is quite loud after midnight.",
+            "translation": "موسیقی بعد از نیمه‌شب نسبتاً بلند است."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I'm really sorry. I should have noticed.",
+            "translation": "واقعاً متأسفم. باید متوجه می‌شدم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I have to get up early on weekdays.",
+            "translation": "روزهای هفته باید زود بیدار شوم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That's completely reasonable.",
+            "translation": "این کاملاً منطقی است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Could you lower the volume after ten?",
+            "translation": "می‌توانی بعد از ساعت ده صدا را کم کنی؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Absolutely. I'll be more considerate.",
+            "translation": "حتماً. بیشتر ملاحظه می‌کنم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thank you. I really appreciate it.",
+            "translation": "ممنون. واقعاً قدردانی می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "No problem at all. Just knock if it happens again.",
+            "translation": "اصلاً مشکلی نیست. اگر دوباره پیش آمد در بزن."
+        }
+    ]
+}

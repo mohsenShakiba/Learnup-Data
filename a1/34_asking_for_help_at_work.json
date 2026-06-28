@@ -1,0 +1,79 @@
+{
+    "title": "34 - Asking for Help at Work",
+    "description": "درخواست کمک از یک همکار برای انجام کاری در محل کار.",
+    "words": ["help", "busy", "minute", "report", "send", "email", "computer", "file", "open", "print", "show", "easy", "thanks", "welcome"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Excuse me, can you help me for a minute?",
+            "translation": "ببخشید، می‌توانی یک دقیقه کمکم کنی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Sure. What do you need?",
+            "translation": "حتماً. چه لازم داری؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I can't open this file on my computer.",
+            "translation": "نمی‌توانم این فایل را روی کامپیوترم باز کنم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Let me see. Click here.",
+            "translation": "بگذار ببینم. اینجا کلیک کن."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Oh, now it works. Thank you!",
+            "translation": "آهان، حالا کار می‌کند. ممنون!"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "No problem. It's easy.",
+            "translation": "خواهش می‌کنم. کار آسانی است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I also need to send this report.",
+            "translation": "همچنین باید این گزارش را بفرستم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "You can send it by email.",
+            "translation": "می‌توانی آن را با ایمیل بفرستی."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Can you show me how?",
+            "translation": "می‌توانی نشانم بدهی چطور؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Of course. First, print a copy too.",
+            "translation": "البته. اول، یک نسخه هم چاپ کن."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Great. Thanks for your help.",
+            "translation": "عالی. ممنون از کمکت."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "You're welcome. Ask me anytime.",
+            "translation": "خواهش می‌کنم. هر وقت خواستی بپرس."
+        }
+    ]
+}

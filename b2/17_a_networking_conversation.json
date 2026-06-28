@@ -1,0 +1,79 @@
+{
+    "title": "17 - A Networking Conversation",
+    "description": "دو حرفه‌ای در یک رویداد شبکه‌سازی با هم آشنا می‌شوند و درباره کارشان صحبت می‌کنند.",
+    "words": ["networking", "industry", "background", "connect", "opportunity", "collaborate", "expertise", "venture", "exchange", "contact", "mutual", "potential", "follow up", "impressed"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, I don't think we've met. I'm Daniel.",
+            "translation": "سلام، فکر نکنم آشنا شده باشیم. من دنیل هستم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Nice to meet you. I'm Priya.",
+            "translation": "از آشنایی‌تان خوشحالم. من پریا هستم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What industry are you in?",
+            "translation": "در چه صنعتی فعالیت می‌کنید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Renewable energy. And you?",
+            "translation": "انرژی‌های تجدیدپذیر. شما چطور؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Software, but I'm interested in your field.",
+            "translation": "نرم‌افزار، اما به حوزه شما علاقه‌مندم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "There's real potential to collaborate.",
+            "translation": "پتانسیل واقعی برای همکاری وجود دارد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I was thinking the same thing.",
+            "translation": "من هم همین فکر را می‌کردم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Your expertise could complement ours.",
+            "translation": "تخصص شما می‌تواند مکمل تخصص ما باشد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Shall we exchange contact details?",
+            "translation": "اطلاعات تماس را رد و بدل کنیم؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Definitely. Here's my card.",
+            "translation": "قطعاً. این کارت من است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'll follow up next week.",
+            "translation": "هفته آینده پیگیری می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "I'd really welcome that. It was great talking.",
+            "translation": "واقعاً استقبال می‌کنم. از صحبت با شما لذت بردم."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "35 - Planning a Trip",
+    "description": "دو دوست درباره برنامه‌ریزی یک سفر آخر هفته صحبت می‌کنند.",
+    "words": ["trip", "plan", "beach", "weekend", "hotel", "book", "pack", "weather", "sunny", "drive", "early", "map", "ready", "excited"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Let's plan a trip for the weekend.",
+            "translation": "بیا برای آخر هفته یک سفر برنامه‌ریزی کنیم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Good idea! Where do you want to go?",
+            "translation": "فکر خوبی است! کجا می‌خواهی بروی؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "How about the beach?",
+            "translation": "ساحل چطور است؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Perfect. The weather will be sunny.",
+            "translation": "عالی. هوا آفتابی خواهد بود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Should we book a hotel?",
+            "translation": "هتل رزرو کنیم؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, I'll book one near the sea.",
+            "translation": "بله، یکی نزدیک دریا رزرو می‌کنم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Great. We can drive there early.",
+            "translation": "عالی. می‌توانیم صبح زود رانندگی کنیم برویم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I'll bring a map for the road.",
+            "translation": "یک نقشه برای راه می‌آورم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "What should we pack?",
+            "translation": "چه چیزهایی باید ببندیم؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Just clothes, towels, and sunglasses.",
+            "translation": "فقط لباس، حوله و عینک آفتابی."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I can't wait. I'm so excited!",
+            "translation": "طاقت ندارم. خیلی هیجان‌زده‌ام!"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Me too. Let's get ready.",
+            "translation": "من هم همینطور. بیا آماده شویم."
+        }
+    ]
+}

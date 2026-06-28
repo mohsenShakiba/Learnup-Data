@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Modals for possibility and advice",
+    "levelId": 3,
+    "order": 8,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس modalهایی مانند might، may، could، should و ought to را برای بیان احتمال، پیشنهاد و توصیه در موقعیت‌های روزمره توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "احتمال با may، might و could",
+        "htmlTag": 1,
+        "content": "احتمال با may، might و could",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "احتمال با may، might و could",
+        "htmlTag": 0,
+        "content": "وقتی مطمئن نیستیم چیزی حتما درست است یا رخ می‌دهد، از modalهای احتمال استفاده می‌کنیم. این کلمه‌ها کمک می‌کنند بین «کاملا مطمئن بودن» و «فقط حدس زدن» تفاوت بگذاریم و لحن طبیعی‌تری داشته باشیم.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: احتمال معمولی با might",
+        "htmlTag": 2,
+        "content": "کاربرد 1: احتمال معمولی با might",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: احتمال معمولی با might",
+        "htmlTag": 0,
+        "content": "It might rain later.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: احتمال معمولی با might",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده فقط یک احتمال را مطرح می‌کند و مطمئن نیست. might برای موقعیت‌هایی مناسب است که آینده یا وضعیت هنوز قطعی نشده است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حدس درباره توان یا امکان با could",
+        "htmlTag": 2,
+        "content": "کاربرد 2: حدس درباره توان یا امکان با could",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حدس درباره توان یا امکان با could",
+        "htmlTag": 0,
+        "content": "This message could mean that he is upset.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حدس درباره توان یا امکان با could",
+        "htmlTag": 0,
+        "content": "اینجا could نشان می‌دهد این فقط یکی از تفسیرهای ممکن است. گوینده در حال نتیجه‌گیری قطعی نیست، بلکه یک احتمال منطقی را بیان می‌کند.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "may هم برای احتمال استفاده می‌شود و اغلب کمی رسمی‌تر یا خنثی‌تر از might به نظر می‌رسد. در خیلی از موقعیت‌های روزمره تفاوت معنایی may و might زیاد نیست، اما هر دو از must و will ضعیف‌ترند.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She may be in her office.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال may احتمال حضور او در دفتر را بیان می‌کند، بدون این‌که گوینده ادعای قطعیت داشته باشد.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He might not understand the instructions.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا modal در حالت منفی آمده و می‌گوید ممکن است او دستورها را نفهمد. این نوع بیان برای هشدار ملایم یا حدس کاربرد زیادی دارد.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "توصیه با should و ought to",
+        "htmlTag": 1,
+        "content": "توصیه با should و ought to",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "توصیه با should و ought to",
+        "htmlTag": 0,
+        "content": "برای پیشنهاد دادن یا گفتن این‌که چه کاری بهتر، عاقلانه‌تر یا سالم‌تر است، از should و ought to استفاده می‌کنیم. این modalها معمولا اجبار سخت ایجاد نمی‌کنند، بلکه نوعی راهنمایی یا نظر می‌دهند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: توصیه مستقیم با should",
+        "htmlTag": 2,
+        "content": "کاربرد 1: توصیه مستقیم با should",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: توصیه مستقیم با should",
+        "htmlTag": 0,
+        "content": "You should talk to your teacher.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: توصیه مستقیم با should",
+        "htmlTag": 0,
+        "content": "در این جمله گوینده فکر می‌کند صحبت کردن با معلم تصمیم خوبی است. should نشان می‌دهد این کار توصیه می‌شود، نه این‌که حتما یک قانون قطعی باشد.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: توصیه با ought to",
+        "htmlTag": 2,
+        "content": "کاربرد 2: توصیه با ought to",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: توصیه با ought to",
+        "htmlTag": 0,
+        "content": "We ought to leave now if we want to catch the train.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: توصیه با ought to",
+        "htmlTag": 0,
+        "content": "اینجا ought to هم معنای توصیه و کار درست را می‌رساند. لحن آن کمی رسمی‌تر از should است، اما از نظر کاربرد خیلی به آن نزدیک است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "وقتی توصیه را منفی می‌کنیم، باید روشن باشد که منظور ممنوعیت نیست، بلکه یعنی این کار ایده خوبی نیست. بنابراین should not از must not خیلی ملایم‌تر است.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "You should not stay up so late before the exam.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال توصیه منفی داده می‌شود و گوینده می‌گوید این رفتار به نفع مخاطب نیست.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They ought to check the address again.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله پیشنهاد می‌دهد که دوباره آدرس را بررسی کنند، چون این کار منطقی و مفید است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت بین حدس و توصیه",
+        "htmlTag": 1,
+        "content": "تفاوت بین حدس و توصیه",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت بین حدس و توصیه",
+        "htmlTag": 0,
+        "content": "یکی از چالش‌های مهم این است که modal درست را با توجه به هدف جمله انتخاب کنیم. اگر در حال حدس زدن هستیم، از modalهای possibility استفاده می‌کنیم؛ اگر راهنمایی می‌دهیم، سراغ should یا ought to می‌رویم.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حدس درباره وضعیت",
+        "htmlTag": 2,
+        "content": "کاربرد 1: حدس درباره وضعیت",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حدس درباره وضعیت",
+        "htmlTag": 0,
+        "content": "She might be tired after the trip.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حدس درباره وضعیت",
+        "htmlTag": 0,
+        "content": "در اینجا گوینده فقط درباره وضعیت او حدس می‌زند و هیچ توصیه‌ای نمی‌دهد. پس might انتخاب درستی برای بیان احتمال است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد برای اقدام",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پیشنهاد برای اقدام",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد برای اقدام",
+        "htmlTag": 0,
+        "content": "She should rest after the trip.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد برای اقدام",
+        "htmlTag": 0,
+        "content": "این جمله دیگر حدس نیست، بلکه توصیه است. should می‌گوید استراحت کردن برای او کار خوبی خواهد بود.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر modal را اشتباه انتخاب کنیم، ممکن است لحن جمله از حدس به دستور یا از توصیه به ادعای قطعی تغییر کند. برای طبیعی حرف زدن، باید اول بدانیم آیا درباره واقعیت مطمئنیم یا فقط نظر و پیشنهاد می‌دهیم.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The keys could be in your bag.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا could فقط یک امکان را مطرح می‌کند. جمله هیچ پیشنهاد مستقیمی به مخاطب نمی‌دهد، فقط یک حدس مفید می‌زند.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "You should look in your bag first.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال گوینده یک اقدام پیشنهادی را بیان می‌کند. should نشان می‌دهد این بهترین قدم بعدی از نظر اوست.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

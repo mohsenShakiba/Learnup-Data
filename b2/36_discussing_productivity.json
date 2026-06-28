@@ -1,0 +1,79 @@
+{
+    "title": "36 - Discussing Productivity",
+    "description": "دو همکار درباره روش‌های افزایش بهره‌وری و مدیریت زمان گفتگو می‌کنند.",
+    "words": ["productivity", "efficient", "distraction", "prioritize", "focus", "procrastinate", "deadline", "method", "multitask", "energy", "discipline", "output", "streamline", "consistent"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "How do you stay so productive?",
+            "translation": "چطور این‌قدر بهره‌ور می‌مانی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I plan my day around my energy levels.",
+            "translation": "روزم را بر اساس سطح انرژی‌ام برنامه‌ریزی می‌کنم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Interesting. I just multitask constantly.",
+            "translation": "جالب است. من فقط مدام چند کار را همزمان انجام می‌دهم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Multitasking actually reduces output.",
+            "translation": "انجام همزمان چند کار در واقع خروجی را کم می‌کند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Really? I never knew that.",
+            "translation": "واقعاً؟ هیچ‌وقت این را نمی‌دانستم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Focusing on one task is more efficient.",
+            "translation": "تمرکز روی یک کار کارآمدتر است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "My problem is I procrastinate a lot.",
+            "translation": "مشکل من این است که خیلی کار را عقب می‌اندازم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Try breaking tasks into small steps.",
+            "translation": "سعی کن کارها را به قدم‌های کوچک تقسیم کنی."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "That makes them feel less overwhelming.",
+            "translation": "این باعث می‌شود کمتر طاقت‌فرسا به نظر برسند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "And remove distractions while you work.",
+            "translation": "و موقع کار حواس‌پرتی‌ها را حذف کن."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'll turn off my notifications.",
+            "translation": "اعلان‌هایم را خاموش می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Consistency matters more than intensity.",
+            "translation": "تداوم از شدت مهم‌تر است."
+        }
+    ]
+}

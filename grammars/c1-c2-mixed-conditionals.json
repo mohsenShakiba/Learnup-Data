@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Mixed conditionals",
+    "levelId": 5,
+    "order": 1,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس شرطی‌های ترکیبی را برای پیوند دادن گذشته فرضی به نتیجه‌ی اکنون، یا برعکس، آموزش می‌دهد و نشان می‌دهد چرا در انگلیسی پیشرفته زمان‌های شرطی همیشه به یک بازه زمانی محدود نمی‌مانند.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "گذشته فرضی و نتیجه اکنون",
+        "htmlTag": 1,
+        "content": "گذشته فرضی و نتیجه اکنون",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "گذشته فرضی و نتیجه اکنون",
+        "htmlTag": 0,
+        "content": "رایج‌ترین نوع mixed conditional زمانی است که درباره‌ی اتفاقی در گذشته حرف می‌زنیم که رخ نداده، اما نتیجه‌ی آن را در زمان حال تصور می‌کنیم. در این حالت، بخش if معمولاً با past perfect می‌آید و نتیجه با would + فعل پایه بیان می‌شود، چون اثر فرضیِ آن تصمیم یا رویداد هنوز در زمان حال دیده می‌شود.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تصمیم گذشته با وضعیت کنونی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تصمیم گذشته با وضعیت کنونی",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تصمیم گذشته با وضعیت کنونی",
+        "htmlTag": 0,
+        "content": "If I had taken that job, I would live in Berlin now.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تصمیم گذشته با وضعیت کنونی",
+        "htmlTag": 0,
+        "content": "در این مثال نگرفتنِ شغل در گذشته فرضی است، اما نتیجه‌ی خیالیِ آن به زمان حال مربوط می‌شود. would live now نشان می‌دهد گوینده درباره‌ی وضعیت فعلی خود حرف می‌زند، نه صرفاً یک نتیجه در گذشته.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علت گذشته و پیامد شخصیتی یا موقعیتیِ حال",
+        "htmlTag": 2,
+        "content": "کاربرد 2: علت گذشته و پیامد شخصیتی یا موقعیتیِ حال",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علت گذشته و پیامد شخصیتی یا موقعیتیِ حال",
+        "htmlTag": 0,
+        "content": "If she had listened to the advice, she would feel more confident now.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علت گذشته و پیامد شخصیتی یا موقعیتیِ حال",
+        "htmlTag": 0,
+        "content": "اینجا نشنیدنِ advice در گذشته علت فرضی است و احساس فعلیِ اعتمادبه‌نفس نتیجه‌ی آن. mixed conditional برای جاهایی مفید است که بخواهیم اثر ماندگار یک انتخاب گذشته را توضیح دهیم.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "وقتی نتیجه با now، today یا at the moment ارتباط دارد، این الگو طبیعی است. مهم این است که علت واقعاً به گذشته تعلق داشته باشد و نتیجه واقعاً به حال.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If they had invested earlier, they would own a larger share now.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "سرمایه‌گذاری نکردن در گذشته فرضی است، اما مالکیت بیشتر نتیجه‌ای است که در حال تصور می‌شود.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If we had left sooner, we would be there by now.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بخش if درباره‌ی زمان حرکت در گذشته است و by now نشان می‌دهد نتیجه به موقعیت فعلی مربوط شده است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "حال فرضی و نتیجه گذشته",
+        "htmlTag": 1,
+        "content": "حال فرضی و نتیجه گذشته",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "حال فرضی و نتیجه گذشته",
+        "htmlTag": 0,
+        "content": "نوع دیگر mixed conditional وقتی است که یک وضعیت عمومی، ویژگی شخصیتی یا واقعیتِ خلافِ حال را علتِ نتیجه‌ای در گذشته می‌گیریم. در این حالت، بخش if معمولاً با past simple یا were می‌آید و نتیجه با would have + past participle ساخته می‌شود، چون معلول در گذشته اتفاق افتاده است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ویژگی کنونی به‌عنوان علت خطای گذشته",
+        "htmlTag": 2,
+        "content": "کاربرد 1: ویژگی کنونی به‌عنوان علت خطای گذشته",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ویژگی کنونی به‌عنوان علت خطای گذشته",
+        "htmlTag": 0,
+        "content": "If he were more careful, he would not have made that mistake yesterday.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ویژگی کنونی به‌عنوان علت خطای گذشته",
+        "htmlTag": 0,
+        "content": "اینجا careful نبودن یک وضعیت کلی یا عادت فعلی است، اما اشتباه در گذشته رخ داده. گوینده می‌گوید همین ویژگی فعلی علتِ نتیجه‌ی منفیِ گذشته بوده است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شرایط حال و پیامد فرصت از دست‌رفته",
+        "htmlTag": 2,
+        "content": "کاربرد 2: شرایط حال و پیامد فرصت از دست‌رفته",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شرایط حال و پیامد فرصت از دست‌رفته",
+        "htmlTag": 0,
+        "content": "If I knew her better, I would have asked for help last week.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شرایط حال و پیامد فرصت از دست‌رفته",
+        "htmlTag": 0,
+        "content": "در این مثال ناآشناییِ فعلی با her علت فرضی است و نپرسیدنِ کمک در هفته‌ی قبل نتیجه‌ی گذشته. این ساختار برای تحلیلِ retroactive و شخصی بسیار رایج است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در این الگو، بخش if الزاماً فقط درباره‌ی اکنون نیست؛ می‌تواند یک واقعیت پایدار، ویژگی شخصیتی یا رابطه‌ی کلی را نشان دهد. مهم این است که نتیجه در گذشته بسته شده باشد.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If they were more flexible, they would have accepted the proposal.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "کمبود انعطاف یک ویژگی کلی فرض می‌شود و رد کردن proposal نتیجه‌ای است که در گذشته رخ داده است.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If she liked public speaking, she would have volunteered for the presentation.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "دوست نداشتن سخنرانی حالت کلی است و داوطلب نشدن برای ارائه نتیجه‌ی گذشته‌ی آن در نظر گرفته شده است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مرز شرطی ترکیبی با second و third conditional",
+        "htmlTag": 1,
+        "content": "مرز شرطی ترکیبی با second و third conditional",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مرز شرطی ترکیبی با second و third conditional",
+        "htmlTag": 0,
+        "content": "شرطی ترکیبی فقط زمانی لازم است که زمانِ شرط و زمانِ نتیجه متفاوت باشند. اگر هم شرط و هم نتیجه به حال مربوط باشند، second conditional کافی است؛ اگر هر دو به گذشته مربوط باشند، third conditional مناسب‌تر است. بنابراین mixed conditional ابزاری برای بیان رابطه‌ی زمانیِ پیچیده‌تر است، نه صرفاً تنوع ظاهری در ساختار.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تشخیص نیاز واقعی به mixed conditional",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تشخیص نیاز واقعی به mixed conditional",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تشخیص نیاز واقعی به mixed conditional",
+        "htmlTag": 0,
+        "content": "If I had studied architecture, I would design buildings now.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تشخیص نیاز واقعی به mixed conditional",
+        "htmlTag": 0,
+        "content": "در این مثال، مطالعه نکردن در گذشته است اما طراحی کردن در زمان حال. همین تفاوت زمانی دلیل استفاده از mixed conditional است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرهیز از mixing بی‌دلیل",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پرهیز از mixing بی‌دلیل",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرهیز از mixing بی‌دلیل",
+        "htmlTag": 0,
+        "content": "If I had studied architecture, I would have passed the exam.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرهیز از mixing بی‌دلیل",
+        "htmlTag": 0,
+        "content": "اینجا هم شرط و هم نتیجه به گذشته مربوط‌اند، پس این جمله third conditional است، نه mixed conditional. تفاوت درست زمانی مهم‌تر از ظاهر جمله است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در نوشتار پیشرفته، mixed conditional زمانی قوی است که به تحلیلِ علت و پیامد کمک کند. اگر فقط برای پیچیده‌تر نشان دادن جمله استفاده شود، متن مصنوعی و ناموجه می‌شود.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If she were less impatient, she would have stayed longer in the meeting.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بی‌حوصلگی یک ویژگی کلی فرض می‌شود و زودتر رفتن از جلسه نتیجه‌ای در گذشته است؛ پس الگو mixed conditional است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If we had prepared better, we would feel less anxious now.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "آماده نشدن در گذشته علت فرضی است و اضطراب کمتر نتیجه‌ای است که در حال تجربه می‌شد.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

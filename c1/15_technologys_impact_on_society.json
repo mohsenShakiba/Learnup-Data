@@ -1,0 +1,79 @@
+{
+    "title": "15 - Technology's Impact on Society",
+    "description": "دو نفر درباره اینکه آیا فناوری مدرن ما را به هم نزدیک‌تر کرده یا دورتر بحث می‌کنند.",
+    "words": ["connectivity", "isolation", "paradox", "superficial", "discourse", "polarize", "attention", "erode", "meaningful", "double-edged", "addictive", "nuance", "trade-off", "civilization"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "We're more connected than ever, yet lonelier.",
+            "translation": "بیش از همیشه به هم متصلیم، اما تنهاتر."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It's a curious paradox, isn't it?",
+            "translation": "تناقض عجیبی است، نه؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Online interactions feel so superficial.",
+            "translation": "تعاملات آنلاین خیلی سطحی به نظر می‌رسند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "They rarely replace genuine connection.",
+            "translation": "به‌ندرت جایگزین ارتباط واقعی می‌شوند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "And social media seems to polarize debate.",
+            "translation": "و به نظر می‌رسد شبکه‌های اجتماعی بحث را قطبی می‌کنند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "It rewards outrage over nuance.",
+            "translation": "خشم را بیشتر از ظرافت پاداش می‌دهد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Still, it has democratized information.",
+            "translation": "با این حال، دسترسی به اطلاعات را همگانی کرده."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That's the double-edged nature of it.",
+            "translation": "این همان ماهیت دولبه آن است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "It's eroding our attention spans, though.",
+            "translation": "هرچند دامنه توجه ما را تحلیل می‌برد."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Designed to be addictive, after all.",
+            "translation": "بالاخره برای اعتیادآور بودن طراحی شده."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "So the technology isn't inherently good or bad.",
+            "translation": "پس فناوری ذاتاً خوب یا بد نیست."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Precisely. It depends entirely on how we wield it.",
+            "translation": "دقیقاً. کاملاً به نحوه به‌کارگیری ما بستگی دارد."
+        }
+    ]
+}

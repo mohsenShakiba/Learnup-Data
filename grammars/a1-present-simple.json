@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Present simple",
+    "levelId": 1,
+    "order": 8,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس زمان حال ساده را برای عادت‌ها، برنامه‌های تکراری، واقعیت‌های عمومی و شکل‌های مثبت، منفی و پرسشی توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "کاربرد اصلی حال ساده",
+        "htmlTag": 1,
+        "content": "کاربرد اصلی حال ساده",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد اصلی حال ساده",
+        "htmlTag": 0,
+        "content": "حال ساده برای کارهایی به کار می‌رود که عادت، برنامه تکراری یا حقیقت عمومی هستند. این زمان معمولا برای چیزی نیست که دقیقا همین الان در حال انجام است، بلکه برای الگوهای معمول زندگی و واقعیت‌ها استفاده می‌شود.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت و برنامه روزانه",
+        "htmlTag": 2,
+        "content": "کاربرد 1: عادت و برنامه روزانه",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت و برنامه روزانه",
+        "htmlTag": 0,
+        "content": "I wake up at six.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت و برنامه روزانه",
+        "htmlTag": 0,
+        "content": "این جمله یک کار تکراری و معمول را نشان می‌دهد. چون درباره برنامه همیشگی صحبت می‌کنیم، حال ساده مناسب است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: واقعیت عمومی",
+        "htmlTag": 2,
+        "content": "کاربرد 2: واقعیت عمومی",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: واقعیت عمومی",
+        "htmlTag": 0,
+        "content": "Water boils at one hundred degrees.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: واقعیت عمومی",
+        "htmlTag": 0,
+        "content": "اینجا جمله یک حقیقت علمی یا عمومی را بیان می‌کند. برای این نوع اطلاعات از حال ساده استفاده می‌کنیم.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "حال ساده معمولا با کلماتی مثل every day، usually و often همراه می‌شود، چون این کلمات هم به تکرار یا عادت اشاره می‌کنند و با معنای این زمان هماهنگ هستند.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She walks to school every day.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال every day نشان می‌دهد عمل تکراری است. بنابراین زمان حال ساده انتخاب درستی است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The sun rises in the east.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این جمله درباره یک حقیقت همیشگی است، نه یک اتفاق موقت. به همین دلیل حال ساده به کار رفته است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "شکل فعل و سوم شخص مفرد",
+        "htmlTag": 1,
+        "content": "شکل فعل و سوم شخص مفرد",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "شکل فعل و سوم شخص مفرد",
+        "htmlTag": 0,
+        "content": "در حال ساده بیشتر فاعل‌ها از شکل پایه فعل استفاده می‌کنند، اما با he، she و it معمولا به فعل s یا es اضافه می‌شود. این تفاوت کوچک یکی از مهم‌ترین نکته‌های ساختاری این زمان است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شکل پایه با بیشتر فاعل‌ها",
+        "htmlTag": 2,
+        "content": "کاربرد 1: شکل پایه با بیشتر فاعل‌ها",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شکل پایه با بیشتر فاعل‌ها",
+        "htmlTag": 0,
+        "content": "They play tennis on Fridays.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شکل پایه با بیشتر فاعل‌ها",
+        "htmlTag": 0,
+        "content": "چون فاعل they است، فعل play بدون s آمده است. این الگو برای I، you، we و they هم رایج است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: افزودن s با he، she، it",
+        "htmlTag": 2,
+        "content": "کاربرد 2: افزودن s با he، she، it",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: افزودن s با he، she، it",
+        "htmlTag": 0,
+        "content": "My father works in an office.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: افزودن s با he، she، it",
+        "htmlTag": 0,
+        "content": "در این جمله فاعل سوم شخص مفرد است، پس فعل work به works تبدیل شده است. این تغییر یکی از نشانه‌های مهم حال ساده است.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر این s را با فاعل‌های he، she یا it فراموش کنیم، جمله ناقص به نظر می‌رسد. در مقابل، با I، you، we و they نباید این s را اضافه کنیم.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He watches TV at night.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا فعل با he آمده و به watches تغییر کرده است. این نمونه نشان می‌دهد بعضی فعل‌ها در سوم شخص مفرد es می‌گیرند.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We study English together.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال چون فاعل we است، فعل study بدون s آمده است. این تفاوت با سوم شخص مفرد مهم است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "منفی، پرسشی و مرور",
+        "htmlTag": 1,
+        "content": "منفی، پرسشی و مرور",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "منفی، پرسشی و مرور",
+        "htmlTag": 0,
+        "content": "برای ساخت منفی و پرسشی در حال ساده معمولا از do و does کمک می‌گیریم. این ساختار باعث می‌شود فعل اصلی به شکل پایه برگردد و نقش زمان و پرسش یا منفی بودن را do یا does نشان دهد.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با do not و does not",
+        "htmlTag": 2,
+        "content": "کاربرد 1: منفی با do not و does not",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با do not و does not",
+        "htmlTag": 0,
+        "content": "She does not drink coffee.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با do not و does not",
+        "htmlTag": 0,
+        "content": "چون فاعل she است، از does not استفاده شده و فعل drink به شکل پایه باقی مانده است. این الگوی استاندارد منفی در حال ساده است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با do و does",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پرسشی با do و does",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با do و does",
+        "htmlTag": 0,
+        "content": "Do they live near here?",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با do و does",
+        "htmlTag": 0,
+        "content": "در این سوال do به اول جمله آمده و جمله را پرسشی کرده است. فعل live هم بعد از فاعل به شکل پایه آمده است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "وقتی از does استفاده می‌کنیم، دیگر نباید به فعل اصلی s بدهیم. s فقط یک بار و روی does یا روی خود فعل در جمله مثبت سوم شخص مفرد ظاهر می‌شود.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Does he work on Sundays?",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال does سوال را می‌سازد و فعل work بدون s می‌آید. این نکته از اشتباه‌های رایج زبان‌آموزان است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I do not understand this question.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا do not جمله را منفی کرده و فعل understand در شکل پایه مانده است. این نمونه برای اول شخص مفرد است.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

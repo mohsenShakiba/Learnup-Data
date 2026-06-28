@@ -1,0 +1,79 @@
+{
+    "title": "6 - Giving Advice to a Friend",
+    "description": "دادن توصیه به دوستی که درباره یک تصمیم شغلی مردد است.",
+    "words": ["advice", "decision", "should", "consider", "opportunity", "risk", "regret", "careful", "depends", "suggest", "instead", "worried", "confident", "support"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I really need your advice about something.",
+            "translation": "واقعاً به توصیه‌ات درباره چیزی نیاز دارم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. What's on your mind?",
+            "translation": "البته. چه چیزی فکرت را مشغول کرده؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I've been offered a job in another country.",
+            "translation": "یک شغل در کشور دیگری به من پیشنهاد شده."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That's a big decision. How do you feel about it?",
+            "translation": "تصمیم بزرگی است. چه احساسی درباره‌اش داری؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I'm excited, but also a bit worried.",
+            "translation": "هیجان‌زده‌ام، اما کمی هم نگران."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "If I were you, I'd consider all the risks.",
+            "translation": "اگر جای تو بودم، همه خطرها را در نظر می‌گرفتم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "What if I don't like it there?",
+            "translation": "اگر آنجا را دوست نداشته باشم چه؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "You should think about that carefully.",
+            "translation": "باید با دقت به آن فکر کنی."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "But I might regret it if I don't try.",
+            "translation": "اما اگر امتحانش نکنم ممکن است پشیمان شوم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That's true. It's a great opportunity.",
+            "translation": "درست است. فرصت خوبی است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I think I should take the risk.",
+            "translation": "فکر می‌کنم باید این خطر را بپذیرم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Whatever you decide, I'll support you.",
+            "translation": "هر تصمیمی بگیری، از تو حمایت می‌کنم."
+        }
+    ]
+}

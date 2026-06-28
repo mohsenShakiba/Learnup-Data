@@ -1,0 +1,79 @@
+{
+    "title": "15 - Opening a Bank Account",
+    "description": "افتتاح حساب بانکی و پرسیدن درباره خدمات و کارمزدها.",
+    "words": ["account", "savings", "current", "interest", "fee", "documents", "identity", "deposit", "withdraw", "online", "transfer", "branch", "statement", "apply"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Good morning. I'd like to open an account.",
+            "translation": "صبح بخیر. می‌خواهم یک حساب باز کنم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. A savings or current account?",
+            "translation": "البته. حساب پس‌انداز یا جاری؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What's the difference between them?",
+            "translation": "تفاوتشان چیست؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "A savings account pays interest.",
+            "translation": "حساب پس‌انداز سود می‌دهد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Are there any monthly fees?",
+            "translation": "کارمزد ماهانه‌ای هست؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "No, this account is free.",
+            "translation": "نه، این حساب رایگان است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Can I manage it online?",
+            "translation": "می‌توانم آن را آنلاین مدیریت کنم؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, you can transfer money anytime.",
+            "translation": "بله، هر زمان می‌توانید پول انتقال دهید."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "What documents do I need?",
+            "translation": "چه مدارکی لازم دارم؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Your identity card and proof of address.",
+            "translation": "کارت شناسایی و مدرک آدرس."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Here they are. How long will it take?",
+            "translation": "بفرمایید. چقدر طول می‌کشد؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Just a few minutes. Then you can deposit money.",
+            "translation": "فقط چند دقیقه. بعد می‌توانید پول واریز کنید."
+        }
+    ]
+}

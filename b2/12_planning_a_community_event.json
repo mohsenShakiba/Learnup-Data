@@ -1,0 +1,79 @@
+{
+    "title": "12 - Planning a Community Event",
+    "description": "دو داوطلب درباره سازماندهی یک رویداد محلی برنامه‌ریزی می‌کنند.",
+    "words": ["community", "volunteer", "organize", "venue", "budget", "promote", "sponsor", "attendance", "logistics", "coordinate", "permit", "raise", "awareness", "successful"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "We need to start planning the community fair.",
+            "translation": "باید برنامه‌ریزی جشنواره محلی را شروع کنیم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Right. Have we booked a venue yet?",
+            "translation": "درست است. هنوز مکانی رزرو کرده‌ایم؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Not yet. The park would be ideal.",
+            "translation": "هنوز نه. پارک ایده‌آل خواهد بود."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "We'll need a permit from the council.",
+            "translation": "به مجوزی از شورا نیاز داریم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I'll handle that. What about the budget?",
+            "translation": "من به آن رسیدگی می‌کنم. بودجه چطور؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "It's tight, so we should find a sponsor.",
+            "translation": "محدود است، پس باید یک حامی مالی پیدا کنیم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Good idea. Local businesses might help.",
+            "translation": "فکر خوبی است. کسب‌وکارهای محلی شاید کمک کنند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "How will we promote the event?",
+            "translation": "چطور رویداد را تبلیغ کنیم؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Social media and posters around town.",
+            "translation": "شبکه‌های اجتماعی و پوستر در سطح شهر."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "We also need volunteers to coordinate logistics.",
+            "translation": "همچنین به داوطلب برای هماهنگی امور اجرایی نیاز داریم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "If we plan carefully, it'll raise real awareness.",
+            "translation": "اگر با دقت برنامه‌ریزی کنیم، آگاهی واقعی ایجاد می‌کند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "I'm confident it'll be a great success.",
+            "translation": "مطمئنم موفقیت بزرگی خواهد بود."
+        }
+    ]
+}

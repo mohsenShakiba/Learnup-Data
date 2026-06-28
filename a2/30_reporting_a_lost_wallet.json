@@ -1,0 +1,79 @@
+{
+    "title": "30 - Reporting a Lost Wallet",
+    "description": "گزارش گم شدن کیف پول به پلیس و دادن جزئیات.",
+    "words": ["wallet", "report", "police", "stolen", "happened", "cards", "cash", "describe", "leather", "officer", "details", "phone", "cancel", "hope"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hello, I'd like to report a lost wallet.",
+            "translation": "سلام، می‌خواهم گم شدن یک کیف پول را گزارش دهم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I see. When did it happen?",
+            "translation": "که اینطور. کی این اتفاق افتاد؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "About an hour ago, on the bus.",
+            "translation": "حدود یک ساعت پیش، در اتوبوس."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Can you describe the wallet?",
+            "translation": "می‌توانید کیف پول را توصیف کنید؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "It's brown leather, quite small.",
+            "translation": "از چرم قهوه‌ای، نسبتاً کوچک."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "What was inside?",
+            "translation": "داخلش چه بود؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Some cash and two bank cards.",
+            "translation": "کمی پول نقد و دو کارت بانکی."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "You should cancel the cards quickly.",
+            "translation": "باید سریع کارت‌ها را مسدود کنید."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Good idea. I'll call the bank now.",
+            "translation": "فکر خوبی است. همین حالا به بانک زنگ می‌زنم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Please write your phone number here.",
+            "translation": "لطفاً شماره تلفنتان را اینجا بنویسید."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Will you contact me if you find it?",
+            "translation": "اگر پیدایش کردید با من تماس می‌گیرید؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Of course. We'll let you know.",
+            "translation": "البته. به شما خبر می‌دهیم."
+        }
+    ]
+}

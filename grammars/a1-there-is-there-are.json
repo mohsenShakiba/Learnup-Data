@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "There is / There are",
+    "levelId": 1,
+    "order": 10,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس ساختار there is و there are را برای بیان وجود، تعداد، و شکل‌های منفی و پرسشی در موقعیت‌های ساده توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "بیان وجود با there is و there are",
+        "htmlTag": 1,
+        "content": "بیان وجود با there is و there are",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "بیان وجود با there is و there are",
+        "htmlTag": 0,
+        "content": "از there is و there are وقتی استفاده می‌کنیم که بخواهیم بگوییم چیزی یا کسی در جایی وجود دارد. این ساختار برای معرفی چیزها در اتاق، خیابان، خانه یا هر موقعیت دیگر بسیار رایج است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: there is برای مفرد",
+        "htmlTag": 2,
+        "content": "کاربرد 1: there is برای مفرد",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: there is برای مفرد",
+        "htmlTag": 0,
+        "content": "There is a cat in the garden.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: there is برای مفرد",
+        "htmlTag": 0,
+        "content": "چون cat مفرد است، از there is استفاده شده است. این جمله فقط وجود یک گربه را در آن مکان بیان می‌کند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: there are برای جمع",
+        "htmlTag": 2,
+        "content": "کاربرد 2: there are برای جمع",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: there are برای جمع",
+        "htmlTag": 0,
+        "content": "There are two chairs in the room.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: there are برای جمع",
+        "htmlTag": 0,
+        "content": "اینجا chairs جمع است، پس there are لازم داریم. عدد two هم تعداد را روشن‌تر کرده است.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در این ساختار there فاعل واقعی نیست، بلکه بخشی از الگوی معرفی وجود است. اسم بعدی مشخص می‌کند باید از is استفاده کنیم یا are.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There is a bus stop near my house.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال there is وجود یک مکان مشخص را معرفی می‌کند. چون bus stop مفرد است، is درست است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There are many people here.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا there are برای وجود چند نفر در یک مکان به کار رفته است. many people جمع بودن را نشان می‌دهد.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "منفی و پرسشی",
+        "htmlTag": 1,
+        "content": "منفی و پرسشی",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "منفی و پرسشی",
+        "htmlTag": 0,
+        "content": "ساختار there is و there are هم می‌تواند منفی و پرسشی شود. برای منفی کردن کافی است not را بعد از فعل بیاوریم و برای سوالی کردن، فعل را به ابتدای جمله منتقل کنیم.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی کردن وجود",
+        "htmlTag": 2,
+        "content": "کاربرد 1: منفی کردن وجود",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی کردن وجود",
+        "htmlTag": 0,
+        "content": "There is not any milk in the fridge.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی کردن وجود",
+        "htmlTag": 0,
+        "content": "در این جمله not بعد از is آمده و نشان می‌دهد شیر وجود ندارد. any هم در جمله منفی طبیعی است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره وجود",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پرسیدن درباره وجود",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره وجود",
+        "htmlTag": 0,
+        "content": "Are there any shops nearby?",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره وجود",
+        "htmlTag": 0,
+        "content": "اینجا are به ابتدای جمله آمده تا سوال ساخته شود. این ساختار برای پرسیدن وجود چند چیز در یک مکان به کار می‌رود.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در سوال‌های there is و there are معمولا پاسخ کوتاه با Yes, there is یا No, there are not ساخته می‌شود. این الگو در مکالمه روزمره خیلی کاربرد دارد.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There are not enough cups.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال جمله منفی است و نشان می‌دهد تعداد فنجان‌ها کافی نیست. are not به خاطر جمع بودن cups آمده است.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Is there a bank on this street?",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا درباره وجود یک بانک سوال می‌پرسیم. چون bank مفرد است، از is there استفاده می‌کنیم.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت با have و مرور",
+        "htmlTag": 1,
+        "content": "تفاوت با have و مرور",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تفاوت با have و مرور",
+        "htmlTag": 0,
+        "content": "there is و there are برای گفتن وجود چیزی در یک مکان هستند، نه برای مالکیت. اگر بخواهیم بگوییم کسی چیزی را دارد، معمولا از have استفاده می‌کنیم. این تفاوت ساده اما بسیار مهم است.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وجود در یک مکان",
+        "htmlTag": 2,
+        "content": "کاربرد 1: وجود در یک مکان",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وجود در یک مکان",
+        "htmlTag": 0,
+        "content": "There is a playground behind the school.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: وجود در یک مکان",
+        "htmlTag": 0,
+        "content": "این جمله وجود یک زمین بازی را در آن مکان بیان می‌کند. تمرکز جمله روی بودن آن چیز در فضاست، نه روی مالک آن.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تفاوت با have",
+        "htmlTag": 2,
+        "content": "کاربرد 2: تفاوت با have",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تفاوت با have",
+        "htmlTag": 0,
+        "content": "The school has a playground.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تفاوت با have",
+        "htmlTag": 0,
+        "content": "اینجا have نشان می‌دهد مدرسه زمین بازی دارد. پس جمله درباره مالکیت یا داشتن است، نه صرفا وجود در یک مکان.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر بتوانیم سوال بپرسیم کجا وجود دارد، there is یا there are مناسب است. اگر سوال ما این باشد که چه کسی چیزی را دارد، باید سراغ have برویم.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There is no water in the bottle.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال no water نبودن چیزی را در یک مکان مشخص نشان می‌دهد. این هم یکی از شکل‌های منفی رایج برای این ساختار است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There are three pictures on the wall.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا ساختار جمع برای معرفی چند چیز در یک مکان به کار رفته است. عبارت on the wall محل آن‌ها را کامل می‌کند.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

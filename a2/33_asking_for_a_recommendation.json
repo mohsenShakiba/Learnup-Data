@@ -1,0 +1,79 @@
+{
+    "title": "33 - Asking for a Recommendation",
+    "description": "پرسیدن از یک همکار درباره یک رستوران خوب برای شام.",
+    "words": ["recommend", "restaurant", "near", "expensive", "delicious", "book", "popular", "menu", "vegetarian", "service", "friendly", "worth", "try", "definitely"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Can you recommend a good restaurant?",
+            "translation": "می‌توانی یک رستوران خوب پیشنهاد دهی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Sure. What kind of food do you like?",
+            "translation": "حتماً. چه نوع غذایی دوست داری؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Something Italian, near the center.",
+            "translation": "چیزی ایتالیایی، نزدیک مرکز شهر."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "There's a great place called Roma.",
+            "translation": "یک جای عالی به اسم روما هست."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Is it expensive?",
+            "translation": "گران است؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Not really, and the food is delicious.",
+            "translation": "نه چندان، و غذایش خوشمزه است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Do they have vegetarian options?",
+            "translation": "گزینه‌های گیاهی دارند؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, their menu is quite varied.",
+            "translation": "بله، منویشان نسبتاً متنوع است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Is the service good?",
+            "translation": "سرویسشان خوب است؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Very friendly. It's quite popular, though.",
+            "translation": "خیلی صمیمی. هرچند نسبتاً شلوغ است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Then I should book a table.",
+            "translation": "پس باید یک میز رزرو کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Definitely. It's worth a try.",
+            "translation": "قطعاً. ارزش امتحان کردن دارد."
+        }
+    ]
+}

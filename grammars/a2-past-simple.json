@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Past simple",
+    "levelId": 2,
+    "order": 1,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس گذشته ساده را برای بیان کارهای تمام‌شده در گذشته، شکل‌های باقاعده و بی‌قاعده، و ساخت منفی و پرسشی توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "کاربرد اصلی گذشته ساده",
+        "htmlTag": 1,
+        "content": "کاربرد اصلی گذشته ساده",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد اصلی گذشته ساده",
+        "htmlTag": 0,
+        "content": "گذشته ساده برای کارهایی به کار می‌رود که در زمان گذشته شروع و تمام شده‌اند. این زمان معمولا همراه با زمان‌های مشخص گذشته یا وقتی استفاده می‌شود که رویداد دیگر تمام شده و ارتباط مستقیم با اکنون ندارد.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار تمام‌شده در گذشته",
+        "htmlTag": 2,
+        "content": "کاربرد 1: کار تمام‌شده در گذشته",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار تمام‌شده در گذشته",
+        "htmlTag": 0,
+        "content": "I visited my aunt last week.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار تمام‌شده در گذشته",
+        "htmlTag": 0,
+        "content": "در این جمله last week زمان انجام کار را مشخص می‌کند و نشان می‌دهد دیدار در گذشته انجام شده و تمام شده است. به همین دلیل گذشته ساده مناسب است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: دنباله رویدادهای گذشته",
+        "htmlTag": 2,
+        "content": "کاربرد 2: دنباله رویدادهای گذشته",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: دنباله رویدادهای گذشته",
+        "htmlTag": 0,
+        "content": "She opened the door and sat down.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: دنباله رویدادهای گذشته",
+        "htmlTag": 0,
+        "content": "اینجا دو عمل پشت سر هم در گذشته روایت می‌شوند. گذشته ساده برای تعریف کردن کارهای کامل‌شده در داستان یا گزارش بسیار رایج است.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر زمان انجام کار تمام شده باشد، گذشته ساده انتخاب طبیعی است. حتی اگر زمان را مستقیم نگوییم، وقتی از بافت جمله معلوم باشد که رویداد گذشته و کامل است، همین زمان به کار می‌رود.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We watched a film last night.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال last night زمان گذشته را روشن می‌کند و فعل watched نشان می‌دهد عمل به پایان رسیده است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "My brother called me yesterday.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا yesterday به وضوح گذشته را مشخص می‌کند، پس گذشته ساده برای called درست است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "شکل فعل‌های باقاعده و بی‌قاعده",
+        "htmlTag": 1,
+        "content": "شکل فعل‌های باقاعده و بی‌قاعده",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "شکل فعل‌های باقاعده و بی‌قاعده",
+        "htmlTag": 0,
+        "content": "در گذشته ساده بعضی فعل‌ها با افزودن ed ساخته می‌شوند، اما بعضی فعل‌های پرکاربرد شکل بی‌قاعده دارند و باید جداگانه یاد گرفته شوند. شناخت این دو گروه برای خواندن و نوشتن دقیق ضروری است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فعل باقاعده با ed",
+        "htmlTag": 2,
+        "content": "کاربرد 1: فعل باقاعده با ed",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فعل باقاعده با ed",
+        "htmlTag": 0,
+        "content": "They cleaned the kitchen.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فعل باقاعده با ed",
+        "htmlTag": 0,
+        "content": "فعل clean با افزودن ed به cleaned تبدیل شده است. این الگوی معمول برای بسیاری از فعل‌های باقاعده است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل بی‌قاعده",
+        "htmlTag": 2,
+        "content": "کاربرد 2: فعل بی‌قاعده",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل بی‌قاعده",
+        "htmlTag": 0,
+        "content": "He went to school by bus.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل بی‌قاعده",
+        "htmlTag": 0,
+        "content": "اینجا فعل go به went تبدیل شده و از قانون ساده ed پیروی نمی‌کند. این نوع فعل‌ها شکل گذشته مخصوص خودشان را دارند.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "برای سطح A2 بهتر است فعل‌های بی‌قاعده پرکاربرد مثل go، see، have، eat و make را بیشتر تمرین کنیم، چون در مکالمه و متن‌های ساده بسیار زیاد دیده می‌شوند.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I studied for the test.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال study به studied تبدیل شده و یک نمونه از تغییر املای رایج در فعل‌های باقاعده را نشان می‌دهد.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We saw a rainbow after the rain.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا saw شکل گذشته فعل see است و نمونه‌ای از فعل بی‌قاعده پرکاربرد را نشان می‌دهد.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "منفی، پرسشی و مرور",
+        "htmlTag": 1,
+        "content": "منفی، پرسشی و مرور",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "منفی، پرسشی و مرور",
+        "htmlTag": 0,
+        "content": "برای منفی و پرسشی کردن گذشته ساده از did استفاده می‌کنیم. وقتی did می‌آید، فعل اصلی به شکل پایه برمی‌گردد و دیگر شکل گذشته روی خود فعل ظاهر نمی‌شود.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با did not",
+        "htmlTag": 2,
+        "content": "کاربرد 1: منفی با did not",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با did not",
+        "htmlTag": 0,
+        "content": "I did not finish my homework.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: منفی با did not",
+        "htmlTag": 0,
+        "content": "در این جمله did not گذشته و منفی بودن را نشان می‌دهد، بنابراین finish به شکل پایه آمده است. این الگوی اصلی منفی در گذشته ساده است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با did",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پرسشی با did",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با did",
+        "htmlTag": 0,
+        "content": "Did you see the message?",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسشی با did",
+        "htmlTag": 0,
+        "content": "اینجا did به ابتدای جمله آمده و سوال ساخته است. فعل see هم به شکل پایه برگشته و دیگر saw نمی‌آید.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "یکی از اشتباه‌های رایج این است که بعد از did دوباره شکل گذشته فعل را بیاوریم. در واقع نشانه گذشته فقط روی did می‌آید و فعل اصلی باید ساده بماند.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Did they arrive on time?",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال did سوال را ساخته و arrive به شکل پایه آمده است. عبارت on time فقط جزئیات بیشتری می‌دهد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She did not eat breakfast.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا eat بعد از did not به صورت پایه آمده است. این نکته برای همه فعل‌های گذشته ساده صادق است.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

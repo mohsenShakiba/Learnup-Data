@@ -1,0 +1,79 @@
+{
+    "title": "15 - Talking About Globalization",
+    "description": "دو نفر درباره پیامدهای مثبت و منفی جهانی‌شدن بحث می‌کنند.",
+    "words": ["globalization", "economy", "interconnected", "outsource", "competition", "identity", "inequality", "benefit", "trade", "exploit", "diversity", "impact", "regulate", "argue"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Globalization has changed everything, hasn't it?",
+            "translation": "جهانی‌شدن همه چیز را تغییر داده، نه؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Absolutely. The world is so interconnected now.",
+            "translation": "قطعاً. حالا دنیا خیلی به هم مرتبط است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "It's brought huge economic benefits.",
+            "translation": "منافع اقتصادی بزرگی به همراه آورده."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "True, but not everyone gains equally.",
+            "translation": "درست است، اما همه به یک اندازه سود نمی‌برند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "You mean it increases inequality?",
+            "translation": "منظورت این است که نابرابری را افزایش می‌دهد؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "In some regions, yes. Jobs get outsourced.",
+            "translation": "در بعضی مناطق، بله. شغل‌ها برون‌سپاری می‌شوند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "But it also creates new opportunities.",
+            "translation": "اما فرصت‌های جدیدی هم می‌سازد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "And it exposes us to new cultures.",
+            "translation": "و ما را با فرهنگ‌های جدید آشنا می‌کند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Some worry it erodes local identity.",
+            "translation": "بعضی‌ها نگرانند که هویت محلی را از بین ببرد."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That's a fair concern.",
+            "translation": "نگرانی به‌جایی است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Maybe it needs better regulation.",
+            "translation": "شاید به مقررات بهتری نیاز دارد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Either way, it's hard to reverse now.",
+            "translation": "در هر صورت، حالا برگرداندنش سخت است."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "5 - Giving Directions to a Tourist",
+    "description": "کمک به یک گردشگر برای پیدا کردن موزه در شهر.",
+    "words": ["museum", "straight", "corner", "turn", "left", "right", "cross", "traffic", "lights", "near", "far", "minutes", "lost", "walk"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Excuse me, I think I'm lost.",
+            "translation": "ببخشید، فکر کنم گم شده‌ام."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Where do you want to go?",
+            "translation": "کجا می‌خواهید بروید؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'm looking for the city museum.",
+            "translation": "دنبال موزه شهر می‌گردم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "It's not far. Go straight down this street.",
+            "translation": "دور نیست. این خیابان را مستقیم بروید."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Okay, straight ahead.",
+            "translation": "باشه، مستقیم به جلو."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Then turn left at the traffic lights.",
+            "translation": "بعد سر چراغ راهنمایی به چپ بپیچید."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Left at the lights. And then?",
+            "translation": "سر چراغ به چپ. و بعد؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Cross the road and turn right at the corner.",
+            "translation": "از خیابان رد شوید و سر نبش به راست بپیچید."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Is it near there?",
+            "translation": "آنجا نزدیک است؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Yes, the museum is on your left.",
+            "translation": "بله، موزه سمت چپ شماست."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "How long does it take to walk?",
+            "translation": "پیاده چقدر طول می‌کشد؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "About five minutes. You can't miss it.",
+            "translation": "حدود پنج دقیقه. حتماً پیدایش می‌کنید."
+        }
+    ]
+}

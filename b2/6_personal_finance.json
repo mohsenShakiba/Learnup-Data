@@ -1,0 +1,79 @@
+{
+    "title": "6 - Talking About Personal Finance",
+    "description": "دو دوست درباره پس‌انداز، بودجه‌بندی و سرمایه‌گذاری گفتگو می‌کنند.",
+    "words": ["budget", "savings", "invest", "expenses", "afford", "income", "interest", "debt", "financial", "priority", "track", "long-term", "risk", "secure"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I've been trying to save more money lately.",
+            "translation": "اخیراً سعی می‌کنم پول بیشتری پس‌انداز کنم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "That's smart. Do you follow a budget?",
+            "translation": "هوشمندانه است. بودجه‌بندی داری؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I've started tracking my expenses.",
+            "translation": "شروع کرده‌ام هزینه‌هایم را پیگیری کنم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Good. You'd be surprised where money goes.",
+            "translation": "خوب است. تعجب می‌کنی پول کجا می‌رود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Exactly. Small costs add up quickly.",
+            "translation": "دقیقاً. هزینه‌های کوچک سریع جمع می‌شوند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Have you thought about investing?",
+            "translation": "به سرمایه‌گذاری فکر کرده‌ای؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "A little, but it seems risky.",
+            "translation": "کمی، اما به نظر پرریسک می‌آید."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "If you invest long-term, the risk is lower.",
+            "translation": "اگر بلندمدت سرمایه‌گذاری کنی، ریسک کمتر است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I'd rather feel financially secure first.",
+            "translation": "ترجیح می‌دهم اول از نظر مالی احساس امنیت کنم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That's wise. Pay off any debt first.",
+            "translation": "عاقلانه است. اول هر بدهی را تسویه کن."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "My priority is building an emergency fund.",
+            "translation": "اولویتم ساختن یک صندوق اضطراری است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That's the best place to start.",
+            "translation": "این بهترین جا برای شروع است."
+        }
+    ]
+}

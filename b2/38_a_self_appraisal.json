@@ -1,0 +1,79 @@
+{
+    "title": "38 - A Self-Appraisal",
+    "description": "کارمندی در جلسه ارزیابی، عملکرد سال خود را صادقانه تحلیل می‌کند.",
+    "words": ["appraisal", "reflect", "accomplish", "shortfall", "objective", "exceed", "acknowledge", "improvement", "initiative", "feedback", "honest", "growth", "target", "contribute"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "How would you assess your own year?",
+            "translation": "سال خودت را چطور ارزیابی می‌کنی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Overall positive, though not without gaps.",
+            "translation": "در کل مثبت، هرچند بدون کاستی نبوده."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What are you most proud of?",
+            "translation": "به چه چیزی بیشتر افتخار می‌کنی؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I exceeded my sales targets.",
+            "translation": "از اهداف فروشم فراتر رفتم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "That's impressive. Anything you'd improve?",
+            "translation": "چشمگیر است. چیزی هست که بخواهی بهتر کنی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I should have delegated more.",
+            "translation": "باید بیشتر کارها را به دیگران می‌سپردم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Why didn't you?",
+            "translation": "چرا این کار را نکردی؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I struggle to let go of control.",
+            "translation": "برایم سخت است که کنترل را رها کنم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Acknowledging that is a good first step.",
+            "translation": "اعتراف به آن قدم اول خوبی است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I want to take more initiative next year.",
+            "translation": "می‌خواهم سال آینده ابتکار عمل بیشتری داشته باشم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I appreciate your honesty.",
+            "translation": "از صداقتت قدردانی می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Reflection is how I keep growing.",
+            "translation": "تأمل همان راهی است که با آن رشد می‌کنم."
+        }
+    ]
+}

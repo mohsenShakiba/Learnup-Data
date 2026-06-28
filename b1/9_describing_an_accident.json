@@ -1,0 +1,79 @@
+{
+    "title": "9 - Describing an Accident",
+    "description": "توضیح دادن یک تصادف کوچک به یک افسر بیمه.",
+    "words": ["accident", "happened", "suddenly", "driving", "crossing", "brake", "crash", "damage", "injured", "witness", "report", "fault", "careful", "lucky"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Can you tell me what happened?",
+            "translation": "می‌توانید بگویید چه اتفاقی افتاد؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I was driving home when it happened.",
+            "translation": "داشتم به سمت خانه رانندگی می‌کردم که این اتفاق افتاد."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Where exactly were you?",
+            "translation": "دقیقاً کجا بودید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I was crossing the bridge near the station.",
+            "translation": "داشتم از روی پل نزدیک ایستگاه رد می‌شدم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What did the other driver do?",
+            "translation": "راننده دیگر چه کرد؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "He suddenly stopped, so I couldn't brake in time.",
+            "translation": "ناگهان ایستاد، برای همین نتوانستم به‌موقع ترمز کنم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Was anyone injured?",
+            "translation": "کسی آسیب دید؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "No, luckily we were both fine.",
+            "translation": "نه، خوشبختانه هر دو سالم بودیم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Was there much damage?",
+            "translation": "خسارت زیادی وارد شد؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Just the front of my car.",
+            "translation": "فقط جلوی ماشین من."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Were there any witnesses?",
+            "translation": "شاهدی هم بود؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Yes, a man saw it and gave a statement.",
+            "translation": "بله، مردی آن را دید و اظهارات داد."
+        }
+    ]
+}

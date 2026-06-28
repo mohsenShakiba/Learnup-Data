@@ -1,0 +1,79 @@
+{
+    "title": "35 - Discussing a Hobby in Depth",
+    "description": "فردی درباره سرگرمی عکاسی‌اش و اینکه چرا برایش مهم است صحبت می‌کند.",
+    "words": ["hobby", "passion", "photography", "creative", "technique", "patience", "capture", "perspective", "improve", "equipment", "inspire", "challenge", "rewarding", "share"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I hear photography is your passion.",
+            "translation": "شنیدم عکاسی علاقه‌ات است."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It is. I've been doing it for years.",
+            "translation": "همینطور است. سال‌هاست انجامش می‌دهم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What do you enjoy most about it?",
+            "translation": "بیشتر از همه چه چیزش را دوست داری؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Capturing a moment that won't happen again.",
+            "translation": "ثبت لحظه‌ای که دوباره تکرار نمی‌شود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "That's a lovely way to put it.",
+            "translation": "بیان قشنگی است."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "It changes how you see the world.",
+            "translation": "نحوه دیدنت به دنیا را تغییر می‌دهد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Is it hard to learn the techniques?",
+            "translation": "یادگیری تکنیک‌هایش سخت است؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "It takes patience, but it's rewarding.",
+            "translation": "صبر می‌خواهد، اما رضایت‌بخش است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Do you need expensive equipment?",
+            "translation": "به وسایل گران نیاز داری؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Not at first. A good eye matters more.",
+            "translation": "اولش نه. یک نگاه خوب مهم‌تر است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'd love to see some of your work.",
+            "translation": "دوست دارم بعضی از کارهایت را ببینم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "I'll share my favorite photos with you.",
+            "translation": "عکس‌های مورد علاقه‌ام را با تو به اشتراک می‌گذارم."
+        }
+    ]
+}

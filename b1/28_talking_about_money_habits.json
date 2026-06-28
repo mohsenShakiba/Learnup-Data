@@ -1,0 +1,79 @@
+{
+    "title": "28 - Talking About Money Habits",
+    "description": "دو دوست درباره عادت‌های خرج کردن و پس‌انداز پول گفتگو می‌کنند.",
+    "words": ["spend", "save", "budget", "impulse", "track", "afford", "tempted", "discount", "necessary", "habit", "goal", "control", "wisely", "regret"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I always seem to run out of money.",
+            "translation": "همیشه انگار پولم تمام می‌شود."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Do you keep track of what you spend?",
+            "translation": "آنچه خرج می‌کنی را پیگیری می‌کنی؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Not really. I buy things on impulse.",
+            "translation": "نه چندان. چیزها را آنی می‌خرم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That's a common habit.",
+            "translation": "این عادت رایجی است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I get tempted by every discount.",
+            "translation": "هر تخفیفی وسوسه‌ام می‌کند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "But a discount isn't a saving if you don't need it.",
+            "translation": "اما تخفیف پس‌انداز نیست اگر به آن نیاز نداشته باشی."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "That's a good point.",
+            "translation": "نکته خوبی است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Try setting a monthly budget.",
+            "translation": "یک بودجه ماهانه تعیین کن."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "How do you control your spending?",
+            "translation": "تو چطور خرج کردنت را کنترل می‌کنی؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I wait a day before any big purchase.",
+            "translation": "قبل از هر خرید بزرگ یک روز صبر می‌کنم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That's clever. It stops regret later.",
+            "translation": "هوشمندانه است. جلوی پشیمانی بعدی را می‌گیرد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Exactly. Spend wisely and you'll save more.",
+            "translation": "دقیقاً. عاقلانه خرج کن و بیشتر پس‌انداز کن."
+        }
+    ]
+}

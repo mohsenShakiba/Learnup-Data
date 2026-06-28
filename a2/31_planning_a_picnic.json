@@ -1,0 +1,79 @@
+{
+    "title": "31 - Planning a Picnic",
+    "description": "دو دوست برای یک پیک‌نیک آخر هفته در پارک برنامه‌ریزی می‌کنند.",
+    "words": ["picnic", "park", "blanket", "sandwiches", "fruit", "weather", "sunny", "invite", "bring", "drinks", "games", "afternoon", "pack", "fun"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Let's have a picnic on Sunday.",
+            "translation": "بیا یکشنبه پیک‌نیک برویم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Great idea! Where should we go?",
+            "translation": "ایده عالی! کجا برویم؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The big park near the river.",
+            "translation": "پارک بزرگ نزدیک رودخانه."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Perfect. The weather will be sunny.",
+            "translation": "عالی. هوا آفتابی خواهد بود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What food should we bring?",
+            "translation": "چه غذایی بیاوریم؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I'll make sandwiches and bring some fruit.",
+            "translation": "من ساندویچ درست می‌کنم و کمی میوه می‌آورم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I'll bring drinks and a blanket.",
+            "translation": "من نوشیدنی و یک زیرانداز می‌آورم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Should we invite Tom and Mia?",
+            "translation": "تام و میا را دعوت کنیم؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Yes! They can bring some games.",
+            "translation": "بله! می‌توانند چند بازی بیاورند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "What time should we meet?",
+            "translation": "چه ساعتی همدیگر را ببینیم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Let's meet at noon and stay all afternoon.",
+            "translation": "ظهر همدیگر را ببینیم و تمام بعدازظهر بمانیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "It's going to be so much fun!",
+            "translation": "خیلی خوش خواهد گذشت!"
+        }
+    ]
+}

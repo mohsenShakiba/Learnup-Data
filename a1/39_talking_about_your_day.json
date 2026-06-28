@@ -1,0 +1,79 @@
+{
+    "title": "39 - Talking About Your Day",
+    "description": "گفتگوی زن و شوهر درباره اینکه روزشان چطور گذشت.",
+    "words": ["day", "work", "busy", "long", "tired", "lunch", "meeting", "home", "dinner", "evening", "rest", "movie", "early", "bed"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi! How was your day?",
+            "translation": "سلام! روزت چطور بود؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It was long and busy. I'm tired.",
+            "translation": "طولانی و پرمشغله بود. خسته‌ام."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Did you have a lot of work?",
+            "translation": "کار زیادی داشتی؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, and a long meeting after lunch.",
+            "translation": "بله، و یک جلسه طولانی بعد از ناهار."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "You need to rest now.",
+            "translation": "حالا باید استراحت کنی."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "What about you? How was your day?",
+            "translation": "تو چطور؟ روزت چطور بود؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "It was good. I finished early.",
+            "translation": "خوب بود. زود کارم تمام شد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Nice. What's for dinner?",
+            "translation": "خوب است. شام چی داریم؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I made soup and bread.",
+            "translation": "سوپ و نان درست کردم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Wonderful. Can we watch a movie tonight?",
+            "translation": "عالی. می‌توانیم امشب فیلم ببینیم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes, but let's go to bed early.",
+            "translation": "بله، اما بیا زود بخوابیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Good idea. I really need to sleep.",
+            "translation": "فکر خوبی است. واقعاً به خواب نیاز دارم."
+        }
+    ]
+}

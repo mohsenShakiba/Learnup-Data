@@ -1,0 +1,79 @@
+{
+    "title": "31 - At the Train Station",
+    "description": "پرسیدن اطلاعات درباره قطار و سکو در ایستگاه راه‌آهن.",
+    "words": ["train", "platform", "ticket", "next", "leave", "late", "delay", "track", "change", "direct", "arrive", "board", "hurry", "trip"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Excuse me, when is the next train to Paris?",
+            "translation": "ببخشید، قطار بعدی به پاریس کی است؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It leaves at three o'clock.",
+            "translation": "ساعت سه حرکت می‌کند."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Which platform is it?",
+            "translation": "کدام سکو است؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Platform five. But there is a short delay.",
+            "translation": "سکوی پنج. اما کمی تأخیر دارد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Oh no. How late is it?",
+            "translation": "وای نه. چقدر تأخیر دارد؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "About ten minutes. Don't worry.",
+            "translation": "حدود ده دقیقه. نگران نباشید."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Is it a direct train?",
+            "translation": "قطار مستقیم است؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "No, you change trains in Lyon.",
+            "translation": "نه، در لیون قطار عوض می‌کنید."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I see. When do we arrive in Paris?",
+            "translation": "که اینطور. کی به پاریس می‌رسیم؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "At seven in the evening.",
+            "translation": "ساعت هفت عصر."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thank you. I'll go to the platform now.",
+            "translation": "ممنون. حالا به سمت سکو می‌روم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "You can board in a few minutes. Have a good trip.",
+            "translation": "تا چند دقیقه دیگر می‌توانید سوار شوید. سفر خوبی داشته باشید."
+        }
+    ]
+}

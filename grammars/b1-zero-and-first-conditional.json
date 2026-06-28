@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Zero and first conditional",
+    "levelId": 3,
+    "order": 4,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس تفاوت zero conditional و first conditional را برای حقیقت‌های کلی در برابر موقعیت‌های واقعی و محتمل آینده توضیح می‌دهد.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "zero conditional برای حقیقت‌های کلی",
+        "htmlTag": 1,
+        "content": "zero conditional برای حقیقت‌های کلی",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "zero conditional برای حقیقت‌های کلی",
+        "htmlTag": 0,
+        "content": "zero conditional زمانی به کار می‌رود که درباره قانون‌های عمومی، نتیجه‌های همیشگی یا چیزهایی حرف می‌زنیم که هر بار در شرایط یکسان رخ می‌دهند. در این ساختار هر دو بخش جمله معمولا در حال ساده هستند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه همیشگی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: نتیجه همیشگی",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه همیشگی",
+        "htmlTag": 0,
+        "content": "If you heat ice, it melts.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه همیشگی",
+        "htmlTag": 0,
+        "content": "در این جمله درباره یک حقیقت علمی کلی صحبت می‌کنیم، نه یک موقعیت خاص در آینده. به همین دلیل هم بخش شرط و هم بخش نتیجه در حال ساده آمده‌اند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قانون یا عادت تکراری",
+        "htmlTag": 2,
+        "content": "کاربرد 2: قانون یا عادت تکراری",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قانون یا عادت تکراری",
+        "htmlTag": 0,
+        "content": "If I drink coffee late, I cannot sleep.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قانون یا عادت تکراری",
+        "htmlTag": 0,
+        "content": "اینجا جمله یک الگوی تکراری و شخصی را توصیف می‌کند. هر بار آن شرط رخ می‌دهد، همان نتیجه هم معمولا تکرار می‌شود.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در zero conditional منظور برنامه آینده یا احتمال خاص نیست. اگر نتیجه به یک موقعیت آینده و واقعی مربوط باشد، ساختار اول شرطی مناسب‌تر خواهد بود.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If people do not water this plant, it dies.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این مثال یک نتیجه معمول و تکرارشونده را نشان می‌دهد. جمله مثل یک قانون عمومی عمل می‌کند.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If the weather gets cold, my hands hurt.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا رابطه‌ای همیشگی یا تقریبا همیشگی بین شرط و نتیجه بیان شده است، پس zero conditional طبیعی است.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "first conditional برای آینده واقعی و محتمل",
+        "htmlTag": 1,
+        "content": "first conditional برای آینده واقعی و محتمل",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "first conditional برای آینده واقعی و محتمل",
+        "htmlTag": 0,
+        "content": "first conditional برای موقعیت‌هایی است که در آینده ممکن و واقعی هستند. در این ساختار معمولا در بخش if از حال ساده و در بخش نتیجه از will + base form استفاده می‌کنیم.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه محتمل در آینده",
+        "htmlTag": 2,
+        "content": "کاربرد 1: نتیجه محتمل در آینده",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه محتمل در آینده",
+        "htmlTag": 0,
+        "content": "If it rains tonight, we will stay at home.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نتیجه محتمل در آینده",
+        "htmlTag": 0,
+        "content": "بارش باران در آینده یک امکان واقعی است و ماندن در خانه نتیجه احتمالی آن است. به همین دلیل این جمله first conditional است، نه zero conditional.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تصمیم وابسته به شرط",
+        "htmlTag": 2,
+        "content": "کاربرد 2: تصمیم وابسته به شرط",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تصمیم وابسته به شرط",
+        "htmlTag": 0,
+        "content": "If she calls me, I will tell her the news.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تصمیم وابسته به شرط",
+        "htmlTag": 0,
+        "content": "اینجا تماس او هنوز اتفاق نیفتاده، اما اگر رخ بدهد، نتیجه‌ای در آینده خواهد داشت. will این آینده بودن نتیجه را نشان می‌دهد.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در first conditional نباید بعد از if از will استفاده کنیم. if-clause معمولا در حال ساده می‌آید و آینده بودن از رابطه کل جمله فهمیده می‌شود.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If we leave now, we will catch the train.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال شرط و نتیجه هر دو به آینده مربوط هستند و هر دو از نظر گوینده کاملا واقعی و ممکن‌اند.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If you do not study, you will not pass the exam.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله درباره یک پیامد احتمالی در آینده هشدار می‌دهد، بنابراین first conditional انتخاب درستی است.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مقایسه zero و first conditional",
+        "htmlTag": 1,
+        "content": "مقایسه zero و first conditional",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مقایسه zero و first conditional",
+        "htmlTag": 0,
+        "content": "برای انتخاب درست باید از خودمان بپرسیم: آیا درباره چیزی حرف می‌زنیم که همیشه درست است، یا درباره یک موقعیت خاص و آینده؟ همین تفاوت کوچک جهت کل جمله را مشخص می‌کند و معنی را تغییر می‌دهد.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حقیقت کلی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: حقیقت کلی",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حقیقت کلی",
+        "htmlTag": 0,
+        "content": "If people eat too much sugar, they gain weight.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حقیقت کلی",
+        "htmlTag": 0,
+        "content": "این جمله یک الگوی کلی و عمومی را بیان می‌کند. منظور یک موقعیت خاص فردا یا هفته بعد نیست، بلکه رابطه‌ای معمول بین دو اتفاق است.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: موقعیت خاص آینده",
+        "htmlTag": 2,
+        "content": "کاربرد 2: موقعیت خاص آینده",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: موقعیت خاص آینده",
+        "htmlTag": 0,
+        "content": "If you eat too much sugar tonight, you will feel sick tomorrow.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: موقعیت خاص آینده",
+        "htmlTag": 0,
+        "content": "اینجا شرط به یک موقعیت مشخص در آینده مربوط است و نتیجه هم درباره فردا پیش‌بینی می‌شود. بنابراین first conditional لازم است.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "بعضی جمله‌ها از نظر واژگانی شبیه هم‌اند، اما با تغییر نگاه زمانی از zero به first conditional می‌رویم. تشخیص این زاویه زمانی یکی از کلیدهای مهم استفاده طبیعی از شرطی‌هاست.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If I am stressed, I usually listen to music.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال usually نشان می‌دهد جمله درباره یک عادت یا واکنش تکراری است، پس zero conditional مناسب‌تر است.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If I am stressed tonight, I will listen to music.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا همین ایده به یک موقعیت خاص در آینده محدود شده است، بنابراین جمله first conditional شده است.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

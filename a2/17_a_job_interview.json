@@ -1,0 +1,79 @@
+{
+    "title": "17 - A Second Job Interview",
+    "description": "مصاحبه شغلی درباره تجربه کاری و مهارت‌ها.",
+    "words": ["interview", "experience", "skills", "previous", "responsible", "team", "manage", "strength", "weakness", "salary", "available", "start", "position", "hire"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Thank you for coming. Please sit down.",
+            "translation": "ممنون که آمدید. لطفاً بنشینید."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Thank you for the opportunity.",
+            "translation": "ممنون بابت این فرصت."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Tell me about your previous experience.",
+            "translation": "درباره تجربه کاری قبلی‌تان بگویید."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I worked at a bank for three years.",
+            "translation": "سه سال در یک بانک کار کردم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "What were you responsible for?",
+            "translation": "مسئول چه کاری بودید؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I managed a small team of four people.",
+            "translation": "یک تیم کوچک چهار نفره را مدیریت می‌کردم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "What is your biggest strength?",
+            "translation": "بزرگ‌ترین نقطه قوت شما چیست؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I'm good at solving problems.",
+            "translation": "در حل مشکلات خوب هستم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "When can you start?",
+            "translation": "کی می‌توانید شروع کنید؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I'm available next month.",
+            "translation": "ماه آینده در دسترس هستم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Great. We will call you about the position.",
+            "translation": "عالی. درباره این موقعیت با شما تماس می‌گیریم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you. I look forward to your answer.",
+            "translation": "ممنون. منتظر پاسخ شما هستم."
+        }
+    ]
+}

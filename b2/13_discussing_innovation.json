@@ -1,0 +1,79 @@
+{
+    "title": "13 - Discussing Innovation",
+    "description": "دو حرفه‌ای درباره اهمیت نوآوری و ریسک‌پذیری در یک شرکت بحث می‌کنند.",
+    "words": ["innovation", "breakthrough", "experiment", "stagnate", "iterate", "disrupt", "embrace", "cautious", "creative", "implement", "obsolete", "foster", "edge", "adapt"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I think our company has stopped innovating.",
+            "translation": "فکر می‌کنم شرکت ما دیگر نوآوری نمی‌کند."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I've felt that too. We've grown too cautious.",
+            "translation": "من هم همین را حس کرده‌ام. خیلی محتاط شده‌ایم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "If we don't experiment, we'll stagnate.",
+            "translation": "اگر آزمایش نکنیم، راکد می‌مانیم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Exactly. The market evolves so quickly.",
+            "translation": "دقیقاً. بازار خیلی سریع تحول می‌یابد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "We need to embrace new ideas more.",
+            "translation": "باید ایده‌های جدید را بیشتر بپذیریم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "But leadership fears failure.",
+            "translation": "اما مدیریت از شکست می‌ترسد."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Failure is part of any breakthrough.",
+            "translation": "شکست بخشی از هر دستاورد بزرگ است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "We should iterate quickly and learn fast.",
+            "translation": "باید سریع تکرار کنیم و سریع یاد بگیریم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Otherwise our products will become obsolete.",
+            "translation": "وگرنه محصولاتمان منسوخ می‌شوند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "We have to foster a more creative culture.",
+            "translation": "باید فرهنگ خلاق‌تری را پرورش دهیم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That's how we'll keep our competitive edge.",
+            "translation": "اینطور مزیت رقابتی‌مان را حفظ می‌کنیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Let's pitch this idea to the board.",
+            "translation": "بیا این ایده را به هیئت‌مدیره ارائه کنیم."
+        }
+    ]
+}

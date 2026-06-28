@@ -1,0 +1,79 @@
+{
+    "title": "2 - Discussing a News Story",
+    "description": "دو دوست درباره یک خبر مهم که شنیده‌اند بحث می‌کنند.",
+    "words": ["news", "headline", "report", "happened", "believe", "opinion", "according", "government", "decision", "affect", "concerned", "article", "source", "discuss"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Have you seen the news this morning?",
+            "translation": "خبر امروز صبح را دیدی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Not yet. What happened?",
+            "translation": "هنوز نه. چه اتفاقی افتاد؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The government has made a new decision about taxes.",
+            "translation": "دولت تصمیم جدیدی درباره مالیات گرفته است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Really? How will it affect us?",
+            "translation": "واقعاً؟ چطور روی ما تأثیر می‌گذارد؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "According to the report, prices may rise.",
+            "translation": "طبق گزارش، ممکن است قیمت‌ها بالا برود."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "That's concerning. Where did you read it?",
+            "translation": "نگران‌کننده است. کجا خواندی‌اش؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "In an article from a reliable source.",
+            "translation": "در مقاله‌ای از یک منبع معتبر."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I'm not sure I believe everything I read.",
+            "translation": "مطمئن نیستم هر چیزی را که می‌خوانم باور کنم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "That's fair. We should check other sources too.",
+            "translation": "حق داری. باید منابع دیگر را هم بررسی کنیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "What's your opinion about it?",
+            "translation": "نظر تو درباره‌اش چیست؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I think people are right to be worried.",
+            "translation": "فکر می‌کنم مردم حق دارند نگران باشند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Let's discuss it more over lunch.",
+            "translation": "بیا سر ناهار بیشتر درباره‌اش صحبت کنیم."
+        }
+    ]
+}

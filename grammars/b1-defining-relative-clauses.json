@@ -1,0 +1,372 @@
+{
+  "grammar": {
+    "name": "Defining relative clauses",
+    "levelId": 3,
+    "order": 5,
+    "estimatedTimeMinutes": 8,
+    "description": "این درس defining relative clause را برای مشخص کردن دقیق شخص یا چیزی توضیح می‌دهد که بدون بخش موصولی معنی جمله ناقص یا مبهم می‌شود.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "relative clause تعریفی چیست",
+        "htmlTag": 1,
+        "content": "relative clause تعریفی چیست",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "relative clause تعریفی چیست",
+        "htmlTag": 0,
+        "content": "defining relative clause بخشی از جمله است که به ما کمک می‌کند دقیقا بفهمیم درباره کدام شخص یا چیز صحبت می‌کنیم. این clause اطلاعات ضروری می‌دهد؛ یعنی اگر آن را حذف کنیم، مرجع جمله نامشخص یا خیلی کلی می‌شود.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مشخص کردن شخص با who",
+        "htmlTag": 2,
+        "content": "کاربرد 1: مشخص کردن شخص با who",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مشخص کردن شخص با who",
+        "htmlTag": 0,
+        "content": "The woman who lives next door is a doctor.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مشخص کردن شخص با who",
+        "htmlTag": 0,
+        "content": "بخش who lives next door مشخص می‌کند منظور کدام woman است. بدون این بخش، جمله فقط از یک زن نامعلوم حرف می‌زند و اطلاعات کافی نمی‌دهد.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مشخص کردن چیز با that",
+        "htmlTag": 2,
+        "content": "کاربرد 2: مشخص کردن چیز با that",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مشخص کردن چیز با that",
+        "htmlTag": 0,
+        "content": "The phone that I bought last week is already broken.",
+        "order": 7,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مشخص کردن چیز با that",
+        "htmlTag": 0,
+        "content": "اینجا that I bought last week دقیق می‌گوید درباره کدام phone صحبت می‌کنیم. این relative clause هویت اسم را محدود و روشن می‌کند.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در defining clause معمولا ویرگول نمی‌گذاریم، چون این بخش جدا و اضافی نیست. این clause بخشی از هویت اسم است و حذف آن معنی جمله را به‌هم می‌زند.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Students who arrive late must wait outside.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال clause فقط درباره همه students نیست، بلکه گروه خاصی از دانش‌آموزان را مشخص می‌کند: آن‌هایی که دیر می‌رسند.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I like books that tell true stories.",
+        "order": 14,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا clause نوع کتاب‌های موردعلاقه گوینده را دقیق‌تر می‌کند و نشان می‌دهد هر کتابی منظور نیست.",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "استفاده از who، which و that",
+        "htmlTag": 1,
+        "content": "استفاده از who، which و that",
+        "order": 16,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "استفاده از who، which و that",
+        "htmlTag": 0,
+        "content": "انتخاب ضمیر موصولی به مرجع بستگی دارد. برای people معمولا از who، برای things از which، و در بسیاری از defining clauseها از that هم می‌توان استفاده کرد. دانستن این تفاوت کمک می‌کند جمله طبیعی‌تر ساخته شود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: who برای اشخاص",
+        "htmlTag": 2,
+        "content": "کاربرد 1: who برای اشخاص",
+        "order": 18,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: who برای اشخاص",
+        "htmlTag": 0,
+        "content": "The boy who won the race is my cousin.",
+        "order": 19,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: who برای اشخاص",
+        "htmlTag": 0,
+        "content": "در این جمله who به boy برمی‌گردد، چون مرجع یک شخص است. clause توضیح می‌دهد کدام boy منظور گوینده است.",
+        "order": 20,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: which برای چیزها",
+        "htmlTag": 2,
+        "content": "کاربرد 2: which برای چیزها",
+        "order": 21,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: which برای چیزها",
+        "htmlTag": 0,
+        "content": "The film which we saw yesterday was excellent.",
+        "order": 22,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: which برای چیزها",
+        "htmlTag": 0,
+        "content": "اینجا which به film اشاره می‌کند و اطلاعات ضروری درباره آن می‌دهد. این ساختار در نوشتار کمی رسمی‌تر از that به نظر می‌رسد.",
+        "order": 23,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 24,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "that در defining clause بسیار رایج است و می‌تواند جای who یا which را در خیلی از جمله‌ها بگیرد، اما after prepositionها یا در بعضی ساخت‌های رسمی، which و who روشن‌تر و طبیعی‌تر هستند.",
+        "order": 25,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 26,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The café that serves vegan food is always busy.",
+        "order": 27,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال that نوع کافه موردنظر را مشخص می‌کند. clause ضروری است، چون بدون آن معلوم نیست درباره کدام café حرف می‌زنیم.",
+        "order": 28,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "People who work from home often need a quiet room.",
+        "order": 29,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا who یک گروه خاص از مردم را تعریف می‌کند و جمله درباره همه people نیست.",
+        "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "حذف ضمیر موصولی و مرور",
+        "htmlTag": 1,
+        "content": "حذف ضمیر موصولی و مرور",
+        "order": 31,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "حذف ضمیر موصولی و مرور",
+        "htmlTag": 0,
+        "content": "در بعضی defining clauseها می‌توان relative pronoun را حذف کرد، اما فقط وقتی آن pronoun مفعولی باشد، نه فاعلی. این نکته به طبیعی‌تر شدن جمله کمک می‌کند، اما باید با دقت استفاده شود تا ساختار نادرست نشود.",
+        "order": 32,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حذف ضمیر در حالت مفعولی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: حذف ضمیر در حالت مفعولی",
+        "order": 33,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حذف ضمیر در حالت مفعولی",
+        "htmlTag": 0,
+        "content": "The jacket I bought online was too small.",
+        "order": 34,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حذف ضمیر در حالت مفعولی",
+        "htmlTag": 0,
+        "content": "در این جمله that را می‌توان حذف کرد، چون نقش آن مفعولِ bought است. با وجود حذف، معنی جمله همچنان روشن و طبیعی می‌ماند.",
+        "order": 35,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: نباید ضمیر فاعلی را حذف کرد",
+        "htmlTag": 2,
+        "content": "کاربرد 2: نباید ضمیر فاعلی را حذف کرد",
+        "order": 36,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: نباید ضمیر فاعلی را حذف کرد",
+        "htmlTag": 0,
+        "content": "The man who called you is waiting outside.",
+        "order": 37,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: نباید ضمیر فاعلی را حذف کرد",
+        "htmlTag": 0,
+        "content": "اینجا who فاعلِ called است، پس حذف آن درست نیست. اگر who را برداریم، clause از نظر ساختاری ناقص می‌شود.",
+        "order": 38,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 39,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "برای انتخاب درست، بهتر است اول نقش ضمیر را در clause تشخیص دهیم. اگر بعد از آن یک فاعل و فعل کامل می‌آید، احتمال زیادی هست که ضمیر مفعولی باشد و حذف آن ممکن شود.",
+        "order": 40,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 41,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The computer that we use at work is very old.",
+        "order": 42,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال that مفعولی است و می‌توان آن را حذف کرد، چون we فاعلِ use است. این نمونه تفاوت فاعلی و مفعولی بودن را خوب نشان می‌دهد.",
+        "order": 43,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The teacher who helps me after class is very patient.",
+        "order": 44,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا who فاعلِ helps است و clause هویت teacher را مشخص می‌کند. حذف who در این ساخت درست نیست.",
+        "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

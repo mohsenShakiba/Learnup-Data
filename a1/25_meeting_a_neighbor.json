@@ -1,0 +1,73 @@
+{
+    "title": "25 - Meeting a Neighbor",
+    "description": "آشنایی با همسایه جدید در ساختمان.",
+    "words": ["neighbor", "next", "door", "move", "floor", "quiet", "noise", "anything", "borrow", "key", "building", "coffee", "anytime", "glad"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, I'm Sara. I live next door.",
+            "translation": "سلام، من سارا هستم. همسایه بغلی شما."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Hello, Sara. I'm Mark. We just moved in.",
+            "translation": "سلام سارا. من مارک هستم. تازه اسباب‌کشی کردیم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Welcome to the building! Which floor are you on?",
+            "translation": "به ساختمان خوش آمدید! کدام طبقه هستید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "The third floor, right above you.",
+            "translation": "طبقه سوم، درست بالای شما."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "It's a nice, quiet building.",
+            "translation": "ساختمان خوب و آرامی است."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Good. We don't like noise.",
+            "translation": "خوب است. ما سر و صدا را دوست نداریم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "If you need anything, just ask.",
+            "translation": "اگر چیزی لازم داشتید، فقط بگویید."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Thank you. That's very kind.",
+            "translation": "ممنون. خیلی لطف دارید."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "You can borrow my spare key anytime.",
+            "translation": "هر وقت خواستید می‌توانید کلید یدکی‌ام را قرض بگیرید."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Maybe we can have coffee sometime.",
+            "translation": "شاید بتوانیم یک وقتی قهوه بخوریم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I'd love that. Glad to meet you, Mark.",
+            "translation": "خیلی دوست دارم. از آشنایی‌ات خوشحالم، مارک."
+        }
+    ]
+}

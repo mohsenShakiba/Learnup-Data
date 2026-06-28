@@ -1,0 +1,79 @@
+{
+    "title": "19 - Discussing Diet and Nutrition",
+    "description": "دو دوست درباره تغذیه سالم و تغییر عادت‌های غذایی صحبت می‌کنند.",
+    "words": ["diet", "nutrition", "protein", "processed", "portion", "balanced", "cut", "cravings", "energy", "habit", "vegetables", "gradually", "healthy", "benefit"],
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I'm trying to eat more healthily these days.",
+            "translation": "این روزها سعی می‌کنم سالم‌تر غذا بخورم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Good for you. Where did you start?",
+            "translation": "آفرین. از کجا شروع کردی؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I've cut down on processed food.",
+            "translation": "غذاهای فرآوری‌شده را کم کرده‌ام."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That's a big step. Is it difficult?",
+            "translation": "قدم بزرگی است. سخت است؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "The cravings were hard at first.",
+            "translation": "اوایل هوس کردن سخت بود."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Do you feel any different now?",
+            "translation": "حالا احساس متفاوتی داری؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yes, I have much more energy.",
+            "translation": "بله، انرژی خیلی بیشتری دارم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Are you eating enough protein?",
+            "translation": "پروتئین کافی می‌خوری؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I try to keep my meals balanced.",
+            "translation": "سعی می‌کنم وعده‌هایم متعادل باشند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Smaller portions help too.",
+            "translation": "وعده‌های کوچک‌تر هم کمک می‌کنند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Exactly. I'm changing my habits gradually.",
+            "translation": "دقیقاً. عادت‌هایم را به‌تدریج تغییر می‌دهم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That's the best way to see real benefits.",
+            "translation": "این بهترین راه برای دیدن فواید واقعی است."
+        }
+    ]
+}
