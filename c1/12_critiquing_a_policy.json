@@ -66,11 +66,35 @@
         {
             "order": 10,
             "person": 1,
+            "text": "Not only does the policy raise costs, but it also ignores small businesses.",
+            "translation": "این سیاست نه‌تنها هزینه‌ها را بالا می‌برد، بلکه کسب‌وکارهای کوچک را هم نادیده می‌گیرد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "The poor implementation of the policy caused widespread confusion.",
+            "translation": "اجرای ضعیف این سیاست باعث سردرگمی گسترده شد."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "That said, the intention behind it is sound.",
+            "translation": "با این حال، نیتِ پشت آن درست است."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "To sum up, the goal is right but the method is flawed.",
+            "translation": "در مجموع، هدف درست است اما روش ایراد دارد."
+        },
+        {
+            "order": 14,
+            "person": 1,
             "text": "So how would you make it viable?",
             "translation": "پس چطور آن را عملی می‌کنی؟"
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
             "text": "It needs phased implementation and clearer funding.",
             "translation": "به اجرای مرحله‌ای و تأمین مالی شفاف‌تر نیاز دارد."

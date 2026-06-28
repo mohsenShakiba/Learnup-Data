@@ -71,6 +71,12 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "If I had saved more when I was young, I would be more relaxed now.",
+            "translation": "اگر در جوانی بیشتر پس‌انداز کرده بودم، الان آرام‌تر بودم."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "Yes, contentment lives in the present moment.",
             "translation": "بله، رضایت در لحظه حال زندگی می‌کند."

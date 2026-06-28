@@ -71,6 +71,24 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "By the time I applied, they had already filled the position.",
+            "translation": "تا وقتی درخواست دادم، آن‌ها قبلاً آن موقعیت را پر کرده بودند."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "If I had known earlier, I would have made a different choice.",
+            "translation": "اگر زودتر می‌دانستم، تصمیم دیگری می‌گرفتم."
+        },
+        {
+            "order": 13,
+            "person": 1,
+            "text": "Next time I will have my application checked before I send it.",
+            "translation": "دفعه بعد قبل از فرستادن، درخواستم را می‌دهم بررسی کنند."
+        },
+        {
+            "order": 14,
             "person": 2,
             "text": "Exactly. The next opportunity will come.",
             "translation": "دقیقاً. فرصت بعدی خواهد آمد."

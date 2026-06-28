@@ -71,6 +71,12 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "If we had more time, we would test the idea first.",
+            "translation": "اگر زمان بیشتری داشتیم، اول ایده را آزمایش می‌کردیم."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "Let's present it to the stakeholders next week.",
             "translation": "بیا هفته آینده آن را به سهامداران ارائه کنیم."

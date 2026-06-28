@@ -72,6 +72,18 @@
         {
             "order": 11,
             "person": 2,
+            "text": "By next month we will have finished the prep, and on the day I will be coordinating the volunteers.",
+            "translation": "تا ماه بعد آماده‌سازی را تمام خواهیم کرد، و در روزِ برنامه من داوطلبان را هماهنگ خواهم کرد."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Our coordinator, who has run festivals before, will lead the team.",
+            "translation": "هماهنگ‌کننده ما، که قبلاً جشنواره برگزار کرده است، تیم را رهبری خواهد کرد."
+        },
+        {
+            "order": 13,
+            "person": 2,
             "text": "I'm confident it'll be a great success.",
             "translation": "مطمئنم موفقیت بزرگی خواهد بود."
         }

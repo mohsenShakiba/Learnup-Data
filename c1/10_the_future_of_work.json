@@ -71,6 +71,18 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "I expect a lot of change.",
+            "translation": "انتظار تغییر زیادی دارم."
+        },
+        {
+            "order": 12,
+            "person": 2,
+            "text": "So do I — and sooner than most people think.",
+            "translation": "من هم همینطور — و زودتر از آنچه بیشتر مردم فکر می‌کنند."
+        },
+        {
+            "order": 13,
             "person": 2,
             "text": "Adaptability will be the defining skill.",
             "translation": "سازگاری مهارت تعیین‌کننده خواهد بود."

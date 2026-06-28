@@ -71,6 +71,12 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "I have been feeling stressed for weeks.",
+            "translation": "چند هفته است که احساس استرس می‌کنم."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "Anytime. Don't hesitate to reach out.",
             "translation": "هر وقت خواستی. در تماس گرفتن تردید نکن."

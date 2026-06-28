@@ -72,6 +72,12 @@
         {
             "order": 11,
             "person": 2,
+            "text": "Faced with redundancy, I decided to retrain.",
+            "translation": "روبه‌رو با تعدیل نیرو، تصمیم گرفتم دوباره آموزش ببینم."
+        },
+        {
+            "order": 12,
+            "person": 2,
             "text": "Strangely, I'm grateful for the adversity.",
             "translation": "عجیب است، اما بابت آن سختی سپاسگزارم."
         }

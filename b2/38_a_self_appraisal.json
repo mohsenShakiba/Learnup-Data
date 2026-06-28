@@ -71,6 +71,12 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "You should have asked for feedback sooner.",
+            "translation": "باید زودتر بازخورد می‌خواستی."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "Reflection is how I keep growing.",
             "translation": "تأمل همان راهی است که با آن رشد می‌کنم."

@@ -71,6 +71,12 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "I always buy from a shop that has good reviews.",
+            "translation": "من همیشه از فروشگاهی خرید می‌کنم که نظرات خوبی دارد."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "Exactly. Just be careful where you buy.",
             "translation": "دقیقاً. فقط مراقب باش از کجا می‌خری."

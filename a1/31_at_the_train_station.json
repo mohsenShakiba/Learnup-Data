@@ -72,6 +72,12 @@
         {
             "order": 11,
             "person": 2,
+            "text": "There are two cafes near platform one.",
+            "translation": "دو کافه نزدیک سکوی یک هست."
+        },
+        {
+            "order": 12,
+            "person": 2,
             "text": "You can board in a few minutes. Have a good trip.",
             "translation": "تا چند دقیقه دیگر می‌توانید سوار شوید. سفر خوبی داشته باشید."
         }

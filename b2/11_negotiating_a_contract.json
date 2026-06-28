@@ -72,6 +72,18 @@
         {
             "order": 11,
             "person": 2,
+            "text": "The contract was reviewed last week, and the final version will be sent tomorrow.",
+            "translation": "قرارداد هفته گذشته بررسی شد، و نسخه نهایی فردا فرستاده خواهد شد."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "He said that they had reviewed our offer and would respond by Friday.",
+            "translation": "او گفت که پیشنهاد ما را بررسی کرده‌اند و تا جمعه پاسخ خواهند داد."
+        },
+        {
+            "order": 13,
+            "person": 2,
             "text": "Agreed. Let's finalize the details tomorrow.",
             "translation": "موافقم. بیایید جزئیات را فردا نهایی کنیم."
         }

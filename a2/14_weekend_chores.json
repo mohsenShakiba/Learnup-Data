@@ -71,6 +71,12 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "If it rains, we'll clean the garage instead.",
+            "translation": "اگر باران بیاید، در عوض گاراژ را تمیز می‌کنیم."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "That sounds perfect. Let's start.",
             "translation": "عالی به نظر می‌رسد. بیا شروع کنیم."

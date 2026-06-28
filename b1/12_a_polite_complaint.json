@@ -71,6 +71,18 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "The waiter said that the kitchen was busy.",
+            "translation": "پیشخدمت گفت که آشپزخانه شلوغ است."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "He told me that they would bring a new dish.",
+            "translation": "او به من گفت که یک غذای جدید می‌آورند."
+        },
+        {
+            "order": 13,
             "person": 2,
             "text": "To make up for it, your meal is free tonight.",
             "translation": "برای جبران، غذای شما امشب رایگان است."

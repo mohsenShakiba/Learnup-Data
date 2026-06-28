@@ -71,6 +71,12 @@
         },
         {
             "order": 11,
+            "person": 1,
+            "text": "It was the timing, not the idea, that worried me.",
+            "translation": "این زمان‌بندی بود، نه ایده، که مرا نگران می‌کرد."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "Let's draft a proposal the board can't ignore.",
             "translation": "بیا پیشنهادی تنظیم کنیم که هیئت‌مدیره نتواند نادیده‌اش بگیرد."
