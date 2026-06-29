@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Email and letter conventions",
+    "levelId": 4,
+    "order": 1,
+    "estimatedTimeMinutes": 9,
+    "description": "آغاز و پایان نامه و ایمیل رسمی و دوستانه.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "قواعد نامه و ایمیل",
+        "htmlTag": 1,
+        "content": "قواعد نامه و ایمیل",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "قواعد نامه و ایمیل",
+        "htmlTag": 0,
+        "content": "نامه‌ها و ایمیل‌های رسمی ساختار مشخصی دارند. انتخاب درست عبارت آغاز و پایان نشان می‌دهد که نامه رسمی است یا دوستانه و چقدر مودبانه نوشته شده است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: آغاز نامه",
+        "htmlTag": 2,
+        "content": "کاربرد 1: آغاز نامه",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: آغاز نامه",
+        "htmlTag": 0,
+        "content": "Dear Mr Johnson,",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: آغاز نامه",
+        "htmlTag": 0,
+        "content": "Dear با نام خانوادگی شروع رسمی است. وقتی نام گیرنده را نمی‌دانیم از Dear Sir or Madam استفاده می‌کنیم.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: آغاز نامه",
+        "htmlTag": 0,
+        "content": "Hi Sarah,",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: آغاز نامه",
+        "htmlTag": 0,
+        "content": "Hi با نام کوچک یک شروع دوستانه و غیررسمی برای ایمیل میان آشنایان است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پایان نامه",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پایان نامه",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پایان نامه",
+        "htmlTag": 0,
+        "content": "Yours sincerely, John Smith",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پایان نامه",
+        "htmlTag": 0,
+        "content": "Yours sincerely وقتی به کار می‌رود که نامه را با نام گیرنده شروع کرده باشیم. این پایان رسمی است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پایان نامه",
+        "htmlTag": 0,
+        "content": "Best regards, Anna",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پایان نامه",
+        "htmlTag": 0,
+        "content": "Best regards یک پایان نیمه‌رسمی و رایج برای ایمیل‌های کاری است.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "اگر نامه را با Dear Sir or Madam آغاز کردیم، با Yours faithfully پایان می‌دهیم؛ اگر با نام شخص شروع کردیم، Yours sincerely مناسب است.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I am writing to ask about the job.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این جمله یک شروع رسمی برای بیان هدف نامه است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Looking forward to hearing from you.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این عبارت پیش از پایان نامه، انتظار مودبانه برای دریافت پاسخ را نشان می‌دهد.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

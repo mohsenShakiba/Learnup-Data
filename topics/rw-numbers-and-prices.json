@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Numbers and prices",
+    "levelId": 1,
+    "order": 10,
+    "estimatedTimeMinutes": 8,
+    "description": "خواندن اعداد، قیمت‌ها و مبلغ‌ها با صدای بلند.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "اعداد و قیمت‌ها",
+        "htmlTag": 1,
+        "content": "اعداد و قیمت‌ها",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "اعداد و قیمت‌ها",
+        "htmlTag": 0,
+        "content": "خواندن درست اعداد و قیمت‌ها در خرید و گفتگوهای روزمره بسیار کاربردی است. شیوه گفتن قیمت کمی با نوشتن آن فرق دارد و باید الگوی آن را یاد گرفت.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد بزرگ",
+        "htmlTag": 2,
+        "content": "کاربرد 1: اعداد بزرگ",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد بزرگ",
+        "htmlTag": 0,
+        "content": "There are two hundred students.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد بزرگ",
+        "htmlTag": 0,
+        "content": "در انگلیسی hundred در حالت عدد بزرگ s نمی‌گیرد، پس می‌گوییم two hundred نه two hundreds.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد بزرگ",
+        "htmlTag": 0,
+        "content": "The book costs one thousand tomans.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد بزرگ",
+        "htmlTag": 0,
+        "content": "thousand هم مثل hundred وقتی با عدد می‌آید جمع بسته نمی‌شود.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قیمت‌ها",
+        "htmlTag": 2,
+        "content": "کاربرد 2: قیمت‌ها",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قیمت‌ها",
+        "htmlTag": 0,
+        "content": "It's twenty dollars.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قیمت‌ها",
+        "htmlTag": 0,
+        "content": "برای گفتن قیمت، عدد را پیش از واحد پول می‌گوییم. علامت پول معمولا خوانده نمی‌شود بلکه نام واحد گفته می‌شود.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قیمت‌ها",
+        "htmlTag": 0,
+        "content": "That will be fifteen fifty.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قیمت‌ها",
+        "htmlTag": 0,
+        "content": "fifteen fifty یعنی پانزده و پنجاه سنت؛ در گفتار قیمت‌ها اغلب به همین شکل کوتاه خوانده می‌شوند.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "hundred، thousand و million وقتی با یک عدد مشخص می‌آیند s نمی‌گیرند، اما در عبارت‌هایی مثل hundreds of people که عدد دقیق ندارند، s می‌گیرند.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "How much is this?",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این رایج‌ترین سوال برای پرسیدن قیمت یک چیز است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It's about fifty euros.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "about پیش از عدد یعنی «حدودا» و قیمت تقریبی را نشان می‌دهد.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

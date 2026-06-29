@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Telling the time",
+    "levelId": 1,
+    "order": 12,
+    "estimatedTimeMinutes": 8,
+    "description": "گفتن ساعت با o'clock، past و to.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "گفتن ساعت",
+        "htmlTag": 1,
+        "content": "گفتن ساعت",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "گفتن ساعت",
+        "htmlTag": 0,
+        "content": "برای گفتن ساعت در انگلیسی چند الگوی رایج وجود دارد. می‌توان عدد ساعت و دقیقه را مستقیم گفت یا از کلمه‌های past و to برای بیان دقیقه‌ها استفاده کرد.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ساعت‌های کامل و past",
+        "htmlTag": 2,
+        "content": "کاربرد 1: ساعت‌های کامل و past",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ساعت‌های کامل و past",
+        "htmlTag": 0,
+        "content": "It's three o'clock.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ساعت‌های کامل و past",
+        "htmlTag": 0,
+        "content": "o'clock فقط برای ساعت‌های کامل و بدون دقیقه به کار می‌رود.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ساعت‌های کامل و past",
+        "htmlTag": 0,
+        "content": "It's ten past four.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ساعت‌های کامل و past",
+        "htmlTag": 0,
+        "content": "past یعنی «گذشته از»؛ پس ten past four یعنی چهار و ده دقیقه.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: to و نیم‌ساعت",
+        "htmlTag": 2,
+        "content": "کاربرد 2: to و نیم‌ساعت",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: to و نیم‌ساعت",
+        "htmlTag": 0,
+        "content": "It's quarter to nine.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: to و نیم‌ساعت",
+        "htmlTag": 0,
+        "content": "to یعنی «مانده به»؛ quarter to nine یعنی یک ربع به نه، یا هشت و چهل‌وپنج دقیقه.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: to و نیم‌ساعت",
+        "htmlTag": 0,
+        "content": "It's half past six.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: to و نیم‌ساعت",
+        "htmlTag": 0,
+        "content": "half past six یعنی شش و نیم. half past برای دقیقه سی به کار می‌رود.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "از ابتدای ساعت تا دقیقه سی از past استفاده می‌کنیم و بعد از آن از to برای ساعت بعدی. در گفتار روزمره می‌توان ساده گفت: it's six thirty.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What time is it?",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این رایج‌ترین سوال برای پرسیدن ساعت است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The train leaves at noon.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "noon یعنی ظهر یا ساعت دوازده روز و midnight یعنی نیمه‌شب.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

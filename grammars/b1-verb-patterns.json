@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Verb patterns",
     "levelId": 3,
-    "order": 9,
+    "order": 8,
     "estimatedTimeMinutes": 8,
     "description": "الگوهای فعل: infinitive یا gerund بعد از فعل‌ها.",
     "parentGrammarId": 0,

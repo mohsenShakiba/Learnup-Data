@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Indirect questions",
+    "levelId": 3,
+    "order": 14,
+    "estimatedTimeMinutes": 8,
+    "description": "سوال‌های غیرمستقیم مودبانه با ترتیب جمله خبری.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "سوال غیرمستقیم",
+        "htmlTag": 1,
+        "content": "سوال غیرمستقیم",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سوال غیرمستقیم",
+        "htmlTag": 0,
+        "content": "سوال غیرمستقیم راهی مودبانه‌تر برای پرسیدن است که با عبارت‌هایی مثل Could you tell me یا Do you know شروع می‌شود. نکته کلیدی این است که ترتیب کلمات بعد از آن مثل جمله خبری می‌شود.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر ترتیب کلمات",
+        "htmlTag": 2,
+        "content": "کاربرد 1: تغییر ترتیب کلمات",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر ترتیب کلمات",
+        "htmlTag": 0,
+        "content": "Do you know where the station is?",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر ترتیب کلمات",
+        "htmlTag": 0,
+        "content": "در سوال مستقیم می‌گفتیم where is the station، اما در سوال غیرمستقیم فعل is بعد از فاعل می‌آید، مثل جمله خبری.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر ترتیب کلمات",
+        "htmlTag": 0,
+        "content": "Could you tell me what time it is?",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: تغییر ترتیب کلمات",
+        "htmlTag": 0,
+        "content": "اینجا هم بعد از what از ترتیب خبری it is استفاده شده، نه is it.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال بله یا خیر با if",
+        "htmlTag": 2,
+        "content": "کاربرد 2: سوال بله یا خیر با if",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال بله یا خیر با if",
+        "htmlTag": 0,
+        "content": "Do you know if the shop is open?",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال بله یا خیر با if",
+        "htmlTag": 0,
+        "content": "وقتی سوال اصلی بله یا خیر است، از if یا whether استفاده می‌کنیم و سپس ترتیب خبری می‌آید.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال بله یا خیر با if",
+        "htmlTag": 0,
+        "content": "I wonder if she will come.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال بله یا خیر با if",
+        "htmlTag": 0,
+        "content": "if جمله را به سوال غیرمستقیم تبدیل کرده و فعل به شکل خبری مانده است.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در سوال غیرمستقیم از do و does کمکی استفاده نمی‌کنیم: Do you know where he lives، نه where does he live. این مهم‌ترین تفاوت با سوال مستقیم است.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Can you tell me how this works?",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بعد از how از ترتیب خبری this works استفاده شده است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I'd like to know why he left.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بعد از why ترتیب خبری he left آمده، نه did he leave.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

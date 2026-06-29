@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Days, months and seasons",
+    "levelId": 1,
+    "order": 11,
+    "estimatedTimeMinutes": 7,
+    "description": "روزها، ماه‌ها و فصل‌ها و حرف اضافه درست آن‌ها.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "روزها، ماه‌ها و فصل‌ها",
+        "htmlTag": 1,
+        "content": "روزها، ماه‌ها و فصل‌ها",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "روزها، ماه‌ها و فصل‌ها",
+        "htmlTag": 0,
+        "content": "نام روزها، ماه‌ها و فصل‌ها در انگلیسی با حرف بزرگ نوشته می‌شوند و هرکدام حرف اضافه مخصوص خود را دارند. دانستن این الگوها برای گفتن تاریخ و برنامه‌ها لازم است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: روزها با on",
+        "htmlTag": 2,
+        "content": "کاربرد 1: روزها با on",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: روزها با on",
+        "htmlTag": 0,
+        "content": "I have a class on Monday.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: روزها با on",
+        "htmlTag": 0,
+        "content": "با روزهای هفته از on استفاده می‌کنیم. نام روزها همیشه با حرف بزرگ نوشته می‌شوند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: روزها با on",
+        "htmlTag": 0,
+        "content": "We rest on Friday.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: روزها با on",
+        "htmlTag": 0,
+        "content": "on Friday یعنی در روز جمعه. این حرف اضافه برای همه روزهای هفته یکسان است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ماه‌ها و فصل‌ها با in",
+        "htmlTag": 2,
+        "content": "کاربرد 2: ماه‌ها و فصل‌ها با in",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ماه‌ها و فصل‌ها با in",
+        "htmlTag": 0,
+        "content": "My holiday is in July.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ماه‌ها و فصل‌ها با in",
+        "htmlTag": 0,
+        "content": "با ماه‌ها از in استفاده می‌کنیم. نام ماه‌ها هم با حرف بزرگ نوشته می‌شوند.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ماه‌ها و فصل‌ها با in",
+        "htmlTag": 0,
+        "content": "It snows in winter.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: ماه‌ها و فصل‌ها با in",
+        "htmlTag": 0,
+        "content": "با فصل‌ها هم از in استفاده می‌کنیم، پس in winter درست است.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "قانون ساده: on برای روزها، in برای ماه‌ها و فصل‌ها. بر خلاف فارسی، در انگلیسی روزها و ماه‌ها همیشه با حرف بزرگ شروع می‌شوند.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "School starts in September.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "in با ماه September به کار رفته است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "See you on Sunday.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "on با روز Sunday درست است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

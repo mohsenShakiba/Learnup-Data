@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Cleft and pseudo-cleft sentences",
     "levelId": 5,
-    "order": 3,
+    "order": 6,
     "estimatedTimeMinutes": 8,
     "description": "جمله‌های شکافته برای تاکید روی بخشی از جمله.",
     "parentGrammarId": 0,

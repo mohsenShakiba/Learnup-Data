@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Forms of address",
+    "levelId": 1,
+    "order": 7,
+    "estimatedTimeMinutes": 8,
+    "description": "خطاب کردن افراد با عنوان‌هایی مثل Mr و Ms.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "خطاب کردن افراد",
+        "htmlTag": 1,
+        "content": "خطاب کردن افراد",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "خطاب کردن افراد",
+        "htmlTag": 0,
+        "content": "در انگلیسی برای خطاب رسمی به افراد از عنوان‌هایی مثل Mr، Mrs، Ms و Miss پیش از نام خانوادگی استفاده می‌کنیم. انتخاب درست عنوان نشانه ادب و احترام است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عنوان‌ها برای مردان و زنان",
+        "htmlTag": 2,
+        "content": "کاربرد 1: عنوان‌ها برای مردان و زنان",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عنوان‌ها برای مردان و زنان",
+        "htmlTag": 0,
+        "content": "Good morning, Mr Brown.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عنوان‌ها برای مردان و زنان",
+        "htmlTag": 0,
+        "content": "Mr برای همه مردان بدون توجه به وضعیت تاهل به کار می‌رود و پیش از نام خانوادگی می‌آید.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عنوان‌ها برای مردان و زنان",
+        "htmlTag": 0,
+        "content": "This is Ms Carter.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عنوان‌ها برای مردان و زنان",
+        "htmlTag": 0,
+        "content": "Ms برای زنان به کار می‌رود وقتی نمی‌خواهیم یا نمی‌دانیم که او مجرد است یا متاهل. این امروزه رایج‌ترین و امن‌ترین انتخاب است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: Mrs و Miss",
+        "htmlTag": 2,
+        "content": "کاربرد 2: Mrs و Miss",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: Mrs و Miss",
+        "htmlTag": 0,
+        "content": "Mrs Smith is my teacher.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: Mrs و Miss",
+        "htmlTag": 0,
+        "content": "Mrs برای زن متاهل به کار می‌رود. اگر مطمئن نیستید، بهتر است از Ms استفاده کنید.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: Mrs و Miss",
+        "htmlTag": 0,
+        "content": "Excuse me, Miss.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: Mrs و Miss",
+        "htmlTag": 0,
+        "content": "Miss برای زن مجرد یا دختر جوان است و گاهی به‌تنهایی برای خطاب مودبانه به کار می‌رود.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "این عنوان‌ها با نام خانوادگی می‌آیند، نه نام کوچک؛ پس می‌گوییم Mr Brown نه Mr John. برای موقعیت‌های بسیار رسمی یا ناشناس از Sir و Madam استفاده می‌کنیم.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Can I help you, sir?",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "sir برای خطاب رسمی و مودبانه به یک مرد بدون دانستن نام او به کار می‌رود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Thank you, Dr Lee.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "برای پزشکان و دارندگان دکترا از عنوان Dr پیش از نام خانوادگی استفاده می‌کنیم.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

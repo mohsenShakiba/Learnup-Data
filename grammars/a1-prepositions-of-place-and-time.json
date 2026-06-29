@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Prepositions of place and time",
+    "levelId": 1,
+    "order": 10,
+    "estimatedTimeMinutes": 9,
+    "description": "حروف اضافه in، on و at برای مکان و زمان.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "حروف اضافه مکان و زمان",
+        "htmlTag": 1,
+        "content": "حروف اضافه مکان و زمان",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "حروف اضافه مکان و زمان",
+        "htmlTag": 0,
+        "content": "سه حرف اضافه پرکاربرد in، on و at هم برای مکان و هم برای زمان استفاده می‌شوند. انتخاب درست آن‌ها به این بستگی دارد که درباره یک نقطه صحبت می‌کنیم یا یک سطح یا یک فضای بزرگ‌تر.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مکان با in، on، at",
+        "htmlTag": 2,
+        "content": "کاربرد 1: مکان با in، on، at",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مکان با in، on، at",
+        "htmlTag": 0,
+        "content": "The keys are on the table.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مکان با in، on، at",
+        "htmlTag": 0,
+        "content": "on برای چیزی است که روی یک سطح قرار دارد. in برای داخل یک فضا و at برای یک نقطه مشخص به کار می‌رود.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مکان با in، on، at",
+        "htmlTag": 0,
+        "content": "She is in the kitchen.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مکان با in، on، at",
+        "htmlTag": 0,
+        "content": "in نشان می‌دهد شخص داخل یک فضای بسته است. این کاربرد رایج‌ترین معنای in برای مکان است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: زمان با in، on، at",
+        "htmlTag": 2,
+        "content": "کاربرد 2: زمان با in، on، at",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: زمان با in، on، at",
+        "htmlTag": 0,
+        "content": "The meeting is at three o'clock.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: زمان با in، on، at",
+        "htmlTag": 0,
+        "content": "at برای ساعت دقیق استفاده می‌شود. on برای روزها و in برای ماه‌ها و سال‌ها به کار می‌رود.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: زمان با in، on، at",
+        "htmlTag": 0,
+        "content": "My birthday is in June.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: زمان با in، on، at",
+        "htmlTag": 0,
+        "content": "in با ماه‌ها، فصل‌ها و سال‌ها می‌آید. برای روز مشخص از on استفاده می‌کنیم.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "یک راه ساده برای یادسپاری: at برای نقطه (ساعت، آدرس دقیق)، on برای سطح یا روز، و in برای فضای بزرگ یا دوره زمانی طولانی‌تر.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We meet on Monday.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "on با روزهای هفته می‌آید. به همین دلیل برای Monday درست است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He is at the bus stop.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "at برای یک نقطه مشخص مثل ایستگاه اتوبوس مناسب است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

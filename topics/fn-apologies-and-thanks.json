@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Apologies and thanks",
+    "levelId": 1,
+    "order": 9,
+    "estimatedTimeMinutes": 7,
+    "description": "عذرخواهی و تشکر در موقعیت‌های مختلف.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "عذرخواهی و تشکر",
+        "htmlTag": 1,
+        "content": "عذرخواهی و تشکر",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "عذرخواهی و تشکر",
+        "htmlTag": 0,
+        "content": "عذرخواهی و تشکر بخش مهمی از ادب در گفتگو هستند. عبارت‌های مختلف بسته به جدی بودن موقعیت و میزان رسمی بودن آن انتخاب می‌شوند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عذرخواهی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: عذرخواهی",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عذرخواهی",
+        "htmlTag": 0,
+        "content": "I'm sorry I'm late.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عذرخواهی",
+        "htmlTag": 0,
+        "content": "I'm sorry برای عذرخواهی بابت یک اشتباه یا ناراحتی به کار می‌رود.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عذرخواهی",
+        "htmlTag": 0,
+        "content": "Excuse me, can I get past?",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عذرخواهی",
+        "htmlTag": 0,
+        "content": "Excuse me برای جلب توجه یا رد شدن از کنار کسی است، نه برای عذرخواهی بابت خطا. این تفاوت مهمی با sorry دارد.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تشکر و پاسخ",
+        "htmlTag": 2,
+        "content": "کاربرد 2: تشکر و پاسخ",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تشکر و پاسخ",
+        "htmlTag": 0,
+        "content": "Thank you very much.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تشکر و پاسخ",
+        "htmlTag": 0,
+        "content": "Thank you very much یک تشکر گرم و کمی رسمی است. در موقعیت دوستانه Thanks کافی است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تشکر و پاسخ",
+        "htmlTag": 0,
+        "content": "You're welcome.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تشکر و پاسخ",
+        "htmlTag": 0,
+        "content": "You're welcome پاسخ رایج به تشکر است و یعنی خواهش می‌کنم.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "Excuse me پیش از مزاحمت یا سوال به کار می‌رود، اما Sorry بعد از خطا یا برای همدردی. این دو را نباید با هم اشتباه گرفت.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I apologize for the delay.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I apologize رسمی‌تر از I'm sorry است و در نامه و محیط کار مناسب است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Thanks a lot for your help.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Thanks a lot یک تشکر دوستانه و صمیمی است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

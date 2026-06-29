@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Ellipsis and substitution",
     "levelId": 5,
-    "order": 4,
+    "order": 8,
     "estimatedTimeMinutes": 8,
     "description": "حذف و جایگزینی برای جمله‌های فشرده‌تر.",
     "parentGrammarId": 0,

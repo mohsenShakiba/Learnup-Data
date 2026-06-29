@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Pronouncing -ed endings",
+    "levelId": 2,
+    "order": 13,
+    "estimatedTimeMinutes": 7,
+    "description": "سه تلفظ مختلف پایانه ed در فعل‌های گذشته.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "تلفظ پایانه ed",
+        "htmlTag": 1,
+        "content": "تلفظ پایانه ed",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تلفظ پایانه ed",
+        "htmlTag": 0,
+        "content": "پایانه ed در فعل‌های باقاعده گذشته همیشه یکسان تلفظ نمی‌شود. سه تلفظ وجود دارد و انتخاب آن به صدای پایانی فعل اصلی بستگی دارد، نه به نوشتار.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای t و d",
+        "htmlTag": 2,
+        "content": "کاربرد 1: صدای t و d",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای t و d",
+        "htmlTag": 0,
+        "content": "worked, helped, asked",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای t و d",
+        "htmlTag": 0,
+        "content": "اگر فعل با صدای بی‌واک مثل k یا p تمام شود، ed مثل t تلفظ می‌شود، پس worked شبیه workt شنیده می‌شود.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای t و d",
+        "htmlTag": 0,
+        "content": "played, lived, called",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای t و d",
+        "htmlTag": 0,
+        "content": "اگر فعل با صدای واک‌دار یا حرف صدادار تمام شود، ed مثل d تلفظ می‌شود.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای id",
+        "htmlTag": 2,
+        "content": "کاربرد 2: صدای id",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای id",
+        "htmlTag": 0,
+        "content": "wanted, needed, started",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای id",
+        "htmlTag": 0,
+        "content": "فقط وقتی فعل با صدای t یا d تمام شود، ed یک هجای جدا با صدای id می‌سازد، مثل wanted که دو هجا دارد.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای id",
+        "htmlTag": 0,
+        "content": "decided, visited",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای id",
+        "htmlTag": 0,
+        "content": "چون decide با صدای d تمام می‌شود، ed به‌صورت id و یک هجای اضافه تلفظ می‌شود.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "فقط فعل‌هایی که با t یا d تمام می‌شوند یک هجای اضافه می‌گیرند. بقیه فعل‌ها هجای تازه نمی‌گیرند، پس worked هنوز یک هجاست.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "stopped sounds like 'stopt'",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "چون stop با صدای p تمام می‌شود، ed مثل t تلفظ می‌شود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "ended has two syllables",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "end با صدای d تمام می‌شود، پس ended دو هجا با صدای id دارد.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Nominalization",
     "levelId": 5,
-    "order": 7,
+    "order": 4,
     "estimatedTimeMinutes": 8,
     "description": "اسم‌سازی برای نوشتار رسمی و تحلیلی.",
     "parentGrammarId": 0,

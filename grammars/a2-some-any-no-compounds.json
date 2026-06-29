@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Some, any and no compounds",
+    "levelId": 2,
+    "order": 11,
+    "estimatedTimeMinutes": 7,
+    "description": "ترکیب‌هایی مثل something، anywhere و nobody.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "ترکیب‌های some، any و no",
+        "htmlTag": 1,
+        "content": "ترکیب‌های some، any و no",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ترکیب‌های some، any و no",
+        "htmlTag": 0,
+        "content": "از some، any و no می‌توان ترکیب‌هایی با thing، one، body و where ساخت. این کلمه‌ها به چیز، شخص یا مکان نامشخص اشاره می‌کنند و قاعده آن‌ها شبیه some و any است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some-ترکیب‌ها در جمله مثبت",
+        "htmlTag": 2,
+        "content": "کاربرد 1: some-ترکیب‌ها در جمله مثبت",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some-ترکیب‌ها در جمله مثبت",
+        "htmlTag": 0,
+        "content": "There is something on the table.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some-ترکیب‌ها در جمله مثبت",
+        "htmlTag": 0,
+        "content": "something در جمله مثبت به کار می‌رود و به یک چیز نامشخص اشاره دارد.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some-ترکیب‌ها در جمله مثبت",
+        "htmlTag": 0,
+        "content": "Someone is at the door.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: some-ترکیب‌ها در جمله مثبت",
+        "htmlTag": 0,
+        "content": "someone به یک شخص نامشخص اشاره دارد و در جمله مثبت رایج است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any-ترکیب‌ها در منفی و سوال",
+        "htmlTag": 2,
+        "content": "کاربرد 2: any-ترکیب‌ها در منفی و سوال",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any-ترکیب‌ها در منفی و سوال",
+        "htmlTag": 0,
+        "content": "I can't find anything.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any-ترکیب‌ها در منفی و سوال",
+        "htmlTag": 0,
+        "content": "anything در جمله منفی و سوالی به کار می‌رود. اینجا یعنی هیچ چیزی پیدا نمی‌کنم.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any-ترکیب‌ها در منفی و سوال",
+        "htmlTag": 0,
+        "content": "Is there anyone here?",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: any-ترکیب‌ها در منفی و سوال",
+        "htmlTag": 0,
+        "content": "anyone در سوال‌ها استفاده می‌شود و به یک شخص نامشخص اشاره دارد.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "no-ترکیب‌ها مثل nothing و nobody خودشان معنای منفی دارند، پس فعل جمله باید مثبت بماند: I saw nobody، نه I didn't see nobody.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Let's go somewhere quiet.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "somewhere به یک مکان نامشخص در جمله مثبت اشاره دارد.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Nobody answered the phone.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "nobody معنای منفی دارد، پس فعل answered مثبت مانده است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Past continuous",
     "levelId": 3,
-    "order": 3,
+    "order": 1,
     "estimatedTimeMinutes": 8,
     "description": "زمان گذشته استمراری برای کار در حال انجام در گذشته.",
     "parentGrammarId": 0,

@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Advanced inversion",
     "levelId": 5,
-    "order": 2,
+    "order": 7,
     "estimatedTimeMinutes": 8,
     "description": "وارونگی پیشرفته برای تاکید و رسمیت.",
     "parentGrammarId": 0,

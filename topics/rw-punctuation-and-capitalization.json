@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Punctuation and capitalization",
+    "levelId": 2,
+    "order": 7,
+    "estimatedTimeMinutes": 8,
+    "description": "قواعد پایه نقطه‌گذاری و حرف بزرگ در نوشتار.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "نقطه‌گذاری و حرف بزرگ",
+        "htmlTag": 1,
+        "content": "نقطه‌گذاری و حرف بزرگ",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نقطه‌گذاری و حرف بزرگ",
+        "htmlTag": 0,
+        "content": "نوشتار درست انگلیسی قواعد مشخصی برای نقطه‌گذاری و استفاده از حرف بزرگ دارد. رعایت این قواعد متن را خواناتر و حرفه‌ای‌تر می‌کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حرف بزرگ",
+        "htmlTag": 2,
+        "content": "کاربرد 1: حرف بزرگ",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حرف بزرگ",
+        "htmlTag": 0,
+        "content": "My friend John lives in London.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حرف بزرگ",
+        "htmlTag": 0,
+        "content": "حرف اول جمله، نام اشخاص و نام مکان‌ها همیشه با حرف بزرگ نوشته می‌شوند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حرف بزرگ",
+        "htmlTag": 0,
+        "content": "We met on Monday in May.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: حرف بزرگ",
+        "htmlTag": 0,
+        "content": "نام روزها و ماه‌ها هم با حرف بزرگ شروع می‌شوند، بر خلاف فصل‌ها که معمولا حرف کوچک دارند.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علامت‌های پایان جمله",
+        "htmlTag": 2,
+        "content": "کاربرد 2: علامت‌های پایان جمله",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علامت‌های پایان جمله",
+        "htmlTag": 0,
+        "content": "Where do you live?",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علامت‌های پایان جمله",
+        "htmlTag": 0,
+        "content": "جمله پرسشی با علامت سوال پایان می‌یابد. جمله خبری با نقطه و جمله با احساس قوی با علامت تعجب.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علامت‌های پایان جمله",
+        "htmlTag": 0,
+        "content": "Watch out!",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: علامت‌های پایان جمله",
+        "htmlTag": 0,
+        "content": "علامت تعجب برای هشدار یا احساس قوی به کار می‌رود، اما نباید زیاد استفاده شود.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "ضمیر I همیشه با حرف بزرگ نوشته می‌شود، حتی در وسط جمله. این یکی از تفاوت‌های مهم نوشتار انگلیسی است.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She speaks English and French.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "نام زبان‌ها و ملیت‌ها هم با حرف بزرگ نوشته می‌شوند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I think it's a good idea.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "ضمیر I با حرف بزرگ آمده و جمله با نقطه پایان یافته است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Greetings and farewells",
+    "levelId": 1,
+    "order": 8,
+    "estimatedTimeMinutes": 7,
+    "description": "سلام و خداحافظی در موقعیت‌های رسمی و دوستانه.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "سلام و خداحافظی",
+        "htmlTag": 1,
+        "content": "سلام و خداحافظی",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سلام و خداحافظی",
+        "htmlTag": 0,
+        "content": "انتخاب عبارت سلام و خداحافظی به موقعیت بستگی دارد. برخی عبارت‌ها رسمی هستند و برخی دوستانه، و استفاده درست از آن‌ها لحن گفتگو را مشخص می‌کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: سلام رسمی و دوستانه",
+        "htmlTag": 2,
+        "content": "کاربرد 1: سلام رسمی و دوستانه",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: سلام رسمی و دوستانه",
+        "htmlTag": 0,
+        "content": "Good morning. How are you?",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: سلام رسمی و دوستانه",
+        "htmlTag": 0,
+        "content": "Good morning یک سلام رسمی و مودبانه است که در محیط کار و موقعیت‌های جدی مناسب است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: سلام رسمی و دوستانه",
+        "htmlTag": 0,
+        "content": "Hi! How's it going?",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: سلام رسمی و دوستانه",
+        "htmlTag": 0,
+        "content": "Hi و How's it going دوستانه و غیررسمی هستند و میان دوستان به کار می‌روند.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: خداحافظی",
+        "htmlTag": 2,
+        "content": "کاربرد 2: خداحافظی",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: خداحافظی",
+        "htmlTag": 0,
+        "content": "Goodbye. Have a nice day.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: خداحافظی",
+        "htmlTag": 0,
+        "content": "Goodbye رسمی‌تر است و Have a nice day یک پایان مودبانه برای گفتگو فراهم می‌کند.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: خداحافظی",
+        "htmlTag": 0,
+        "content": "See you later!",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: خداحافظی",
+        "htmlTag": 0,
+        "content": "See you later دوستانه است و یعنی به‌زودی دوباره می‌بینمت.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در موقعیت رسمی از Good morning و Goodbye استفاده کنید و در موقعیت دوستانه از Hi و Bye. هماهنگی لحن سلام و خداحافظی با کل گفتگو مهم است.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Nice to meet you.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این عبارت هنگام آشنایی برای اولین بار به کار می‌رود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Take care!",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Take care یک خداحافظی گرم و دوستانه است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

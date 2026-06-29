@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Agreeing and disagreeing",
+    "levelId": 3,
+    "order": 4,
+    "estimatedTimeMinutes": 8,
+    "description": "موافقت و مخالفت مودبانه در گفتگو و بحث.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "موافقت و مخالفت",
+        "htmlTag": 1,
+        "content": "موافقت و مخالفت",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "موافقت و مخالفت",
+        "htmlTag": 0,
+        "content": "در بحث‌ها بیان موافقت یا مخالفت به شکل مودبانه اهمیت زیادی دارد. عبارت‌های نرم به ما کمک می‌کنند بدون ایجاد تنش نظر مخالف خود را بگوییم.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: موافقت",
+        "htmlTag": 2,
+        "content": "کاربرد 1: موافقت",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: موافقت",
+        "htmlTag": 0,
+        "content": "I completely agree with you.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: موافقت",
+        "htmlTag": 0,
+        "content": "این عبارت موافقت کامل را نشان می‌دهد و در گفتگوهای رسمی و دوستانه هر دو کاربرد دارد.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: موافقت",
+        "htmlTag": 0,
+        "content": "That's a good point.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: موافقت",
+        "htmlTag": 0,
+        "content": "این جمله نشان می‌دهد نظر طرف مقابل را تایید می‌کنیم، حتی اگر کامل با آن موافق نباشیم.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت مودبانه",
+        "htmlTag": 2,
+        "content": "کاربرد 2: مخالفت مودبانه",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت مودبانه",
+        "htmlTag": 0,
+        "content": "I see your point, but I disagree.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت مودبانه",
+        "htmlTag": 0,
+        "content": "شروع با I see your point لحن را نرم می‌کند و سپس مخالفت را بیان می‌کنیم. این راه مودبانه‌ای برای مخالفت است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت مودبانه",
+        "htmlTag": 0,
+        "content": "I'm not sure I agree with that.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مخالفت مودبانه",
+        "htmlTag": 0,
+        "content": "این عبارت مخالفت را غیرمستقیم و ملایم بیان می‌کند و از You're wrong بسیار مودبانه‌تر است.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "مخالفت مستقیم مثل You're wrong معمولا بی‌ادبانه به نظر می‌رسد. بهتر است ابتدا نظر طرف مقابل را تایید کنید و سپس با but مخالفت خود را بگویید.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Exactly! I think so too.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این عبارت موافقت قوی و دوستانه را نشان می‌دهد.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I'm afraid I can't agree.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I'm afraid مخالفت را نرم‌تر و مودبانه‌تر می‌کند.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

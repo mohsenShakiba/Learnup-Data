@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "The alphabet and spelling",
+    "levelId": 1,
+    "order": 13,
+    "estimatedTimeMinutes": 7,
+    "description": "هجی کردن کلمه‌ها و گفتن حروف با صدای بلند.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "هجی کردن",
+        "htmlTag": 1,
+        "content": "هجی کردن",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "هجی کردن",
+        "htmlTag": 0,
+        "content": "گاهی لازم است نام یا کلمه‌ای را حرف‌به‌حرف بگوییم، مثلا هنگام پر کردن فرم یا پشت تلفن. برای این کار باید نام درست حروف الفبا را بلد باشیم.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست هجی کردن",
+        "htmlTag": 2,
+        "content": "کاربرد 1: درخواست هجی کردن",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست هجی کردن",
+        "htmlTag": 0,
+        "content": "How do you spell your name?",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست هجی کردن",
+        "htmlTag": 0,
+        "content": "این سوال رایج برای درخواست هجی کردن یک کلمه یا نام است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست هجی کردن",
+        "htmlTag": 0,
+        "content": "It's S-A-R-A.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست هجی کردن",
+        "htmlTag": 0,
+        "content": "برای پاسخ، حروف را یکی‌یکی نام می‌بریم. هر حرف نام مخصوص خود را دارد.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حروف تکراری",
+        "htmlTag": 2,
+        "content": "کاربرد 2: حروف تکراری",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حروف تکراری",
+        "htmlTag": 0,
+        "content": "My name is Anna, double N.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حروف تکراری",
+        "htmlTag": 0,
+        "content": "وقتی یک حرف دو بار پشت سر هم می‌آید، می‌توان به‌جای تکرار گفت double و سپس نام حرف.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حروف تکراری",
+        "htmlTag": 0,
+        "content": "It's spelled with a capital B.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: حروف تکراری",
+        "htmlTag": 0,
+        "content": "capital یعنی حرف بزرگ. برای حرف کوچک می‌گوییم small یا lowercase.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "نام حروف با صدای آن‌ها فرق دارد؛ مثلا حرف W را double-u می‌خوانیم. تمرین گفتن نام حروف برای مکالمه تلفنی بسیار مفید است.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Could you spell that, please?",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "یک درخواست مودبانه برای هجی کردن دوباره یک کلمه است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "That's two words.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این عبارت توضیح می‌دهد که نوشته باید در دو کلمه جدا نوشته شود.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Requests and offers",
+    "levelId": 2,
+    "order": 6,
+    "estimatedTimeMinutes": 8,
+    "description": "درخواست و پیشنهاد مودبانه با can، could و would.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "درخواست و پیشنهاد",
+        "htmlTag": 1,
+        "content": "درخواست و پیشنهاد",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "درخواست و پیشنهاد",
+        "htmlTag": 0,
+        "content": "برای درخواست کمک یا پیشنهاد دادن از فعل‌های کمکی مثل can، could و would استفاده می‌کنیم. هرچه ساختار مودبانه‌تر باشد، در موقعیت رسمی مناسب‌تر است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست مودبانه",
+        "htmlTag": 2,
+        "content": "کاربرد 1: درخواست مودبانه",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست مودبانه",
+        "htmlTag": 0,
+        "content": "Could you help me, please?",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست مودبانه",
+        "htmlTag": 0,
+        "content": "could از can مودبانه‌تر است و در موقعیت‌های رسمی‌تر مناسب‌تر است. افزودن please ادب بیشتری می‌آورد.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست مودبانه",
+        "htmlTag": 0,
+        "content": "Would you mind opening the window?",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: درخواست مودبانه",
+        "htmlTag": 0,
+        "content": "Would you mind یک درخواست بسیار مودبانه است و بعد از آن فعل ing-دار می‌آید.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد دادن",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پیشنهاد دادن",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد دادن",
+        "htmlTag": 0,
+        "content": "Can I help you?",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد دادن",
+        "htmlTag": 0,
+        "content": "Can I یک راه ساده برای پیشنهاد کمک است و در گفتگوهای روزمره رایج است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد دادن",
+        "htmlTag": 0,
+        "content": "Would you like some coffee?",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیشنهاد دادن",
+        "htmlTag": 0,
+        "content": "Would you like یک پیشنهاد مودبانه است و از do you want رسمی‌تر و نرم‌تر است.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "could و would از can و will مودبانه‌ترند. در موقعیت رسمی از شکل مودبانه استفاده کنید و فراموش نکنید که please لحن را بهتر می‌کند.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Shall I carry that for you?",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Shall I یک پیشنهاد مودبانه برای کمک کردن است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Could I have the menu, please?",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Could I یک درخواست مودبانه برای گرفتن چیزی است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

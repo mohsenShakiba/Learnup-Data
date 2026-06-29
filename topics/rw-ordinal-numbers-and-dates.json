@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Ordinal numbers and dates",
+    "levelId": 1,
+    "order": 17,
+    "estimatedTimeMinutes": 7,
+    "description": "اعداد ترتیبی و گفتن تاریخ‌ها.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "اعداد ترتیبی و تاریخ",
+        "htmlTag": 1,
+        "content": "اعداد ترتیبی و تاریخ",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "اعداد ترتیبی و تاریخ",
+        "htmlTag": 0,
+        "content": "اعداد ترتیبی مثل first و second ترتیب چیزها را نشان می‌دهند و برای گفتن تاریخ‌ها لازم هستند. گفتن تاریخ کمی با نوشتن آن فرق دارد.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد ترتیبی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: اعداد ترتیبی",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد ترتیبی",
+        "htmlTag": 0,
+        "content": "first, second, third",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد ترتیبی",
+        "htmlTag": 0,
+        "content": "سه عدد ترتیبی اول بی‌قاعده‌اند. از چهارم به بعد معمولا با افزودن th ساخته می‌شوند، مثل fourth و fifth.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد ترتیبی",
+        "htmlTag": 0,
+        "content": "This is my second visit.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: اعداد ترتیبی",
+        "htmlTag": 0,
+        "content": "second ترتیب را نشان می‌دهد، یعنی بازدید دوم. اعداد ترتیبی پیش از اسم می‌آیند.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گفتن تاریخ",
+        "htmlTag": 2,
+        "content": "کاربرد 2: گفتن تاریخ",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گفتن تاریخ",
+        "htmlTag": 0,
+        "content": "It's the third of June.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گفتن تاریخ",
+        "htmlTag": 0,
+        "content": "در گفتار تاریخ، از عدد ترتیبی و حرف of استفاده می‌کنیم، هرچند در نوشتار به‌صورت 3 June می‌آید.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گفتن تاریخ",
+        "htmlTag": 0,
+        "content": "My birthday is on the tenth of May.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: گفتن تاریخ",
+        "htmlTag": 0,
+        "content": "برای تاریخ روز از on و عدد ترتیبی استفاده می‌کنیم.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "تاریخ اغلب با عدد ترتیبی خوانده می‌شود، حتی وقتی th نوشته نشده باشد؛ پس 5 May را the fifth of May می‌خوانیم.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She came first in the race.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "first اینجا ترتیب رتبه را نشان می‌دهد.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The meeting is on the twenty-first.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "twenty-first عدد ترتیبی بیست‌ویکم است و برای تاریخ به کار رفته است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

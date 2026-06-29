@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Basic passive voice",
     "levelId": 3,
-    "order": 6,
+    "order": 12,
     "estimatedTimeMinutes": 8,
     "description": "جمله مجهول و تمرکز روی خود عمل به جای فاعل.",
     "parentGrammarId": 0,

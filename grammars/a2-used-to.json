@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Used to",
+    "levelId": 2,
+    "order": 3,
+    "estimatedTimeMinutes": 8,
+    "description": "بیان عادت‌ها و حقایق گذشته با used to.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "ساختار used to",
+        "htmlTag": 1,
+        "content": "ساختار used to",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ساختار used to",
+        "htmlTag": 0,
+        "content": "used to برای کارها یا حالت‌هایی به کار می‌رود که در گذشته عادت یا حقیقت بودند اما حالا دیگر ادامه ندارند. این ساختار تفاوت گذشته و حال را برجسته می‌کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت گذشته",
+        "htmlTag": 2,
+        "content": "کاربرد 1: عادت گذشته",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت گذشته",
+        "htmlTag": 0,
+        "content": "I used to play football every weekend.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت گذشته",
+        "htmlTag": 0,
+        "content": "used to نشان می‌دهد که این کار در گذشته عادت بوده اما اکنون دیگر انجام نمی‌شود.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت گذشته",
+        "htmlTag": 0,
+        "content": "She used to live in Tehran.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: عادت گذشته",
+        "htmlTag": 0,
+        "content": "این جمله یک حالت گذشته را بیان می‌کند که حالا تغییر کرده است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال و منفی",
+        "htmlTag": 2,
+        "content": "کاربرد 2: سوال و منفی",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال و منفی",
+        "htmlTag": 0,
+        "content": "Did you use to smoke?",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال و منفی",
+        "htmlTag": 0,
+        "content": "در سوال و منفی فعل به شکل use to برمی‌گردد و از did کمک می‌گیریم، پس d از use to حذف می‌شود.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال و منفی",
+        "htmlTag": 0,
+        "content": "He didn't use to like coffee.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: سوال و منفی",
+        "htmlTag": 0,
+        "content": "اینجا didn't use to یعنی در گذشته قهوه دوست نداشت، اما شاید حالا دوست دارد.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "used to فقط برای گذشته است و شکل حال ندارد. برای عادت‌های فعلی از حال ساده و قید تکرار استفاده می‌کنیم.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We used to walk to school.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این جمله یک عادت گذشته دوران مدرسه را بیان می‌کند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There used to be a cinema here.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "used to be یک حقیقت گذشته را نشان می‌دهد که دیگر درست نیست.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

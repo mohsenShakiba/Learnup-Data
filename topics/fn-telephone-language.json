@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Telephone language",
+    "levelId": 3,
+    "order": 12,
+    "estimatedTimeMinutes": 8,
+    "description": "عبارت‌های رایج برای گفتگوی تلفنی.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "زبان تلفن",
+        "htmlTag": 1,
+        "content": "زبان تلفن",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "زبان تلفن",
+        "htmlTag": 0,
+        "content": "گفتگوی تلفنی عبارت‌های ثابت خود را دارد که با گفتگوی رو در رو فرق می‌کند. دانستن این عبارت‌ها به مکالمه روان‌تر پشت تلفن کمک می‌کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شروع تماس",
+        "htmlTag": 2,
+        "content": "کاربرد 1: شروع تماس",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شروع تماس",
+        "htmlTag": 0,
+        "content": "Hello, this is Sara speaking.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شروع تماس",
+        "htmlTag": 0,
+        "content": "پشت تلفن برای معرفی خود از this is استفاده می‌کنیم، نه I am. این یک قاعده ثابت است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شروع تماس",
+        "htmlTag": 0,
+        "content": "Can I speak to Mr Brown, please?",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شروع تماس",
+        "htmlTag": 0,
+        "content": "این عبارت مودبانه برای خواستن صحبت با یک شخص مشخص است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیام و انتظار",
+        "htmlTag": 2,
+        "content": "کاربرد 2: پیام و انتظار",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیام و انتظار",
+        "htmlTag": 0,
+        "content": "Can I take a message?",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیام و انتظار",
+        "htmlTag": 0,
+        "content": "وقتی شخص موردنظر در دسترس نیست، با این عبارت پیشنهاد گرفتن پیام می‌دهیم.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیام و انتظار",
+        "htmlTag": 0,
+        "content": "Hold on a moment, please.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پیام و انتظار",
+        "htmlTag": 0,
+        "content": "Hold on یعنی یک لحظه پشت خط بمانید. این عبارت رایج هنگام انتقال تماس است.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "پشت تلفن برای معرفی خود از this is استفاده می‌کنیم و برای پرسیدن طرف مقابل از Who's calling؟. گفتن I am Sara پشت تلفن طبیعی نیست.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Sorry, you've got the wrong number.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این عبارت وقتی به کار می‌رود که تماس‌گیرنده شماره را اشتباه گرفته است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Could you call back later?",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "call back یعنی دوباره تماس گرفتن؛ این درخواست مودبانه برای تماس مجدد است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

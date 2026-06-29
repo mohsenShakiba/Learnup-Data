@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Adjective order",
+    "levelId": 2,
+    "order": 14,
+    "estimatedTimeMinutes": 7,
+    "description": "ترتیب درست چند صفت پیش از یک اسم.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "ترتیب صفت‌ها",
+        "htmlTag": 1,
+        "content": "ترتیب صفت‌ها",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ترتیب صفت‌ها",
+        "htmlTag": 0,
+        "content": "وقتی چند صفت پیش از یک اسم می‌آیند، ترتیب آن‌ها در انگلیسی قاعده‌مند است. معمولا نظر و کیفیت اول می‌آید و سپس اندازه، سن، رنگ و جنس.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "htmlTag": 2,
+        "content": "کاربرد 1: نظر پیش از واقعیت",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "htmlTag": 0,
+        "content": "a beautiful old house",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "htmlTag": 0,
+        "content": "beautiful یک نظر است و پیش از old که سن را نشان می‌دهد می‌آید. صفت‌های نظری همیشه اول می‌آیند.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "htmlTag": 0,
+        "content": "a nice big garden",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "htmlTag": 0,
+        "content": "nice نظر است و big اندازه، پس nice زودتر آمده است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اندازه، رنگ و جنس",
+        "htmlTag": 2,
+        "content": "کاربرد 2: اندازه، رنگ و جنس",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اندازه، رنگ و جنس",
+        "htmlTag": 0,
+        "content": "a small black bag",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اندازه، رنگ و جنس",
+        "htmlTag": 0,
+        "content": "اندازه (small) پیش از رنگ (black) می‌آید. این ترتیب در انگلیسی تقریبا ثابت است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اندازه، رنگ و جنس",
+        "htmlTag": 0,
+        "content": "a long red wooden table",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اندازه، رنگ و جنس",
+        "htmlTag": 0,
+        "content": "ترتیب اندازه، رنگ و سپس جنس رعایت شده است: long، red، wooden.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "یک ترتیب کلی پرکاربرد: نظر، اندازه، سن، رنگ، جنس و سپس اسم. وقتی بیش از سه صفت داریم، معمولا جمله را بازنویسی می‌کنیم تا طبیعی‌تر شود.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "an expensive Italian car",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "expensive نظر است و Italian منشا، پس به ترتیب درست آمده‌اند.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "a big round table",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اندازه (big) پیش از شکل (round) قرار گرفته است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

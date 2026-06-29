@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "The schwa and weak forms",
+    "levelId": 3,
+    "order": 8,
+    "estimatedTimeMinutes": 8,
+    "description": "صدای ضعیف schwa در هجاهای بدون تاکید.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "صدای schwa و شکل ضعیف",
+        "htmlTag": 1,
+        "content": "صدای schwa و شکل ضعیف",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "صدای schwa و شکل ضعیف",
+        "htmlTag": 0,
+        "content": "رایج‌ترین صدای انگلیسی، صدای کوتاه و ضعیف schwa است که در هجاهای بدون تاکید شنیده می‌شود. بسیاری از کلمه‌های کوچک در گفتار طبیعی به شکل ضعیف تلفظ می‌شوند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: schwa در کلمه‌ها",
+        "htmlTag": 2,
+        "content": "کاربرد 1: schwa در کلمه‌ها",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: schwa در کلمه‌ها",
+        "htmlTag": 0,
+        "content": "about, banana, teacher",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: schwa در کلمه‌ها",
+        "htmlTag": 0,
+        "content": "حرف‌های بدون تاکید در این کلمه‌ها صدای ضعیف schwa می‌گیرند، نه صدای کامل خود حرف.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: schwa در کلمه‌ها",
+        "htmlTag": 0,
+        "content": "the first 'a' in 'about' is a schwa",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: schwa در کلمه‌ها",
+        "htmlTag": 0,
+        "content": "این صدا خیلی کوتاه و آرام است و تقریبا مثل یک «اِ» بسیار ضعیف شنیده می‌شود.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شکل ضعیف کلمه‌های کوچک",
+        "htmlTag": 2,
+        "content": "کاربرد 2: شکل ضعیف کلمه‌های کوچک",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شکل ضعیف کلمه‌های کوچک",
+        "htmlTag": 0,
+        "content": "a cup of tea (of sounds like 'uv')",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شکل ضعیف کلمه‌های کوچک",
+        "htmlTag": 0,
+        "content": "کلمه‌های کوچک مثل of، to و and در گفتار طبیعی ضعیف می‌شوند و صدای schwa می‌گیرند.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شکل ضعیف کلمه‌های کوچک",
+        "htmlTag": 0,
+        "content": "fish and chips (and sounds like 'n')",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شکل ضعیف کلمه‌های کوچک",
+        "htmlTag": 0,
+        "content": "and در گفتار روزمره تقریبا به یک صدای کوتاه n کاهش می‌یابد.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "تلفظ کامل همه کلمه‌ها گفتار را غیرطبیعی می‌کند. تلفظ ضعیف کلمه‌های کوچک و استفاده از schwa باعث می‌شود انگلیسی روان‌تر و طبیعی‌تر شنیده شود.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I can go (can sounds like 'kn')",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "can در جمله مثبت معمولا ضعیف و کوتاه تلفظ می‌شود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "a piece of cake",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "of با صدای schwa و بسیار کوتاه گفته می‌شود.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

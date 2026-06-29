@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Adverbs of frequency",
+    "levelId": 1,
+    "order": 12,
+    "estimatedTimeMinutes": 7,
+    "description": "قیدهای تکرار مثل always، usually و never.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "قیدهای تکرار",
+        "htmlTag": 1,
+        "content": "قیدهای تکرار",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "قیدهای تکرار",
+        "htmlTag": 0,
+        "content": "قیدهای تکرار نشان می‌دهند یک کار هر چند وقت یک‌بار انجام می‌شود. مهم‌ترین آن‌ها always، usually، often، sometimes و never هستند و معمولا با حال ساده به کار می‌روند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای قید با فعل‌های معمولی",
+        "htmlTag": 2,
+        "content": "کاربرد 1: جای قید با فعل‌های معمولی",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای قید با فعل‌های معمولی",
+        "htmlTag": 0,
+        "content": "I always drink tea in the morning.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای قید با فعل‌های معمولی",
+        "htmlTag": 0,
+        "content": "قید تکرار always پیش از فعل اصلی drink آمده است. این جای معمول قید با فعل‌های ساده است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای قید با فعل‌های معمولی",
+        "htmlTag": 0,
+        "content": "She often works late.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای قید با فعل‌های معمولی",
+        "htmlTag": 0,
+        "content": "often هم پیش از فعل works قرار گرفته و نشان می‌دهد این کار زیاد تکرار می‌شود.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جای قید با فعل be",
+        "htmlTag": 2,
+        "content": "کاربرد 2: جای قید با فعل be",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جای قید با فعل be",
+        "htmlTag": 0,
+        "content": "He is never late.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جای قید با فعل be",
+        "htmlTag": 0,
+        "content": "با فعل be قید تکرار بعد از فعل می‌آید، نه پیش از آن. به همین دلیل never بعد از is آمده است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جای قید با فعل be",
+        "htmlTag": 0,
+        "content": "They are usually busy on Fridays.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جای قید با فعل be",
+        "htmlTag": 0,
+        "content": "اینجا هم usually بعد از فعل are قرار گرفته است، چون فعل be قانون جداگانه دارد.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "قید تکرار پیش از فعل اصلی اما بعد از فعل be می‌آید. کلمه never خودش معنای منفی دارد، پس جمله را دوباره منفی نمی‌کنیم.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We sometimes eat out.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "sometimes تکرار کم را نشان می‌دهد و پیش از فعل eat آمده است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I usually wake up early.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "usually یک عادت معمول را بیان می‌کند و در جای درست پیش از فعل قرار دارد.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

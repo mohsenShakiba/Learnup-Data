@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Common contractions",
+    "levelId": 1,
+    "order": 14,
+    "estimatedTimeMinutes": 7,
+    "description": "شکل کوتاه‌شده فعل‌ها مثل I'm و don't.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "شکل کوتاه‌شده",
+        "htmlTag": 1,
+        "content": "شکل کوتاه‌شده",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "شکل کوتاه‌شده",
+        "htmlTag": 0,
+        "content": "در گفتار و نوشتار دوستانه، بسیاری از فعل‌ها به شکل کوتاه‌شده با آپاستروف می‌آیند. شناخت این شکل‌ها برای درک مکالمه طبیعی ضروری است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کوتاه‌شده فعل be",
+        "htmlTag": 2,
+        "content": "کاربرد 1: کوتاه‌شده فعل be",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کوتاه‌شده فعل be",
+        "htmlTag": 0,
+        "content": "I'm a teacher.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کوتاه‌شده فعل be",
+        "htmlTag": 0,
+        "content": "I'm شکل کوتاه‌شده I am است. آپاستروف جای حرف حذف‌شده a را می‌گیرد.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کوتاه‌شده فعل be",
+        "htmlTag": 0,
+        "content": "She's at home.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کوتاه‌شده فعل be",
+        "htmlTag": 0,
+        "content": "She's می‌تواند کوتاه‌شده she is یا she has باشد و معنا از جمله مشخص می‌شود.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کوتاه‌شده منفی",
+        "htmlTag": 2,
+        "content": "کاربرد 2: کوتاه‌شده منفی",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کوتاه‌شده منفی",
+        "htmlTag": 0,
+        "content": "I don't know.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کوتاه‌شده منفی",
+        "htmlTag": 0,
+        "content": "don't شکل کوتاه‌شده do not است و در گفتار بسیار رایج‌تر از شکل کامل است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کوتاه‌شده منفی",
+        "htmlTag": 0,
+        "content": "He can't come today.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: کوتاه‌شده منفی",
+        "htmlTag": 0,
+        "content": "can't کوتاه‌شده cannot است. در منفی فعل‌های کمکی، not به not' کوتاه می‌شود.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "شکل کوتاه‌شده برای گفتار و نوشتار دوستانه مناسب است، اما در نوشتار بسیار رسمی بهتر است شکل کامل به کار رود. اشتباه رایج، نوشتن its به‌جای it's است.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They're my friends.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They're کوتاه‌شده they are است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We'll see you soon.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We'll کوتاه‌شده we will است و l جای will حذف‌شده را نشان می‌دهد.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

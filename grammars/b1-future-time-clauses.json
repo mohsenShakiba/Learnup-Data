@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Future time clauses",
+    "levelId": 3,
+    "order": 4,
+    "estimatedTimeMinutes": 8,
+    "description": "جمله‌های زمان آینده با when و as soon as.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "جمله‌های زمان آینده",
+        "htmlTag": 1,
+        "content": "جمله‌های زمان آینده",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "جمله‌های زمان آینده",
+        "htmlTag": 0,
+        "content": "وقتی درباره آینده با کلمه‌هایی مثل when، as soon as، before و after صحبت می‌کنیم، در آن بخش از جمله از حال ساده استفاده می‌کنیم، نه will. این یک قانون مهم و پرکاربرد است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: when و as soon as",
+        "htmlTag": 2,
+        "content": "کاربرد 1: when و as soon as",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: when و as soon as",
+        "htmlTag": 0,
+        "content": "I'll call you when I arrive.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: when و as soon as",
+        "htmlTag": 0,
+        "content": "بعد از when فعل arrive به شکل حال ساده آمده، هرچند درباره آینده صحبت می‌کنیم. will فقط در بخش اصلی جمله می‌آید.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: when و as soon as",
+        "htmlTag": 0,
+        "content": "As soon as he comes, we'll start.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: when و as soon as",
+        "htmlTag": 0,
+        "content": "بعد از as soon as از comes استفاده شده، نه will come. این الگوی ثابت جمله‌های زمان آینده است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: before و after",
+        "htmlTag": 2,
+        "content": "کاربرد 2: before و after",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: before و after",
+        "htmlTag": 0,
+        "content": "I'll finish before they arrive.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: before و after",
+        "htmlTag": 0,
+        "content": "بعد از before فعل arrive به شکل حال ساده مانده است، با اینکه به آینده اشاره دارد.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: before و after",
+        "htmlTag": 0,
+        "content": "We'll eat after the film ends.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: before و after",
+        "htmlTag": 0,
+        "content": "بعد از after از ends استفاده شده، نه will end.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "قانون کلیدی: بعد از when، as soon as، before و after درباره آینده، از حال ساده استفاده می‌کنیم و will را فقط در بخش اصلی جمله می‌آوریم.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "When it stops raining, we'll go out.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بعد از when فعل stops به شکل حال ساده است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I'll wait until you are ready.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بعد از until هم از حال ساده are استفاده می‌کنیم، نه will be.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

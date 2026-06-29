@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Some, any, much, many, a lot of",
     "levelId": 2,
-    "order": 7,
+    "order": 10,
     "estimatedTimeMinutes": 8,
     "description": "کلمه‌های مقدار some، any، much و many.",
     "parentGrammarId": 0,

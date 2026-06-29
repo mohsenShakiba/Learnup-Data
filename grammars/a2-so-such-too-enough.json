@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "So, such, too, enough",
+    "levelId": 2,
+    "order": 15,
+    "estimatedTimeMinutes": 8,
+    "description": "تشدید و اندازه‌گیری با so، such، too و enough.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "تشدید و اندازه",
+        "htmlTag": 1,
+        "content": "تشدید و اندازه",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تشدید و اندازه",
+        "htmlTag": 0,
+        "content": "کلمات so، such، too و enough همگی شدت یا اندازه یک ویژگی را بیان می‌کنند، اما در جای متفاوتی از جمله می‌آیند و معنای کمی فرق دارند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so و such",
+        "htmlTag": 2,
+        "content": "کاربرد 1: so و such",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so و such",
+        "htmlTag": 0,
+        "content": "The film was so boring.",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so و such",
+        "htmlTag": 0,
+        "content": "so پیش از صفت یا قید می‌آید و آن را تشدید می‌کند. در اینجا روی boring تاکید کرده است.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so و such",
+        "htmlTag": 0,
+        "content": "It was such a boring film.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: so و such",
+        "htmlTag": 0,
+        "content": "such پیش از یک گروه اسمی می‌آید (a boring film)، در حالی که so تنها پیش از صفت قرار می‌گیرد.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: too و enough",
+        "htmlTag": 2,
+        "content": "کاربرد 2: too و enough",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: too و enough",
+        "htmlTag": 0,
+        "content": "This coffee is too hot.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: too و enough",
+        "htmlTag": 0,
+        "content": "too یعنی بیش از حد لازم و بار منفی دارد. اینجا یعنی قهوه آنقدر داغ است که مناسب نیست.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: too و enough",
+        "htmlTag": 0,
+        "content": "He isn't tall enough.",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: too و enough",
+        "htmlTag": 0,
+        "content": "enough یعنی به اندازه کافی و بعد از صفت می‌آید. اینجا یعنی قد او کافی نیست.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "enough بعد از صفت اما پیش از اسم می‌آید: tall enough ولی enough money. too معنای منفی «زیادی» دارد و با very که فقط تشدید است فرق می‌کند.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We have enough time.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "enough پیش از اسم time آمده و یعنی وقت کافی داریم.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She is so kind.",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "so صفت kind را تشدید کرده است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Making suggestions",
+    "levelId": 2,
+    "order": 15,
+    "estimatedTimeMinutes": 7,
+    "description": "پیشنهاد دادن با Why don't we و How about.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "پیشنهاد دادن",
+        "htmlTag": 1,
+        "content": "پیشنهاد دادن",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "پیشنهاد دادن",
+        "htmlTag": 0,
+        "content": "برای پیشنهاد دادن چند ساختار رایج وجود دارد. هرکدام لحن کمی متفاوت دارند و بعضی با فعل ساده و بعضی با فعل ing-دار می‌آیند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: Why don't و Let's",
+        "htmlTag": 2,
+        "content": "کاربرد 1: Why don't و Let's",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: Why don't و Let's",
+        "htmlTag": 0,
+        "content": "Why don't we go out tonight?",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: Why don't و Let's",
+        "htmlTag": 0,
+        "content": "Why don't we یک پیشنهاد دوستانه است و بعد از آن فعل ساده می‌آید.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: Why don't و Let's",
+        "htmlTag": 0,
+        "content": "Let's take a break.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: Why don't و Let's",
+        "htmlTag": 0,
+        "content": "Let's یک پیشنهاد گروهی است که خود گوینده هم در آن شرکت دارد و با فعل ساده می‌آید.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: How about و Shall we",
+        "htmlTag": 2,
+        "content": "کاربرد 2: How about و Shall we",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: How about و Shall we",
+        "htmlTag": 0,
+        "content": "How about going to the cinema?",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: How about و Shall we",
+        "htmlTag": 0,
+        "content": "بعد از How about فعل ing-دار می‌آید، نه فعل ساده. این یک تفاوت ساختاری مهم است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: How about و Shall we",
+        "htmlTag": 0,
+        "content": "Shall we start now?",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: How about و Shall we",
+        "htmlTag": 0,
+        "content": "Shall we یک پیشنهاد مودبانه است و بیشتر در موقعیت‌های کمی رسمی‌تر به کار می‌رود.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "بعد از How about و What about فعل ing-دار می‌آید، اما بعد از Why don't we و Let's فعل ساده. توجه به این تفاوت از اشتباه‌های رایج جلوگیری می‌کند.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We could try the new restaurant.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "could هم یک راه نرم برای پیشنهاد دادن است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What about meeting at six?",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بعد از What about فعل meeting به شکل ing-دار آمده است.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

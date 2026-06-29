@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Intonation basics",
+    "levelId": 3,
+    "order": 9,
+    "estimatedTimeMinutes": 7,
+    "description": "بالا و پایین رفتن صدا در سوال‌ها و جمله‌ها.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "آهنگ کلام",
+        "htmlTag": 1,
+        "content": "آهنگ کلام",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "آهنگ کلام",
+        "htmlTag": 0,
+        "content": "آهنگ کلام یعنی بالا و پایین رفتن صدا هنگام صحبت. این آهنگ معنا و احساس را منتقل می‌کند و گاهی تفاوت میان سوال و جمله خبری را مشخص می‌سازد.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای پایین‌رونده",
+        "htmlTag": 2,
+        "content": "کاربرد 1: صدای پایین‌رونده",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای پایین‌رونده",
+        "htmlTag": 0,
+        "content": "Where do you live? (falling)",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای پایین‌رونده",
+        "htmlTag": 0,
+        "content": "در سوال‌های اطلاعاتی با کلمه پرسشی، صدا معمولا در پایان پایین می‌آید.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای پایین‌رونده",
+        "htmlTag": 0,
+        "content": "I live in Tehran. (falling)",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صدای پایین‌رونده",
+        "htmlTag": 0,
+        "content": "جمله‌های خبری معمولی هم با آهنگ پایین‌رونده تمام می‌شوند که نشانه قطعیت است.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای بالارونده",
+        "htmlTag": 2,
+        "content": "کاربرد 2: صدای بالارونده",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای بالارونده",
+        "htmlTag": 0,
+        "content": "Are you ready? (rising)",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای بالارونده",
+        "htmlTag": 0,
+        "content": "در سوال‌های بله یا خیر، صدا در پایان بالا می‌رود. این آهنگ نشانه سوال بودن است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای بالارونده",
+        "htmlTag": 0,
+        "content": "Really? (rising)",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: صدای بالارونده",
+        "htmlTag": 0,
+        "content": "آهنگ بالارونده می‌تواند تعجب یا تردید را هم نشان دهد.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "قانون کلی: سوال‌های بله یا خیر آهنگ بالارونده دارند، اما سوال‌های با کلمه پرسشی و جمله‌های خبری آهنگ پایین‌رونده. آهنگ درست لحن مودبانه و طبیعی می‌سازد.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Do you like it? (rising)",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این سوال بله یا خیر است، پس آهنگ بالا می‌رود.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What's your name? (falling)",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این سوال با کلمه پرسشی است، پس آهنگ پایین می‌آید.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}

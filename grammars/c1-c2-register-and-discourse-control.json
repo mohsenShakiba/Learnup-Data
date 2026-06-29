@@ -2,7 +2,7 @@
   "grammar": {
     "name": "Register and discourse control",
     "levelId": 5,
-    "order": 10,
+    "order": 12,
     "estimatedTimeMinutes": 8,
     "description": "کنترل لحن و انسجام در گفتار و نوشتار پیشرفته.",
     "parentGrammarId": 0,

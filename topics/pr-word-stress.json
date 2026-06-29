@@ -1,0 +1,164 @@
+{
+  "grammar": {
+    "name": "Word stress",
+    "levelId": 2,
+    "order": 14,
+    "estimatedTimeMinutes": 8,
+    "description": "تاکید روی هجای درست در کلمه‌های چندهجایی.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "تاکید کلمه",
+        "htmlTag": 1,
+        "content": "تاکید کلمه",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "تاکید کلمه",
+        "htmlTag": 0,
+        "content": "در کلمه‌های انگلیسی چندهجایی، یک هجا قوی‌تر و بلندتر تلفظ می‌شود. تاکید درست برای فهمیده شدن بسیار مهم است و گاهی حتی معنای کلمه را عوض می‌کند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای تاکید",
+        "htmlTag": 2,
+        "content": "کاربرد 1: جای تاکید",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای تاکید",
+        "htmlTag": 0,
+        "content": "WA-ter, TA-ble, HAP-py",
+        "order": 4,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای تاکید",
+        "htmlTag": 0,
+        "content": "در بسیاری از کلمه‌های دوهجایی، تاکید روی هجای اول است. هجای قوی بلندتر و واضح‌تر گفته می‌شود.",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای تاکید",
+        "htmlTag": 0,
+        "content": "ho-TEL, a-BOUT, be-GIN",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای تاکید",
+        "htmlTag": 0,
+        "content": "در بعضی کلمه‌ها تاکید روی هجای دوم می‌افتد. این جای تاکید را باید همراه کلمه یاد گرفت.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید معنا را عوض می‌کند",
+        "htmlTag": 2,
+        "content": "کاربرد 2: تاکید معنا را عوض می‌کند",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید معنا را عوض می‌کند",
+        "htmlTag": 0,
+        "content": "a REcord (noun) / to reCORD (verb)",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید معنا را عوض می‌کند",
+        "htmlTag": 0,
+        "content": "بعضی کلمه‌ها بسته به جای تاکید اسم یا فعل می‌شوند. record با تاکید اول اسم و با تاکید دوم فعل است.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید معنا را عوض می‌کند",
+        "htmlTag": 0,
+        "content": "a PREsent / to preSENT",
+        "order": 11,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید معنا را عوض می‌کند",
+        "htmlTag": 0,
+        "content": "همین الگو برای present هم درست است؛ تاکید جای کلمه را در جمله مشخص می‌کند.",
+        "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 2,
+        "content": "نکته مهم",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نکته مهم",
+        "htmlTag": 0,
+        "content": "در بسیاری از اسم‌های دوهجایی تاکید روی هجای اول و در فعل‌ها روی هجای دوم است. شنیدن و تکرار بهترین راه یادگیری تاکید درست است.",
+        "order": 14,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 2,
+        "content": "مثال‌های بیشتر",
+        "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "comPUTer has stress on the second syllable",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در computer تاکید روی هجای دوم است.",
+        "order": 17,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "BANana / baNAna",
+        "order": 18,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در banana تاکید روی هجای میانی است؛ جای اشتباه تاکید فهم را سخت می‌کند.",
+        "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}
