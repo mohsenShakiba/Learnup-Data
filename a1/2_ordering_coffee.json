@@ -1,7 +1,23 @@
 {
     "title": "2 - Ordering Coffee",
     "description": "سفارش قهوه و چای و پرداخت پول در کافه.",
-    "words": ["coffee", "tea", "milk", "sugar", "hot", "cold", "small", "large", "drink", "ready", "dollar", "card", "pay", "morning"],
+    "words": [
+        "coffee",
+        "tea",
+        "milk",
+        "sugar",
+        "hot",
+        "cold",
+        "small",
+        "large",
+        "drink",
+        "ready",
+        "dollar",
+        "card",
+        "pay",
+        "morning"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

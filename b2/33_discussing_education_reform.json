@@ -1,7 +1,23 @@
 {
     "title": "33 - Discussing Education Reform",
     "description": "دو نفر درباره اینکه چگونه سیستم آموزشی باید تغییر کند بحث می‌کنند.",
-    "words": ["education", "curriculum", "outdated", "reform", "creativity", "exam", "rote", "skills", "relevant", "inequality", "access", "potential", "prepare", "system"],
+    "words": [
+        "education",
+        "curriculum",
+        "outdated",
+        "reform",
+        "creativity",
+        "exam",
+        "rote",
+        "skills",
+        "relevant",
+        "inequality",
+        "access",
+        "potential",
+        "prepare",
+        "system"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

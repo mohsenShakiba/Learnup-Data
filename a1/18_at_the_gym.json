@@ -1,7 +1,20 @@
 {
     "title": "18 - At the Gym",
     "description": "اولین روز در باشگاه و صحبت درباره ورزش.",
-    "words": ["gym", "healthy", "goal", "run", "machine", "lift", "weight", "week", "strong", "water", "slow"],
+    "words": [
+        "gym",
+        "healthy",
+        "idea",
+        "run",
+        "machine",
+        "lift",
+        "weight",
+        "week",
+        "strong",
+        "water",
+        "slow"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -18,8 +31,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "That's a good goal. What exercise do you like?",
-            "translation": "هدف خوبی است. چه ورزشی را دوست دارید؟"
+            "text": "That's a good idea. What exercise do you like?",
+            "translation": "فکر خوبی است. چه ورزشی را دوست دارید؟"
         },
         {
             "order": 3,

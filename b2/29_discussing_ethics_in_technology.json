@@ -1,7 +1,23 @@
 {
     "title": "29 - Ethics in Technology",
     "description": "دو نفر درباره مسئولیت اخلاقی شرکت‌های فناوری در توسعه هوش مصنوعی بحث می‌کنند.",
-    "words": ["ethics", "responsibility", "automation", "bias", "accountable", "regulate", "impact", "transparency", "consequence", "displace", "safeguard", "potential", "dilemma", "oversight"],
+    "words": [
+        "ethics",
+        "responsibility",
+        "automation",
+        "bias",
+        "accountable",
+        "regulate",
+        "impact",
+        "transparency",
+        "consequence",
+        "displace",
+        "safeguard",
+        "potential",
+        "dilemma",
+        "oversight"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

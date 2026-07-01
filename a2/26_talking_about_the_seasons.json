@@ -1,7 +1,23 @@
 {
     "title": "26 - Talking About the Seasons",
     "description": "گفتگو درباره فصل‌های مورد علاقه و کارهای هر فصل.",
-    "words": ["season", "spring", "summer", "autumn", "winter", "warm", "cold", "snow", "leaves", "holiday", "prefer", "weather", "garden", "favorite"],
+    "words": [
+        "season",
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "warm",
+        "cold",
+        "snow",
+        "leaves",
+        "holiday",
+        "prefer",
+        "weather",
+        "garden",
+        "favorite"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

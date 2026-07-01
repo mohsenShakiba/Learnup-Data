@@ -1,7 +1,23 @@
 {
     "title": "14 - A Conversation About Legacy",
     "description": "دو نفر درباره اینکه می‌خواهند چه میراثی از خود به جا بگذارند تأمل می‌کنند.",
-    "words": ["legacy", "impact", "enduring", "meaningful", "remembered", "contribution", "selfless", "ripple", "posterity", "footprint", "values", "transcend", "fleeting", "matter"],
+    "words": [
+        "legacy",
+        "impact",
+        "enduring",
+        "meaningful",
+        "remembered",
+        "contribution",
+        "selfless",
+        "ripple",
+        "posterity",
+        "footprint",
+        "values",
+        "transcend",
+        "fleeting",
+        "matter"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

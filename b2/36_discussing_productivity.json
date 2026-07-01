@@ -1,7 +1,23 @@
 {
     "title": "36 - Discussing Productivity",
     "description": "دو همکار درباره روش‌های افزایش بهره‌وری و مدیریت زمان گفتگو می‌کنند.",
-    "words": ["productivity", "efficient", "distraction", "prioritize", "focus", "procrastinate", "deadline", "method", "multitask", "energy", "discipline", "output", "streamline", "consistent"],
+    "words": [
+        "productivity",
+        "efficient",
+        "distraction",
+        "prioritize",
+        "focus",
+        "procrastinate",
+        "deadline",
+        "method",
+        "multitask",
+        "energy",
+        "discipline",
+        "output",
+        "streamline",
+        "consistent"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "24 - A Conversation About Privacy",
     "description": "دو دوست درباره حریم خصوصی داده‌ها و ردیابی آنلاین گفتگو می‌کنند.",
-    "words": ["privacy", "data", "track", "consent", "surveillance", "permission", "concern", "anonymous", "leak", "protect", "convenience", "aware", "regulation", "tradeoff"],
+    "words": [
+        "privacy",
+        "data",
+        "track",
+        "consent",
+        "surveillance",
+        "permission",
+        "concern",
+        "anonymous",
+        "leak",
+        "protect",
+        "convenience",
+        "aware",
+        "regulation",
+        "tradeoff"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

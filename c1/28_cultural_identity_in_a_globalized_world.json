@@ -1,7 +1,23 @@
 {
     "title": "28 - Cultural Identity in a Globalized World",
     "description": "دو نفر درباره اینکه آیا جهانی‌شدن فرهنگ‌های محلی را همگن می‌کند یا غنی‌تر تأمل می‌کنند.",
-    "words": ["homogenize", "heritage", "preserve", "diversity", "assimilation", "authentic", "erode", "hybrid", "tradition", "globalized", "resilient", "distinct", "enrich", "dilute"],
+    "words": [
+        "homogenize",
+        "heritage",
+        "preserve",
+        "diversity",
+        "assimilation",
+        "authentic",
+        "erode",
+        "hybrid",
+        "tradition",
+        "globalized",
+        "resilient",
+        "distinct",
+        "enrich",
+        "dilute"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

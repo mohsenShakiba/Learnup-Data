@@ -1,7 +1,23 @@
 {
     "title": "2 - A Job Promotion",
     "description": "گفتگو با مدیر درباره ارتقای شغلی و مسئولیت‌های جدید.",
-    "words": ["promotion", "deserve", "leadership", "responsibility", "recognize", "contribution", "transition", "expectation", "challenge", "confident", "mentor", "compensation", "commit", "opportunity"],
+    "words": [
+        "promotion",
+        "deserve",
+        "leadership",
+        "responsibility",
+        "recognize",
+        "contribution",
+        "transition",
+        "expectation",
+        "challenge",
+        "confident",
+        "mentor",
+        "compensation",
+        "commit",
+        "opportunity"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

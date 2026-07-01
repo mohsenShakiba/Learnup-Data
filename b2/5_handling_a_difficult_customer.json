@@ -1,7 +1,23 @@
 {
     "title": "5 - Handling a Difficult Customer",
     "description": "یک کارمند خدمات مشتری با مشتری ناراضی برخورد حرفه‌ای می‌کند.",
-    "words": ["complaint", "frustrated", "apologize", "inconvenience", "resolve", "refund", "patience", "assure", "escalate", "compensation", "policy", "reasonable", "satisfy", "calm"],
+    "words": [
+        "complaint",
+        "frustrated",
+        "apologize",
+        "inconvenience",
+        "resolve",
+        "refund",
+        "patience",
+        "assure",
+        "escalate",
+        "compensation",
+        "policy",
+        "reasonable",
+        "satisfy",
+        "calm"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

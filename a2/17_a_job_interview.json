@@ -1,7 +1,23 @@
 {
     "title": "17 - A Second Job Interview",
     "description": "مصاحبه شغلی درباره تجربه کاری و مهارت‌ها.",
-    "words": ["interview", "experience", "skills", "previous", "responsible", "team", "manage", "strength", "weakness", "salary", "available", "start", "position", "hire"],
+    "words": [
+        "interview",
+        "experience",
+        "skills",
+        "previous",
+        "responsible",
+        "team",
+        "manage",
+        "strength",
+        "weakness",
+        "salary",
+        "available",
+        "start",
+        "position",
+        "hire"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

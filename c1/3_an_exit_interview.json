@@ -1,7 +1,23 @@
 {
     "title": "3 - An Exit Interview",
     "description": "گفتگوی صادقانه میان یک کارمند در حال ترک شرکت و مدیر منابع انسانی.",
-    "words": ["resignation", "candid", "constructive", "retention", "morale", "overlooked", "fulfilling", "transparent", "trajectory", "appreciate", "feedback", "amicable", "tenure", "reflect"],
+    "words": [
+        "resignation",
+        "candid",
+        "constructive",
+        "retention",
+        "morale",
+        "overlooked",
+        "fulfilling",
+        "transparent",
+        "trajectory",
+        "appreciate",
+        "feedback",
+        "amicable",
+        "tenure",
+        "reflect"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

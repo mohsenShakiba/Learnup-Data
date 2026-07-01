@@ -1,7 +1,23 @@
 {
     "title": "19 - Small Talk at a Party",
     "description": "آشنایی و گفتگوی کوتاه با یک مهمان جدید در مهمانی.",
-    "words": ["party", "know", "host", "guest", "live", "work", "recently", "interesting", "common", "drink", "enjoy", "chat", "introduce", "later"],
+    "words": [
+        "party",
+        "know",
+        "host",
+        "guest",
+        "live",
+        "work",
+        "recently",
+        "interesting",
+        "common",
+        "drink",
+        "enjoy",
+        "chat",
+        "introduce",
+        "later"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

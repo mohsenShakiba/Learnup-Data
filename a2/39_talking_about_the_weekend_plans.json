@@ -1,7 +1,23 @@
 {
     "title": "39 - Comparing Weekend Plans",
     "description": "دو دوست برنامه‌های متفاوتشان برای آخر هفته را با هم مقایسه می‌کنند.",
-    "words": ["plans", "rather", "stay", "active", "lazy", "hiking", "tired", "prefer", "join", "instead", "energy", "relax", "decide", "together"],
+    "words": [
+        "plans",
+        "rather",
+        "stay",
+        "active",
+        "lazy",
+        "hiking",
+        "tired",
+        "prefer",
+        "join",
+        "instead",
+        "energy",
+        "relax",
+        "decide",
+        "together"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

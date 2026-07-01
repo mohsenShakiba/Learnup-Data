@@ -1,7 +1,23 @@
 {
     "title": "11 - Planning a Move",
     "description": "زوجی درباره نقل مکان به شهری دیگر و کارهای لازم برنامه‌ریزی می‌کنند.",
-    "words": ["move", "relocate", "search", "neighborhood", "commute", "afford", "mortgage", "decision", "settle", "arrange", "belongings", "nearby", "manage", "fresh"],
+    "words": [
+        "move",
+        "relocate",
+        "search",
+        "neighborhood",
+        "commute",
+        "afford",
+        "mortgage",
+        "decision",
+        "settle",
+        "arrange",
+        "belongings",
+        "nearby",
+        "manage",
+        "fresh"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

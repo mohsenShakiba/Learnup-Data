@@ -1,7 +1,23 @@
 {
     "title": "23 - Optimism Versus Realism",
     "description": "دو دوست درباره اینکه آیا خوش‌بینی یا واقع‌بینی رویکرد بهتری به زندگی است بحث می‌کنند.",
-    "words": ["optimism", "realism", "pragmatic", "naive", "outlook", "temper", "disillusioned", "grounded", "expectation", "resilient", "cynical", "balance", "perspective", "constructive"],
+    "words": [
+        "optimism",
+        "realism",
+        "pragmatic",
+        "naive",
+        "outlook",
+        "temper",
+        "disillusioned",
+        "grounded",
+        "expectation",
+        "resilient",
+        "cynical",
+        "balance",
+        "perspective",
+        "constructive"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "23 - Discussing the Gig Economy",
     "description": "دو نفر درباره مزایا و معایب کار آزاد و اقتصاد گیگ بحث می‌کنند.",
-    "words": ["freelance", "flexible", "income", "stability", "benefits", "client", "self-employed", "unpredictable", "autonomy", "pension", "hustle", "trade-off", "thrive", "secure"],
+    "words": [
+        "freelance",
+        "flexible",
+        "income",
+        "stability",
+        "benefits",
+        "client",
+        "self-employed",
+        "unpredictable",
+        "autonomy",
+        "pension",
+        "hustle",
+        "trade-off",
+        "thrive",
+        "secure"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

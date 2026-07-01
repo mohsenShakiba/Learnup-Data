@@ -1,7 +1,23 @@
 {
     "title": "10 - Checking In at a Hotel",
     "description": "تحویل گرفتن اتاق و کلید هنگام ورود به هتل.",
-    "words": ["hotel", "reservation", "name", "room", "night", "sign", "breakfast", "included", "wifi", "password", "key", "floor", "elevator", "stay"],
+    "words": [
+        "hotel",
+        "book",
+        "name",
+        "room",
+        "night",
+        "sign",
+        "breakfast",
+        "free",
+        "wifi",
+        "password",
+        "key",
+        "floor",
+        "elevator",
+        "stay"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -12,8 +28,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Thank you. I have a reservation.",
-            "translation": "ممنون. رزرو دارم."
+            "text": "Thank you. I booked a room.",
+            "translation": "ممنون. یک اتاق رزرو کرده‌ام."
         },
         {
             "order": 2,
@@ -48,8 +64,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Is breakfast included?",
-            "translation": "صبحانه شاملش می‌شود؟"
+            "text": "Is breakfast free?",
+            "translation": "صبحانه رایگان است؟"
         },
         {
             "order": 8,

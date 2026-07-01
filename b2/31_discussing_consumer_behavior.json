@@ -1,7 +1,23 @@
 {
     "title": "31 - Discussing Consumer Behavior",
     "description": "دو نفر درباره اینکه چرا مردم چیزهایی را می‌خرند که نیاز ندارند بحث می‌کنند.",
-    "words": ["consumer", "impulse", "marketing", "trend", "status", "advertising", "psychology", "loyalty", "demand", "persuade", "minimalism", "habit", "rational", "influence"],
+    "words": [
+        "consumer",
+        "impulse",
+        "marketing",
+        "trend",
+        "status",
+        "advertising",
+        "psychology",
+        "loyalty",
+        "demand",
+        "persuade",
+        "minimalism",
+        "habit",
+        "rational",
+        "influence"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "1 - Meeting Someone New",
     "description": "آشنایی دو نفر و معرفی خودشان به یکدیگر.",
-    "words": ["hi", "name", "meet", "nice", "new", "first", "day", "welcome", "from", "like", "people", "kind", "great", "later"],
+    "words": [
+        "hi",
+        "name",
+        "meet",
+        "nice",
+        "new",
+        "first",
+        "day",
+        "welcome",
+        "from",
+        "like",
+        "people",
+        "kind",
+        "great",
+        "later"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

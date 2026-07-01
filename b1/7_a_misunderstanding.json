@@ -1,7 +1,23 @@
 {
     "title": "7 - Clearing Up a Misunderstanding",
     "description": "روشن کردن یک سوءتفاهم درباره پیامی که اشتباه فهمیده شده بود.",
-    "words": ["message", "said", "told", "thought", "actually", "mean", "confused", "mention", "promise", "remember", "clear", "assume", "explain", "realize"],
+    "words": [
+        "message",
+        "said",
+        "told",
+        "thought",
+        "actually",
+        "mean",
+        "confused",
+        "mention",
+        "promise",
+        "remember",
+        "clear",
+        "assume",
+        "explain",
+        "realize"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

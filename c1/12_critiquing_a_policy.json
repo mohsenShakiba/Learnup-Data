@@ -1,7 +1,23 @@
 {
     "title": "12 - Critiquing a Policy Proposal",
     "description": "دو تحلیل‌گر یک پیشنهاد سیاستی جدید را نقد می‌کنند و نقاط ضعف آن را می‌سنجند.",
-    "words": ["policy", "proposal", "implications", "feasible", "unintended", "stakeholder", "scrutiny", "flawed", "rationale", "consequence", "ambitious", "loophole", "viable", "assess"],
+    "words": [
+        "policy",
+        "proposal",
+        "implications",
+        "feasible",
+        "unintended",
+        "stakeholder",
+        "scrutiny",
+        "flawed",
+        "rationale",
+        "consequence",
+        "ambitious",
+        "loophole",
+        "viable",
+        "assess"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

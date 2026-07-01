@@ -1,7 +1,23 @@
 {
     "title": "19 - Mentoring a Colleague",
     "description": "یک کارمند باتجربه به همکار جوان‌تری راهنمایی شغلی می‌دهد.",
-    "words": ["mentor", "guidance", "potential", "confidence", "feedback", "develop", "strength", "weakness", "growth", "encourage", "patient", "reflect", "ambition", "support"],
+    "words": [
+        "mentor",
+        "guidance",
+        "potential",
+        "confidence",
+        "feedback",
+        "develop",
+        "strength",
+        "weakness",
+        "growth",
+        "encourage",
+        "patient",
+        "reflect",
+        "ambition",
+        "support"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "24 - Learning a Language",
     "description": "دو نفر درباره چالش‌ها و روش‌های یادگیری یک زبان جدید گفتگو می‌کنند.",
-    "words": ["fluent", "practice", "grammar", "vocabulary", "mistake", "confident", "immerse", "progress", "pronounce", "consistent", "native", "improve", "frustrating", "rewarding"],
+    "words": [
+        "fluent",
+        "practice",
+        "grammar",
+        "vocabulary",
+        "mistake",
+        "confident",
+        "immerse",
+        "progress",
+        "pronounce",
+        "consistent",
+        "native",
+        "improve",
+        "frustrating",
+        "rewarding"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

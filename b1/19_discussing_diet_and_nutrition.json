@@ -1,7 +1,23 @@
 {
     "title": "19 - Discussing Diet and Nutrition",
     "description": "دو دوست درباره تغذیه سالم و تغییر عادت‌های غذایی صحبت می‌کنند.",
-    "words": ["diet", "nutrition", "protein", "processed", "portion", "balanced", "cut", "cravings", "energy", "habit", "vegetables", "gradually", "healthy", "benefit"],
+    "words": [
+        "diet",
+        "nutrition",
+        "protein",
+        "processed",
+        "portion",
+        "balanced",
+        "cut",
+        "cravings",
+        "energy",
+        "habit",
+        "vegetables",
+        "gradually",
+        "healthy",
+        "benefit"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

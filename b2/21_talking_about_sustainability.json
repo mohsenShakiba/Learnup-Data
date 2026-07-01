@@ -1,7 +1,23 @@
 {
     "title": "21 - Sustainability in Business",
     "description": "دو همکار درباره اینکه چگونه شرکت می‌تواند پایدارتر عمل کند بحث می‌کنند.",
-    "words": ["sustainable", "footprint", "emissions", "responsible", "supply chain", "ethical", "long-term", "reduce", "transparent", "stakeholder", "reputation", "invest", "offset", "commit"],
+    "words": [
+        "sustainable",
+        "footprint",
+        "emissions",
+        "responsible",
+        "supply chain",
+        "ethical",
+        "long-term",
+        "reduce",
+        "transparent",
+        "stakeholder",
+        "reputation",
+        "invest",
+        "offset",
+        "commit"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

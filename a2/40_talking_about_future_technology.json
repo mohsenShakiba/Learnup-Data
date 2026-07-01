@@ -1,7 +1,23 @@
 {
     "title": "40 - Talking About Future Technology",
     "description": "گفتگوی ساده درباره اینکه فناوری در آینده چگونه ممکن است زندگی را تغییر دهد.",
-    "words": ["technology", "future", "robot", "electric", "car", "smart", "change", "useful", "imagine", "machine", "faster", "everyday", "worry", "exciting"],
+    "words": [
+        "technology",
+        "future",
+        "robot",
+        "electric",
+        "car",
+        "smart",
+        "change",
+        "useful",
+        "imagine",
+        "machine",
+        "faster",
+        "everyday",
+        "worry",
+        "exciting"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

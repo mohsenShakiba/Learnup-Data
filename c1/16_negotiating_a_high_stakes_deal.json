@@ -1,7 +1,23 @@
 {
     "title": "16 - Negotiating a High-Stakes Deal",
     "description": "دو طرف در یک مذاکره حساس برای ادغام دو شرکت بر سر شرایط چانه می‌زنند.",
-    "words": ["merger", "valuation", "leverage", "concession", "due diligence", "stipulate", "contingent", "walk away", "synergy", "deadlock", "counteroffer", "safeguard", "mutually", "ratify"],
+    "words": [
+        "merger",
+        "valuation",
+        "leverage",
+        "concession",
+        "due diligence",
+        "stipulate",
+        "contingent",
+        "walk away",
+        "synergy",
+        "deadlock",
+        "counteroffer",
+        "safeguard",
+        "mutually",
+        "ratify"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

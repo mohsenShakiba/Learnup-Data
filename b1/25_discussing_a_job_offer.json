@@ -1,7 +1,23 @@
 {
     "title": "25 - Discussing a Job Offer",
     "description": "فردی با یک دوست درباره پذیرفتن یا رد کردن یک پیشنهاد شغلی مشورت می‌کند.",
-    "words": ["offer", "position", "consider", "commute", "salary", "benefits", "doubt", "opportunity", "stable", "risk", "gut", "weigh", "decision", "advice"],
+    "words": [
+        "offer",
+        "position",
+        "consider",
+        "commute",
+        "salary",
+        "benefits",
+        "doubt",
+        "opportunity",
+        "stable",
+        "risk",
+        "gut",
+        "weigh",
+        "decision",
+        "advice"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

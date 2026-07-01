@@ -1,7 +1,23 @@
 {
     "title": "27 - Booking a Taxi",
     "description": "رزرو تلفنی تاکسی برای رفتن به فرودگاه.",
-    "words": ["taxi", "book", "airport", "pick", "early", "morning", "outside", "wait", "driver", "luggage", "hurry", "traffic", "flight", "ready"],
+    "words": [
+        "taxi",
+        "book",
+        "airport",
+        "pick",
+        "early",
+        "morning",
+        "outside",
+        "wait",
+        "driver",
+        "bag",
+        "hurry",
+        "traffic",
+        "flight",
+        "ready"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -42,7 +58,7 @@
         {
             "order": 6,
             "person": 1,
-            "text": "12 Park Road. I have two bags of luggage.",
+            "text": "12 Park Road. I have two bags.",
             "translation": "خیابان پارک، پلاک ۱۲. دو چمدان دارم."
         },
         {

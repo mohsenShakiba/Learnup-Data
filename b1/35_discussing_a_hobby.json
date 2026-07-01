@@ -1,7 +1,23 @@
 {
     "title": "35 - Discussing a Hobby in Depth",
     "description": "فردی درباره سرگرمی عکاسی‌اش و اینکه چرا برایش مهم است صحبت می‌کند.",
-    "words": ["hobby", "passion", "photography", "creative", "technique", "patience", "capture", "perspective", "improve", "equipment", "inspire", "challenge", "rewarding", "share"],
+    "words": [
+        "hobby",
+        "passion",
+        "photography",
+        "creative",
+        "technique",
+        "patience",
+        "capture",
+        "perspective",
+        "improve",
+        "equipment",
+        "inspire",
+        "challenge",
+        "rewarding",
+        "share"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

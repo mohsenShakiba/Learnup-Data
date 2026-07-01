@@ -1,13 +1,27 @@
 {
     "title": "24 - At the Hair Salon",
     "description": "گفتگو با آرایشگر درباره مدل و کوتاهی مو.",
-    "words": ["hair", "cut", "short", "wash", "style", "appointment", "sit", "mirror", "color", "trim", "back", "front", "ready", "tip"],
+    "words": [
+        "hair",
+        "cut",
+        "short",
+        "wash",
+        "style",
+        "sit",
+        "mirror",
+        "color",
+        "back",
+        "front",
+        "ready",
+        "tip"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hi, I have an appointment at two.",
-            "translation": "سلام، ساعت دو وقت دارم."
+            "text": "Hi, I have a haircut at two.",
+            "translation": "سلام، ساعت دو برای کوتاهی مو وقت دارم."
         },
         {
             "order": 1,
@@ -36,7 +50,7 @@
         {
             "order": 5,
             "person": 1,
-            "text": "Yes, please. And a small trim at the back.",
+            "text": "Yes, please. And a small cut at the back.",
             "translation": "بله لطفاً. و کمی کوتاهی پشت سر."
         },
         {

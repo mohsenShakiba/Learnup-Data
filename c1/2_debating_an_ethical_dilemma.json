@@ -1,7 +1,23 @@
 {
     "title": "2 - Debating an Ethical Dilemma",
     "description": "دو دوست درباره یک معضل اخلاقی پیچیده و مرزهای درست و نادرست بحث می‌کنند.",
-    "words": ["dilemma", "ethical", "principle", "justify", "consequence", "intention", "compromise", "integrity", "rationalize", "accountable", "nuance", "subjective", "moral", "weigh"],
+    "words": [
+        "dilemma",
+        "ethical",
+        "principle",
+        "justify",
+        "consequence",
+        "intention",
+        "compromise",
+        "integrity",
+        "rationalize",
+        "accountable",
+        "nuance",
+        "subjective",
+        "moral",
+        "weigh"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

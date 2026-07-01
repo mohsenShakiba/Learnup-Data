@@ -1,7 +1,23 @@
 {
     "title": "18 - Pitching an Idea",
     "description": "کارمندی ایده‌ای جدید را به مدیرش ارائه می‌دهد و او را متقاعد می‌کند.",
-    "words": ["pitch", "proposal", "convince", "potential", "benefit", "concern", "evidence", "investment", "return", "feasible", "rollout", "address", "compelling", "approve"],
+    "words": [
+        "pitch",
+        "proposal",
+        "convince",
+        "potential",
+        "benefit",
+        "concern",
+        "evidence",
+        "investment",
+        "return",
+        "feasible",
+        "rollout",
+        "address",
+        "compelling",
+        "approve"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

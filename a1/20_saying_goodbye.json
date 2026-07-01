@@ -1,7 +1,21 @@
 {
     "title": "20 - Saying Goodbye",
     "description": "خداحافظی با یک دوست پیش از مهاجرت به شهر دیگر.",
-    "words": ["goodbye", "move", "city", "miss", "job", "luck", "visit", "keep", "touch", "call", "week", "friend"],
+    "words": [
+        "goodbye",
+        "move",
+        "city",
+        "miss",
+        "job",
+        "luck",
+        "visit",
+        "keep",
+        "touch",
+        "call",
+        "week",
+        "friend"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

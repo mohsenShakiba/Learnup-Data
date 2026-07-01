@@ -1,7 +1,23 @@
 {
     "title": "30 - Talking About a Role Model",
     "description": "گفتگو درباره فردی که الگوی زندگی و الهام‌بخش بوده است.",
-    "words": ["role model", "inspire", "admire", "values", "determined", "achieve", "overcome", "humble", "influence", "respect", "example", "dedicated", "lesson", "grateful"],
+    "words": [
+        "role model",
+        "inspire",
+        "admire",
+        "values",
+        "determined",
+        "achieve",
+        "overcome",
+        "humble",
+        "influence",
+        "respect",
+        "example",
+        "dedicated",
+        "lesson",
+        "grateful"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

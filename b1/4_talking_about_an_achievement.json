@@ -1,7 +1,23 @@
 {
     "title": "4 - Talking About an Achievement",
     "description": "دوستی درباره دستاورد اخیرش صحبت می‌کند که به تازگی به آن رسیده است.",
-    "words": ["achievement", "finally", "finished", "proud", "challenge", "effort", "achieve", "result", "since", "improve", "experience", "rewarding", "manage", "congratulations"],
+    "words": [
+        "achievement",
+        "finally",
+        "finished",
+        "proud",
+        "challenge",
+        "effort",
+        "achieve",
+        "result",
+        "since",
+        "improve",
+        "experience",
+        "rewarding",
+        "manage",
+        "congratulations"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "25 - Individualism and Collectivism",
     "description": "دو نفر درباره تنش میان آزادی فردی و خیر جمعی در جوامع مختلف بحث می‌کنند.",
-    "words": ["individualism", "collectivism", "autonomy", "communal", "obligation", "society", "interdependent", "prioritize", "tension", "cohesion", "liberty", "sacrifice", "cultural", "equilibrium"],
+    "words": [
+        "individualism",
+        "collectivism",
+        "autonomy",
+        "communal",
+        "obligation",
+        "society",
+        "interdependent",
+        "prioritize",
+        "tension",
+        "cohesion",
+        "liberty",
+        "sacrifice",
+        "cultural",
+        "equilibrium"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

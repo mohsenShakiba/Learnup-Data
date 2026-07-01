@@ -1,7 +1,23 @@
 {
     "title": "15 - Technology's Impact on Society",
     "description": "دو نفر درباره اینکه آیا فناوری مدرن ما را به هم نزدیک‌تر کرده یا دورتر بحث می‌کنند.",
-    "words": ["connectivity", "isolation", "paradox", "superficial", "discourse", "polarize", "attention", "erode", "meaningful", "double-edged", "addictive", "nuance", "trade-off", "civilization"],
+    "words": [
+        "connectivity",
+        "isolation",
+        "paradox",
+        "superficial",
+        "discourse",
+        "polarize",
+        "attention",
+        "erode",
+        "meaningful",
+        "double-edged",
+        "addictive",
+        "nuance",
+        "trade-off",
+        "civilization"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "10 - Discussing Mental Health",
     "description": "دو دوست درباره استرس، فرسودگی و اهمیت مراقبت از سلامت روان صحبت می‌کنند.",
-    "words": ["overwhelmed", "anxious", "cope", "pressure", "wellbeing", "support", "therapy", "balance", "recharge", "vulnerable", "burnout", "mindful", "reach", "genuine"],
+    "words": [
+        "overwhelmed",
+        "anxious",
+        "cope",
+        "pressure",
+        "wellbeing",
+        "support",
+        "therapy",
+        "balance",
+        "recharge",
+        "vulnerable",
+        "burnout",
+        "mindful",
+        "reach",
+        "genuine"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "8 - Reflecting on Personal Growth",
     "description": "دو دوست قدیمی درباره اینکه چگونه در طول سال‌ها تغییر و رشد کرده‌اند تأمل می‌کنند.",
-    "words": ["growth", "introspective", "evolve", "comfort", "humbling", "resilience", "perspective", "self-aware", "embrace", "transform", "gradual", "meaningful", "potential", "grateful"],
+    "words": [
+        "growth",
+        "introspective",
+        "evolve",
+        "comfort",
+        "humbling",
+        "resilience",
+        "perspective",
+        "self-aware",
+        "embrace",
+        "transform",
+        "gradual",
+        "meaningful",
+        "potential",
+        "grateful"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

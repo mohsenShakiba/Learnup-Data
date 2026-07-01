@@ -1,7 +1,23 @@
 {
     "title": "31 - Planning a Picnic",
     "description": "دو دوست برای یک پیک‌نیک آخر هفته در پارک برنامه‌ریزی می‌کنند.",
-    "words": ["picnic", "park", "blanket", "sandwiches", "fruit", "weather", "sunny", "invite", "bring", "drinks", "games", "afternoon", "pack", "fun"],
+    "words": [
+        "picnic",
+        "park",
+        "blanket",
+        "sandwiches",
+        "fruit",
+        "weather",
+        "sunny",
+        "invite",
+        "bring",
+        "drinks",
+        "games",
+        "afternoon",
+        "pack",
+        "fun"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

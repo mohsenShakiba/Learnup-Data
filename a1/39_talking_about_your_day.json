@@ -1,7 +1,23 @@
 {
     "title": "39 - Talking About Your Day",
     "description": "گفتگوی زن و شوهر درباره اینکه روزشان چطور گذشت.",
-    "words": ["day", "work", "busy", "long", "tired", "lunch", "meeting", "home", "dinner", "evening", "rest", "movie", "early", "bed"],
+    "words": [
+        "day",
+        "work",
+        "busy",
+        "long",
+        "tired",
+        "lunch",
+        "meeting",
+        "home",
+        "dinner",
+        "evening",
+        "rest",
+        "movie",
+        "early",
+        "bed"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

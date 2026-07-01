@@ -1,7 +1,23 @@
 {
     "title": "15 - Planning a Surprise Party",
     "description": "دو دوست برای برنامه‌ریزی یک جشن غافلگیرکننده هماهنگ می‌شوند.",
-    "words": ["surprise", "party", "invite", "secret", "guest", "decorate", "cake", "balloon", "hide", "arrive", "organize", "music", "plan", "quiet"],
+    "words": [
+        "surprise",
+        "party",
+        "invite",
+        "secret",
+        "guest",
+        "decorate",
+        "cake",
+        "balloon",
+        "hide",
+        "arrive",
+        "organize",
+        "music",
+        "plan",
+        "quiet"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

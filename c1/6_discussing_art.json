@@ -1,7 +1,23 @@
 {
     "title": "6 - Discussing Art and Interpretation",
     "description": "دو نفر پس از بازدید از یک نمایشگاه، درباره معنا و تفسیر هنر گفتگو می‌کنند.",
-    "words": ["interpretation", "abstract", "evoke", "provocative", "intention", "subjective", "aesthetic", "convey", "resonate", "underlying", "ambiguous", "challenge", "perceive", "profound"],
+    "words": [
+        "interpretation",
+        "abstract",
+        "evoke",
+        "provocative",
+        "intention",
+        "subjective",
+        "aesthetic",
+        "convey",
+        "resonate",
+        "underlying",
+        "ambiguous",
+        "challenge",
+        "perceive",
+        "profound"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

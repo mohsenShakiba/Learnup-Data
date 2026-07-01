@@ -1,7 +1,23 @@
 {
     "title": "1 - Negotiating a Salary",
     "description": "گفتگو با کارفرما درباره حقوق و مزایای یک پیشنهاد شغلی.",
-    "words": ["salary", "offer", "negotiate", "expect", "budget", "benefits", "experience", "raise", "consider", "flexible", "agreement", "package", "reasonable", "accept"],
+    "words": [
+        "salary",
+        "offer",
+        "negotiate",
+        "expect",
+        "budget",
+        "benefits",
+        "experience",
+        "raise",
+        "consider",
+        "flexible",
+        "agreement",
+        "package",
+        "reasonable",
+        "accept"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

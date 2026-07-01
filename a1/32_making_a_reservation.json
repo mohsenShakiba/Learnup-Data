@@ -1,7 +1,22 @@
 {
     "title": "32 - Making a Reservation",
     "description": "رزرو تلفنی میز در رستوران برای شام.",
-    "words": ["reservation", "table", "book", "people", "tonight", "evening", "name", "window", "outside", "time", "confirm", "special", "available", "see"],
+    "words": [
+        "table",
+        "book",
+        "people",
+        "tonight",
+        "evening",
+        "name",
+        "window",
+        "outside",
+        "time",
+        "check",
+        "special",
+        "free",
+        "see"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -42,7 +57,7 @@
         {
             "order": 6,
             "person": 1,
-            "text": "We have a table available at eight. Tonight we have a special dish.",
+            "text": "We have a free table at eight. Tonight we have a special dish.",
             "translation": "ساعت هشت یک میز خالی داریم. امشب یک غذای ویژه داریم."
         },
         {
@@ -54,8 +69,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Of course. What name is the reservation under?",
-            "translation": "البته. رزرو به چه نامی باشد؟"
+            "text": "Of course. What name is the table under?",
+            "translation": "البته. میز به چه نامی باشد؟"
         },
         {
             "order": 9,
@@ -66,8 +81,8 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Perfect. Let me confirm: four people at eight.",
-            "translation": "عالی. تأیید می‌کنم: چهار نفر، ساعت هشت."
+            "text": "Perfect. Let me check: four people at eight.",
+            "translation": "عالی. بگذارید چک کنم: چهار نفر، ساعت هشت."
         },
         {
             "order": 11,

@@ -1,7 +1,23 @@
 {
     "title": "18 - Power and Responsibility",
     "description": "دو نفر درباره اینکه چگونه قدرت اشخاص را تغییر می‌دهد و مسئولیتی که به همراه دارد بحث می‌کنند.",
-    "words": ["power", "corrupt", "responsibility", "accountability", "influence", "integrity", "temptation", "restraint", "abuse", "scrutiny", "wield", "principled", "ethical", "humility"],
+    "words": [
+        "power",
+        "corrupt",
+        "responsibility",
+        "accountability",
+        "influence",
+        "integrity",
+        "temptation",
+        "restraint",
+        "abuse",
+        "scrutiny",
+        "wield",
+        "principled",
+        "ethical",
+        "humility"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

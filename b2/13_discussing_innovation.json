@@ -1,7 +1,23 @@
 {
     "title": "13 - Discussing Innovation",
     "description": "دو حرفه‌ای درباره اهمیت نوآوری و ریسک‌پذیری در یک شرکت بحث می‌کنند.",
-    "words": ["innovation", "breakthrough", "experiment", "stagnate", "iterate", "disrupt", "embrace", "cautious", "creative", "implement", "obsolete", "foster", "edge", "adapt"],
+    "words": [
+        "innovation",
+        "breakthrough",
+        "experiment",
+        "stagnate",
+        "iterate",
+        "disrupt",
+        "embrace",
+        "cautious",
+        "creative",
+        "implement",
+        "obsolete",
+        "foster",
+        "edge",
+        "adapt"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

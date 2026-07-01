@@ -1,7 +1,23 @@
 {
     "title": "3 - Debating Remote Work",
     "description": "دو همکار درباره مزایا و معایب دورکاری بحث می‌کنند.",
-    "words": ["remote", "productivity", "flexibility", "isolation", "collaborate", "commute", "distraction", "boundary", "advantage", "drawback", "hybrid", "discipline", "rely", "overall"],
+    "words": [
+        "remote",
+        "productivity",
+        "flexibility",
+        "isolation",
+        "collaborate",
+        "commute",
+        "distraction",
+        "boundary",
+        "advantage",
+        "drawback",
+        "hybrid",
+        "discipline",
+        "rely",
+        "overall"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "32 - Talking About Music",
     "description": "دو نفر درباره سلیقه موسیقی و کنسرت‌های مورد علاقه گفتگو می‌کنند.",
-    "words": ["music", "band", "song", "concert", "instrument", "sing", "playlist", "rock", "relaxing", "lyrics", "live", "discover", "taste", "favorite"],
+    "words": [
+        "music",
+        "band",
+        "song",
+        "concert",
+        "instrument",
+        "sing",
+        "playlist",
+        "rock",
+        "relaxing",
+        "lyrics",
+        "live",
+        "discover",
+        "taste",
+        "favorite"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

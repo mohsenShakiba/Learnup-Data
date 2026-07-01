@@ -1,7 +1,23 @@
 {
     "title": "25 - Negotiating a Pay Rise",
     "description": "کارمندی با دلیل و آرامش از مدیرش درخواست افزایش حقوق می‌کند.",
-    "words": ["raise", "value", "contribution", "market", "justify", "performance", "responsibility", "review", "reasonable", "deserve", "budget", "consider", "appreciate", "discuss"],
+    "words": [
+        "raise",
+        "value",
+        "contribution",
+        "market",
+        "justify",
+        "performance",
+        "responsibility",
+        "review",
+        "reasonable",
+        "deserve",
+        "budget",
+        "consider",
+        "appreciate",
+        "discuss"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,22 @@
 {
     "title": "17 - Talking About Family",
     "description": "صحبت درباره اعضای خانواده و فرزندان.",
-    "words": ["family", "brother", "sister", "older", "younger", "live", "parents", "city", "married", "children", "son", "daughter", "visit"],
+    "words": [
+        "family",
+        "brother",
+        "sister",
+        "older",
+        "younger",
+        "live",
+        "parents",
+        "city",
+        "married",
+        "children",
+        "son",
+        "daughter",
+        "visit"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

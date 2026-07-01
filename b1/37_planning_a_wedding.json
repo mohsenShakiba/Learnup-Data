@@ -1,7 +1,23 @@
 {
     "title": "37 - Planning a Wedding",
     "description": "زوجی درباره برنامه‌ریزی عروسی و تصمیم‌گیری درباره جزئیات صحبت می‌کنند.",
-    "words": ["wedding", "venue", "guests", "budget", "invitation", "ceremony", "reception", "decorate", "arrange", "afford", "theme", "stressful", "memorable", "compromise"],
+    "words": [
+        "wedding",
+        "venue",
+        "guests",
+        "budget",
+        "invitation",
+        "ceremony",
+        "reception",
+        "decorate",
+        "arrange",
+        "afford",
+        "theme",
+        "stressful",
+        "memorable",
+        "compromise"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

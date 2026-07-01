@@ -1,7 +1,23 @@
 {
     "title": "25 - Meeting a Neighbor",
     "description": "آشنایی با همسایه جدید در ساختمان.",
-    "words": ["neighbor", "next", "door", "move", "floor", "quiet", "noise", "anything", "borrow", "key", "building", "coffee", "anytime", "glad"],
+    "words": [
+        "neighbor",
+        "next",
+        "door",
+        "move",
+        "floor",
+        "quiet",
+        "noise",
+        "anything",
+        "borrow",
+        "key",
+        "building",
+        "coffee",
+        "anytime",
+        "glad"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

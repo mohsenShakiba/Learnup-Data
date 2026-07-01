@@ -1,7 +1,20 @@
 {
     "title": "7 - Making Plans on the Phone",
     "description": "هماهنگی پشت تلفن برای دیدن فیلم در آخر هفته.",
-    "words": ["call", "free", "weekend", "Saturday", "movie", "sounds", "time", "evening", "meet", "cinema", "late"],
+    "words": [
+        "call",
+        "free",
+        "weekend",
+        "Saturday",
+        "movie",
+        "sounds",
+        "time",
+        "evening",
+        "meet",
+        "cinema",
+        "late"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

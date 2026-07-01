@@ -1,7 +1,23 @@
 {
     "title": "13 - Talking About the Environment",
     "description": "دو دوست درباره بازیافت و محافظت از محیط زیست گفتگو می‌کنند.",
-    "words": ["environment", "recycle", "plastic", "waste", "pollution", "reduce", "energy", "climate", "protect", "responsible", "future", "habit", "difference", "planet"],
+    "words": [
+        "environment",
+        "recycle",
+        "plastic",
+        "waste",
+        "pollution",
+        "reduce",
+        "energy",
+        "climate",
+        "protect",
+        "responsible",
+        "future",
+        "habit",
+        "difference",
+        "planet"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "43 - Sharing Household Chores",
     "description": "هم‌خانه‌ای‌ها درباره تقسیم عادلانه کارهای خانه مذاکره می‌کنند.",
-    "words": ["chores", "fair", "share", "schedule", "responsible", "rota", "tidy", "complain", "agree", "turn", "effort", "remind", "balance", "cooperate"],
+    "words": [
+        "chores",
+        "fair",
+        "share",
+        "schedule",
+        "responsible",
+        "rota",
+        "tidy",
+        "complain",
+        "agree",
+        "turn",
+        "effort",
+        "remind",
+        "balance",
+        "cooperate"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

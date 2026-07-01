@@ -1,7 +1,23 @@
 {
     "title": "2 - Discussing a News Story",
     "description": "دو دوست درباره یک خبر مهم که شنیده‌اند بحث می‌کنند.",
-    "words": ["news", "headline", "report", "happened", "believe", "opinion", "according", "government", "decision", "affect", "concerned", "article", "source", "discuss"],
+    "words": [
+        "news",
+        "headline",
+        "report",
+        "happened",
+        "believe",
+        "opinion",
+        "according",
+        "government",
+        "decision",
+        "affect",
+        "concerned",
+        "article",
+        "source",
+        "discuss"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

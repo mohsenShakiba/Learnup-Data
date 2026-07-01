@@ -1,7 +1,21 @@
 {
     "title": "22 - At the Post Office",
     "description": "ارسال یک بسته از اداره پست.",
-    "words": ["package", "send", "letter", "stamp", "weigh", "heavy", "address", "box", "fast", "slow", "deliver", "sign", "receipt", "abroad"],
+    "words": [
+        "package",
+        "send",
+        "letter",
+        "stamp",
+        "heavy",
+        "address",
+        "box",
+        "fast",
+        "slow",
+        "country",
+        "sign",
+        "receipt"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -12,8 +26,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Sure. Let me put it in a box and weigh it.",
-            "translation": "حتماً. بگذارید در یک جعبه بگذارم و وزنش کنم."
+            "text": "Sure. Let me put it in a box and see how heavy it is.",
+            "translation": "حتماً. بگذارید در یک جعبه بگذارم و ببینم چقدر سنگین است."
         },
         {
             "order": 2,
@@ -24,14 +38,14 @@
         {
             "order": 3,
             "person": 1,
-            "text": "It is going abroad, to Spain.",
-            "translation": "به خارج می‌رود، به اسپانیا."
+            "text": "It is going to another country, to Spain.",
+            "translation": "به یک کشور دیگر می‌رود، به اسپانیا."
         },
         {
             "order": 4,
             "person": 2,
-            "text": "Do you want fast or slow delivery?",
-            "translation": "ارسال سریع می‌خواهید یا آهسته؟"
+            "text": "Do you want it fast or slow?",
+            "translation": "آن را سریع می‌خواهید یا آهسته؟"
         },
         {
             "order": 5,
@@ -66,8 +80,8 @@
         {
             "order": 10,
             "person": 2,
-            "text": "Of course. We will deliver it soon.",
-            "translation": "البته. به‌زودی آن را می‌رسانیم."
+            "text": "Of course. We will send it soon.",
+            "translation": "البته. به‌زودی آن را می‌فرستیم."
         }
     ]
 }

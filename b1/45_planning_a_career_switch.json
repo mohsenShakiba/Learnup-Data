@@ -1,7 +1,23 @@
 {
     "title": "45 - Planning a Career Switch",
     "description": "فردی درباره برنامه‌اش برای تغییر مسیر شغلی با یک دوست مشورت می‌کند.",
-    "words": ["career", "switch", "field", "retrain", "passion", "stable", "uncertain", "research", "skills", "network", "transition", "courage", "plan", "pursue"],
+    "words": [
+        "career",
+        "switch",
+        "field",
+        "retrain",
+        "passion",
+        "stable",
+        "uncertain",
+        "research",
+        "skills",
+        "network",
+        "transition",
+        "courage",
+        "plan",
+        "pursue"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

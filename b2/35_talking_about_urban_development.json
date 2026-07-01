@@ -1,7 +1,23 @@
 {
     "title": "35 - Talking About Urban Development",
     "description": "دو ساکن شهر درباره ساخت‌وسازهای جدید و تأثیر آن بر محله بحث می‌کنند.",
-    "words": ["development", "construction", "infrastructure", "affordable", "displace", "green space", "density", "regeneration", "community", "preserve", "investment", "balance", "impact", "thrive"],
+    "words": [
+        "development",
+        "construction",
+        "infrastructure",
+        "affordable",
+        "displace",
+        "green space",
+        "density",
+        "regeneration",
+        "community",
+        "preserve",
+        "investment",
+        "balance",
+        "impact",
+        "thrive"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

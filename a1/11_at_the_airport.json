@@ -1,7 +1,20 @@
 {
     "title": "11 - At the Airport",
     "description": "تحویل چمدان و گرفتن کارت پرواز در فرودگاه.",
-    "words": ["ticket", "passport", "bag", "flight", "delay", "gate", "window", "seat", "boarding", "trip", "minute"],
+    "words": [
+        "ticket",
+        "passport",
+        "bag",
+        "flight",
+        "late",
+        "door",
+        "window",
+        "seat",
+        "plane",
+        "trip",
+        "minute"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -42,20 +55,20 @@
         {
             "order": 6,
             "person": 1,
-            "text": "There is a short delay, about thirty minutes.",
-            "translation": "کمی تأخیر دارد، حدود سی دقیقه."
+            "text": "The flight is a little late, about thirty minutes.",
+            "translation": "پرواز کمی دیر است، حدود سی دقیقه."
         },
         {
             "order": 7,
             "person": 2,
-            "text": "Okay. Which gate is it?",
-            "translation": "باشه. کدام گیت است؟"
+            "text": "Okay. Which door is it?",
+            "translation": "باشه. کدام درب است؟"
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Gate twelve.",
-            "translation": "گیت دوازده است."
+            "text": "Door twelve.",
+            "translation": "درب دوازده است."
         },
         {
             "order": 9,
@@ -66,14 +79,14 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Yes. Here is your boarding pass.",
-            "translation": "بله. این هم کارت پروازتان."
+            "text": "Yes. Here is your ticket for the plane.",
+            "translation": "بله. این هم بلیت سوار شدن به هواپیما."
         },
         {
             "order": 11,
             "person": 1,
-            "text": "Boarding starts at two o'clock.",
-            "translation": "سوار شدن به هواپیما ساعت دو شروع می‌شود."
+            "text": "You get on the plane at two o'clock.",
+            "translation": "ساعت دو سوار هواپیما می‌شوید."
         },
         {
             "order": 12,

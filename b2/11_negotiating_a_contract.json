@@ -1,7 +1,23 @@
 {
     "title": "11 - Negotiating a Contract",
     "description": "دو طرف درباره شرایط یک قرارداد تجاری مذاکره می‌کنند.",
-    "words": ["contract", "terms", "clause", "negotiate", "deadline", "penalty", "flexible", "commitment", "obligation", "amend", "mutual", "guarantee", "renew", "finalize"],
+    "words": [
+        "contract",
+        "terms",
+        "clause",
+        "negotiate",
+        "deadline",
+        "penalty",
+        "flexible",
+        "commitment",
+        "obligation",
+        "amend",
+        "mutual",
+        "guarantee",
+        "renew",
+        "finalize"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "4 - Talking About a Regret",
     "description": "دوستی درباره تصمیمی در گذشته که از آن پشیمان است صحبت می‌کند.",
-    "words": ["regret", "wish", "decision", "opportunity", "turned", "differently", "hindsight", "mistake", "lesson", "realize", "stubborn", "advice", "moved", "accept"],
+    "words": [
+        "regret",
+        "wish",
+        "decision",
+        "opportunity",
+        "turned",
+        "differently",
+        "hindsight",
+        "mistake",
+        "lesson",
+        "realize",
+        "stubborn",
+        "advice",
+        "moved",
+        "accept"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

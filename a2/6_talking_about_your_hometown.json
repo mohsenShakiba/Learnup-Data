@@ -1,7 +1,23 @@
 {
     "title": "6 - Talking About Your Hometown",
     "description": "گفتگو درباره شهر محل تولد و تغییراتی که در آن رخ داده است.",
-    "words": ["hometown", "grew", "small", "quiet", "changed", "bigger", "factory", "river", "memories", "moved", "miss", "visit", "different", "still"],
+    "words": [
+        "hometown",
+        "grew",
+        "small",
+        "quiet",
+        "changed",
+        "bigger",
+        "factory",
+        "river",
+        "memories",
+        "moved",
+        "miss",
+        "visit",
+        "different",
+        "still"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "5 - Navigating Office Politics",
     "description": "یک همکار باتجربه به همکار جوان‌تری درباره مدیریت سیاست‌های پیچیده محیط کار توصیه می‌کند.",
-    "words": ["politics", "alliance", "discreet", "undermine", "credit", "navigate", "agenda", "diplomatic", "trust", "reputation", "neutral", "manipulate", "perception", "tactful"],
+    "words": [
+        "politics",
+        "alliance",
+        "discreet",
+        "undermine",
+        "credit",
+        "navigate",
+        "agenda",
+        "diplomatic",
+        "trust",
+        "reputation",
+        "neutral",
+        "manipulate",
+        "perception",
+        "tactful"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

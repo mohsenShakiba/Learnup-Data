@@ -1,7 +1,23 @@
 {
     "title": "17 - A Networking Conversation",
     "description": "دو حرفه‌ای در یک رویداد شبکه‌سازی با هم آشنا می‌شوند و درباره کارشان صحبت می‌کنند.",
-    "words": ["networking", "industry", "background", "connect", "opportunity", "collaborate", "expertise", "venture", "exchange", "contact", "mutual", "potential", "follow up", "impressed"],
+    "words": [
+        "networking",
+        "industry",
+        "background",
+        "connect",
+        "opportunity",
+        "collaborate",
+        "expertise",
+        "venture",
+        "exchange",
+        "contact",
+        "mutual",
+        "potential",
+        "follow up",
+        "impressed"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

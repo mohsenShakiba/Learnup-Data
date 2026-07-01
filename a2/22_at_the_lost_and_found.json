@@ -1,7 +1,23 @@
 {
     "title": "22 - At the Lost and Found",
     "description": "گم شدن یک کیف و مراجعه به بخش اشیای گمشده.",
-    "words": ["lost", "found", "bag", "describe", "color", "inside", "wallet", "keys", "left", "yesterday", "report", "fill", "form", "lucky"],
+    "words": [
+        "lost",
+        "found",
+        "bag",
+        "describe",
+        "color",
+        "inside",
+        "wallet",
+        "keys",
+        "left",
+        "yesterday",
+        "report",
+        "fill",
+        "form",
+        "lucky"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

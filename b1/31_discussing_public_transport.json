@@ -1,7 +1,23 @@
 {
     "title": "31 - Discussing Public Transport",
     "description": "دو نفر درباره حمل‌ونقل عمومی و مشکلات آن در شهر بحث می‌کنند.",
-    "words": ["transport", "reliable", "delay", "crowded", "fare", "route", "frequent", "alternative", "congestion", "convenient", "invest", "improve", "rely", "schedule"],
+    "words": [
+        "transport",
+        "reliable",
+        "delay",
+        "crowded",
+        "fare",
+        "route",
+        "frequent",
+        "alternative",
+        "congestion",
+        "convenient",
+        "invest",
+        "improve",
+        "rely",
+        "schedule"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

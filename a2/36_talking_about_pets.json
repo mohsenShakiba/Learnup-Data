@@ -1,7 +1,23 @@
 {
     "title": "36 - Talking About Pets",
     "description": "دو همکار درباره حیوانات خانگی‌شان صحبت می‌کنند.",
-    "words": ["pet", "cat", "dog", "feed", "walk", "playful", "quiet", "fur", "responsibility", "vet", "rescue", "company", "adopt", "love"],
+    "words": [
+        "pet",
+        "cat",
+        "dog",
+        "feed",
+        "walk",
+        "playful",
+        "quiet",
+        "fur",
+        "responsibility",
+        "vet",
+        "rescue",
+        "company",
+        "adopt",
+        "love"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "36 - Generational Differences",
     "description": "دو نفر درباره تفاوت‌های میان نسل‌ها و نگرش‌هایشان گفتگو می‌کنند.",
-    "words": ["generation", "attitude", "technology", "values", "tradition", "adapt", "gap", "respect", "criticize", "lifestyle", "experience", "perspective", "judge", "common"],
+    "words": [
+        "generation",
+        "attitude",
+        "technology",
+        "values",
+        "tradition",
+        "adapt",
+        "gap",
+        "respect",
+        "criticize",
+        "lifestyle",
+        "experience",
+        "perspective",
+        "judge",
+        "common"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

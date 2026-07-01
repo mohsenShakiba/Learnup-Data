@@ -1,7 +1,23 @@
 {
     "title": "29 - City Life or Country Life",
     "description": "دو دوست درباره مزایای زندگی در شهر و روستا بحث می‌کنند.",
-    "words": ["countryside", "crowded", "peaceful", "convenient", "pace", "pollution", "community", "isolated", "afford", "nature", "opportunity", "prefer", "trade-off", "lifestyle"],
+    "words": [
+        "countryside",
+        "crowded",
+        "peaceful",
+        "convenient",
+        "pace",
+        "pollution",
+        "community",
+        "isolated",
+        "afford",
+        "nature",
+        "opportunity",
+        "prefer",
+        "trade-off",
+        "lifestyle"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

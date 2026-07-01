@@ -1,7 +1,23 @@
 {
     "title": "23 - At the Optician",
     "description": "مراجعه به عینک‌فروشی برای معاینه چشم و خرید عینک.",
-    "words": ["glasses", "eyes", "test", "read", "blurry", "frame", "lens", "prescription", "try", "suit", "headache", "distance", "choose", "ready"],
+    "words": [
+        "glasses",
+        "eyes",
+        "test",
+        "read",
+        "blurry",
+        "frame",
+        "lens",
+        "prescription",
+        "try",
+        "suit",
+        "headache",
+        "distance",
+        "choose",
+        "ready"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -16,6 +16,7 @@ Each conversation file should use this structure:
     "description": "گفتگو با یک پزشک",
     "words": ["hi", "help"],
     "Level": "A1",
+    "estimatedDuration": 1,
     "sentences" [
         {
             "order": 0,
@@ -32,6 +33,20 @@ Each conversation file should use this structure:
     ]
 }
 ```
+
+## Estimated Duration
+
+Every story must include an `estimatedDuration` field (integer, **minutes**, minimum 1)
+giving the approximate spoken length of the conversation. Estimate it as:
+
+`seconds = total_english_words / 140 * 60 + number_of_sentences`
+`estimatedDuration = max(1, round(seconds / 60))`
+
+That is, spoken English words at ~140 words per minute plus a ~1 second pause for each
+speaker turn, rounded to whole minutes. Recompute and update this field whenever the
+conversation text changes.
+
+## Title & Filename
 
 Use the conversation number in the title. If the title changes, rename the file so the filename matches the new title, for example:
 
@@ -68,3 +83,4 @@ Check that:
 - The focus vocabulary list has 10-20 words.
 - The conversation is understandable for an A1 student.
 - The conversation filename matches the title.
+- The `estimatedDuration` field is present and recomputed from the final conversation text.

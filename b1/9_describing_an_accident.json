@@ -1,7 +1,23 @@
 {
     "title": "9 - Describing an Accident",
     "description": "توضیح دادن یک تصادف کوچک به یک افسر بیمه.",
-    "words": ["accident", "happened", "suddenly", "driving", "crossing", "brake", "crash", "damage", "injured", "witness", "report", "fault", "careful", "lucky"],
+    "words": [
+        "accident",
+        "happened",
+        "suddenly",
+        "driving",
+        "crossing",
+        "brake",
+        "crash",
+        "damage",
+        "injured",
+        "witness",
+        "report",
+        "fault",
+        "careful",
+        "lucky"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

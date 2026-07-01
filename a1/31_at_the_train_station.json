@@ -1,7 +1,19 @@
 {
     "title": "31 - At the Train Station",
     "description": "پرسیدن اطلاعات درباره قطار و سکو در ایستگاه راه‌آهن.",
-    "words": ["train", "platform", "ticket", "next", "leave", "late", "delay", "change", "direct", "arrive", "board", "hurry", "trip"],
+    "words": [
+        "train",
+        "platform",
+        "ticket",
+        "next",
+        "leave",
+        "late",
+        "change",
+        "arrive",
+        "hurry",
+        "trip"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -24,8 +36,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Platform five. But there is a short delay.",
-            "translation": "سکوی پنج. اما کمی تأخیر دارد."
+            "text": "Platform five. But the train is a little late.",
+            "translation": "سکوی پنج. اما قطار کمی دیر است."
         },
         {
             "order": 4,
@@ -42,14 +54,14 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Is it a direct train?",
-            "translation": "قطار مستقیم است؟"
+            "text": "Do I change trains?",
+            "translation": "باید قطار عوض کنم؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "No, you change trains in Lyon.",
-            "translation": "نه، در لیون قطار عوض می‌کنید."
+            "text": "Yes, you change trains in Lyon.",
+            "translation": "بله، در لیون قطار عوض می‌کنید."
         },
         {
             "order": 8,
@@ -78,7 +90,7 @@
         {
             "order": 12,
             "person": 2,
-            "text": "You can board in a few minutes. Have a good trip.",
+            "text": "You can get on in a few minutes. Have a good trip.",
             "translation": "تا چند دقیقه دیگر می‌توانید سوار شوید. سفر خوبی داشته باشید."
         }
     ]

@@ -1,7 +1,23 @@
 {
     "title": "32 - Discussing Online Shopping",
     "description": "دو دوست درباره مزایا و معایب خرید اینترنتی صحبت می‌کنند.",
-    "words": ["online", "convenient", "deliver", "return", "review", "quality", "scam", "compare", "browse", "tempting", "refund", "support", "prefer", "trust"],
+    "words": [
+        "online",
+        "convenient",
+        "deliver",
+        "return",
+        "review",
+        "quality",
+        "scam",
+        "compare",
+        "browse",
+        "tempting",
+        "refund",
+        "support",
+        "prefer",
+        "trust"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

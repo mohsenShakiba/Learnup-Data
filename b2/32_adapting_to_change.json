@@ -1,7 +1,23 @@
 {
     "title": "32 - Adapting to Change",
     "description": "دو همکار درباره چگونگی سازگاری با تغییرات بزرگ در محل کار صحبت می‌کنند.",
-    "words": ["change", "adapt", "uncertainty", "resist", "flexible", "transition", "embrace", "mindset", "comfort zone", "evolve", "resilient", "opportunity", "adjust", "thrive"],
+    "words": [
+        "change",
+        "adapt",
+        "uncertainty",
+        "resist",
+        "flexible",
+        "transition",
+        "embrace",
+        "mindset",
+        "comfort zone",
+        "evolve",
+        "resilient",
+        "opportunity",
+        "adjust",
+        "thrive"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

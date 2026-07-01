@@ -1,7 +1,23 @@
 {
     "title": "23 - A Customer Service Call",
     "description": "تماس با خدمات مشتری برای حل مشکل یک قبض اشتباه.",
-    "words": ["account", "charge", "incorrect", "bill", "explain", "refund", "investigate", "apologize", "reference", "resolve", "double", "process", "patience", "update"],
+    "words": [
+        "account",
+        "charge",
+        "incorrect",
+        "bill",
+        "explain",
+        "refund",
+        "investigate",
+        "apologize",
+        "reference",
+        "resolve",
+        "double",
+        "process",
+        "patience",
+        "update"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "38 - A Self-Appraisal",
     "description": "کارمندی در جلسه ارزیابی، عملکرد سال خود را صادقانه تحلیل می‌کند.",
-    "words": ["appraisal", "reflect", "accomplish", "shortfall", "objective", "exceed", "acknowledge", "improvement", "initiative", "feedback", "honest", "growth", "target", "contribute"],
+    "words": [
+        "appraisal",
+        "reflect",
+        "accomplish",
+        "shortfall",
+        "objective",
+        "exceed",
+        "acknowledge",
+        "improvement",
+        "initiative",
+        "feedback",
+        "honest",
+        "growth",
+        "target",
+        "contribute"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

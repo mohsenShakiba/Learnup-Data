@@ -1,7 +1,23 @@
 {
     "title": "34 - A Difficult Client Negotiation",
     "description": "مدیر فروش با مشتری سختگیری که خواهان تخفیف بزرگ است مذاکره می‌کند.",
-    "words": ["negotiation", "discount", "value", "margin", "firm", "compromise", "justify", "budget", "relationship", "concession", "reasonable", "walk away", "leverage", "agreement"],
+    "words": [
+        "negotiation",
+        "discount",
+        "value",
+        "margin",
+        "firm",
+        "compromise",
+        "justify",
+        "budget",
+        "relationship",
+        "concession",
+        "reasonable",
+        "walk away",
+        "leverage",
+        "agreement"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

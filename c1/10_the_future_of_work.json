@@ -1,7 +1,23 @@
 {
     "title": "10 - The Future of Work",
     "description": "دو متخصص درباره اینکه اتوماسیون و هوش مصنوعی چگونه ماهیت کار را دگرگون می‌کنند بحث می‌کنند.",
-    "words": ["automation", "obsolete", "reskill", "displacement", "augment", "workforce", "adapt", "redundant", "transition", "inevitable", "upskill", "disruption", "redefine", "resilience"],
+    "words": [
+        "automation",
+        "obsolete",
+        "reskill",
+        "displacement",
+        "augment",
+        "workforce",
+        "adapt",
+        "redundant",
+        "transition",
+        "inevitable",
+        "upskill",
+        "disruption",
+        "redefine",
+        "resilience"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

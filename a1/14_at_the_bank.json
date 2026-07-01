@@ -1,7 +1,19 @@
 {
     "title": "14 - At the Bank",
     "description": "باز کردن یک حساب جدید در بانک.",
-    "words": ["bank", "account", "open", "form", "deposit", "dollar", "card", "money", "ATM", "help"],
+    "words": [
+        "bank",
+        "account",
+        "open",
+        "form",
+        "put",
+        "dollar",
+        "card",
+        "money",
+        "ATM",
+        "help"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -42,8 +54,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "How much do you want to deposit?",
-            "translation": "چقدر می‌خواهید واریز کنید؟"
+            "text": "How much do you want to put in?",
+            "translation": "چقدر می‌خواهید بگذارید؟"
         },
         {
             "order": 7,

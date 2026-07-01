@@ -1,7 +1,23 @@
 {
     "title": "6 - Talking About Personal Finance",
     "description": "دو دوست درباره پس‌انداز، بودجه‌بندی و سرمایه‌گذاری گفتگو می‌کنند.",
-    "words": ["budget", "savings", "invest", "expenses", "afford", "income", "interest", "debt", "financial", "priority", "track", "long-term", "risk", "secure"],
+    "words": [
+        "budget",
+        "savings",
+        "invest",
+        "expenses",
+        "afford",
+        "income",
+        "interest",
+        "debt",
+        "financial",
+        "priority",
+        "track",
+        "long-term",
+        "risk",
+        "secure"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

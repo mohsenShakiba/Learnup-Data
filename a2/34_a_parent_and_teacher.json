@@ -1,7 +1,23 @@
 {
     "title": "34 - A Parent and Teacher Talk",
     "description": "گفتگوی کوتاه یک والد با معلم درباره پیشرفت فرزندش.",
-    "words": ["teacher", "student", "progress", "homework", "behavior", "improve", "subject", "attention", "reading", "support", "proud", "effort", "encourage", "result"],
+    "words": [
+        "teacher",
+        "student",
+        "progress",
+        "homework",
+        "behavior",
+        "improve",
+        "subject",
+        "attention",
+        "reading",
+        "support",
+        "proud",
+        "effort",
+        "encourage",
+        "result"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

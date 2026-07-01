@@ -1,7 +1,23 @@
 {
     "title": "6 - Giving Advice to a Friend",
     "description": "دادن توصیه به دوستی که درباره یک تصمیم شغلی مردد است.",
-    "words": ["advice", "decision", "should", "consider", "opportunity", "risk", "regret", "careful", "depends", "suggest", "instead", "worried", "confident", "support"],
+    "words": [
+        "advice",
+        "decision",
+        "should",
+        "consider",
+        "opportunity",
+        "risk",
+        "regret",
+        "careful",
+        "depends",
+        "suggest",
+        "instead",
+        "worried",
+        "confident",
+        "support"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

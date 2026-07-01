@@ -1,7 +1,23 @@
 {
     "title": "38 - Collecting a Parcel",
     "description": "گرفتن یک بسته از انبار پست با کارت اطلاع‌رسانی.",
-    "words": ["parcel", "collect", "card", "delivery", "missed", "identity", "sign", "shelf", "counter", "address", "name", "check", "ready", "thanks"],
+    "words": [
+        "parcel",
+        "collect",
+        "card",
+        "delivery",
+        "missed",
+        "identity",
+        "sign",
+        "shelf",
+        "counter",
+        "address",
+        "name",
+        "check",
+        "ready",
+        "thanks"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

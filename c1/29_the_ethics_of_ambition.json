@@ -1,7 +1,23 @@
 {
     "title": "29 - The Ethics of Ambition",
     "description": "دو نفر درباره اینکه جاه‌طلبی در چه نقطه‌ای از انگیزه سالم به بلندپروازی مخرب تبدیل می‌شود بحث می‌کنند.",
-    "words": ["ambition", "ruthless", "integrity", "compromise", "principled", "cutthroat", "scruples", "attain", "justify", "conscience", "corrosive", "boundary", "temper", "noble"],
+    "words": [
+        "ambition",
+        "ruthless",
+        "integrity",
+        "compromise",
+        "principled",
+        "cutthroat",
+        "scruples",
+        "attain",
+        "justify",
+        "conscience",
+        "corrosive",
+        "boundary",
+        "temper",
+        "noble"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

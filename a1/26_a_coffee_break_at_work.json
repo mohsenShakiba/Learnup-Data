@@ -1,7 +1,23 @@
 {
     "title": "26 - A Coffee Break at Work",
     "description": "گفتگوی کوتاه دو همکار در زمان استراحت سر کار.",
-    "words": ["break", "busy", "tired", "meeting", "boss", "project", "deadline", "weekend", "rest", "lunch", "almost", "finish", "relax", "soon"],
+    "words": [
+        "break",
+        "busy",
+        "tired",
+        "meeting",
+        "boss",
+        "work",
+        "ready",
+        "weekend",
+        "rest",
+        "lunch",
+        "almost",
+        "finish",
+        "relax",
+        "soon"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -24,8 +40,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "I know. The project has a deadline on Friday.",
-            "translation": "می‌دانم. پروژه جمعه مهلت دارد."
+            "text": "I know. Our work must be ready on Friday.",
+            "translation": "می‌دانم. کارمان باید جمعه آماده باشد."
         },
         {
             "order": 4,

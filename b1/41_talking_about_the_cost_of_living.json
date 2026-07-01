@@ -1,7 +1,23 @@
 {
     "title": "41 - The Cost of Living",
     "description": "دو دوست درباره افزایش هزینه‌های زندگی و راه‌های مدیریت آن صحبت می‌کنند.",
-    "words": ["rent", "rising", "expenses", "afford", "bills", "income", "tight", "cut back", "essential", "budget", "struggle", "manage", "increase", "cope"],
+    "words": [
+        "rent",
+        "rising",
+        "expenses",
+        "afford",
+        "bills",
+        "income",
+        "tight",
+        "cut back",
+        "essential",
+        "budget",
+        "struggle",
+        "manage",
+        "increase",
+        "cope"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

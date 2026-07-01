@@ -1,7 +1,23 @@
 {
     "title": "8 - Technology and Daily Habits",
     "description": "گفتگو درباره تأثیر تلفن همراه و فناوری بر زندگی روزمره.",
-    "words": ["technology", "screen", "addicted", "notice", "distract", "limit", "balance", "social", "constantly", "productive", "control", "habit", "aware", "reduce"],
+    "words": [
+        "technology",
+        "screen",
+        "addicted",
+        "notice",
+        "distract",
+        "limit",
+        "balance",
+        "social",
+        "constantly",
+        "productive",
+        "control",
+        "habit",
+        "aware",
+        "reduce"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

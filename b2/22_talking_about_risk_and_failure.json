@@ -1,7 +1,23 @@
 {
     "title": "22 - Talking About Risk and Failure",
     "description": "دو کارآفرین درباره پذیرفتن ریسک و یاد گرفتن از شکست صحبت می‌کنند.",
-    "words": ["risk", "failure", "setback", "resilience", "lesson", "calculated", "bounce back", "fear", "venture", "persevere", "mindset", "opportunity", "embrace", "growth"],
+    "words": [
+        "risk",
+        "failure",
+        "setback",
+        "resilience",
+        "lesson",
+        "calculated",
+        "bounce back",
+        "fear",
+        "venture",
+        "persevere",
+        "mindset",
+        "opportunity",
+        "embrace",
+        "growth"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

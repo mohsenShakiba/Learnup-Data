@@ -1,7 +1,23 @@
 {
     "title": "3 - Resolving a Disagreement",
     "description": "دو همکار درباره یک سوءتفاهم کاری صحبت می‌کنند و آن را حل می‌کنند.",
-    "words": ["disagreement", "misunderstand", "explain", "apologize", "blame", "fault", "calm", "honestly", "compromise", "solution", "respect", "frustrated", "resolve", "agree"],
+    "words": [
+        "disagreement",
+        "misunderstand",
+        "explain",
+        "apologize",
+        "blame",
+        "fault",
+        "calm",
+        "honestly",
+        "compromise",
+        "solution",
+        "respect",
+        "frustrated",
+        "resolve",
+        "agree"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

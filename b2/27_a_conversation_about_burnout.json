@@ -1,7 +1,23 @@
 {
     "title": "27 - Recovering From Burnout",
     "description": "فردی که دچار فرسودگی شغلی شده درباره بهبودی‌اش با یک دوست صحبت می‌کند.",
-    "words": ["burnout", "exhausted", "recover", "boundaries", "overwork", "recharge", "priorities", "guilt", "balance", "support", "perspective", "sustainable", "gradually", "wellbeing"],
+    "words": [
+        "burnout",
+        "exhausted",
+        "recover",
+        "boundaries",
+        "overwork",
+        "recharge",
+        "priorities",
+        "guilt",
+        "balance",
+        "support",
+        "perspective",
+        "sustainable",
+        "gradually",
+        "wellbeing"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

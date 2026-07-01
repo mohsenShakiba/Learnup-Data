@@ -1,7 +1,23 @@
 {
     "title": "9 - Debating Free Will",
     "description": "دو دوست درباره اینکه آیا انسان واقعاً اراده آزاد دارد یا خیر بحث فلسفی می‌کنند.",
-    "words": ["free will", "determinism", "predetermined", "consciousness", "illusion", "agency", "inevitable", "philosophical", "accountable", "circumstance", "compelling", "contradict", "premise", "ultimately"],
+    "words": [
+        "free will",
+        "determinism",
+        "predetermined",
+        "consciousness",
+        "illusion",
+        "agency",
+        "inevitable",
+        "philosophical",
+        "accountable",
+        "circumstance",
+        "compelling",
+        "contradict",
+        "premise",
+        "ultimately"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

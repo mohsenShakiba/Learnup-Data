@@ -1,7 +1,23 @@
 {
     "title": "1 - A Strategic Business Discussion",
     "description": "دو مدیر ارشد درباره راهبرد بلندمدت شرکت و موقعیت آن در بازار گفتگو می‌کنند.",
-    "words": ["strategy", "leverage", "positioning", "disruption", "sustainable", "consolidate", "diversify", "momentum", "headwinds", "agile", "trajectory", "differentiate", "exposure", "pivot"],
+    "words": [
+        "strategy",
+        "leverage",
+        "positioning",
+        "disruption",
+        "sustainable",
+        "consolidate",
+        "diversify",
+        "momentum",
+        "headwinds",
+        "agile",
+        "trajectory",
+        "differentiate",
+        "exposure",
+        "pivot"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

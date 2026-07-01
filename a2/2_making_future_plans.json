@@ -1,7 +1,23 @@
 {
     "title": "2 - Making Future Plans",
     "description": "دو دوست درباره برنامه‌های آینده برای تعطیلات صحبت می‌کنند.",
-    "words": ["plan", "going", "holiday", "save", "money", "flight", "book", "abroad", "learn", "language", "maybe", "decide", "next", "exciting"],
+    "words": [
+        "plan",
+        "going",
+        "holiday",
+        "save",
+        "money",
+        "flight",
+        "book",
+        "abroad",
+        "learn",
+        "language",
+        "maybe",
+        "decide",
+        "next",
+        "exciting"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

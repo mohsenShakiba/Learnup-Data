@@ -1,7 +1,23 @@
 {
     "title": "14 - Weekend Chores",
     "description": "زوجی کارهای خانه آخر هفته را بین خود تقسیم می‌کنند.",
-    "words": ["chores", "clean", "wash", "dishes", "laundry", "shopping", "vacuum", "later", "share", "tidy", "garden", "finish", "together", "rest"],
+    "words": [
+        "chores",
+        "clean",
+        "wash",
+        "dishes",
+        "laundry",
+        "shopping",
+        "vacuum",
+        "later",
+        "share",
+        "tidy",
+        "garden",
+        "finish",
+        "together",
+        "rest"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

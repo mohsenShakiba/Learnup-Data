@@ -1,7 +1,23 @@
 {
     "title": "8 - At the Doctor",
     "description": "گفتگو با دکتر درباره علائم سرماخوردگی.",
-    "words": ["sick", "feel", "head", "hurt", "fever", "throat", "tired", "cold", "water", "rest", "medicine", "day", "better", "sleep"],
+    "words": [
+        "sick",
+        "feel",
+        "head",
+        "hurt",
+        "hot",
+        "throat",
+        "tired",
+        "cold",
+        "water",
+        "rest",
+        "medicine",
+        "day",
+        "better",
+        "sleep"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -18,8 +34,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Do you have a fever?",
-            "translation": "تب دارید؟"
+            "text": "Do you feel hot?",
+            "translation": "احساس داغی می‌کنید؟"
         },
         {
             "order": 3,

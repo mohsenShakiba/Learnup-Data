@@ -1,7 +1,23 @@
 {
     "title": "33 - Talking About Personal Goals",
     "description": "دو دوست درباره اهداف شخصی و برنامه‌هایشان برای سال جدید گفتگو می‌کنند.",
-    "words": ["goal", "achieve", "resolution", "realistic", "motivated", "progress", "habit", "commit", "track", "deadline", "focus", "encourage", "reward", "consistent"],
+    "words": [
+        "goal",
+        "achieve",
+        "resolution",
+        "realistic",
+        "motivated",
+        "progress",
+        "habit",
+        "commit",
+        "track",
+        "deadline",
+        "focus",
+        "encourage",
+        "reward",
+        "consistent"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

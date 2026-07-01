@@ -1,7 +1,23 @@
 {
     "title": "19 - Reflecting on Reinvention",
     "description": "فردی که زندگی‌اش را پس از یک شکست بزرگ از نو ساخته، تجربه‌اش را بازگو می‌کند.",
-    "words": ["reinvention", "rock bottom", "pivot", "reinvent", "humbling", "perspective", "resilience", "salvage", "transform", "redefine", "adversity", "emerge", "liberating", "grateful"],
+    "words": [
+        "reinvention",
+        "rock bottom",
+        "pivot",
+        "reinvent",
+        "humbling",
+        "perspective",
+        "resilience",
+        "salvage",
+        "transform",
+        "redefine",
+        "adversity",
+        "emerge",
+        "liberating",
+        "grateful"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

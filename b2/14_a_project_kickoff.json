@@ -1,7 +1,23 @@
 {
     "title": "14 - A Project Kickoff Meeting",
     "description": "مدیر پروژه در جلسه آغازین، اهداف و نقش‌ها را با تیم مرور می‌کند.",
-    "words": ["kickoff", "objective", "milestone", "deliverable", "scope", "timeline", "allocate", "stakeholder", "dependency", "align", "accountable", "feedback", "resource", "track"],
+    "words": [
+        "kickoff",
+        "objective",
+        "milestone",
+        "deliverable",
+        "scope",
+        "timeline",
+        "allocate",
+        "stakeholder",
+        "dependency",
+        "align",
+        "accountable",
+        "feedback",
+        "resource",
+        "track"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

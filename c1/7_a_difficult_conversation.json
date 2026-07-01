@@ -1,7 +1,23 @@
 {
     "title": "7 - A Difficult Conversation",
     "description": "یک مدیر خبر سخت تعدیل نیرو را به‌صورت محترمانه و شفاف به یک کارمند منتقل می‌کند.",
-    "words": ["restructuring", "redundant", "regret", "transition", "severance", "circumstances", "valued", "transparent", "reference", "notice", "absorb", "candidly", "support", "dignity"],
+    "words": [
+        "restructuring",
+        "redundant",
+        "regret",
+        "transition",
+        "severance",
+        "circumstances",
+        "valued",
+        "transparent",
+        "reference",
+        "notice",
+        "absorb",
+        "candidly",
+        "support",
+        "dignity"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

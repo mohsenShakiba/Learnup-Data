@@ -1,7 +1,23 @@
 {
     "title": "4 - At a Restaurant",
     "description": "سفارش غذا و گرفتن صورتحساب در رستوران.",
-    "words": ["table", "menu", "water", "order", "chicken", "rice", "salad", "drink", "food", "hungry", "delicious", "bill", "evening", "ready"],
+    "words": [
+        "table",
+        "menu",
+        "water",
+        "order",
+        "chicken",
+        "rice",
+        "salad",
+        "drink",
+        "food",
+        "hungry",
+        "delicious",
+        "bill",
+        "evening",
+        "ready"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

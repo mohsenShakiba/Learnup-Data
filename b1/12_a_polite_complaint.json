@@ -1,7 +1,23 @@
 {
     "title": "12 - A Polite Restaurant Complaint",
     "description": "مطرح کردن مؤدبانه یک مشکل با غذا و سرویس در رستوران.",
-    "words": ["complaint", "polite", "afraid", "cold", "ordered", "wrong", "apologize", "replace", "manager", "expect", "service", "disappointed", "fresh", "compensate"],
+    "words": [
+        "complaint",
+        "polite",
+        "afraid",
+        "cold",
+        "ordered",
+        "wrong",
+        "apologize",
+        "replace",
+        "manager",
+        "expect",
+        "service",
+        "disappointed",
+        "fresh",
+        "compensate"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

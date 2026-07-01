@@ -1,7 +1,23 @@
 {
     "title": "34 - A Difficult Decision",
     "description": "فردی درباره یک تصمیم دشوار زندگی با دوستی مشورت می‌کند.",
-    "words": ["decision", "torn", "options", "consequence", "instinct", "advice", "pros", "cons", "uncertain", "commit", "regret", "support", "reflect", "clarity"],
+    "words": [
+        "decision",
+        "torn",
+        "options",
+        "consequence",
+        "instinct",
+        "advice",
+        "pros",
+        "cons",
+        "uncertain",
+        "commit",
+        "regret",
+        "support",
+        "reflect",
+        "clarity"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

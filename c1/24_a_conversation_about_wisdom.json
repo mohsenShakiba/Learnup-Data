@@ -1,7 +1,23 @@
 {
     "title": "24 - A Conversation About Wisdom",
     "description": "دو نفر درباره تفاوت میان دانش و خرد و اینکه خرد چگونه به دست می‌آید تأمل می‌کنند.",
-    "words": ["wisdom", "knowledge", "discernment", "experience", "humility", "judgment", "accumulate", "intuition", "reflection", "prudent", "insight", "distinguish", "mature", "perspective"],
+    "words": [
+        "wisdom",
+        "knowledge",
+        "discernment",
+        "experience",
+        "humility",
+        "judgment",
+        "accumulate",
+        "intuition",
+        "reflection",
+        "prudent",
+        "insight",
+        "distinguish",
+        "mature",
+        "perspective"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

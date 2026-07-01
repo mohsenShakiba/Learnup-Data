@@ -1,7 +1,23 @@
 {
     "title": "22 - Persuasion and Influence",
     "description": "دو حرفه‌ای درباره مرز میان متقاعدسازی اخلاقی و دستکاری بحث می‌کنند.",
-    "words": ["persuasion", "manipulation", "influence", "rhetoric", "ethical", "transparent", "leverage", "credibility", "coerce", "consent", "subtle", "principled", "exploit", "boundary"],
+    "words": [
+        "persuasion",
+        "manipulation",
+        "influence",
+        "rhetoric",
+        "ethical",
+        "transparent",
+        "leverage",
+        "credibility",
+        "coerce",
+        "consent",
+        "subtle",
+        "principled",
+        "exploit",
+        "boundary"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "12 - Planning a Community Event",
     "description": "دو داوطلب درباره سازماندهی یک رویداد محلی برنامه‌ریزی می‌کنند.",
-    "words": ["community", "volunteer", "organize", "venue", "budget", "promote", "sponsor", "attendance", "logistics", "coordinate", "permit", "raise", "awareness", "successful"],
+    "words": [
+        "community",
+        "volunteer",
+        "organize",
+        "venue",
+        "budget",
+        "promote",
+        "sponsor",
+        "attendance",
+        "logistics",
+        "coordinate",
+        "permit",
+        "raise",
+        "awareness",
+        "successful"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

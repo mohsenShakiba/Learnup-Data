@@ -1,7 +1,23 @@
 {
     "title": "3 - First Day at a New Job",
     "description": "روز اول کار و آشنایی با مدیر و وظایف جدید.",
-    "words": ["manager", "team", "desk", "computer", "task", "explain", "training", "colleague", "schedule", "break", "question", "learn", "welcome", "ready"],
+    "words": [
+        "manager",
+        "team",
+        "desk",
+        "computer",
+        "task",
+        "explain",
+        "training",
+        "colleague",
+        "schedule",
+        "break",
+        "question",
+        "learn",
+        "welcome",
+        "ready"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "38 - Understanding Health Insurance",
     "description": "فردی از یک کارشناس درباره انتخاب بیمه درمانی مناسب سؤال می‌کند.",
-    "words": ["insurance", "cover", "premium", "policy", "claim", "deductible", "treatment", "include", "exclude", "monthly", "afford", "benefit", "compare", "suitable"],
+    "words": [
+        "insurance",
+        "cover",
+        "premium",
+        "policy",
+        "claim",
+        "deductible",
+        "treatment",
+        "include",
+        "exclude",
+        "monthly",
+        "afford",
+        "benefit",
+        "compare",
+        "suitable"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

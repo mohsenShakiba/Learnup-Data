@@ -1,7 +1,23 @@
 {
     "title": "26 - Describing a Memorable Trip",
     "description": "گفتگو درباره یک سفر به‌یادماندنی و تجربیاتی که در آن رخ داد.",
-    "words": ["memorable", "journey", "scenery", "local", "guide", "unexpected", "adventure", "culture", "stunning", "highlight", "experience", "recommend", "wander", "unforgettable"],
+    "words": [
+        "memorable",
+        "journey",
+        "scenery",
+        "local",
+        "guide",
+        "unexpected",
+        "adventure",
+        "culture",
+        "stunning",
+        "highlight",
+        "experience",
+        "recommend",
+        "wander",
+        "unforgettable"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

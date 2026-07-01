@@ -1,7 +1,23 @@
 {
     "title": "17 - Talking About Volunteering",
     "description": "دو نفر درباره تجربه داوطلبی و کمک به جامعه گفتگو می‌کنند.",
-    "words": ["volunteer", "charity", "community", "spare", "rewarding", "shelter", "donate", "organize", "cause", "involved", "difference", "experience", "grateful", "encourage"],
+    "words": [
+        "volunteer",
+        "charity",
+        "community",
+        "spare",
+        "rewarding",
+        "shelter",
+        "donate",
+        "organize",
+        "cause",
+        "involved",
+        "difference",
+        "experience",
+        "grateful",
+        "encourage"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

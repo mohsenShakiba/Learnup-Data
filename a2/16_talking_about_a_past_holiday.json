@@ -1,7 +1,23 @@
 {
     "title": "16 - Talking About a Past Holiday",
     "description": "گفتگو درباره خاطرات یک سفر تعطیلات گذشته.",
-    "words": ["holiday", "beach", "stayed", "hotel", "weather", "swim", "delicious", "photos", "trip", "relaxing", "explored", "local", "memorable", "amazing"],
+    "words": [
+        "holiday",
+        "beach",
+        "stayed",
+        "hotel",
+        "weather",
+        "swim",
+        "delicious",
+        "photos",
+        "trip",
+        "relaxing",
+        "explored",
+        "local",
+        "memorable",
+        "amazing"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

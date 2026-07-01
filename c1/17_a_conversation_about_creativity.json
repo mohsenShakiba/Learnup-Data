@@ -1,7 +1,23 @@
 {
     "title": "17 - A Conversation About Creativity",
     "description": "دو هنرمند درباره منشأ خلاقیت و اینکه آیا می‌توان آن را پرورش داد بحث می‌کنند.",
-    "words": ["creativity", "inspiration", "constraint", "cultivate", "originality", "intuition", "discipline", "spontaneous", "incubate", "derivative", "elusive", "vulnerability", "flow", "nurture"],
+    "words": [
+        "creativity",
+        "inspiration",
+        "constraint",
+        "cultivate",
+        "originality",
+        "intuition",
+        "discipline",
+        "spontaneous",
+        "incubate",
+        "derivative",
+        "elusive",
+        "vulnerability",
+        "flow",
+        "nurture"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

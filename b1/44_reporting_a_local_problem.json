@@ -1,7 +1,23 @@
 {
     "title": "44 - Reporting a Local Problem",
     "description": "شهروندی یک مشکل محلی را به دفتر شورای شهر گزارش می‌دهد.",
-    "words": ["council", "complaint", "streetlight", "broken", "report", "dangerous", "repair", "resident", "affect", "urgent", "responsible", "investigate", "fix", "follow up"],
+    "words": [
+        "council",
+        "complaint",
+        "streetlight",
+        "broken",
+        "report",
+        "dangerous",
+        "repair",
+        "resident",
+        "affect",
+        "urgent",
+        "responsible",
+        "investigate",
+        "fix",
+        "follow up"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "5 - Renting a Car Abroad",
     "description": "اجاره خودرو در یک کشور خارجی و بررسی شرایط و بیمه.",
-    "words": ["rent", "license", "insurance", "deposit", "automatic", "manual", "mileage", "fuel", "return", "damage", "additional", "include", "policy", "condition"],
+    "words": [
+        "rent",
+        "license",
+        "insurance",
+        "deposit",
+        "automatic",
+        "manual",
+        "mileage",
+        "fuel",
+        "return",
+        "damage",
+        "additional",
+        "include",
+        "policy",
+        "condition"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

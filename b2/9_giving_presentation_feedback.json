@@ -1,7 +1,23 @@
 {
     "title": "9 - Giving Presentation Feedback",
     "description": "ارائه بازخورد سازنده به یک همکار درباره ارائه‌ای که انجام داده است.",
-    "words": ["presentation", "feedback", "engaging", "structure", "audience", "confident", "pace", "slides", "concise", "improve", "rehearse", "highlight", "constructive", "impact"],
+    "words": [
+        "presentation",
+        "feedback",
+        "engaging",
+        "structure",
+        "audience",
+        "confident",
+        "pace",
+        "slides",
+        "concise",
+        "improve",
+        "rehearse",
+        "highlight",
+        "constructive",
+        "impact"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

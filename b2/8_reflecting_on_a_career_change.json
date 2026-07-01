@@ -1,7 +1,23 @@
 {
     "title": "8 - Reflecting on a Career Change",
     "description": "گفتگو درباره تصمیم برای تغییر مسیر شغلی و دلایل آن.",
-    "words": ["career", "switch", "passion", "fulfilling", "stable", "uncertain", "retrain", "courage", "field", "transferable", "motivation", "pursue", "sacrifice", "worthwhile"],
+    "words": [
+        "career",
+        "switch",
+        "passion",
+        "fulfilling",
+        "stable",
+        "uncertain",
+        "retrain",
+        "courage",
+        "field",
+        "transferable",
+        "motivation",
+        "pursue",
+        "sacrifice",
+        "worthwhile"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

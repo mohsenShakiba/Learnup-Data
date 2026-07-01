@@ -1,7 +1,23 @@
 {
     "title": "40 - Mentorship and Sponsorship",
     "description": "دو حرفه‌ای درباره تفاوت میان راهنما و حامی شغلی و اهمیت هر کدام بحث می‌کنند.",
-    "words": ["mentor", "sponsor", "advocate", "guidance", "advancement", "visibility", "advice", "opportunity", "champion", "network", "career", "distinct", "invest", "promote"],
+    "words": [
+        "mentor",
+        "sponsor",
+        "advocate",
+        "guidance",
+        "advancement",
+        "visibility",
+        "advice",
+        "opportunity",
+        "champion",
+        "network",
+        "career",
+        "distinct",
+        "invest",
+        "promote"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

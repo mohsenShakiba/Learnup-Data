@@ -1,7 +1,23 @@
 {
     "title": "20 - Discussing Media and Bias",
     "description": "دو نفر درباره سوگیری رسانه‌ای و چگونگی ارزیابی انتقادی اخبار گفتگو می‌کنند.",
-    "words": ["media", "bias", "source", "objective", "perspective", "headline", "misleading", "verify", "agenda", "credible", "consume", "critical", "narrative", "influence"],
+    "words": [
+        "media",
+        "bias",
+        "source",
+        "objective",
+        "perspective",
+        "headline",
+        "misleading",
+        "verify",
+        "agenda",
+        "credible",
+        "consume",
+        "critical",
+        "narrative",
+        "influence"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

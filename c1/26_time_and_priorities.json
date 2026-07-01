@@ -1,7 +1,23 @@
 {
     "title": "26 - Time and Priorities",
     "description": "دو نفر درباره اینکه چگونه مردم زمان خود را خرج می‌کنند و آنچه واقعاً مهم است تأمل می‌کنند.",
-    "words": ["finite", "priorities", "trade-off", "intentional", "fleeting", "squander", "meaningful", "presence", "allocate", "regret", "deliberate", "reflect", "scarce", "align"],
+    "words": [
+        "finite",
+        "priorities",
+        "trade-off",
+        "intentional",
+        "fleeting",
+        "squander",
+        "meaningful",
+        "presence",
+        "allocate",
+        "regret",
+        "deliberate",
+        "reflect",
+        "scarce",
+        "align"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

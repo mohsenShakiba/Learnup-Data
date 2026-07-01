@@ -1,7 +1,23 @@
 {
     "title": "27 - A Conversation About Sleep",
     "description": "دو همکار درباره مشکلات خواب و راه‌های بهبود آن صحبت می‌کنند.",
-    "words": ["insomnia", "exhausted", "routine", "screen", "caffeine", "relax", "quality", "wake", "stress", "habit", "regular", "improve", "deep", "advice"],
+    "words": [
+        "insomnia",
+        "exhausted",
+        "routine",
+        "screen",
+        "caffeine",
+        "relax",
+        "quality",
+        "wake",
+        "stress",
+        "habit",
+        "regular",
+        "improve",
+        "deep",
+        "advice"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

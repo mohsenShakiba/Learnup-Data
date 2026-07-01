@@ -1,7 +1,19 @@
 {
     "title": "13 - A Job Interview",
     "description": "مصاحبه شغلی درباره تجربه و ساعات کاری.",
-    "words": ["job", "work", "learn", "experience", "shop", "year", "weekend", "available", "hours", "question", "start", "week"],
+    "words": [
+        "job",
+        "work",
+        "learn",
+        "shop",
+        "year",
+        "weekend",
+        "hours",
+        "question",
+        "start",
+        "week"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -30,8 +42,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Do you have experience?",
-            "translation": "تجربه دارید؟"
+            "text": "Did you work before?",
+            "translation": "قبلاً کار کرده‌اید؟"
         },
         {
             "order": 5,
@@ -48,7 +60,7 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Yes, I'm available.",
+            "text": "Yes, I can.",
             "translation": "بله، می‌توانم."
         },
         {

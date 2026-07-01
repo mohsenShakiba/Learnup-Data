@@ -1,7 +1,23 @@
 {
     "title": "8 - Discussing a Movie",
     "description": "دو دوست درباره فیلمی که دیده‌اند نظر می‌دهند.",
-    "words": ["movie", "watched", "story", "actor", "boring", "exciting", "end", "scene", "favorite", "recommend", "cinema", "review", "agree", "ending"],
+    "words": [
+        "movie",
+        "watched",
+        "story",
+        "actor",
+        "boring",
+        "exciting",
+        "end",
+        "scene",
+        "favorite",
+        "recommend",
+        "cinema",
+        "review",
+        "agree",
+        "ending"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "39 - Talking About Long-Term Goals",
     "description": "دو دوست درباره برنامه‌های پنج‌ساله و چشم‌اندازشان از آینده صحبت می‌کنند.",
-    "words": ["long-term", "vision", "milestone", "aspire", "commitment", "realistic", "evolve", "priority", "achieve", "flexible", "purpose", "invest", "steady", "fulfil"],
+    "words": [
+        "long-term",
+        "vision",
+        "milestone",
+        "aspire",
+        "commitment",
+        "realistic",
+        "evolve",
+        "priority",
+        "achieve",
+        "flexible",
+        "purpose",
+        "invest",
+        "steady",
+        "fulfil"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

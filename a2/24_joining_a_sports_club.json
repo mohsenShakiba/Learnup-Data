@@ -1,7 +1,23 @@
 {
     "title": "24 - Joining a Sports Club",
     "description": "ثبت‌نام در یک باشگاه ورزشی و پرسیدن درباره برنامه‌ها.",
-    "words": ["club", "join", "member", "training", "coach", "schedule", "team", "beginner", "fee", "equipment", "match", "fitness", "twice", "improve"],
+    "words": [
+        "club",
+        "join",
+        "member",
+        "training",
+        "coach",
+        "schedule",
+        "team",
+        "beginner",
+        "fee",
+        "equipment",
+        "match",
+        "fitness",
+        "twice",
+        "improve"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

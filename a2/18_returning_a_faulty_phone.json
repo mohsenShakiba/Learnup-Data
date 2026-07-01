@@ -1,7 +1,23 @@
 {
     "title": "18 - Returning a Faulty Phone",
     "description": "بازگرداندن یک تلفن خراب و درخواست تعمیر یا تعویض.",
-    "words": ["phone", "screen", "broken", "battery", "warranty", "repair", "replace", "charge", "slow", "fault", "check", "service", "week", "cost"],
+    "words": [
+        "phone",
+        "screen",
+        "broken",
+        "battery",
+        "warranty",
+        "repair",
+        "replace",
+        "charge",
+        "slow",
+        "fault",
+        "check",
+        "service",
+        "week",
+        "cost"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

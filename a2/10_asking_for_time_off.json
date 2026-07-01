@@ -1,7 +1,23 @@
 {
     "title": "10 - Asking for Time Off",
     "description": "درخواست مرخصی از مدیر برای چند روز.",
-    "words": ["time", "off", "holiday", "request", "days", "cover", "work", "busy", "form", "approve", "reason", "family", "agree", "thanks"],
+    "words": [
+        "time",
+        "off",
+        "holiday",
+        "request",
+        "days",
+        "cover",
+        "work",
+        "busy",
+        "form",
+        "approve",
+        "reason",
+        "family",
+        "agree",
+        "thanks"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

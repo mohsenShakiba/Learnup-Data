@@ -1,7 +1,23 @@
 {
     "title": "37 - Describing a Person",
     "description": "توصیف ظاهر و شخصیت یک دوست مشترک برای شناختن او.",
-    "words": ["tall", "short", "hair", "glasses", "beard", "friendly", "shy", "wearing", "jacket", "recognize", "polite", "smile", "remember", "describe"],
+    "words": [
+        "tall",
+        "short",
+        "hair",
+        "glasses",
+        "beard",
+        "friendly",
+        "shy",
+        "wearing",
+        "jacket",
+        "recognize",
+        "polite",
+        "smile",
+        "remember",
+        "describe"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

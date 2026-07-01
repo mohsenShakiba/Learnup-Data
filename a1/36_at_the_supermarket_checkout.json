@@ -1,7 +1,21 @@
 {
     "title": "36 - At the Supermarket Checkout",
     "description": "پرداخت خرید در صندوق سوپرمارکت.",
-    "words": ["bag", "pay", "card", "cash", "total", "change", "scan", "receipt", "heavy", "help", "discount", "thanks"],
+    "words": [
+        "bag",
+        "pay",
+        "card",
+        "cash",
+        "total",
+        "change",
+        "check",
+        "receipt",
+        "heavy",
+        "help",
+        "cheap",
+        "thanks"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -30,14 +44,14 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Let me scan everything. I can help with the heavy bags.",
-            "translation": "بگذارید همه را اسکن کنم. می‌توانم با کیسه‌های سنگین کمک کنم."
+            "text": "Let me check everything. I can help with the heavy bags.",
+            "translation": "بگذارید همه را حساب کنم. می‌توانم با کیسه‌های سنگین کمک کنم."
         },
         {
             "order": 5,
             "person": 2,
-            "text": "Is there a discount on the milk?",
-            "translation": "روی شیر تخفیف هست؟"
+            "text": "Is the milk cheaper today?",
+            "translation": "امروز شیر ارزان‌تر است؟"
         },
         {
             "order": 6,

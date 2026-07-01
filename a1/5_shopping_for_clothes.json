@@ -1,7 +1,21 @@
 {
     "title": "5 - Shopping for Clothes",
     "description": "خرید یک پیراهن و امتحان کردن آن در فروشگاه لباس.",
-    "words": ["shirt", "size", "wear", "color", "blue", "medium", "try", "fitting", "room", "fits", "price", "buy", "pay", "cash"],
+    "words": [
+        "shirt",
+        "size",
+        "wear",
+        "color",
+        "blue",
+        "medium",
+        "try",
+        "fits",
+        "price",
+        "buy",
+        "pay",
+        "cash"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -54,8 +68,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Yes. The fitting room is over there.",
-            "translation": "بله. اتاق پرو آنجاست."
+            "text": "Yes. You can try it on over there.",
+            "translation": "بله. می‌توانید آن را آنجا امتحان کنید."
         },
         {
             "order": 9,

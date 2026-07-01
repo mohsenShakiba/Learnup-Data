@@ -1,7 +1,23 @@
 {
     "title": "11 - Rescheduling an Appointment",
     "description": "تماس تلفنی برای تغییر زمان یک قرار ملاقات.",
-    "words": ["appointment", "change", "cancel", "another", "available", "afternoon", "instead", "sorry", "busy", "confirm", "reschedule", "earlier", "later", "fine"],
+    "words": [
+        "appointment",
+        "change",
+        "cancel",
+        "another",
+        "available",
+        "afternoon",
+        "instead",
+        "sorry",
+        "busy",
+        "confirm",
+        "reschedule",
+        "earlier",
+        "later",
+        "fine"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

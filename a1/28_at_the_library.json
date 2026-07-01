@@ -1,7 +1,22 @@
 {
     "title": "28 - At the Library",
     "description": "گرفتن کارت عضویت و امانت گرفتن کتاب از کتابخانه.",
-    "words": ["library", "book", "borrow", "card", "member", "return", "week", "quiet", "shelf", "find", "history", "free", "late", "fine"],
+    "words": [
+        "library",
+        "book",
+        "borrow",
+        "card",
+        "member",
+        "return",
+        "week",
+        "quiet",
+        "find",
+        "history",
+        "free",
+        "late",
+        "pay"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -36,8 +51,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "On the shelf near the window.",
-            "translation": "روی قفسه نزدیک پنجره."
+            "text": "Over there, near the window.",
+            "translation": "آن طرف، نزدیک پنجره."
         },
         {
             "order": 6,
@@ -72,8 +87,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "There is a small fine. And please stay quiet inside.",
-            "translation": "جریمه کوچکی دارد. و لطفاً داخل ساکت باشید."
+            "text": "You pay a little money. And please stay quiet inside.",
+            "translation": "کمی پول می‌دهید. و لطفاً داخل ساکت باشید."
         }
     ]
 }

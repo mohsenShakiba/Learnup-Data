@@ -1,7 +1,23 @@
 {
     "title": "26 - Discussing Corporate Culture",
     "description": "دو همکار درباره فرهنگ سازمانی و تأثیر آن بر رضایت کارکنان صحبت می‌کنند.",
-    "words": ["culture", "values", "transparency", "morale", "inclusive", "toxic", "retention", "trust", "hierarchy", "autonomy", "engagement", "foster", "thrive", "reflect"],
+    "words": [
+        "culture",
+        "values",
+        "transparency",
+        "morale",
+        "inclusive",
+        "toxic",
+        "retention",
+        "trust",
+        "hierarchy",
+        "autonomy",
+        "engagement",
+        "foster",
+        "thrive",
+        "reflect"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

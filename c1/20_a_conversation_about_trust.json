@@ -1,7 +1,23 @@
 {
     "title": "20 - A Conversation About Trust",
     "description": "دو دوست درباره اینکه چگونه اعتماد ساخته و شکسته می‌شود و آیا می‌توان آن را بازسازی کرد تأمل می‌کنند.",
-    "words": ["trust", "betrayal", "vulnerability", "rebuild", "earned", "reliability", "fragile", "consistency", "forgive", "guarded", "instinct", "reciprocal", "restore", "foundation"],
+    "words": [
+        "trust",
+        "betrayal",
+        "vulnerability",
+        "rebuild",
+        "earned",
+        "reliability",
+        "fragile",
+        "consistency",
+        "forgive",
+        "guarded",
+        "instinct",
+        "reciprocal",
+        "restore",
+        "foundation"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

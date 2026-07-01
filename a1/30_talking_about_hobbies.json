@@ -1,7 +1,23 @@
 {
     "title": "30 - Talking About Hobbies",
     "description": "گفتگوی دو دوست درباره سرگرمی‌ها و علاقه‌مندی‌ها.",
-    "words": ["hobby", "free", "time", "paint", "music", "play", "guitar", "cook", "read", "running", "weekend", "join", "club", "fun"],
+    "words": [
+        "hobby",
+        "free",
+        "time",
+        "paint",
+        "music",
+        "play",
+        "guitar",
+        "cook",
+        "read",
+        "running",
+        "weekend",
+        "join",
+        "club",
+        "fun"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

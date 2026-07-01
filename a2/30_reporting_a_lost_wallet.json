@@ -1,7 +1,23 @@
 {
     "title": "30 - Reporting a Lost Wallet",
     "description": "گزارش گم شدن کیف پول به پلیس و دادن جزئیات.",
-    "words": ["wallet", "report", "police", "stolen", "happened", "cards", "cash", "describe", "leather", "officer", "details", "phone", "cancel", "hope"],
+    "words": [
+        "wallet",
+        "report",
+        "police",
+        "stolen",
+        "happened",
+        "cards",
+        "cash",
+        "describe",
+        "leather",
+        "officer",
+        "details",
+        "phone",
+        "cancel",
+        "hope"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

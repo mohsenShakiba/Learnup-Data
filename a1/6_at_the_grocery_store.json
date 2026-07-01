@@ -1,7 +1,19 @@
 {
     "title": "6 - At the Grocery Store",
     "description": "پیدا کردن و خرید مواد غذایی در سوپرمارکت.",
-    "words": ["milk", "aisle", "fresh", "bread", "eggs", "apple", "need", "change", "bag", "dollar"],
+    "words": [
+        "milk",
+        "row",
+        "fresh",
+        "bread",
+        "eggs",
+        "apple",
+        "need",
+        "change",
+        "bag",
+        "dollar"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -12,8 +24,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "It's in aisle three.",
-            "translation": "در راهروی سه است."
+            "text": "It's in row three.",
+            "translation": "در ردیف سه است."
         },
         {
             "order": 2,

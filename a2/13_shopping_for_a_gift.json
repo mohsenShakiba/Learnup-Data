@@ -1,7 +1,23 @@
 {
     "title": "13 - Shopping for a Gift",
     "description": "خرید هدیه برای یک دوست و گرفتن کمک از فروشنده.",
-    "words": ["gift", "present", "idea", "suggest", "wallet", "scarf", "perfume", "wrap", "price", "popular", "choose", "special", "occasion", "perfect"],
+    "words": [
+        "gift",
+        "present",
+        "idea",
+        "suggest",
+        "wallet",
+        "scarf",
+        "perfume",
+        "wrap",
+        "price",
+        "popular",
+        "choose",
+        "special",
+        "occasion",
+        "perfect"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

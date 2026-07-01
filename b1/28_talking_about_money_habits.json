@@ -1,7 +1,23 @@
 {
     "title": "28 - Talking About Money Habits",
     "description": "دو دوست درباره عادت‌های خرج کردن و پس‌انداز پول گفتگو می‌کنند.",
-    "words": ["spend", "save", "budget", "impulse", "track", "afford", "tempted", "discount", "necessary", "habit", "goal", "control", "wisely", "regret"],
+    "words": [
+        "spend",
+        "save",
+        "budget",
+        "impulse",
+        "track",
+        "afford",
+        "tempted",
+        "discount",
+        "necessary",
+        "habit",
+        "goal",
+        "control",
+        "wisely",
+        "regret"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

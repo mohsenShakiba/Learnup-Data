@@ -1,7 +1,23 @@
 {
     "title": "39 - Talking About Stress at Work",
     "description": "دو همکار درباره منابع استرس کاری و راه‌های مقابله با آن گفتگو می‌کنند.",
-    "words": ["stress", "workload", "deadline", "overwhelmed", "cope", "manage", "support", "delegate", "boundary", "burnout", "prioritize", "relax", "honest", "improve"],
+    "words": [
+        "stress",
+        "workload",
+        "deadline",
+        "overwhelmed",
+        "cope",
+        "manage",
+        "support",
+        "delegate",
+        "boundary",
+        "burnout",
+        "prioritize",
+        "relax",
+        "honest",
+        "improve"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

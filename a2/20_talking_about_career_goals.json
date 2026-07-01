@@ -1,7 +1,23 @@
 {
     "title": "20 - Talking About Career Goals",
     "description": "گفتگو درباره اهداف شغلی و برنامه‌های آینده.",
-    "words": ["career", "goal", "future", "promotion", "study", "course", "improve", "skills", "dream", "hard", "experience", "manager", "hope", "succeed"],
+    "words": [
+        "career",
+        "goal",
+        "future",
+        "promotion",
+        "study",
+        "course",
+        "improve",
+        "skills",
+        "dream",
+        "hard",
+        "experience",
+        "manager",
+        "hope",
+        "succeed"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "21 - Talking About a TV Series",
     "description": "دو دوست درباره یک سریال تلویزیونی که دنبال می‌کنند صحبت می‌کنند.",
-    "words": ["series", "episode", "season", "character", "plot", "watch", "exciting", "boring", "favorite", "actor", "recommend", "binge", "ending", "stream"],
+    "words": [
+        "series",
+        "episode",
+        "season",
+        "character",
+        "plot",
+        "watch",
+        "exciting",
+        "boring",
+        "favorite",
+        "actor",
+        "recommend",
+        "binge",
+        "ending",
+        "stream"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "11 - A Conversation About Happiness",
     "description": "دو دوست درباره معنای واقعی شادی و اینکه آیا می‌توان به آن دست یافت تأمل می‌کنند.",
-    "words": ["happiness", "contentment", "fleeting", "pursuit", "meaning", "gratitude", "expectation", "fulfilment", "elusive", "comparison", "presence", "intrinsic", "satisfaction", "perspective"],
+    "words": [
+        "happiness",
+        "contentment",
+        "fleeting",
+        "pursuit",
+        "meaning",
+        "gratitude",
+        "expectation",
+        "fulfilment",
+        "elusive",
+        "comparison",
+        "presence",
+        "intrinsic",
+        "satisfaction",
+        "perspective"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

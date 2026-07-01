@@ -1,7 +1,23 @@
 {
     "title": "21 - Talking About Social Media",
     "description": "دو دوست درباره نقش شبکه‌های اجتماعی در زندگی روزمره بحث می‌کنند.",
-    "words": ["platform", "scroll", "compare", "influence", "follower", "post", "addictive", "genuine", "pressure", "break", "aware", "connect", "balance", "honestly"],
+    "words": [
+        "platform",
+        "scroll",
+        "compare",
+        "influence",
+        "follower",
+        "post",
+        "addictive",
+        "genuine",
+        "pressure",
+        "break",
+        "aware",
+        "connect",
+        "balance",
+        "honestly"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "4 - Making a Complaint",
     "description": "شکایت از یک کالای خراب در فروشگاه و درخواست راه‌حل.",
-    "words": ["complaint", "broken", "bought", "yesterday", "work", "refund", "replace", "manager", "sorry", "fault", "warranty", "fix", "wait", "solve"],
+    "words": [
+        "complaint",
+        "broken",
+        "bought",
+        "yesterday",
+        "work",
+        "refund",
+        "replace",
+        "manager",
+        "sorry",
+        "fault",
+        "warranty",
+        "fix",
+        "wait",
+        "solve"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

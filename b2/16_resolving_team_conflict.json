@@ -1,7 +1,23 @@
 {
     "title": "16 - Resolving Team Conflict",
     "description": "مدیری به دو عضو تیم که با هم اختلاف دارند کمک می‌کند به تفاهم برسند.",
-    "words": ["conflict", "tension", "perspective", "mediate", "resolve", "blame", "acknowledge", "compromise", "professional", "respect", "underlying", "address", "constructive", "move on"],
+    "words": [
+        "conflict",
+        "tension",
+        "perspective",
+        "mediate",
+        "resolve",
+        "blame",
+        "acknowledge",
+        "compromise",
+        "professional",
+        "respect",
+        "underlying",
+        "address",
+        "constructive",
+        "move on"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

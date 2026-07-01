@@ -1,7 +1,23 @@
 {
     "title": "35 - Planning a Trip",
     "description": "دو دوست درباره برنامه‌ریزی یک سفر آخر هفته صحبت می‌کنند.",
-    "words": ["trip", "plan", "beach", "weekend", "hotel", "book", "pack", "weather", "sunny", "drive", "early", "map", "ready", "excited"],
+    "words": [
+        "trip",
+        "plan",
+        "beach",
+        "weekend",
+        "hotel",
+        "book",
+        "pack",
+        "weather",
+        "sunny",
+        "drive",
+        "early",
+        "map",
+        "ready",
+        "excited"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

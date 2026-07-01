@@ -1,7 +1,23 @@
 {
     "title": "42 - Discussing Working From Home",
     "description": "دو همکار درباره تجربه‌شان از کار کردن در خانه گفتگو می‌کنند.",
-    "words": ["remote", "focus", "distraction", "flexible", "routine", "isolated", "productive", "commute", "balance", "motivated", "schedule", "miss", "discipline", "prefer"],
+    "words": [
+        "remote",
+        "focus",
+        "distraction",
+        "flexible",
+        "routine",
+        "isolated",
+        "productive",
+        "commute",
+        "balance",
+        "motivated",
+        "schedule",
+        "miss",
+        "discipline",
+        "prefer"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

@@ -1,7 +1,23 @@
 {
     "title": "21 - Buying a Bus Ticket",
     "description": "خرید بلیط اتوبوس از باجه فروش بلیط.",
-    "words": ["ticket", "bus", "next", "leave", "station", "single", "return", "cost", "platform", "cash", "card", "seat", "arrive", "change"],
+    "words": [
+        "ticket",
+        "bus",
+        "next",
+        "leave",
+        "station",
+        "single",
+        "return",
+        "cost",
+        "platform",
+        "cash",
+        "card",
+        "seat",
+        "arrive",
+        "change"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

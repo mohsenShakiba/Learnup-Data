@@ -1,7 +1,21 @@
 {
     "title": "19 - Calling Tech Support",
     "description": "تماس با پشتیبانی فنی برای حل مشکل اینترنت.",
-    "words": ["internet", "working", "fix", "light", "router", "green", "red", "turn", "again", "connect", "works", "minute"],
+    "words": [
+        "internet",
+        "working",
+        "fix",
+        "light",
+        "box",
+        "green",
+        "red",
+        "turn",
+        "again",
+        "connect",
+        "works",
+        "minute"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -42,8 +56,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Please turn the router off and on again.",
-            "translation": "لطفاً روتر را خاموش و دوباره روشن کنید."
+            "text": "Please turn the box off and on again.",
+            "translation": "لطفاً مودم را خاموش و دوباره روشن کنید."
         },
         {
             "order": 7,

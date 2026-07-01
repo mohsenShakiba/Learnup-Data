@@ -1,7 +1,23 @@
 {
     "title": "14 - A Performance Review",
     "description": "جلسه ارزیابی عملکرد کارمند با مدیر و دریافت بازخورد.",
-    "words": ["performance", "review", "feedback", "progress", "strength", "improve", "target", "achieve", "responsibility", "goal", "develop", "honest", "appreciate", "support"],
+    "words": [
+        "performance",
+        "review",
+        "feedback",
+        "progress",
+        "strength",
+        "improve",
+        "target",
+        "achieve",
+        "responsibility",
+        "goal",
+        "develop",
+        "honest",
+        "appreciate",
+        "support"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

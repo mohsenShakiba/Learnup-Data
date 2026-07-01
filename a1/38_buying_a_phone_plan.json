@@ -1,7 +1,21 @@
 {
     "title": "38 - Buying a Phone Plan",
     "description": "خرید یک سیم‌کارت و انتخاب طرح تلفن همراه در فروشگاه.",
-    "words": ["phone", "plan", "month", "data", "call", "number", "cheap", "minutes", "internet", "sign", "contract", "pay", "choose", "include"],
+    "words": [
+        "phone",
+        "plan",
+        "month",
+        "call",
+        "number",
+        "cheap",
+        "minutes",
+        "internet",
+        "sign",
+        "pay",
+        "choose",
+        "include"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -24,8 +38,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Then you need a plan with more data.",
-            "translation": "پس به طرحی با دیتای بیشتر نیاز دارید."
+            "text": "Then you need a plan with more internet.",
+            "translation": "پس به طرحی با اینترنت بیشتر نیاز دارید."
         },
         {
             "order": 4,
@@ -48,8 +62,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "It includes lots of data and free calls.",
-            "translation": "شامل دیتای زیاد و تماس رایگان می‌شود."
+            "text": "It includes lots of internet and free calls.",
+            "translation": "شامل اینترنت زیاد و تماس رایگان می‌شود."
         },
         {
             "order": 8,
@@ -72,8 +86,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "Good choice. You'll get a new number. Please sign the contract here.",
-            "translation": "انتخاب خوبی است. یک شماره جدید می‌گیرید. لطفاً قرارداد را اینجا امضا کنید."
+            "text": "Good choice. You'll get a new number. Please sign here.",
+            "translation": "انتخاب خوبی است. یک شماره جدید می‌گیرید. لطفاً اینجا را امضا کنید."
         }
     ]
 }

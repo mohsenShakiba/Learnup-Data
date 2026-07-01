@@ -1,7 +1,23 @@
 {
     "title": "9 - Comparing Two Apartments",
     "description": "زوجی درباره انتخاب بین دو آپارتمان صحبت می‌کنند.",
-    "words": ["apartment", "bigger", "cheaper", "expensive", "closer", "quiet", "noisy", "kitchen", "bright", "rent", "choose", "decide", "better", "view"],
+    "words": [
+        "apartment",
+        "bigger",
+        "cheaper",
+        "expensive",
+        "closer",
+        "quiet",
+        "noisy",
+        "kitchen",
+        "bright",
+        "rent",
+        "choose",
+        "decide",
+        "better",
+        "view"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

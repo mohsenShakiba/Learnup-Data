@@ -1,7 +1,23 @@
 {
     "title": "21 - The Nature of Success",
     "description": "دو نفر درباره اینکه موفقیت واقعی چیست و چگونه آن را باید سنجید بحث می‌کنند.",
-    "words": ["success", "conventional", "metric", "external", "validation", "subjective", "redefine", "fulfilment", "relentless", "yardstick", "intrinsic", "arbitrary", "measure", "contentment"],
+    "words": [
+        "success",
+        "conventional",
+        "metric",
+        "external",
+        "validation",
+        "subjective",
+        "redefine",
+        "fulfilment",
+        "relentless",
+        "yardstick",
+        "intrinsic",
+        "arbitrary",
+        "measure",
+        "contentment"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

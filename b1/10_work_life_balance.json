@@ -1,7 +1,23 @@
 {
     "title": "10 - Work-Life Balance",
     "description": "دو همکار درباره فشار کاری و تعادل بین کار و زندگی صحبت می‌کنند.",
-    "words": ["balance", "stress", "overtime", "exhausted", "priority", "deadline", "relax", "burnout", "manage", "schedule", "personal", "hobby", "improve", "healthier"],
+    "words": [
+        "balance",
+        "stress",
+        "overtime",
+        "exhausted",
+        "priority",
+        "deadline",
+        "relax",
+        "burnout",
+        "manage",
+        "schedule",
+        "personal",
+        "hobby",
+        "improve",
+        "healthier"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

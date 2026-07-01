@@ -1,7 +1,19 @@
 {
     "title": "16 - At the Pharmacy",
     "description": "گرفتن دارو برای سرفه از داروخانه.",
-    "words": ["cough", "fever", "medicine", "help", "pill", "twice", "day", "food", "water", "better"],
+    "words": [
+        "cough",
+        "hot",
+        "medicine",
+        "help",
+        "pill",
+        "twice",
+        "day",
+        "food",
+        "water",
+        "better"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -24,8 +36,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Do you have a fever?",
-            "translation": "تب دارید؟"
+            "text": "Do you feel hot?",
+            "translation": "احساس داغی می‌کنید؟"
         },
         {
             "order": 4,

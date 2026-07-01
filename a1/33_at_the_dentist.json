@@ -1,7 +1,21 @@
 {
     "title": "33 - At the Dentist",
     "description": "مراجعه به دندان‌پزشک به دلیل درد دندان.",
-    "words": ["tooth", "pain", "ache", "open", "mouth", "clean", "sweet", "check", "hurt", "fill", "brush", "twice", "careful"],
+    "words": [
+        "tooth",
+        "pain",
+        "open",
+        "mouth",
+        "clean",
+        "sweet",
+        "check",
+        "hurt",
+        "fill",
+        "brush",
+        "twice",
+        "careful"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
@@ -12,8 +26,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "I have a bad toothache.",
-            "translation": "دندان‌درد شدیدی دارم."
+            "text": "My tooth really hurts.",
+            "translation": "دندانم خیلی درد می‌کند."
         },
         {
             "order": 2,

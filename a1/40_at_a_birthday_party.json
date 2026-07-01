@@ -1,7 +1,23 @@
 {
     "title": "40 - At a Birthday Party",
     "description": "گفتگو در یک جشن تولد و دادن هدیه به دوست.",
-    "words": ["birthday", "party", "happy", "gift", "open", "cake", "candle", "wish", "music", "dance", "friend", "fun", "thank", "surprise"],
+    "words": [
+        "birthday",
+        "party",
+        "happy",
+        "gift",
+        "open",
+        "cake",
+        "candle",
+        "wish",
+        "music",
+        "dance",
+        "friend",
+        "fun",
+        "thank",
+        "surprise"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

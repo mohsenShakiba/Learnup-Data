@@ -1,7 +1,20 @@
 {
     "title": "15 - Weekend Plans with a Friend",
     "description": "برنامه‌ریزی برای پیک‌نیک آخر هفته با یک دوست.",
-    "words": ["plan", "weekend", "park", "Sunday", "picnic", "bring", "food", "drinks", "join", "meet", "morning"],
+    "words": [
+        "plan",
+        "weekend",
+        "park",
+        "Sunday",
+        "picnic",
+        "bring",
+        "food",
+        "drinks",
+        "join",
+        "meet",
+        "morning"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

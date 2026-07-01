@@ -1,7 +1,23 @@
 {
     "title": "5 - Giving Directions to a Tourist",
     "description": "کمک به یک گردشگر برای پیدا کردن موزه در شهر.",
-    "words": ["museum", "straight", "corner", "turn", "left", "right", "cross", "traffic", "lights", "near", "far", "minutes", "lost", "walk"],
+    "words": [
+        "museum",
+        "straight",
+        "corner",
+        "turn",
+        "left",
+        "right",
+        "cross",
+        "traffic",
+        "lights",
+        "near",
+        "far",
+        "minutes",
+        "lost",
+        "walk"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

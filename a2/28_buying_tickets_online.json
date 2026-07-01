@@ -1,7 +1,23 @@
 {
     "title": "28 - Buying Tickets Online",
     "description": "کمک گرفتن از یک دوست برای خرید اینترنتی بلیط کنسرت.",
-    "words": ["online", "ticket", "website", "concert", "date", "seat", "price", "available", "account", "password", "pay", "confirm", "email", "download"],
+    "words": [
+        "online",
+        "ticket",
+        "website",
+        "concert",
+        "date",
+        "seat",
+        "price",
+        "available",
+        "account",
+        "password",
+        "pay",
+        "confirm",
+        "email",
+        "download"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

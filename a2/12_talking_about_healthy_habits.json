@@ -1,7 +1,23 @@
 {
     "title": "12 - Talking About Healthy Habits",
     "description": "دو دوست درباره عادت‌های سالم و ورزش صحبت می‌کنند.",
-    "words": ["healthy", "habit", "exercise", "should", "sugar", "sleep", "water", "walk", "gym", "diet", "vegetables", "energy", "advice", "start"],
+    "words": [
+        "healthy",
+        "habit",
+        "exercise",
+        "should",
+        "sugar",
+        "sleep",
+        "water",
+        "walk",
+        "gym",
+        "diet",
+        "vegetables",
+        "energy",
+        "advice",
+        "start"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

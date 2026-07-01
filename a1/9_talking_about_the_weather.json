@@ -1,7 +1,19 @@
 {
     "title": "9 - Talking About the Weather",
     "description": "گپ‌وگفت درباره هوای امروز و فصل‌ها.",
-    "words": ["weather", "sunny", "cold", "jacket", "warm", "summer", "hot", "spring", "rain", "umbrella"],
+    "words": [
+        "weather",
+        "sunny",
+        "cold",
+        "jacket",
+        "warm",
+        "summer",
+        "hot",
+        "spring",
+        "rain",
+        "umbrella"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

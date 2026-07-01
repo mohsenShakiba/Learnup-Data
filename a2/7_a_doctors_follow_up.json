@@ -1,7 +1,23 @@
 {
     "title": "7 - A Doctor's Follow-up",
     "description": "مراجعه دوباره به پزشک برای پیگیری وضعیت سلامتی.",
-    "words": ["better", "still", "medicine", "finished", "cough", "result", "test", "healthy", "rest", "exercise", "advice", "checkup", "soon", "follow"],
+    "words": [
+        "better",
+        "still",
+        "medicine",
+        "finished",
+        "cough",
+        "result",
+        "test",
+        "healthy",
+        "rest",
+        "exercise",
+        "advice",
+        "checkup",
+        "soon",
+        "follow"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

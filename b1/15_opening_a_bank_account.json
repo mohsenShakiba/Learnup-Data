@@ -1,7 +1,23 @@
 {
     "title": "15 - Opening a Bank Account",
     "description": "افتتاح حساب بانکی و پرسیدن درباره خدمات و کارمزدها.",
-    "words": ["account", "savings", "current", "interest", "fee", "documents", "identity", "deposit", "withdraw", "online", "transfer", "branch", "statement", "apply"],
+    "words": [
+        "account",
+        "savings",
+        "current",
+        "interest",
+        "fee",
+        "documents",
+        "identity",
+        "deposit",
+        "withdraw",
+        "online",
+        "transfer",
+        "branch",
+        "statement",
+        "apply"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

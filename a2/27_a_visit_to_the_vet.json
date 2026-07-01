@@ -1,7 +1,23 @@
 {
     "title": "27 - A Visit to the Vet",
     "description": "بردن یک سگ بیمار به دامپزشک و توضیح علائم.",
-    "words": ["vet", "dog", "sick", "eat", "tired", "check", "temperature", "medicine", "appetite", "healthy", "vaccine", "weight", "advice", "soon"],
+    "words": [
+        "vet",
+        "dog",
+        "sick",
+        "eat",
+        "tired",
+        "check",
+        "temperature",
+        "medicine",
+        "appetite",
+        "healthy",
+        "vaccine",
+        "weight",
+        "advice",
+        "soon"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

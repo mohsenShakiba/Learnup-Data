@@ -1,7 +1,23 @@
 {
     "title": "15 - Talking About Globalization",
     "description": "دو نفر درباره پیامدهای مثبت و منفی جهانی‌شدن بحث می‌کنند.",
-    "words": ["globalization", "economy", "interconnected", "outsource", "competition", "identity", "inequality", "benefit", "trade", "exploit", "diversity", "impact", "regulate", "argue"],
+    "words": [
+        "globalization",
+        "economy",
+        "interconnected",
+        "outsource",
+        "competition",
+        "identity",
+        "inequality",
+        "benefit",
+        "trade",
+        "exploit",
+        "diversity",
+        "impact",
+        "regulate",
+        "argue"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

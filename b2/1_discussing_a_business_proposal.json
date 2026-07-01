@@ -1,7 +1,23 @@
 {
     "title": "1 - Discussing a Business Proposal",
     "description": "دو همکار درباره یک پیشنهاد تجاری و ریسک‌ها و فرصت‌های آن بحث می‌کنند.",
-    "words": ["proposal", "investment", "potential", "revenue", "forecast", "feasible", "competitor", "margin", "scale", "concern", "viable", "stakeholder", "implement", "outweigh"],
+    "words": [
+        "proposal",
+        "investment",
+        "potential",
+        "revenue",
+        "forecast",
+        "feasible",
+        "competitor",
+        "margin",
+        "scale",
+        "concern",
+        "viable",
+        "stakeholder",
+        "implement",
+        "outweigh"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

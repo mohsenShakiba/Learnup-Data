@@ -1,7 +1,23 @@
 {
     "title": "25 - Describing Your Daily Routine",
     "description": "گفتگو درباره برنامه روزانه و عادت‌های صبح تا شب.",
-    "words": ["routine", "wake", "breakfast", "commute", "office", "lunch", "afternoon", "finish", "evening", "dinner", "relax", "usually", "early", "late"],
+    "words": [
+        "routine",
+        "wake",
+        "breakfast",
+        "commute",
+        "office",
+        "lunch",
+        "afternoon",
+        "finish",
+        "evening",
+        "dinner",
+        "relax",
+        "usually",
+        "early",
+        "late"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

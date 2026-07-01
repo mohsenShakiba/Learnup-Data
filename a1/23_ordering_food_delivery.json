@@ -1,7 +1,23 @@
 {
     "title": "23 - Ordering Food Delivery",
     "description": "سفارش تلفنی غذا برای تحویل در منزل.",
-    "words": ["order", "pizza", "size", "large", "drink", "address", "deliver", "minutes", "total", "cash", "extra", "cheese", "hungry", "wait"],
+    "words": [
+        "order",
+        "pizza",
+        "size",
+        "large",
+        "drink",
+        "address",
+        "deliver",
+        "minutes",
+        "total",
+        "cash",
+        "extra",
+        "cheese",
+        "hungry",
+        "wait"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

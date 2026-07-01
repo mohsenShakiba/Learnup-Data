@@ -1,7 +1,23 @@
 {
     "title": "37 - Talking About Decision Fatigue",
     "description": "دو دوست درباره خستگی ناشی از تصمیم‌گیری‌های زیاد و راه‌های کاهش آن صحبت می‌کنند.",
-    "words": ["decision", "fatigue", "overwhelmed", "simplify", "routine", "willpower", "choices", "drained", "automate", "prioritize", "mental", "minimize", "clarity", "habit"],
+    "words": [
+        "decision",
+        "fatigue",
+        "overwhelmed",
+        "simplify",
+        "routine",
+        "willpower",
+        "choices",
+        "drained",
+        "automate",
+        "prioritize",
+        "mental",
+        "minimize",
+        "clarity",
+        "habit"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

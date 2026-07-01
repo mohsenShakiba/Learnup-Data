@@ -1,7 +1,23 @@
 {
     "title": "30 - Talking About Ambition",
     "description": "دو دوست درباره معنای جاه‌طلبی و موفقیت در زندگی صحبت می‌کنند.",
-    "words": ["ambition", "drive", "success", "fulfilment", "sacrifice", "balance", "define", "pursue", "content", "motivation", "achievement", "meaningful", "relentless", "perspective"],
+    "words": [
+        "ambition",
+        "drive",
+        "success",
+        "fulfilment",
+        "sacrifice",
+        "balance",
+        "define",
+        "pursue",
+        "content",
+        "motivation",
+        "achievement",
+        "meaningful",
+        "relentless",
+        "perspective"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,

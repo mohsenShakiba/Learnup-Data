@@ -1,7 +1,23 @@
 {
     "title": "18 - A Disagreement Over Plans",
     "description": "زوجی درباره چگونگی گذراندن تعطیلاتشان اختلاف‌نظر دارند و به توافق می‌رسند.",
-    "words": ["disagree", "budget", "afford", "instead", "compromise", "expensive", "relax", "adventure", "prefer", "fair", "suggestion", "flexible", "agree", "decide"],
+    "words": [
+        "disagree",
+        "budget",
+        "afford",
+        "instead",
+        "compromise",
+        "expensive",
+        "relax",
+        "adventure",
+        "prefer",
+        "fair",
+        "suggestion",
+        "flexible",
+        "agree",
+        "decide"
+    ],
+    "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
