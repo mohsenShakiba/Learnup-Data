@@ -7,7 +7,7 @@
         "bag",
         "flight",
         "late",
-        "door",
+        "gate",
         "window",
         "seat",
         "plane",
@@ -61,14 +61,14 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Okay. Which door is it?",
-            "translation": "باشه. کدام درب است؟"
+            "text": "Okay. Which gate is it?",
+            "translation": "باشه. کدام گیت است؟"
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Door twelve.",
-            "translation": "درب دوازده است."
+            "text": "Gate twelve.",
+            "translation": "گیت دوازده است."
         },
         {
             "order": 9,

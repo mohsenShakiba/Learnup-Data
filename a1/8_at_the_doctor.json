@@ -6,7 +6,7 @@
         "feel",
         "head",
         "hurt",
-        "hot",
+        "fever",
         "throat",
         "tired",
         "cold",
@@ -17,13 +17,14 @@
         "better",
         "sleep"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hello. What's the problem?",
-            "translation": "سلام. مشکل چیست؟"
+            "text": "Hello. What's wrong?",
+            "translation": "سلام. مشکلتان چیست؟"
         },
         {
             "order": 1,
@@ -34,8 +35,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Do you feel hot?",
-            "translation": "احساس داغی می‌کنید؟"
+            "text": "Do you have a fever?",
+            "translation": "تب دارید؟"
         },
         {
             "order": 3,

@@ -46,8 +46,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Yes, I see a room for two nights.",
-            "translation": "بله، یک اتاق برای دو شب ثبت شده است."
+            "text": "Yes, I see your booking for two nights.",
+            "translation": "بله، رزرو شما برای دو شب ثبت شده است."
         },
         {
             "order": 5,

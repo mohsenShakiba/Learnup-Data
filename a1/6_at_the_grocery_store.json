@@ -3,7 +3,7 @@
     "description": "پیدا کردن و خرید مواد غذایی در سوپرمارکت.",
     "words": [
         "milk",
-        "row",
+        "aisle",
         "fresh",
         "bread",
         "eggs",
@@ -24,8 +24,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "It's in row three.",
-            "translation": "در ردیف سه است."
+            "text": "It's in aisle three.",
+            "translation": "در راهروی سه است."
         },
         {
             "order": 2,

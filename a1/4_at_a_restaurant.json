@@ -82,8 +82,8 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Okay. Your food will come soon.",
-            "translation": "باشه. غذایتان به‌زودی می‌آید."
+            "text": "Okay. Your food will be ready soon.",
+            "translation": "باشه. غذایتان به‌زودی آماده می‌شود."
         },
         {
             "order": 11,

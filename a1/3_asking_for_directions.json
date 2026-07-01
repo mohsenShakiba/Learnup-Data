@@ -4,7 +4,6 @@
     "words": [
         "excuse",
         "help",
-        "where",
         "bank",
         "street",
         "far",
@@ -35,8 +34,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Where is the bank?",
-            "translation": "بانک کجاست؟"
+            "text": "I'm looking for the bank.",
+            "translation": "دنبال بانک می‌گردم."
         },
         {
             "order": 3,

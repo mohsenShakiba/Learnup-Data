@@ -13,7 +13,6 @@
         "from",
         "like",
         "people",
-        "kind",
         "great",
         "later"
     ],
@@ -70,8 +69,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Yes, I do. The people are kind.",
-            "translation": "بله، دوست دارم. مردم مهربان هستند."
+            "text": "Yes, I do. People here are nice.",
+            "translation": "بله، دوست دارم. مردم اینجا خوب هستند."
         },
         {
             "order": 9,

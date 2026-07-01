@@ -3,7 +3,7 @@
     "description": "پرس‌وجوی تلفنی درباره اجاره یک آپارتمان.",
     "words": [
         "apartment",
-        "free",
+        "available",
         "rent",
         "month",
         "bedroom",
@@ -13,7 +13,8 @@
         "quiet",
         "near",
         "move",
-        "pay"
+        "pay",
+        "deposit"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -26,8 +27,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Hello. Yes, it is still free.",
-            "translation": "سلام. بله، هنوز خالی است."
+            "text": "Hello. Yes, it is still available.",
+            "translation": "سلام. بله، هنوز موجود است."
         },
         {
             "order": 2,
@@ -86,8 +87,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "Next month. You need to pay some money first.",
-            "translation": "ماه بعد. اول باید کمی پول بدهید."
+            "text": "Next month. You need to pay a deposit first.",
+            "translation": "ماه بعد. اول باید ودیعه بدهید."
         },
         {
             "order": 12,
