@@ -48,6 +48,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Also insert words that already exist in Vocab (by case-insensitive match). Default skips them.",
     )
+    parser.add_argument(
+        "--no-update",
+        action="store_true",
+        help="Do not update the Level of words that already exist in Vocab. Default updates them to match the CSV.",
+    )
     return parser.parse_args()
 
 
@@ -71,9 +76,10 @@ def load_words(csv_path: Path) -> dict[str, int]:
     return words
 
 
-def fetch_existing_words(cursor) -> set[str]:
-    cursor.execute('SELECT LOWER("Word") FROM "Vocab"')
-    return {row[0] for row in cursor.fetchall()}
+def fetch_existing_words(cursor) -> dict[str, int]:
+    """Return {lower(word): current Level} for every row in Vocab."""
+    cursor.execute('SELECT LOWER("Word"), "Level" FROM "Vocab"')
+    return {row[0]: row[1] for row in cursor.fetchall()}
 
 
 def main() -> int:
@@ -96,15 +102,23 @@ def main() -> int:
     try:
         with conn:
             with conn.cursor() as cur:
-                existing = set() if args.include_existing else fetch_existing_words(cur)
+                existing = fetch_existing_words(cur)
+
                 to_insert = [
                     (word, level)
                     for word, level in words.items()
-                    if word.lower() not in existing
+                    if args.include_existing or word.lower() not in existing
                 ]
-                skipped = len(words) - len(to_insert)
+                to_update = [] if args.no_update else [
+                    (word, level)
+                    for word, level in words.items()
+                    if word.lower() in existing and existing[word.lower()] != level
+                ]
 
-                print(f"Skipping {skipped} word(s) already present in Vocab.")
+                skipped = len(words) - len(to_insert) - len(to_update)
+
+                print(f"Skipping {skipped} word(s) already present with the correct level.")
+                print(f"Updating {len(to_update)} existing word(s) to match the CSV level.")
                 print(f"Inserting {len(to_insert)} word(s).")
 
                 if args.dry_run:
@@ -120,6 +134,15 @@ def main() -> int:
                     'INSERT INTO "Vocab" ("Word", "Level", "LanguageId", "Status") VALUES %s',
                     rows,
                 )
+
+                if to_update:
+                    execute_values(
+                        cur,
+                        'UPDATE "Vocab" AS v SET "Level" = data.level '
+                        'FROM (VALUES %s) AS data(word, level) '
+                        'WHERE LOWER(v."Word") = LOWER(data.word)',
+                        to_update,
+                    )
     finally:
         conn.close()
 
