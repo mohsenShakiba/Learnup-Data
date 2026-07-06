@@ -17,14 +17,11 @@
         "coat",
         "thick",
         "pocket",
-        "sell",
-        "dress",
-        "pants",
-        "jeans",
         "hat",
         "pair",
         "shoe"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -102,8 +99,8 @@
         {
             "order": 12,
             "person": 1,
-            "text": "Great. Do you need anything else? We also sell coats, dresses, pants, and jeans.",
-            "translation": "عالی. چیز دیگری لازم دارید؟ ما پالتو، پیراهن، شلوار و شلوار جین هم می‌فروشیم."
+            "text": "Great. Anything else? The winter coats are right over here.",
+            "translation": "عالی. چیز دیگری لازم دارید؟ پالتوهای زمستانی همین‌جا هستند."
         },
         {
             "order": 13,

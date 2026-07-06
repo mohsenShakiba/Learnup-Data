@@ -11,11 +11,10 @@
         "window",
         "seat",
         "plane",
-        "airplane",
         "trip",
-        "minute",
-        "fly"
+        "minute"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -81,14 +80,14 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Yes. Here is your ticket for the plane.",
-            "translation": "بله. این هم بلیت سوار شدن به هواپیما."
+            "text": "Yes. Here is your boarding pass.",
+            "translation": "بله. این هم کارت پروازتان."
         },
         {
             "order": 11,
             "person": 1,
-            "text": "You get on the airplane, and it will fly at two o'clock.",
-            "translation": "سوار هواپیما می‌شوید و ساعت دو پرواز می‌کند."
+            "text": "Your plane leaves at two o'clock. Please be at the gate by one thirty.",
+            "translation": "هواپیمای شما ساعت دو پرواز می‌کند. لطفاً ساعت یک و نیم دمِ گیت باشید."
         },
         {
             "order": 12,

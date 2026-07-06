@@ -17,9 +17,9 @@
         "evening",
         "ready",
         "glass",
-        "meal",
-        "waiter"
+        "meal"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -103,8 +103,8 @@
         {
             "order": 13,
             "person": 2,
-            "text": "It looks delicious. Thank you, waiter.",
-            "translation": "خوشمزه به نظر می‌رسد. ممنون، گارسون."
+            "text": "It looks delicious. Thank you so much.",
+            "translation": "خوشمزه به نظر می‌رسد. خیلی ممنون."
         },
         {
             "order": 14,

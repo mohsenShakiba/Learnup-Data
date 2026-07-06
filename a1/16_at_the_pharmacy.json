@@ -3,7 +3,7 @@
     "description": "گرفتن دارو برای سرفه از داروخانه.",
     "words": [
         "cough",
-        "hot",
+        "fever",
         "medicine",
         "help",
         "pill",
@@ -13,6 +13,7 @@
         "water",
         "better"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -36,8 +37,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Do you feel hot?",
-            "translation": "احساس داغی می‌کنید؟"
+            "text": "Do you have a fever?",
+            "translation": "تب دارید؟"
         },
         {
             "order": 4,

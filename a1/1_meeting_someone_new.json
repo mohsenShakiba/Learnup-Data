@@ -17,13 +17,14 @@
         "later",
         "last name"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hi, my name is Anna. My last name is Smith.",
-            "translation": "سلام، اسم من آنا است. نام خانوادگی‌ام اسمیت است."
+            "text": "Hi, my name is Anna Smith.",
+            "translation": "سلام، اسم من آنا اسمیت است."
         },
         {
             "order": 1,

@@ -24,6 +24,7 @@
         "wife",
         "husband"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -71,8 +72,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Yes, my grandmother, aunt, and cousins visit us every week.",
-            "translation": "بله، مادربزرگ، عمه و عموزاده‌هایم هر هفته به دیدن ما می‌آیند."
+            "text": "No, but my grandmother, aunt, and cousins visit us every week.",
+            "translation": "نه، اما مادربزرگ، عمه و عموزاده‌هایم هر هفته به دیدن ما می‌آیند."
         },
         {
             "order": 8,
