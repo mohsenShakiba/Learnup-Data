@@ -1,0 +1,92 @@
+{
+    "title": "63 - Classroom Rules",
+    "description": "یک معلم در روز اول قوانین کلاس را توضیح می‌دهد.",
+    "words": [
+        "rule",
+        "sentence",
+        "rude",
+        "fight",
+        "smoking",
+        "button",
+        "false",
+        "class",
+        "true",
+        "allowed"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Welcome. Here are our class rules.",
+            "translation": "خوش آمدید. این‌ها قوانین کلاس ماست."
+        },
+        {
+            "order": 1,
+            "person": 1,
+            "text": "Please write each sentence clearly.",
+            "translation": "لطفاً هر جمله را واضح بنویسید."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Do not be rude to each other.",
+            "translation": "با یکدیگر بی‌ادب نباشید."
+        },
+        {
+            "order": 3,
+            "person": 1,
+            "text": "And please do not fight.",
+            "translation": "و لطفاً دعوا نکنید."
+        },
+        {
+            "order": 4,
+            "person": 2,
+            "text": "Is smoking allowed here?",
+            "translation": "این‌جا سیگار کشیدن مجاز است؟"
+        },
+        {
+            "order": 5,
+            "person": 1,
+            "text": "No, smoking is not allowed.",
+            "translation": "نه، سیگار کشیدن مجاز نیست."
+        },
+        {
+            "order": 6,
+            "person": 2,
+            "text": "Okay. What about phones?",
+            "translation": "باشه. تلفن‌ها چطور؟"
+        },
+        {
+            "order": 7,
+            "person": 1,
+            "text": "Press the red button to turn them off.",
+            "translation": "دکمه قرمز را بزنید تا خاموش شوند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Is this sentence true or false?",
+            "translation": "این جمله درست است یا غلط؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "It is false, teacher.",
+            "translation": "غلط است، معلم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Good. You know the rule.",
+            "translation": "خوبه. قانون را می‌دانی."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you for the clear rules.",
+            "translation": "ممنون از قوانین واضح."
+        }
+    ]
+}

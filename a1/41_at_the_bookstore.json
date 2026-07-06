@@ -1,0 +1,122 @@
+{
+    "title": "41 - At the Bookstore",
+    "description": "خرید کتاب و لوازم از یک کتاب‌فروشی.",
+    "words": [
+        "bookstore",
+        "dictionary",
+        "top",
+        "magazine",
+        "notebook",
+        "pen",
+        "pencil",
+        "popular",
+        "favorite",
+        "writer",
+        "wonderful",
+        "book",
+        "newspaper",
+        "pay",
+        "credit card",
+        "help"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi, I'm looking for an English dictionary.",
+            "translation": "سلام، دنبال یک دیکشنری انگلیسی می‌گردم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Welcome to our bookstore. They are on the top shelf, over there.",
+            "translation": "به کتاب‌فروشی ما خوش آمدید. آن‌ها روی طبقه بالایی هستند، همان‌جا."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Thank you. Do you have magazines too?",
+            "translation": "ممنون. مجله هم دارید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, the magazines are near the door.",
+            "translation": "بله، مجله‌ها نزدیک در هستند."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Great. I also need a notebook, a pen, and a pencil.",
+            "translation": "عالیه. یک دفترچه، یک خودکار و یک مداد هم لازم دارم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "The notebooks are here. This one is very popular.",
+            "translation": "دفترچه‌ها این‌جا هستند. این یکی خیلی محبوب است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Who is your favorite writer?",
+            "translation": "نویسنده مورد علاقه‌ات کیست؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I love this one. His new book is wonderful.",
+            "translation": "من این یکی را دوست دارم. کتاب جدیدش فوق‌العاده است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Nice! I will take that book too.",
+            "translation": "چه خوب! آن کتاب را هم برمی‌دارم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Do you want a newspaper? Today's is new.",
+            "translation": "روزنامه می‌خواهید؟ روزنامه امروز تازه است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "No, thank you. Just these.",
+            "translation": "نه، ممنون. فقط همین‌ها."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Okay. That is twenty dollars.",
+            "translation": "باشه. می‌شود بیست دلار."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Can I pay with a credit card?",
+            "translation": "می‌توانم با کارت اعتباری پرداخت کنم؟"
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Yes, of course.",
+            "translation": "بله، البته."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Thank you for your help.",
+            "translation": "ممنون از کمکتان."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "You're welcome. Have a nice day!",
+            "translation": "خواهش می‌کنم. روز خوبی داشته باشید!"
+        }
+    ]
+}

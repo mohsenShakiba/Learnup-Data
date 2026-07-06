@@ -1,0 +1,91 @@
+{
+    "title": "54 - At the Theater",
+    "description": "دو دوست بعد از دیدن یک نمایش در تئاتر حرف می‌زنند.",
+    "words": [
+        "theater",
+        "video",
+        "real",
+        "terrible",
+        "group",
+        "talk",
+        "show",
+        "play",
+        "story"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "How was the show at the theater?",
+            "translation": "نمایش در تئاتر چطور بود؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It was terrible! I did not like it.",
+            "translation": "افتضاح بود! دوستش نداشتم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Really? Why?",
+            "translation": "واقعاً؟ چرا؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "The story was not real. It was silly.",
+            "translation": "داستان واقعی نبود. مسخره بود."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Did you talk to the actors?",
+            "translation": "با بازیگرها صحبت کردی؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "No, but a big group waited outside.",
+            "translation": "نه، اما یک گروه بزرگ بیرون منتظر بودند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Did you take a video?",
+            "translation": "ویدیو گرفتی؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, a short video on my phone.",
+            "translation": "بله، یک ویدیوی کوتاه با گوشی‌ام."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Let's see a better play next time.",
+            "translation": "دفعه بعد یک نمایش بهتر ببینیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Good idea. I know a nice theater.",
+            "translation": "فکر خوبیه. یک تئاتر خوب می‌شناسم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Let's go with our group of friends.",
+            "translation": "بیا با گروه دوستانمان برویم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Perfect. That will be fun.",
+            "translation": "عالیه. خوش می‌گذرد."
+        }
+    ]
+}

@@ -13,7 +13,10 @@
         "slow",
         "country",
         "sign",
-        "receipt"
+        "receipt",
+        "add",
+        "mail",
+        "write"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -80,8 +83,8 @@
         {
             "order": 10,
             "person": 2,
-            "text": "Of course. We will send it soon.",
-            "translation": "البته. به‌زودی آن را می‌فرستیم."
+            "text": "Of course. Your mail will go out soon.",
+            "translation": "البته. نامه‌های شما به‌زودی ارسال می‌شوند."
         }
     ]
 }

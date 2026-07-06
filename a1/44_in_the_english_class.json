@@ -1,0 +1,97 @@
+{
+    "title": "44 - In the English Class",
+    "description": "گفتگوی معلم و دانش‌آموز در کلاس انگلیسی.",
+    "words": [
+        "teacher",
+        "class",
+        "classroom",
+        "book",
+        "page",
+        "word",
+        "spell",
+        "science",
+        "correct",
+        "repeat",
+        "question",
+        "answer",
+        "favorite",
+        "classmate",
+        "teach"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Good morning, class. Welcome to the classroom.",
+            "translation": "صبح بخیر، بچه‌ها. به کلاس خوش آمدید."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Good morning, teacher.",
+            "translation": "صبح بخیر، معلم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Please open your book to page ten.",
+            "translation": "لطفاً کتابتان را از صفحه ده باز کنید."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Which page? Page ten?",
+            "translation": "کدام صفحه؟ صفحه ده؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Yes. Today we learn new words.",
+            "translation": "بله. امروز کلمات جدید یاد می‌گیریم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "How do you spell 'science'?",
+            "translation": "«science» را چطور هجی می‌کنید؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "S-C-I-E-N-C-E. That's correct.",
+            "translation": "اس-سی-آی-ای-ان-سی-ای. درست است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Thank you. Can you repeat the question?",
+            "translation": "ممنون. می‌شود سؤال را تکرار کنید؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Of course. What is your favorite class?",
+            "translation": "البته. کلاس مورد علاقه‌ات چیست؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "My favorite class is science. My classmate likes it too.",
+            "translation": "کلاس مورد علاقه‌ام علوم است. هم‌کلاسی‌ام هم دوستش دارد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Good answer! You can teach your classmates.",
+            "translation": "جواب خوبی بود! می‌توانی به هم‌کلاسی‌هایت یاد بدهی."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "I will. This class is fun.",
+            "translation": "حتماً. این کلاس سرگرم‌کننده است."
+        }
+    ]
+}

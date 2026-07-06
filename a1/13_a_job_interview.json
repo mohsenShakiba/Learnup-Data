@@ -11,7 +11,10 @@
         "hours",
         "question",
         "start",
-        "week"
+        "week",
+        "worker",
+        "email",
+        "college"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -36,8 +39,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "I like this kind of work, and I want to learn.",
-            "translation": "این نوع کار را دوست دارم و می‌خواهم یاد بگیرم."
+            "text": "I like this work. I studied it at college and want to learn more.",
+            "translation": "این کار را دوست دارم. آن را در دانشگاه خواندم و می‌خواهم بیشتر یاد بگیرم."
         },
         {
             "order": 4,
@@ -60,8 +63,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Yes, I can.",
-            "translation": "بله، می‌توانم."
+            "text": "Yes, I can. I am a hard worker.",
+            "translation": "بله، می‌توانم. من کارگر سخت‌کوشی هستم."
         },
         {
             "order": 8,
@@ -90,8 +93,8 @@
         {
             "order": 12,
             "person": 1,
-            "text": "We'll call you next week.",
-            "translation": "هفته بعد به شما زنگ می‌زنیم."
+            "text": "We'll call or email you next week.",
+            "translation": "هفته بعد به شما زنگ می‌زنیم یا ایمیل می‌فرستیم."
         },
         {
             "order": 13,

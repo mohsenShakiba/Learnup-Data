@@ -13,7 +13,9 @@
         "again",
         "connect",
         "works",
-        "minute"
+        "minute",
+        "moment",
+        "information"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -32,8 +34,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "I'm sorry about that. Let's fix it together.",
-            "translation": "متأسفم بابت این مشکل. بیایید با هم درستش کنیم."
+            "text": "I'm sorry. Let me check your information and fix it.",
+            "translation": "متأسفم. بگذارید اطلاعاتتان را بررسی کنم و درستش کنم."
         },
         {
             "order": 3,

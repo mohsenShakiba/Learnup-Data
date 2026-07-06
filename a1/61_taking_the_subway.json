@@ -1,0 +1,92 @@
+{
+    "title": "61 - Taking the Subway",
+    "description": "دو همکار درباره مسیر رفتن به سر کار حرف می‌زنند.",
+    "words": [
+        "have to",
+        "subway",
+        "quickly",
+        "bridge",
+        "ago",
+        "little",
+        "fire",
+        "work",
+        "city",
+        "fast"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I have to go to work now.",
+            "translation": "الان باید بروم سر کار."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "How do you get there?",
+            "translation": "چطور می‌روی آن‌جا؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I take the subway every day.",
+            "translation": "هر روز با مترو می‌روم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Is it fast?",
+            "translation": "سریع است؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Yes, I get there quickly.",
+            "translation": "بله، سریع می‌رسم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Do you cross the river?",
+            "translation": "از روی رودخانه رد می‌شوی؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yes, the subway goes under the bridge.",
+            "translation": "بله، مترو از زیر پل می‌گذرد."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I moved here a year ago.",
+            "translation": "یک سال پیش به این‌جا آمدم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Do you like the city?",
+            "translation": "شهر را دوست داری؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "A little. It is very big.",
+            "translation": "کمی. خیلی بزرگ است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I saw a fire near the station.",
+            "translation": "نزدیک ایستگاه یک آتش‌سوزی دیدم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Oh no! Was it bad?",
+            "translation": "وای نه! بد بود؟"
+        }
+    ]
+}

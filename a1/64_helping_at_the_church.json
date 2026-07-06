@@ -1,0 +1,90 @@
+{
+    "title": "64 - Helping at the Church",
+    "description": "دو نفر درباره کمک به خانواده‌های فقیر در کلیسا حرف می‌زنند.",
+    "words": [
+        "church",
+        "poor",
+        "smoke",
+        "help",
+        "food",
+        "family",
+        "kind",
+        "cook"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Are you going to the church today?",
+            "translation": "امروز به کلیسا می‌روی؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, we help poor families there.",
+            "translation": "بله، آن‌جا به خانواده‌های فقیر کمک می‌کنیم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "That is very kind.",
+            "translation": "این خیلی مهربانانه است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "We give them food and clothes.",
+            "translation": "به آن‌ها غذا و لباس می‌دهیم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Do you smell smoke?",
+            "translation": "بوی دود می‌آید؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Yes, someone is cooking outside.",
+            "translation": "بله، یک نفر بیرون آشپزی می‌کند."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Oh, it is just the kitchen smoke.",
+            "translation": "اوه، فقط دود آشپزخانه است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Good. I was worried about a fire.",
+            "translation": "خوبه. نگران آتش‌سوزی شدم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "The church helps many poor people.",
+            "translation": "کلیسا به آدم‌های فقیر زیادی کمک می‌کند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I want to help too.",
+            "translation": "من هم می‌خواهم کمک کنم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Great, come with me on Sunday.",
+            "translation": "عالیه، یکشنبه با من بیا."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you, I will.",
+            "translation": "ممنون، حتماً می‌آیم."
+        }
+    ]
+}

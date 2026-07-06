@@ -11,8 +11,10 @@
         "window",
         "seat",
         "plane",
+        "airplane",
         "trip",
-        "minute"
+        "minute",
+        "fly"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -85,8 +87,8 @@
         {
             "order": 11,
             "person": 1,
-            "text": "You get on the plane at two o'clock.",
-            "translation": "ساعت دو سوار هواپیما می‌شوید."
+            "text": "You get on the airplane, and it will fly at two o'clock.",
+            "translation": "سوار هواپیما می‌شوید و ساعت دو پرواز می‌کند."
         },
         {
             "order": 12,

@@ -15,15 +15,21 @@
         "early",
         "map",
         "ready",
-        "excited"
+        "excited",
+        "travel",
+        "world",
+        "sea",
+        "vacation",
+        "sun",
+        "clothes"
     ],
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Let's plan a trip for the weekend.",
-            "translation": "بیا برای آخر هفته یک سفر برنامه‌ریزی کنیم."
+            "text": "Let's plan a trip for the weekend. I love to travel and see the world.",
+            "translation": "بیا برای آخر هفته یک سفر برنامه‌ریزی کنیم. عاشق سفر کردن و دیدن دنیا هستم."
         },
         {
             "order": 1,
@@ -82,8 +88,8 @@
         {
             "order": 10,
             "person": 1,
-            "text": "I can't wait. I'm so excited!",
-            "translation": "طاقت ندارم. خیلی هیجان‌زده‌ام!"
+            "text": "I'm so excited! It will be a great vacation in the sun.",
+            "translation": "خیلی هیجان‌زده‌ام! تعطیلات فوق‌العاده‌ای زیر آفتاب خواهد بود."
         },
         {
             "order": 11,

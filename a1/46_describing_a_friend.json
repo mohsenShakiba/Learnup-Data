@@ -1,0 +1,110 @@
+{
+    "title": "46 - Describing a Friend",
+    "description": "دو دوست با نگاه به یک عکس، یک نفر را توصیف می‌کنند.",
+    "words": [
+        "man",
+        "photo",
+        "friend",
+        "young",
+        "tall",
+        "thin",
+        "face",
+        "kind",
+        "handsome",
+        "teacher",
+        "rich",
+        "important",
+        "laugh",
+        "person",
+        "girlfriend",
+        "boyfriend"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Who is the man in this photo?",
+            "translation": "این مرد در عکس کیست؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "That's my new friend, Leo.",
+            "translation": "این دوست جدیدم، لئو است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "He looks young. Is he tall?",
+            "translation": "جوان به نظر می‌رسد. قدبلند است؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, he's tall and thin.",
+            "translation": "بله، قدبلند و لاغر است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "He has a kind face.",
+            "translation": "چهره مهربانی دارد."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "He is very kind, and he is handsome too.",
+            "translation": "خیلی مهربان است و خوش‌تیپ هم هست."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "What does he do?",
+            "translation": "شغلش چیست؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "He is a teacher. He is not rich, but he is happy.",
+            "translation": "او معلم است. ثروتمند نیست، اما خوشحال است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "A happy life is important.",
+            "translation": "یک زندگی شاد مهم است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That's true. He always makes me laugh.",
+            "translation": "درست است. همیشه من را می‌خنداند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Does he have a girlfriend?",
+            "translation": "دوست‌دختر دارد؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "No, not now. But my sister has a nice boyfriend.",
+            "translation": "نه، الان نه. اما خواهرم یک دوست‌پسر خوب دارد."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "He sounds like a good person.",
+            "translation": "به نظر آدم خوبی می‌آید."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "He is. You will like him.",
+            "translation": "همینطور است. ازش خوشت می‌آید."
+        }
+    ]
+}

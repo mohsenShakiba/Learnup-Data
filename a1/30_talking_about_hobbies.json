@@ -15,7 +15,14 @@
         "weekend",
         "join",
         "club",
-        "fun"
+        "fun",
+        "bike",
+        "interested",
+        "draw",
+        "listen",
+        "practice",
+        "sport",
+        "ride"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -28,8 +35,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "I like to paint and listen to music.",
-            "translation": "دوست دارم نقاشی کنم و موسیقی گوش بدهم."
+            "text": "I like to paint, draw, and listen to music.",
+            "translation": "دوست دارم نقاشی بکشم، طراحی کنم و موسیقی گوش بدهم."
         },
         {
             "order": 2,
@@ -40,8 +47,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Yes, I play the guitar a little. And you?",
-            "translation": "بله، کمی گیتار می‌زنم. تو چطور؟"
+            "text": "Yes, I practice the guitar a little. And you?",
+            "translation": "بله، کمی گیتار تمرین می‌کنم. تو چطور؟"
         },
         {
             "order": 4,
@@ -64,20 +71,20 @@
         {
             "order": 7,
             "person": 2,
-            "text": "I also go running in the morning.",
-            "translation": "من صبح‌ها هم می‌دوم."
+            "text": "Running is my favorite sport, and I also ride my bike.",
+            "translation": "دویدن ورزش مورد علاقه‌ام است و دوچرخه هم سواری می‌کنم."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Maybe I can join you sometime.",
-            "translation": "شاید بتوانم یک وقتی با تو بیایم."
+            "text": "Nice! I'm interested in cycling too.",
+            "translation": "چه خوب! من هم به دوچرخه‌سواری علاقه دارم."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "Sure! There is a running club on Saturdays.",
-            "translation": "حتماً! شنبه‌ها یک باشگاه دو هست."
+            "text": "Then join me sometime. There is a running club on Saturdays.",
+            "translation": "پس یک وقتی با من بیا. شنبه‌ها یک باشگاه دو هست."
         },
         {
             "order": 10,

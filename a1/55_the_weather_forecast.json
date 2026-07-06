@@ -1,0 +1,90 @@
+{
+    "title": "55 - The Weather Forecast",
+    "description": "دو نفر درباره هوای امروز و روزهای بعد صحبت می‌کنند.",
+    "words": [
+        "cool",
+        "rainy",
+        "dry",
+        "snowy",
+        "weather",
+        "warm",
+        "cold",
+        "sunny"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "What is the weather today?",
+            "translation": "امروز هوا چطور است؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It is cool and cloudy.",
+            "translation": "خنک و ابری است."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Will it be rainy?",
+            "translation": "بارانی می‌شود؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, rainy in the afternoon.",
+            "translation": "بله، بعد از ظهر بارانی است."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "And tomorrow?",
+            "translation": "و فردا؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Tomorrow will be dry and sunny.",
+            "translation": "فردا خشک و آفتابی است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Good. I want to walk outside.",
+            "translation": "خوبه. می‌خواهم بیرون قدم بزنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "But next week it will be snowy.",
+            "translation": "اما هفته بعد برفی می‌شود."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Snowy already? It is early.",
+            "translation": "همین حالا برفی؟ زود است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Yes, so wear a warm coat.",
+            "translation": "بله، پس یک کت گرم بپوش."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Okay. I don't like the cold.",
+            "translation": "باشه. سرما را دوست ندارم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Stay warm and dry!",
+            "translation": "گرم و خشک بمان!"
+        }
+    ]
+}

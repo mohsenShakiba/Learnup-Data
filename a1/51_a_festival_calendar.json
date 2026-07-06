@@ -1,0 +1,95 @@
+{
+    "title": "51 - A Festival Calendar",
+    "description": "دو دوست درباره جشنواره‌های شهر در ماه‌های مختلف سال حرف می‌زنند.",
+    "words": [
+        "town",
+        "festival",
+        "March",
+        "June",
+        "August",
+        "September",
+        "October",
+        "program",
+        "November",
+        "dancing",
+        "January",
+        "music",
+        "summer"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Our town has many festivals.",
+            "translation": "شهر ما جشنواره‌های زیادی دارد."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Really? When do they start?",
+            "translation": "واقعاً؟ کی شروع می‌شوند؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The music festival is in March.",
+            "translation": "جشنواره موسیقی در ماه مارس است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Nice. What about summer?",
+            "translation": "چه خوب. تابستان چطور؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "There is a big one in June.",
+            "translation": "یک جشنواره بزرگ در ژوئن هست."
+        },
+        {
+            "order": 5,
+            "person": 1,
+            "text": "And a food festival in August.",
+            "translation": "و یک جشنواره غذا در اوت."
+        },
+        {
+            "order": 6,
+            "person": 2,
+            "text": "I love autumn festivals too.",
+            "translation": "من جشنواره‌های پاییزی را هم دوست دارم."
+        },
+        {
+            "order": 7,
+            "person": 1,
+            "text": "Yes, one in September and one in October.",
+            "translation": "بله، یکی در سپتامبر و یکی در اکتبر."
+        },
+        {
+            "order": 8,
+            "person": 2,
+            "text": "Is there a winter program?",
+            "translation": "برنامه زمستانی هم هست؟"
+        },
+        {
+            "order": 9,
+            "person": 1,
+            "text": "In November we have a dancing show.",
+            "translation": "در نوامبر یک نمایش رقص داریم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "And in January, a light festival.",
+            "translation": "و در ژانویه، یک جشنواره نور."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Wow, there is a festival every month!",
+            "translation": "وای، هر ماه یک جشنواره هست!"
+        }
+    ]
+}

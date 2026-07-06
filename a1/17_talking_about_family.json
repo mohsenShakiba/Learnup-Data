@@ -8,13 +8,21 @@
         "older",
         "younger",
         "live",
-        "parents",
+        "mother",
+        "father",
+        "cousin",
         "city",
         "married",
         "children",
         "son",
         "daughter",
-        "visit"
+        "visit",
+        "grandfather",
+        "grandmother",
+        "aunt",
+        "uncle",
+        "wife",
+        "husband"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -51,47 +59,59 @@
         {
             "order": 5,
             "person": 2,
-            "text": "My sister lives with my parents. My brothers live in another city.",
-            "translation": "خواهرم با پدر و مادرم زندگی می‌کند. برادرهایم در شهر دیگری زندگی می‌کنند."
+            "text": "My sister lives with my mother and father. My brothers live in another city.",
+            "translation": "خواهرم با مادر و پدرم زندگی می‌کند. برادرهایم در شهر دیگری زندگی می‌کنند."
         },
         {
             "order": 6,
+            "person": 1,
+            "text": "Does your grandfather or uncle live with you too?",
+            "translation": "پدربزرگ یا عمویت هم با شما زندگی می‌کند؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, my grandmother, aunt, and cousins visit us every week.",
+            "translation": "بله، مادربزرگ، عمه و عموزاده‌هایم هر هفته به دیدن ما می‌آیند."
+        },
+        {
+            "order": 8,
             "person": 1,
             "text": "Are you married?",
             "translation": "ازدواج کرده‌ای؟"
         },
         {
-            "order": 7,
+            "order": 9,
             "person": 2,
-            "text": "Yes, I have two children.",
-            "translation": "بله، دو فرزند دارم."
+            "text": "Yes, my wife and I have two children.",
+            "translation": "بله، من و همسرم دو فرزند داریم."
         },
         {
-            "order": 8,
+            "order": 10,
             "person": 1,
             "text": "A son and a daughter?",
             "translation": "یک پسر و یک دختر؟"
         },
         {
-            "order": 9,
+            "order": 11,
             "person": 2,
             "text": "Yes! How about you?",
             "translation": "بله! تو چطور؟"
         },
         {
-            "order": 10,
+            "order": 12,
             "person": 1,
-            "text": "I have one daughter. She is five.",
-            "translation": "من یک دختر دارم. پنج ساله است."
+            "text": "My husband and I have one daughter. She is five.",
+            "translation": "من و شوهرم یک دختر داریم. پنج ساله است."
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 2,
             "text": "Maybe you can visit us sometime.",
             "translation": "شاید بتوانی یک روز به دیدن ما بیایی."
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 1,
             "text": "That sounds nice.",
             "translation": "به نظر خوب می‌آید."

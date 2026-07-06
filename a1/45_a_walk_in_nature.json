@@ -1,0 +1,95 @@
+{
+    "title": "45 - A Walk in Nature",
+    "description": "دو دوست در طبیعت قدم می‌زنند و درباره منظره صحبت می‌کنند.",
+    "words": [
+        "walk",
+        "tree",
+        "flower",
+        "pretty",
+        "hill",
+        "climb",
+        "mountain",
+        "animal",
+        "cute",
+        "moon",
+        "star",
+        "nature",
+        "beautiful"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "What a beautiful day for a walk.",
+            "translation": "چه روز زیبایی برای پیاده‌روی."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes! Look at all the trees and flowers.",
+            "translation": "بله! به این همه درخت و گل نگاه کن."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The flowers are so pretty.",
+            "translation": "گل‌ها خیلی قشنگ‌اند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Let's climb the hill.",
+            "translation": "بیا از تپه بالا برویم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Good idea. I can see the mountain from here.",
+            "translation": "فکر خوبی است. از اینجا کوه را می‌بینم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "It's beautiful. Look, a small animal!",
+            "translation": "زیباست. ببین، یک حیوان کوچک!"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "It's a rabbit. It's so cute.",
+            "translation": "یک خرگوش است. خیلی بامزه است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Let's sit under this big tree.",
+            "translation": "بیا زیر این درخت بزرگ بنشینیم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "At night, we can see the moon and stars here.",
+            "translation": "شب‌ها، اینجا می‌توانیم ماه و ستاره‌ها را ببینیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That sounds lovely. Nature is wonderful.",
+            "translation": "چه دلپذیر. طبیعت فوق‌العاده است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes. I feel so happy here.",
+            "translation": "بله. اینجا خیلی احساس خوشحالی می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Me too. Let's come again next week.",
+            "translation": "من هم. بیا هفته بعد دوباره بیاییم."
+        }
+    ]
+}

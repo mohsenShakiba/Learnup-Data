@@ -12,7 +12,9 @@
         "evening",
         "meet",
         "cinema",
-        "late"
+        "late",
+        "Thursday",
+        "Friday"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -37,8 +39,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Yes, I am free on Saturday.",
-            "translation": "بله، شنبه آزادم."
+            "text": "I'm busy on Thursday and Friday, but I'm free on Saturday.",
+            "translation": "پنجشنبه و جمعه سرم شلوغ است، اما شنبه آزادم."
         },
         {
             "order": 4,

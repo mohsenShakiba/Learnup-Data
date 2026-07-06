@@ -14,15 +14,16 @@
         "like",
         "people",
         "great",
-        "later"
+        "later",
+        "last name"
     ],
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hi, my name is Anna.",
-            "translation": "سلام، اسم من آنا است."
+            "text": "Hi, my name is Anna. My last name is Smith.",
+            "translation": "سلام، اسم من آنا است. نام خانوادگی‌ام اسمیت است."
         },
         {
             "order": 1,

@@ -1,0 +1,112 @@
+{
+    "title": "47 - Planning the Week",
+    "description": "دو همکار جلسه‌های هفته را زمان‌بندی می‌کنند.",
+    "words": [
+        "plan",
+        "meeting",
+        "week",
+        "begin",
+        "Monday",
+        "a.m.",
+        "hour",
+        "Tuesday",
+        "half",
+        "past",
+        "Wednesday",
+        "quarter",
+        "clock",
+        "noon",
+        "until",
+        "twelve",
+        "second",
+        "p.m."
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Hi Sara, let's plan our meetings for this week.",
+            "translation": "سلام سارا، بیا برنامه جلسه‌های این هفته را بچینیم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Good idea. When does the first one begin?",
+            "translation": "فکر خوبیه. اولی کی شروع می‌شود؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The Monday meeting begins at nine a.m.",
+            "translation": "جلسه دوشنبه ساعت نه صبح شروع می‌شود."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Okay. How long is it?",
+            "translation": "باشه. چقدر طول می‌کشد؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "It is about one hour.",
+            "translation": "حدود یک ساعت است."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "And the Tuesday meeting?",
+            "translation": "و جلسه سه‌شنبه؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Tuesday is at half past two.",
+            "translation": "سه‌شنبه ساعت دو و نیم است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "What time on Wednesday?",
+            "translation": "چهارشنبه چه ساعتی؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Wednesday is at a quarter past ten.",
+            "translation": "چهارشنبه ساعت ده و ربع است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "My clock says it is almost noon now.",
+            "translation": "ساعت من می‌گوید تقریباً ظهر است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes, we have work until twelve.",
+            "translation": "بله، تا ساعت دوازده کار داریم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Wait, one second. Let me write this down.",
+            "translation": "صبر کن، یک لحظه. بگذار این را یادداشت کنم."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "The last meeting is at three p.m.",
+            "translation": "آخرین جلسه ساعت سه بعد از ظهر است."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Great. Thank you very much.",
+            "translation": "عالیه. خیلی ممنون."
+        }
+    ]
+}

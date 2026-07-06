@@ -13,15 +13,18 @@
         "sign",
         "pay",
         "choose",
-        "include"
+        "include",
+        "mobile phone",
+        "internet",
+        "twenty"
     ],
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hi, I need a new phone plan.",
-            "translation": "سلام، یک طرح تلفن جدید می‌خواهم."
+            "text": "Hi, I need a new plan for my mobile phone.",
+            "translation": "سلام، یک طرح جدید برای تلفن همراهم می‌خواهم."
         },
         {
             "order": 1,

@@ -15,7 +15,13 @@
         "medicine",
         "day",
         "better",
-        "sleep"
+        "sleep",
+        "doctor",
+        "eye",
+        "ear",
+        "nose",
+        "health",
+        "care"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -29,8 +35,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "I feel sick. My head hurts.",
-            "translation": "حالم بد است. سرم درد می‌کند."
+            "text": "I feel sick. My head and nose hurt.",
+            "translation": "حالم بد است. سر و بینی‌ام درد می‌کند."
         },
         {
             "order": 2,
@@ -47,14 +53,14 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Does your throat hurt too?",
-            "translation": "گلویتان هم درد می‌کند؟"
+            "text": "Do your throat and ears hurt too?",
+            "translation": "گلو و گوش‌هایتان هم درد می‌کند؟"
         },
         {
             "order": 5,
             "person": 2,
-            "text": "A little. And I feel very tired.",
-            "translation": "کمی. و خیلی خسته‌ام."
+            "text": "A little. My eyes feel tired too.",
+            "translation": "کمی. چشم‌هایم هم خسته‌اند."
         },
         {
             "order": 6,
@@ -101,8 +107,8 @@
         {
             "order": 13,
             "person": 1,
-            "text": "Take care and sleep well.",
-            "translation": "مراقب خودتان باشید و خوب بخوابید."
+            "text": "Take care of your health and sleep well.",
+            "translation": "مراقب سلامتی‌ات باش و خوب بخواب."
         }
     ]
 }

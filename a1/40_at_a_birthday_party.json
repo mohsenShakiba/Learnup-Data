@@ -15,7 +15,10 @@
         "friend",
         "fun",
         "thank",
-        "surprise"
+        "surprise",
+        "child",
+        "game",
+        "celebrate"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -46,8 +49,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "I'm glad you like it. The party is great.",
-            "translation": "خوشحالم که دوستش داری. جشن عالی است."
+            "text": "I'm glad you like it. Let's celebrate!",
+            "translation": "خوشحالم که دوستش داری. بیا جشن بگیریم!"
         },
         {
             "order": 5,
@@ -70,14 +73,14 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Wonderful! Now let's dance.",
-            "translation": "عالی! حالا بیا برقصیم."
+            "text": "Wonderful! Let's dance and play a game.",
+            "translation": "عالی! بیا برقصیم و یک بازی کنیم."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "This is so much fun.",
-            "translation": "این خیلی خوش می‌گذرد."
+            "text": "The children love the music. This is so much fun.",
+            "translation": "بچه‌ها عاشق موسیقی هستند. این خیلی خوش می‌گذرد."
         },
         {
             "order": 10,

@@ -1,16 +1,34 @@
 {
-    "title": "English Placement Test",
-    "description": "آزمون تعیین سطح زبان انگلیسی. به ترتیب از آسان به بسیار سخت. برای هر سؤال یک گزینه را انتخاب کنید.",
+    "title": "آزمون تعیین سطح",
+    "description": "لطفا برای دریافت بهترین سطح زبان انگلیسی خود، این آزمون را انجام دهید. سوالات به تدریج سخت‌تر می‌شوند و سطح شما بر اساس بالاترین سطحی که در آن بیشترین پاسخ صحیح را داده‌اید تعیین می‌شود.",
     "instructions": "Choose the best option for each question. Questions get harder as you go. Your level is based on the highest band where you answer most questions correctly.",
     "scoring": {
         "method": "Count correct answers per CEFR band.",
         "bands": [
-            { "level": "A1", "questions": "1-4" },
-            { "level": "A2", "questions": "5-8" },
-            { "level": "B1", "questions": "9-12" },
-            { "level": "B2", "questions": "13-16" },
-            { "level": "C1", "questions": "17-20" },
-            { "level": "C2", "questions": "21-24" }
+            {
+                "level": "A1",
+                "questions": "1-4"
+            },
+            {
+                "level": "A2",
+                "questions": "5-8"
+            },
+            {
+                "level": "B1",
+                "questions": "9-12"
+            },
+            {
+                "level": "B2",
+                "questions": "13-16"
+            },
+            {
+                "level": "C1",
+                "questions": "17-20"
+            },
+            {
+                "level": "C2",
+                "questions": "21-24"
+            }
         ],
         "rule": "A student is placed at the highest band where they answer at least 3 of 4 questions correctly, provided all lower bands are also passed."
     },
@@ -20,7 +38,12 @@
             "level": "A1",
             "skill": "grammar",
             "prompt": "She ___ a teacher.",
-            "options": ["is", "are", "am", "be"],
+            "options": [
+                "is",
+                "are",
+                "am",
+                "be"
+            ],
             "answer": "is"
         },
         {
@@ -28,7 +51,12 @@
             "level": "A1",
             "skill": "vocabulary",
             "prompt": "What is the opposite of 'big'?",
-            "options": ["small", "tall", "long", "fast"],
+            "options": [
+                "small",
+                "tall",
+                "long",
+                "fast"
+            ],
             "answer": "small"
         },
         {
@@ -36,7 +64,12 @@
             "level": "A1",
             "skill": "grammar",
             "prompt": "___ you like coffee?",
-            "options": ["Do", "Does", "Are", "Is"],
+            "options": [
+                "Do",
+                "Does",
+                "Are",
+                "Is"
+            ],
             "answer": "Do"
         },
         {
@@ -44,7 +77,12 @@
             "level": "A1",
             "skill": "vocabulary",
             "prompt": "I have two ___.",
-            "options": ["cats", "cat", "cates", "a cat"],
+            "options": [
+                "cats",
+                "cat",
+                "cates",
+                "a cat"
+            ],
             "answer": "cats"
         },
         {
@@ -52,7 +90,12 @@
             "level": "A2",
             "skill": "grammar",
             "prompt": "Yesterday I ___ to the cinema.",
-            "options": ["went", "go", "going", "goes"],
+            "options": [
+                "went",
+                "go",
+                "going",
+                "goes"
+            ],
             "answer": "went"
         },
         {
@@ -60,7 +103,12 @@
             "level": "A2",
             "skill": "grammar",
             "prompt": "There aren't ___ apples in the fridge.",
-            "options": ["any", "some", "much", "a"],
+            "options": [
+                "any",
+                "some",
+                "much",
+                "a"
+            ],
             "answer": "any"
         },
         {
@@ -68,7 +116,12 @@
             "level": "A2",
             "skill": "vocabulary",
             "prompt": "My brother is taller ___ me.",
-            "options": ["than", "then", "as", "that"],
+            "options": [
+                "than",
+                "then",
+                "as",
+                "that"
+            ],
             "answer": "than"
         },
         {
@@ -76,7 +129,12 @@
             "level": "A2",
             "skill": "grammar",
             "prompt": "We ___ watching TV when the phone rang.",
-            "options": ["were", "was", "are", "have"],
+            "options": [
+                "were",
+                "was",
+                "are",
+                "have"
+            ],
             "answer": "were"
         },
         {
@@ -84,7 +142,12 @@
             "level": "B1",
             "skill": "grammar",
             "prompt": "If it rains tomorrow, we ___ stay at home.",
-            "options": ["will", "would", "are", "did"],
+            "options": [
+                "will",
+                "would",
+                "are",
+                "did"
+            ],
             "answer": "will"
         },
         {
@@ -92,7 +155,12 @@
             "level": "B1",
             "skill": "grammar",
             "prompt": "I have lived here ___ 2015.",
-            "options": ["since", "for", "from", "ago"],
+            "options": [
+                "since",
+                "for",
+                "from",
+                "ago"
+            ],
             "answer": "since"
         },
         {
@@ -100,7 +168,12 @@
             "level": "B1",
             "skill": "vocabulary",
             "prompt": "She was ___ tired that she fell asleep on the sofa.",
-            "options": ["so", "such", "too", "very much"],
+            "options": [
+                "so",
+                "such",
+                "too",
+                "very much"
+            ],
             "answer": "so"
         },
         {
@@ -108,7 +181,12 @@
             "level": "B1",
             "skill": "grammar",
             "prompt": "The report ___ by the manager last week.",
-            "options": ["was written", "wrote", "has wrote", "is writing"],
+            "options": [
+                "was written",
+                "wrote",
+                "has wrote",
+                "is writing"
+            ],
             "answer": "was written"
         },
         {
@@ -116,7 +194,12 @@
             "level": "B2",
             "skill": "grammar",
             "prompt": "I wish I ___ more time to finish the project.",
-            "options": ["had", "have", "will have", "am having"],
+            "options": [
+                "had",
+                "have",
+                "will have",
+                "am having"
+            ],
             "answer": "had"
         },
         {
@@ -124,7 +207,12 @@
             "level": "B2",
             "skill": "vocabulary",
             "prompt": "He finally ___ up the courage to ask for a raise.",
-            "options": ["plucked", "picked", "pulled", "took"],
+            "options": [
+                "plucked",
+                "picked",
+                "pulled",
+                "took"
+            ],
             "answer": "plucked"
         },
         {
@@ -132,7 +220,12 @@
             "level": "B2",
             "skill": "grammar",
             "prompt": "By the time we arrived, the film ___.",
-            "options": ["had already started", "already started", "has already started", "was already start"],
+            "options": [
+                "had already started",
+                "already started",
+                "has already started",
+                "was already start"
+            ],
             "answer": "had already started"
         },
         {
@@ -140,7 +233,12 @@
             "level": "B2",
             "skill": "vocabulary",
             "prompt": "The new policy will ___ into effect next month.",
-            "options": ["come", "go", "get", "fall"],
+            "options": [
+                "come",
+                "go",
+                "get",
+                "fall"
+            ],
             "answer": "come"
         },
         {
@@ -148,7 +246,12 @@
             "level": "C1",
             "skill": "grammar",
             "prompt": "Not only ___ late, but he also forgot the documents.",
-            "options": ["was he", "he was", "he is", "did he was"],
+            "options": [
+                "was he",
+                "he was",
+                "he is",
+                "did he was"
+            ],
             "answer": "was he"
         },
         {
@@ -156,7 +259,12 @@
             "level": "C1",
             "skill": "vocabulary",
             "prompt": "Her argument was compelling, but it ___ the central issue entirely.",
-            "options": ["sidestepped", "sidewalked", "overlooked at", "passed by from"],
+            "options": [
+                "sidestepped",
+                "sidewalked",
+                "overlooked at",
+                "passed by from"
+            ],
             "answer": "sidestepped"
         },
         {
@@ -164,7 +272,12 @@
             "level": "C1",
             "skill": "grammar",
             "prompt": "___ harder, she would have passed the exam.",
-            "options": ["Had she studied", "If she studied", "She had studied", "Would she study"],
+            "options": [
+                "Had she studied",
+                "If she studied",
+                "She had studied",
+                "Would she study"
+            ],
             "answer": "Had she studied"
         },
         {
@@ -172,7 +285,12 @@
             "level": "C1",
             "skill": "vocabulary",
             "prompt": "The committee's decision was met with ___ criticism from all sides.",
-            "options": ["scathing", "scalding", "scattering", "scarce"],
+            "options": [
+                "scathing",
+                "scalding",
+                "scattering",
+                "scarce"
+            ],
             "answer": "scathing"
         },
         {
@@ -180,7 +298,12 @@
             "level": "C2",
             "skill": "vocabulary",
             "prompt": "His speech, though eloquent, was ultimately a piece of ___ designed to obscure the truth.",
-            "options": ["sophistry", "sophistication", "soliloquy", "sobriety"],
+            "options": [
+                "sophistry",
+                "sophistication",
+                "soliloquy",
+                "sobriety"
+            ],
             "answer": "sophistry"
         },
         {
@@ -188,7 +311,12 @@
             "level": "C2",
             "skill": "grammar",
             "prompt": "Seldom ___ such a flagrant disregard for the rules.",
-            "options": ["have we witnessed", "we have witnessed", "we witnessed", "did we witnessed"],
+            "options": [
+                "have we witnessed",
+                "we have witnessed",
+                "we witnessed",
+                "did we witnessed"
+            ],
             "answer": "have we witnessed"
         },
         {
@@ -196,7 +324,12 @@
             "level": "C2",
             "skill": "vocabulary",
             "prompt": "The novel's ___ prose rewards readers willing to untangle its dense, allusive sentences.",
-            "options": ["labyrinthine", "labyrinth", "laborious of", "labourial"],
+            "options": [
+                "labyrinthine",
+                "labyrinth",
+                "laborious of",
+                "labourial"
+            ],
             "answer": "labyrinthine"
         },
         {
@@ -204,7 +337,12 @@
             "level": "C2",
             "skill": "vocabulary",
             "prompt": "Far from being a panacea, the reform merely ___ the underlying tensions for a few years.",
-            "options": ["papered over", "papered on", "paled over", "papered out"],
+            "options": [
+                "papered over",
+                "papered on",
+                "paled over",
+                "papered out"
+            ],
             "answer": "papered over"
         }
     ]

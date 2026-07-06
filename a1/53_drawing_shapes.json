@@ -1,0 +1,93 @@
+{
+    "title": "53 - Drawing Shapes",
+    "description": "یک نفر به دیگری یاد می‌دهد چطور یک نقاشی ساده بکشد.",
+    "words": [
+        "paper",
+        "circle",
+        "middle",
+        "line",
+        "side",
+        "carefully",
+        "bottom",
+        "copy",
+        "activity",
+        "draw",
+        "picture"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Let's draw a simple picture on this paper.",
+            "translation": "بیا روی این کاغذ یک نقاشی ساده بکشیم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Okay. What do I draw first?",
+            "translation": "باشه. اول چی بکشم؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Draw a big circle in the middle.",
+            "translation": "یک دایره بزرگ در وسط بکش."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Like this?",
+            "translation": "این‌طوری؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Yes. Now draw a line on each side.",
+            "translation": "بله. حالا در هر طرف یک خط بکش."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "On the left side and the right side?",
+            "translation": "سمت چپ و سمت راست؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yes, do it carefully.",
+            "translation": "بله، با دقت انجامش بده."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "What is at the bottom?",
+            "translation": "پایین چه چیزی است؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Draw a small box at the bottom.",
+            "translation": "یک جعبه کوچک پایین بکش."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Can I copy your picture?",
+            "translation": "می‌توانم نقاشی‌ات را کپی کنم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Sure, look at mine.",
+            "translation": "حتماً، به مال من نگاه کن."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "This is a fun activity.",
+            "translation": "این یک فعالیت سرگرم‌کننده است."
+        }
+    ]
+}

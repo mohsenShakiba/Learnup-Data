@@ -1,0 +1,92 @@
+{
+    "title": "62 - A Strange Dream",
+    "description": "یک نفر خواب عجیبش را برای دوستش تعریف می‌کند.",
+    "words": [
+        "strange",
+        "dark",
+        "awake",
+        "ugly",
+        "fat",
+        "piece",
+        "gold",
+        "forget",
+        "dream",
+        "asleep"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I had a strange dream last night.",
+            "translation": "دیشب یک خواب عجیب دیدم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Really? Tell me about it.",
+            "translation": "واقعاً؟ برایم تعریف کن."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "It was dark and a little scary.",
+            "translation": "تاریک بود و کمی ترسناک."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Were you awake or asleep?",
+            "translation": "بیدار بودی یا خواب؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Asleep. I saw an ugly monster.",
+            "translation": "خواب. یک هیولای زشت دیدم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Was it big and fat?",
+            "translation": "بزرگ و چاق بود؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yes! It held a piece of gold.",
+            "translation": "بله! یک تکه طلا در دست داشت."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Then what happened?",
+            "translation": "بعد چه شد؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I forget the rest of it.",
+            "translation": "بقیه‌اش را فراموش کرده‌ام."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Dreams are strange like that.",
+            "translation": "خواب‌ها همینطور عجیب هستند."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes. I don't want to sleep now.",
+            "translation": "بله. حالا نمی‌خواهم بخوابم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Don't worry, it was not real.",
+            "translation": "نگران نباش، واقعی نبود."
+        }
+    ]
+}

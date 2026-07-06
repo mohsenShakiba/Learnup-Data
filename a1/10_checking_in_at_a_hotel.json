@@ -15,7 +15,8 @@
         "key",
         "floor",
         "elevator",
-        "stay"
+        "stay",
+        "shower"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -76,8 +77,8 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Great. Is there Wi-Fi?",
-            "translation": "عالی. وای‌فای هست؟"
+            "text": "Great. Does the room have a shower and Wi-Fi?",
+            "translation": "عالی. اتاق دوش و وای‌فای دارد؟"
         },
         {
             "order": 10,

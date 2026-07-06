@@ -11,7 +11,10 @@
         "need",
         "change",
         "bag",
-        "dollar"
+        "dollar",
+        "bottle",
+        "sale",
+        "list"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -42,20 +45,20 @@
         {
             "order": 4,
             "person": 1,
-            "text": "I also need eggs and apples.",
-            "translation": "تخم‌مرغ و سیب هم لازم دارم."
+            "text": "I also need eggs, apples, and a bottle of water.",
+            "translation": "تخم‌مرغ، سیب و یک بطری آب هم لازم دارم."
         },
         {
             "order": 5,
             "person": 2,
-            "text": "They are next to the milk.",
-            "translation": "کنار شیر هستند."
+            "text": "They are next to the milk. The apples are on sale today.",
+            "translation": "کنار شیر هستند. سیب‌ها امروز حراج هستند."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Great. That's everything.",
-            "translation": "عالی. همه‌اش همین است."
+            "text": "Great. That's everything on my list.",
+            "translation": "عالی. همه‌چیز توی لیستم همین است."
         },
         {
             "order": 7,

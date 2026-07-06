@@ -12,7 +12,15 @@
         "week",
         "strong",
         "water",
-        "slow"
+        "slow",
+        "arm",
+        "leg",
+        "body",
+        "hand",
+        "neck",
+        "heart",
+        "breathe",
+        "hold"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -49,14 +57,14 @@
         {
             "order": 5,
             "person": 2,
-            "text": "I also want to lift weights.",
-            "translation": "می‌خواهم وزنه هم بزنم."
+            "text": "I also want to lift and hold weights.",
+            "translation": "می‌خواهم وزنه هم بلند کنم و نگه دارم."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Sure. Let's start slowly.",
-            "translation": "حتماً. بیایید آهسته شروع کنیم."
+            "text": "Sure. Let's start slowly and stretch your arms, legs, and neck.",
+            "translation": "حتماً. بیایید آهسته شروع کنیم و بازوها، پاها و گردنتان را بکشید."
         },
         {
             "order": 7,
@@ -73,14 +81,14 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Okay. I want to get strong.",
-            "translation": "باشه. می‌خواهم قوی شوم."
+            "text": "Okay. I want a strong body and strong hands.",
+            "translation": "باشه. بدن و دست‌های قوی می‌خواهم."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Remember to drink water.",
-            "translation": "یادتان باشد آب بنوشید."
+            "text": "Remember to drink water and breathe well. It's good for your heart.",
+            "translation": "یادتان باشد آب بنوشید و خوب نفس بکشید. برای قلبتان خوب است."
         },
         {
             "order": 11,

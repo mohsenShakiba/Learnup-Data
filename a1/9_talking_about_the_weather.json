@@ -11,7 +11,11 @@
         "hot",
         "spring",
         "rain",
-        "umbrella"
+        "umbrella",
+        "sky",
+        "cloud",
+        "cloudy",
+        "wind"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -24,14 +28,14 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Yes, it is very sunny.",
-            "translation": "بله، خیلی آفتابی است."
+            "text": "Yes, it is very sunny. The sky is blue.",
+            "translation": "بله، خیلی آفتابی است. آسمان آبی است."
         },
         {
             "order": 2,
             "person": 1,
-            "text": "It was cold yesterday.",
-            "translation": "دیروز سرد بود."
+            "text": "It was cold and cloudy yesterday.",
+            "translation": "دیروز سرد و ابری بود."
         },
         {
             "order": 3,
@@ -66,8 +70,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "They say it will rain tomorrow.",
-            "translation": "می‌گویند فردا باران می‌بارد."
+            "text": "They say it will rain tomorrow. There will be clouds and wind.",
+            "translation": "می‌گویند فردا باران می‌بارد. ابر و باد خواهد بود."
         },
         {
             "order": 9,

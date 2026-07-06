@@ -1,0 +1,92 @@
+{
+    "title": "59 - Starting a Business",
+    "description": "یک نفر درباره راه‌اندازی یک کسب‌وکار کوچک حرف می‌زند.",
+    "words": [
+        "business",
+        "tool",
+        "leader",
+        "difficult",
+        "because",
+        "grow",
+        "win",
+        "start",
+        "shop",
+        "hard"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I want to start a small business.",
+            "translation": "می‌خواهم یک کسب‌وکار کوچک راه بیندازم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "That is great! What kind?",
+            "translation": "عالیه! چه نوعی؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I will sell garden tools.",
+            "translation": "ابزار باغبانی می‌فروشم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Good idea. Who is the leader?",
+            "translation": "فکر خوبیه. رهبرش کیست؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I am the leader for now.",
+            "translation": "فعلاً من رهبر هستم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Business is difficult at first.",
+            "translation": "کسب‌وکار در ابتدا سخت است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Yes, because it is new.",
+            "translation": "بله، چون تازه است."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "But your shop can grow.",
+            "translation": "اما مغازه‌ات می‌تواند رشد کند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I hope to grow it slowly.",
+            "translation": "امیدوارم کم‌کم رشدش بدهم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "You will win many customers.",
+            "translation": "مشتری‌های زیادی به دست می‌آوری."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thank you. I will work hard.",
+            "translation": "ممنون. سخت کار می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Good luck with your business!",
+            "translation": "برای کسب‌وکارت موفق باشی!"
+        }
+    ]
+}

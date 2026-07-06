@@ -15,7 +15,8 @@
         "card",
         "seat",
         "arrive",
-        "change"
+        "change",
+        "stop"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -82,8 +83,8 @@
         {
             "order": 10,
             "person": 2,
-            "text": "At one o'clock. Have a good trip.",
-            "translation": "ساعت یک. سفر خوبی داشته باشید."
+            "text": "At one o'clock. The bus stops once on the way.",
+            "translation": "ساعت یک. اتوبوس یک بار در راه توقف می‌کند."
         }
     ]
 }

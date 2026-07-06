@@ -15,7 +15,9 @@
         "dollar",
         "card",
         "pay",
-        "morning"
+        "morning",
+        "cafe",
+        "cup"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -28,8 +30,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Hi. Can I get a coffee, please?",
-            "translation": "سلام. میشه یه قهوه بگیرم، لطفاً؟"
+            "text": "Hi. Can I get a cup of coffee, please?",
+            "translation": "سلام. میشه یه فنجان قهوه بگیرم، لطفاً؟"
         },
         {
             "order": 2,
@@ -100,8 +102,8 @@
         {
             "order": 13,
             "person": 2,
-            "text": "Thank you.",
-            "translation": "ممنون."
+            "text": "Thank you. I really like this cafe.",
+            "translation": "ممنون. من این کافه را خیلی دوست دارم."
         },
         {
             "order": 14,

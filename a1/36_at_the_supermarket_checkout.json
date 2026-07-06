@@ -13,15 +13,17 @@
         "heavy",
         "help",
         "cheap",
-        "thanks"
+        "thanks",
+        "supermarket",
+        "thirty"
     ],
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hello. Did you find everything okay?",
-            "translation": "سلام. همه چیز را به‌راحتی پیدا کردید؟"
+            "text": "Welcome to our supermarket. Did you find everything okay?",
+            "translation": "به سوپرمارکت ما خوش آمدید. همه چیز را به‌راحتی پیدا کردید؟"
         },
         {
             "order": 1,

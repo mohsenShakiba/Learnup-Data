@@ -15,7 +15,10 @@
         "delicious",
         "bill",
         "evening",
-        "ready"
+        "ready",
+        "glass",
+        "meal",
+        "waiter"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -40,8 +43,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Thank you. Could we have some water?",
-            "translation": "ممنون. می‌شود کمی آب بیاورید؟"
+            "text": "Thank you. Could we have two glasses of water?",
+            "translation": "ممنون. می‌شود دو لیوان آب بیاورید؟"
         },
         {
             "order": 4,
@@ -94,14 +97,14 @@
         {
             "order": 12,
             "person": 1,
-            "text": "Here is your food. Enjoy!",
-            "translation": "این هم غذای شما. نوش جان!"
+            "text": "Here is your meal. Enjoy!",
+            "translation": "این هم وعده‌ی غذایی شما. نوش جان!"
         },
         {
             "order": 13,
             "person": 2,
-            "text": "It looks delicious.",
-            "translation": "خوشمزه به نظر می‌رسد."
+            "text": "It looks delicious. Thank you, waiter.",
+            "translation": "خوشمزه به نظر می‌رسد. ممنون، گارسون."
         },
         {
             "order": 14,

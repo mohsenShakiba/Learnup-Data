@@ -1,0 +1,104 @@
+{
+    "title": "43 - Talking About Jobs",
+    "description": "دو دوست درباره شغل خود و خانواده‌شان صحبت می‌کنند.",
+    "words": [
+        "job",
+        "work",
+        "nurse",
+        "hospital",
+        "engineer",
+        "build",
+        "waitress",
+        "cafe",
+        "scientist",
+        "interesting",
+        "family",
+        "different",
+        "life",
+        "true",
+        "farmer",
+        "farm"
+    ],
+    "Level": "A1",
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "What do you do for work?",
+            "translation": "شغلت چیست؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I'm a nurse. I work at a hospital.",
+            "translation": "من پرستارم. در یک بیمارستان کار می‌کنم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "That's a great job. Do you like it?",
+            "translation": "شغل خیلی خوبی است. دوستش داری؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "Yes, I love to help people. And you?",
+            "translation": "بله، عاشق کمک به مردم هستم. تو چطور؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I'm an engineer. I help build bridges.",
+            "translation": "من مهندسم. به ساختن پل‌ها کمک می‌کنم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Wow, that sounds hard!",
+            "translation": "وای، به نظر سخت می‌آید!"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "It is, but it's fun. What about your family?",
+            "translation": "هست، اما جالب است. خانواده تو چطور؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "My sister is a waitress. My uncle is a farmer on a farm.",
+            "translation": "خواهرم پیشخدمت است. عمویم کشاورزی در یک مزرعه است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "My brother is a scientist.",
+            "translation": "برادرم دانشمند است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "A scientist? That's very interesting.",
+            "translation": "دانشمند؟ خیلی جالب است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes, he works in a big lab.",
+            "translation": "بله، در یک آزمایشگاه بزرگ کار می‌کند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Our family has many different jobs!",
+            "translation": "خانواده ما شغل‌های مختلف زیادی دارد!"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "That's true. Work is a big part of life.",
+            "translation": "درست است. کار بخش بزرگی از زندگی است."
+        }
+    ]
+}

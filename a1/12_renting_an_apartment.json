@@ -14,7 +14,13 @@
         "near",
         "move",
         "pay",
-        "deposit"
+        "deposit",
+        "dining room",
+        "tomorrow",
+        "bath",
+        "living room",
+        "sofa",
+        "chair"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -51,8 +57,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Two bedrooms, one bathroom.",
-            "translation": "دو اتاق خواب، یک حمام."
+            "text": "Two bedrooms and one bathroom with a big bath.",
+            "translation": "دو اتاق خواب و یک حمام با وان بزرگ."
         },
         {
             "order": 6,
@@ -69,35 +75,47 @@
         {
             "order": 8,
             "person": 1,
+            "text": "Does it have a dining room?",
+            "translation": "اتاق غذاخوری دارد؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Yes, a small dining room and a living room with a sofa and chairs.",
+            "translation": "بله، یک اتاق غذاخوری کوچک و یک اتاق نشیمن با مبل و صندلی."
+        },
+        {
+            "order": 10,
+            "person": 1,
             "text": "Is the area quiet?",
             "translation": "منطقه آرام است؟"
         },
         {
-            "order": 9,
+            "order": 11,
             "person": 2,
             "text": "Yes, it's very quiet and near the park.",
             "translation": "بله، خیلی آرام است و نزدیک پارک است."
         },
         {
-            "order": 10,
+            "order": 12,
             "person": 1,
             "text": "When can I move in?",
             "translation": "کی می‌توانم اسباب‌کشی کنم؟"
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 2,
             "text": "Next month. You need to pay a deposit first.",
             "translation": "ماه بعد. اول باید ودیعه بدهید."
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 1,
             "text": "Okay. Can I see it tomorrow?",
             "translation": "باشه. می‌توانم فردا ببینمش؟"
         },
         {
-            "order": 13,
+            "order": 15,
             "person": 2,
             "text": "Of course. See you then.",
             "translation": "البته. پس می‌بینمتان."

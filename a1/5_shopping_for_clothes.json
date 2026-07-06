@@ -13,7 +13,17 @@
         "price",
         "buy",
         "pay",
-        "cash"
+        "cash",
+        "coat",
+        "thick",
+        "pocket",
+        "sell",
+        "dress",
+        "pants",
+        "jeans",
+        "hat",
+        "pair",
+        "shoe"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -92,17 +102,41 @@
         {
             "order": 12,
             "person": 1,
+            "text": "Great. Do you need anything else? We also sell coats, dresses, pants, and jeans.",
+            "translation": "عالی. چیز دیگری لازم دارید؟ ما پالتو، پیراهن، شلوار و شلوار جین هم می‌فروشیم."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Maybe. Is that thick coat warm?",
+            "translation": "شاید. آن پالتوی کلفت گرم است؟"
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Yes, and it has big pockets.",
+            "translation": "بله، و جیب‌های بزرگی هم دارد."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "Nice. I'll also take a hat and a pair of shoes.",
+            "translation": "خوب است. یک کلاه و یک جفت کفش هم برمی‌دارم."
+        },
+        {
+            "order": 16,
+            "person": 1,
             "text": "How do you want to pay?",
             "translation": "چطور می‌خواهید پرداخت کنید؟"
         },
         {
-            "order": 13,
+            "order": 17,
             "person": 2,
             "text": "With cash, please.",
             "translation": "با پول نقد، لطفاً."
         },
         {
-            "order": 14,
+            "order": 18,
             "person": 1,
             "text": "Thank you. Have a great day!",
             "translation": "ممنون. روز خوبی داشته باشید!"
