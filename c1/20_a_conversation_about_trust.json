@@ -1,95 +1,94 @@
 {
-    "title": "20 - A Conversation About Trust",
-    "description": "دو دوست درباره اینکه چگونه اعتماد ساخته و شکسته می‌شود و آیا می‌توان آن را بازسازی کرد تأمل می‌کنند.",
-    "words": [
-        "trust",
-        "betrayal",
-        "vulnerability",
-        "rebuild",
-        "earned",
-        "reliability",
-        "fragile",
-        "consistency",
-        "forgive",
-        "guarded",
-        "instinct",
-        "reciprocal",
-        "restore",
-        "foundation"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Why is trust so hard to rebuild once broken?",
-            "translation": "چرا بازسازی اعتماد پس از شکستن این‌قدر سخت است؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Because it's built slowly but shattered instantly.",
-            "translation": "چون آرام ساخته می‌شود اما در یک لحظه فرومی‌ریزد."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "That asymmetry seems almost unfair.",
-            "translation": "این نامتقارنی تقریباً ناعادلانه به نظر می‌رسد."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Yet it reflects how much we risk in trusting.",
-            "translation": "اما نشان می‌دهد در اعتماد کردن چقدر ریسک می‌کنیم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "So trust is a kind of vulnerability?",
-            "translation": "پس اعتماد نوعی آسیب‌پذیری است؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Absolutely. We hand someone the power to hurt us.",
-            "translation": "قطعاً. ما قدرت آسیب زدن به خودمان را به کسی می‌دهیم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "After betrayal, can it ever be restored?",
-            "translation": "بعد از خیانت، آیا می‌توان آن را بازگرداند؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Only through consistent, patient action.",
-            "translation": "تنها از طریق عمل پیوسته و صبورانه."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Words alone clearly aren't enough.",
-            "translation": "واضح است که فقط حرف کافی نیست."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "No, reliability has to be demonstrated.",
-            "translation": "نه، قابل‌اعتماد بودن باید نشان داده شود."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "And the wounded party must choose to forgive.",
-            "translation": "و طرف آسیب‌دیده باید بخشیدن را انتخاب کند."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Exactly. Trust is the foundation of everything.",
-            "translation": "دقیقاً. اعتماد بنیان همه چیز است."
-        }
-    ]
+  "title": "20 - A Conversation About Trust",
+  "description": "دو دوست درباره اینکه چگونه اعتماد ساخته و شکسته می‌شود و آیا می‌توان آن را بازسازی کرد تأمل می‌کنند.",
+  "words": [
+    "betrayal",
+    "vulnerability",
+    "rebuild",
+    "earned",
+    "reliability",
+    "fragile",
+    "consistency",
+    "forgive",
+    "guarded",
+    "instinct",
+    "reciprocal",
+    "restore",
+    "foundation"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Why is trust so hard to rebuild once broken?",
+      "translation": "چرا بازسازی اعتماد پس از شکستن این‌قدر سخت است؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Because it's built slowly but shattered instantly.",
+      "translation": "چون آرام ساخته می‌شود اما در یک لحظه فرومی‌ریزد."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "That asymmetry seems almost unfair.",
+      "translation": "این نامتقارنی تقریباً ناعادلانه به نظر می‌رسد."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Yet it reflects how much we risk in trusting.",
+      "translation": "اما نشان می‌دهد در اعتماد کردن چقدر ریسک می‌کنیم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "So trust is a kind of vulnerability?",
+      "translation": "پس اعتماد نوعی آسیب‌پذیری است؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Absolutely. We hand someone the power to hurt us.",
+      "translation": "قطعاً. ما قدرت آسیب زدن به خودمان را به کسی می‌دهیم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "After betrayal, can it ever be restored?",
+      "translation": "بعد از خیانت، آیا می‌توان آن را بازگرداند؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Only through consistent, patient action.",
+      "translation": "تنها از طریق عمل پیوسته و صبورانه."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Words alone clearly aren't enough.",
+      "translation": "واضح است که فقط حرف کافی نیست."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "No, reliability has to be demonstrated.",
+      "translation": "نه، قابل‌اعتماد بودن باید نشان داده شود."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "And the wounded party must choose to forgive.",
+      "translation": "و طرف آسیب‌دیده باید بخشیدن را انتخاب کند."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Exactly. Trust is the foundation of everything.",
+      "translation": "دقیقاً. اعتماد بنیان همه چیز است."
+    }
+  ]
 }

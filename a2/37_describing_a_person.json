@@ -3,7 +3,6 @@
     "description": "توصیف ظاهر و شخصیت یک دوست مشترک برای شناختن او.",
     "words": [
         "tall",
-        "glasses",
         "beard",
         "friendly",
         "shy",
@@ -11,8 +10,7 @@
         "recognize",
         "polite",
         "smile",
-        "remember",
-        "describe"
+        "remember"
     ],
     "estimatedDuration": 1,
     "sentences": [

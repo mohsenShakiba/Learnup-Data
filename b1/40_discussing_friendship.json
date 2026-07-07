@@ -1,95 +1,91 @@
 {
-    "title": "40 - Discussing Friendship",
-    "description": "دو نفر درباره اینکه چه چیزی یک دوستی واقعی را می‌سازد گفتگو می‌کنند.",
-    "words": [
-        "friendship",
-        "loyal",
-        "trust",
-        "honest",
-        "distance",
-        "effort",
-        "support",
-        "argue",
-        "forgive",
-        "genuine",
-        "value",
-        "rare",
-        "maintain",
-        "appreciate"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "What do you think makes a good friend?",
-            "translation": "فکر می‌کنی چه چیزی یک دوست خوب می‌سازد؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Loyalty and honesty, above all.",
-            "translation": "بیش از همه، وفاداری و صداقت."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I agree. Trust is so important.",
-            "translation": "موافقم. اعتماد خیلی مهم است."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "And being there in hard times.",
-            "translation": "و در زمان‌های سخت کنار بودن."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Do you think distance affects friendship?",
-            "translation": "فکر می‌کنی فاصله روی دوستی اثر می‌گذارد؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "It can, unless you both make an effort.",
-            "translation": "می‌تواند، مگر اینکه هر دو تلاش کنید."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "True friends always find a way.",
-            "translation": "دوستان واقعی همیشه راهی پیدا می‌کنند."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Even after an argument?",
-            "translation": "حتی بعد از یک بحث؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Yes, if you can forgive each other.",
-            "translation": "بله، اگر بتوانید همدیگر را ببخشید."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Genuine friendship is quite rare.",
-            "translation": "دوستی واقعی نسبتاً نادر است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "That's why we should value it.",
-            "translation": "برای همین باید قدرش را بدانیم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Absolutely. I really appreciate ours.",
-            "translation": "قطعاً. واقعاً قدر دوستی‌مان را می‌دانم."
-        }
-    ]
+  "title": "40 - Discussing Friendship",
+  "description": "دو نفر درباره اینکه چه چیزی یک دوستی واقعی را می‌سازد گفتگو می‌کنند.",
+  "words": [
+    "friendship",
+    "loyal",
+    "effort",
+    "argue",
+    "forgive",
+    "genuine",
+    "value",
+    "rare",
+    "maintain",
+    "appreciate"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "What do you think makes a good friend?",
+      "translation": "فکر می‌کنی چه چیزی یک دوست خوب می‌سازد؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Loyalty and honesty, above all.",
+      "translation": "بیش از همه، وفاداری و صداقت."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I agree. Trust is so important.",
+      "translation": "موافقم. اعتماد خیلی مهم است."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "And being there in hard times.",
+      "translation": "و در زمان‌های سخت کنار بودن."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Do you think distance affects friendship?",
+      "translation": "فکر می‌کنی فاصله روی دوستی اثر می‌گذارد؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "It can, unless you both make an effort.",
+      "translation": "می‌تواند، مگر اینکه هر دو تلاش کنید."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "True friends always find a way.",
+      "translation": "دوستان واقعی همیشه راهی پیدا می‌کنند."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Even after an argument?",
+      "translation": "حتی بعد از یک بحث؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Yes, if you can forgive each other.",
+      "translation": "بله، اگر بتوانید همدیگر را ببخشید."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Genuine friendship is quite rare.",
+      "translation": "دوستی واقعی نسبتاً نادر است."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "That's why we should value it.",
+      "translation": "برای همین باید قدرش را بدانیم."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Absolutely. I really appreciate ours.",
+      "translation": "قطعاً. واقعاً قدر دوستی‌مان را می‌دانم."
+    }
+  ]
 }

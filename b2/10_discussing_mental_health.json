@@ -1,101 +1,100 @@
 {
-    "title": "10 - Discussing Mental Health",
-    "description": "دو دوست درباره استرس، فرسودگی و اهمیت مراقبت از سلامت روان صحبت می‌کنند.",
-    "words": [
-        "overwhelmed",
-        "anxious",
-        "cope",
-        "pressure",
-        "wellbeing",
-        "support",
-        "therapy",
-        "balance",
-        "recharge",
-        "vulnerable",
-        "burnout",
-        "mindful",
-        "reach",
-        "genuine"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "To be honest, I've been feeling overwhelmed.",
-            "translation": "راستش، احساس می‌کنم زیر فشار له شده‌ام."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I'm sorry to hear that. Do you want to talk?",
-            "translation": "متأسفم که این را می‌شنوم. می‌خواهی صحبت کنی؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Work pressure has made me really anxious.",
-            "translation": "فشار کاری مرا واقعاً مضطرب کرده."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "It's brave of you to admit that.",
-            "translation": "اعتراف به این موضوع شجاعت می‌خواهد."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "I'm not sure how to cope anymore.",
-            "translation": "دیگر مطمئن نیستم چطور با آن کنار بیایم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Have you considered talking to a therapist?",
-            "translation": "به صحبت با یک درمانگر فکر کرده‌ای؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "I have, but I felt a bit vulnerable about it.",
-            "translation": "فکر کرده‌ام، اما کمی احساس آسیب‌پذیری می‌کردم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "That's completely normal. It really helps.",
-            "translation": "این کاملاً طبیعی است. واقعاً کمک می‌کند."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Maybe I need to recharge properly.",
-            "translation": "شاید باید درست انرژی‌ام را بازیابی کنم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Your wellbeing should come first.",
-            "translation": "سلامت روانت باید در اولویت باشد."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Thank you for being so understanding.",
-            "translation": "ممنون که این‌قدر درک می‌کنی."
-        },
-        {
-            "order": 11,
-            "person": 1,
-            "text": "I have been feeling stressed for weeks.",
-            "translation": "چند هفته است که احساس استرس می‌کنم."
-        },
-        {
-            "order": 12,
-            "person": 2,
-            "text": "Anytime. Don't hesitate to reach out.",
-            "translation": "هر وقت خواستی. در تماس گرفتن تردید نکن."
-        }
-    ]
+  "title": "10 - Discussing Mental Health",
+  "description": "دو دوست درباره استرس، فرسودگی و اهمیت مراقبت از سلامت روان صحبت می‌کنند.",
+  "words": [
+    "overwhelmed",
+    "anxious",
+    "cope",
+    "pressure",
+    "wellbeing",
+    "therapy",
+    "balance",
+    "recharge",
+    "vulnerable",
+    "burnout",
+    "mindful",
+    "reach",
+    "genuine"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "To be honest, I've been feeling overwhelmed.",
+      "translation": "راستش، احساس می‌کنم زیر فشار له شده‌ام."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I'm sorry to hear that. Do you want to talk?",
+      "translation": "متأسفم که این را می‌شنوم. می‌خواهی صحبت کنی؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Work pressure has made me really anxious.",
+      "translation": "فشار کاری مرا واقعاً مضطرب کرده."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "It's brave of you to admit that.",
+      "translation": "اعتراف به این موضوع شجاعت می‌خواهد."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "I'm not sure how to cope anymore.",
+      "translation": "دیگر مطمئن نیستم چطور با آن کنار بیایم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Have you considered talking to a therapist?",
+      "translation": "به صحبت با یک درمانگر فکر کرده‌ای؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "I have, but I felt a bit vulnerable about it.",
+      "translation": "فکر کرده‌ام، اما کمی احساس آسیب‌پذیری می‌کردم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "That's completely normal. It really helps.",
+      "translation": "این کاملاً طبیعی است. واقعاً کمک می‌کند."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Maybe I need to recharge properly.",
+      "translation": "شاید باید درست انرژی‌ام را بازیابی کنم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Your wellbeing should come first.",
+      "translation": "سلامت روانت باید در اولویت باشد."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Thank you for being so understanding.",
+      "translation": "ممنون که این‌قدر درک می‌کنی."
+    },
+    {
+      "order": 11,
+      "person": 1,
+      "text": "I have been feeling stressed for weeks.",
+      "translation": "چند هفته است که احساس استرس می‌کنم."
+    },
+    {
+      "order": 12,
+      "person": 2,
+      "text": "Anytime. Don't hesitate to reach out.",
+      "translation": "هر وقت خواستی. در تماس گرفتن تردید نکن."
+    }
+  ]
 }

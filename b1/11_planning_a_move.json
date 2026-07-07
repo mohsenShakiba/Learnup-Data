@@ -1,92 +1,91 @@
 {
-    "title": "11 - Planning a Move",
-    "description": "زوجی درباره نقل مکان به شهری دیگر و کارهای لازم برنامه‌ریزی می‌کنند.",
-    "words": [
-        "relocate",
-        "search",
-        "neighborhood",
-        "commute",
-        "afford",
-        "mortgage",
-        "decision",
-        "settle",
-        "arrange",
-        "belongings",
-        "nearby"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I think it's time we moved to a bigger city.",
-            "translation": "فکر می‌کنم وقتش رسیده به شهر بزرگ‌تری نقل مکان کنیم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Maybe, but it's a big decision.",
-            "translation": "شاید، اما تصمیم بزرگی است."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "There are more job opportunities there.",
-            "translation": "آنجا فرصت‌های شغلی بیشتری هست."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "That's true. But can we afford the rent?",
-            "translation": "درست است. اما از پس اجاره برمی‌آییم؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "If we both work, I think we can manage.",
-            "translation": "اگر هر دو کار کنیم، فکر می‌کنم از پسش برمی‌آییم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "We should search for a good neighborhood.",
-            "translation": "باید دنبال یک محله خوب بگردیم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Yes, somewhere with a short commute.",
-            "translation": "بله، جایی با مسیر کوتاه به محل کار."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "And with good schools nearby.",
-            "translation": "و با مدارس خوب در نزدیکی."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "When should we start packing?",
-            "translation": "کی باید شروع به بسته‌بندی کنیم؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Let's arrange everything next month.",
-            "translation": "بیا ماه آینده همه چیز را هماهنگ کنیم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "It will be a fresh start for us.",
-            "translation": "این یک شروع تازه برای ما خواهد بود."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "I'm a little nervous, but also excited.",
-            "translation": "کمی مضطربم، اما هیجان‌زده هم هستم."
-        }
-    ]
+  "title": "11 - Planning a Move",
+  "description": "زوجی درباره نقل مکان به شهری دیگر و کارهای لازم برنامه‌ریزی می‌کنند.",
+  "words": [
+    "relocate",
+    "search",
+    "neighborhood",
+    "afford",
+    "mortgage",
+    "decision",
+    "settle",
+    "arrange",
+    "belongings",
+    "nearby"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "I think it's time we moved to a bigger city.",
+      "translation": "فکر می‌کنم وقتش رسیده به شهر بزرگ‌تری نقل مکان کنیم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Maybe, but it's a big decision.",
+      "translation": "شاید، اما تصمیم بزرگی است."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "There are more job opportunities there.",
+      "translation": "آنجا فرصت‌های شغلی بیشتری هست."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "That's true. But can we afford the rent?",
+      "translation": "درست است. اما از پس اجاره برمی‌آییم؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "If we both work, I think we can manage.",
+      "translation": "اگر هر دو کار کنیم، فکر می‌کنم از پسش برمی‌آییم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "We should search for a good neighborhood.",
+      "translation": "باید دنبال یک محله خوب بگردیم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Yes, somewhere with a short commute.",
+      "translation": "بله، جایی با مسیر کوتاه به محل کار."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "And with good schools nearby.",
+      "translation": "و با مدارس خوب در نزدیکی."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "When should we start packing?",
+      "translation": "کی باید شروع به بسته‌بندی کنیم؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Let's arrange everything next month.",
+      "translation": "بیا ماه آینده همه چیز را هماهنگ کنیم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "It will be a fresh start for us.",
+      "translation": "این یک شروع تازه برای ما خواهد بود."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "I'm a little nervous, but also excited.",
+      "translation": "کمی مضطربم، اما هیجان‌زده هم هستم."
+    }
+  ]
 }

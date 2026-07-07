@@ -1,92 +1,91 @@
 {
-    "title": "25 - Discussing a Job Offer",
-    "description": "فردی با یک دوست درباره پذیرفتن یا رد کردن یک پیشنهاد شغلی مشورت می‌کند.",
-    "words": [
-        "offer",
-        "consider",
-        "commute",
-        "benefits",
-        "doubt",
-        "opportunity",
-        "stable",
-        "risk",
-        "gut",
-        "weigh",
-        "decision"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I got the job offer I told you about.",
-            "translation": "آن پیشنهاد شغلی که گفتم را گرفتم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Congratulations! Are you going to take it?",
-            "translation": "تبریک! قبولش می‌کنی؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I'm not sure. I have some doubts.",
-            "translation": "مطمئن نیستم. کمی تردید دارم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "What's holding you back?",
-            "translation": "چه چیزی تو را مردد کرده؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "The salary is great, but the commute is long.",
-            "translation": "حقوق عالی است، اما مسیر رفت‌وآمد طولانی است."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Have you weighed the benefits too?",
-            "translation": "مزایا را هم سنجیده‌ای؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Yes, they're better than my current job.",
-            "translation": "بله، از شغل فعلی‌ام بهترند."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "It sounds like a real opportunity.",
-            "translation": "به نظر یک فرصت واقعی می‌آید."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "It is, but my current job is more stable.",
-            "translation": "همینطور است، اما شغل فعلی‌ام باثبات‌تر است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Sometimes you have to take a risk.",
-            "translation": "گاهی باید ریسک کنی."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "What does your gut tell you?",
-            "translation": "حست به تو چه می‌گوید؟"
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Honestly, I think you should go for it.",
-            "translation": "صادقانه بگویم، فکر می‌کنم باید قبولش کنی."
-        }
-    ]
+  "title": "25 - Discussing a Job Offer",
+  "description": "فردی با یک دوست درباره پذیرفتن یا رد کردن یک پیشنهاد شغلی مشورت می‌کند.",
+  "words": [
+    "offer",
+    "consider",
+    "benefits",
+    "doubt",
+    "opportunity",
+    "stable",
+    "risk",
+    "gut",
+    "weigh",
+    "decision"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "I got the job offer I told you about.",
+      "translation": "آن پیشنهاد شغلی که گفتم را گرفتم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Congratulations! Are you going to take it?",
+      "translation": "تبریک! قبولش می‌کنی؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I'm not sure. I have some doubts.",
+      "translation": "مطمئن نیستم. کمی تردید دارم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "What's holding you back?",
+      "translation": "چه چیزی تو را مردد کرده؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "The salary is great, but the commute is long.",
+      "translation": "حقوق عالی است، اما مسیر رفت‌وآمد طولانی است."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Have you weighed the benefits too?",
+      "translation": "مزایا را هم سنجیده‌ای؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Yes, they're better than my current job.",
+      "translation": "بله، از شغل فعلی‌ام بهترند."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "It sounds like a real opportunity.",
+      "translation": "به نظر یک فرصت واقعی می‌آید."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "It is, but my current job is more stable.",
+      "translation": "همینطور است، اما شغل فعلی‌ام باثبات‌تر است."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Sometimes you have to take a risk.",
+      "translation": "گاهی باید ریسک کنی."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "What does your gut tell you?",
+      "translation": "حست به تو چه می‌گوید؟"
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Honestly, I think you should go for it.",
+      "translation": "صادقانه بگویم، فکر می‌کنم باید قبولش کنی."
+    }
+  ]
 }

@@ -1,95 +1,94 @@
 {
-    "title": "29 - City Life or Country Life",
-    "description": "دو دوست درباره مزایای زندگی در شهر و روستا بحث می‌کنند.",
-    "words": [
-        "countryside",
-        "crowded",
-        "peaceful",
-        "convenient",
-        "pace",
-        "pollution",
-        "community",
-        "isolated",
-        "afford",
-        "nature",
-        "opportunity",
-        "prefer",
-        "trade-off",
-        "lifestyle"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Could you ever live in the countryside?",
-            "translation": "می‌توانی هیچ‌وقت در روستا زندگی کنی؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Maybe one day. The city feels too crowded.",
-            "translation": "شاید روزی. شهر خیلی شلوغ به نظر می‌رسد."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I love the convenience of the city, though.",
-            "translation": "هرچند من راحتی شهر را دوست دارم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "True, everything is close by.",
-            "translation": "درست است، همه چیز نزدیک است."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "And there are more job opportunities.",
-            "translation": "و فرصت‌های شغلی بیشتری هست."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "But the pace of life is so fast.",
-            "translation": "اما سرعت زندگی خیلی تند است."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "That's fair. The pollution bothers me too.",
-            "translation": "منصفانه است. آلودگی هم آزارم می‌دهد."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "In the country, the air is fresh and clean.",
-            "translation": "در روستا، هوا تازه و پاک است."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "But wouldn't you feel isolated?",
-            "translation": "اما احساس انزوا نمی‌کنی؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Possibly, though the community is closer.",
-            "translation": "شاید، هرچند جامعه صمیمی‌تر است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "I suppose every choice is a trade-off.",
-            "translation": "گمان می‌کنم هر انتخابی یک معامله دوسویه است."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Exactly. It depends on the lifestyle you want.",
-            "translation": "دقیقاً. به سبک زندگی‌ای که می‌خواهی بستگی دارد."
-        }
-    ]
+  "title": "29 - City Life or Country Life",
+  "description": "دو دوست درباره مزایای زندگی در شهر و روستا بحث می‌کنند.",
+  "words": [
+    "countryside",
+    "crowded",
+    "peaceful",
+    "convenient",
+    "pace",
+    "pollution",
+    "community",
+    "isolated",
+    "afford",
+    "nature",
+    "opportunity",
+    "trade-off",
+    "lifestyle"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Could you ever live in the countryside?",
+      "translation": "می‌توانی هیچ‌وقت در روستا زندگی کنی؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Maybe one day. The city feels too crowded.",
+      "translation": "شاید روزی. شهر خیلی شلوغ به نظر می‌رسد."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I love the convenience of the city, though.",
+      "translation": "هرچند من راحتی شهر را دوست دارم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "True, everything is close by.",
+      "translation": "درست است، همه چیز نزدیک است."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "And there are more job opportunities.",
+      "translation": "و فرصت‌های شغلی بیشتری هست."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "But the pace of life is so fast.",
+      "translation": "اما سرعت زندگی خیلی تند است."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "That's fair. The pollution bothers me too.",
+      "translation": "منصفانه است. آلودگی هم آزارم می‌دهد."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "In the country, the air is fresh and clean.",
+      "translation": "در روستا، هوا تازه و پاک است."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "But wouldn't you feel isolated?",
+      "translation": "اما احساس انزوا نمی‌کنی؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Possibly, though the community is closer.",
+      "translation": "شاید، هرچند جامعه صمیمی‌تر است."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "I suppose every choice is a trade-off.",
+      "translation": "گمان می‌کنم هر انتخابی یک معامله دوسویه است."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Exactly. It depends on the lifestyle you want.",
+      "translation": "دقیقاً. به سبک زندگی‌ای که می‌خواهی بستگی دارد."
+    }
+  ]
 }

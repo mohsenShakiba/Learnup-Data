@@ -1,94 +1,90 @@
 {
-    "title": "42 - Discussing Working From Home",
-    "description": "دو همکار درباره تجربه‌شان از کار کردن در خانه گفتگو می‌کنند.",
-    "words": [
-        "remote",
-        "focus",
-        "distraction",
-        "flexible",
-        "routine",
-        "isolated",
-        "productive",
-        "commute",
-        "balance",
-        "motivated",
-        "schedule",
-        "discipline",
-        "prefer"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "How are you finding working from home?",
-            "translation": "کار کردن در خانه را چطور می‌بینی؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I love not having to commute.",
-            "translation": "عاشق این هستم که مجبور نیستم رفت‌وآمد کنم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "That saves a lot of time.",
-            "translation": "این کلی وقت صرفه‌جویی می‌کند."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "But I find it hard to stay focused.",
-            "translation": "اما متمرکز ماندن برایم سخت است."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Are there many distractions at home?",
-            "translation": "در خانه حواس‌پرتی زیاد است؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Yes, and the day can feel isolated.",
-            "translation": "بله، و روز می‌تواند منزوی به نظر برسد."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Do you have a fixed routine?",
-            "translation": "برنامه ثابتی داری؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "I'm trying to build one. It needs discipline.",
-            "translation": "سعی می‌کنم یکی بسازم. به نظم نیاز دارد."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "I actually feel more productive at home.",
-            "translation": "من در واقع در خانه بهره‌ورتر هستم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Lucky you! I miss seeing colleagues.",
-            "translation": "خوش به حالت! دلم برای دیدن همکارها تنگ می‌شود."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Maybe a few office days would help.",
-            "translation": "شاید چند روز در دفتر کمک کند."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Yes, a good balance is what I need.",
-            "translation": "بله، یک تعادل خوب همان چیزی است که نیاز دارم."
-        }
-    ]
+  "title": "42 - Discussing Working From Home",
+  "description": "دو همکار درباره تجربه‌شان از کار کردن در خانه گفتگو می‌کنند.",
+  "words": [
+    "remote",
+    "focus",
+    "distraction",
+    "flexible",
+    "isolated",
+    "productive",
+    "balance",
+    "motivated",
+    "discipline"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "How are you finding working from home?",
+      "translation": "کار کردن در خانه را چطور می‌بینی؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I love not having to commute.",
+      "translation": "عاشق این هستم که مجبور نیستم رفت‌وآمد کنم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "That saves a lot of time.",
+      "translation": "این کلی وقت صرفه‌جویی می‌کند."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "But I find it hard to stay focused.",
+      "translation": "اما متمرکز ماندن برایم سخت است."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Are there many distractions at home?",
+      "translation": "در خانه حواس‌پرتی زیاد است؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Yes, and the day can feel isolated.",
+      "translation": "بله، و روز می‌تواند منزوی به نظر برسد."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Do you have a fixed routine?",
+      "translation": "برنامه ثابتی داری؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "I'm trying to build one. It needs discipline.",
+      "translation": "سعی می‌کنم یکی بسازم. به نظم نیاز دارد."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "I actually feel more productive at home.",
+      "translation": "من در واقع در خانه بهره‌ورتر هستم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Lucky you! I miss seeing colleagues.",
+      "translation": "خوش به حالت! دلم برای دیدن همکارها تنگ می‌شود."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Maybe a few office days would help.",
+      "translation": "شاید چند روز در دفتر کمک کند."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Yes, a good balance is what I need.",
+      "translation": "بله، یک تعادل خوب همان چیزی است که نیاز دارم."
+    }
+  ]
 }

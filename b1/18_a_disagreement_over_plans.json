@@ -1,92 +1,91 @@
 {
-    "title": "18 - A Disagreement Over Plans",
-    "description": "زوجی درباره چگونگی گذراندن تعطیلاتشان اختلاف‌نظر دارند و به توافق می‌رسند.",
-    "words": [
-        "disagree",
-        "budget",
-        "afford",
-        "compromise",
-        "expensive",
-        "adventure",
-        "prefer",
-        "fair",
-        "suggestion",
-        "flexible",
-        "decide"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I really want to go to the mountains this year.",
-            "translation": "امسال واقعاً می‌خواهم به کوهستان بروم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "But I was hoping for a relaxing beach holiday.",
-            "translation": "اما من امیدوار به یک تعطیلات آرام در ساحل بودم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "The beach is too expensive this season.",
-            "translation": "این فصل ساحل خیلی گران است."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "I'm not sure we can afford the mountains either.",
-            "translation": "مطمئن نیستم از پس هزینه کوهستان هم بربیاییم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Maybe we can find a compromise.",
-            "translation": "شاید بتوانیم به یک توافق برسیم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "I'm listening. What's your suggestion?",
-            "translation": "گوش می‌دهم. پیشنهادت چیست؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "What about a lake? It's calm and cheaper.",
-            "translation": "یک دریاچه چطور؟ هم آرام است و هم ارزان‌تر."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "That's actually a fair idea.",
-            "translation": "راستش این ایده منصفانه‌ای است."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "We could relax and still go hiking.",
-            "translation": "هم می‌توانیم استراحت کنیم و هم پیاده‌روی برویم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "I like that we'd both get what we want.",
-            "translation": "خوشم می‌آید که هر دو به خواسته‌مان می‌رسیم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "So are we agreed on the lake?",
-            "translation": "پس روی دریاچه توافق داریم؟"
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Yes. I'm glad we sorted this out.",
-            "translation": "بله. خوشحالم که این را حل کردیم."
-        }
-    ]
+  "title": "18 - A Disagreement Over Plans",
+  "description": "زوجی درباره چگونگی گذراندن تعطیلاتشان اختلاف‌نظر دارند و به توافق می‌رسند.",
+  "words": [
+    "disagree",
+    "budget",
+    "afford",
+    "compromise",
+    "expensive",
+    "adventure",
+    "fair",
+    "suggestion",
+    "flexible",
+    "decide"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "I really want to go to the mountains this year.",
+      "translation": "امسال واقعاً می‌خواهم به کوهستان بروم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "But I was hoping for a relaxing beach holiday.",
+      "translation": "اما من امیدوار به یک تعطیلات آرام در ساحل بودم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "The beach is too expensive this season.",
+      "translation": "این فصل ساحل خیلی گران است."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "I'm not sure we can afford the mountains either.",
+      "translation": "مطمئن نیستم از پس هزینه کوهستان هم بربیاییم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Maybe we can find a compromise.",
+      "translation": "شاید بتوانیم به یک توافق برسیم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "I'm listening. What's your suggestion?",
+      "translation": "گوش می‌دهم. پیشنهادت چیست؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "What about a lake? It's calm and cheaper.",
+      "translation": "یک دریاچه چطور؟ هم آرام است و هم ارزان‌تر."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "That's actually a fair idea.",
+      "translation": "راستش این ایده منصفانه‌ای است."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "We could relax and still go hiking.",
+      "translation": "هم می‌توانیم استراحت کنیم و هم پیاده‌روی برویم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "I like that we'd both get what we want.",
+      "translation": "خوشم می‌آید که هر دو به خواسته‌مان می‌رسیم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "So are we agreed on the lake?",
+      "translation": "پس روی دریاچه توافق داریم؟"
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Yes. I'm glad we sorted this out.",
+      "translation": "بله. خوشحالم که این را حل کردیم."
+    }
+  ]
 }

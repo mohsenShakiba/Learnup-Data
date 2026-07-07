@@ -1,95 +1,94 @@
 {
-    "title": "26 - Discussing Corporate Culture",
-    "description": "دو همکار درباره فرهنگ سازمانی و تأثیر آن بر رضایت کارکنان صحبت می‌کنند.",
-    "words": [
-        "culture",
-        "values",
-        "transparency",
-        "morale",
-        "inclusive",
-        "toxic",
-        "retention",
-        "trust",
-        "hierarchy",
-        "autonomy",
-        "engagement",
-        "foster",
-        "thrive",
-        "reflect"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "What do you think of the culture here?",
-            "translation": "نظرت درباره فرهنگ اینجا چیست؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "It's improved, but there's still work to do.",
-            "translation": "بهتر شده، اما هنوز کار دارد."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I agree. Communication could be more open.",
-            "translation": "موافقم. ارتباط می‌تواند بازتر باشد."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Transparency builds trust.",
-            "translation": "شفافیت اعتماد می‌سازد."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "And it boosts morale too.",
-            "translation": "و روحیه را هم بالا می‌برد."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "People want to feel valued.",
-            "translation": "مردم می‌خواهند احساس ارزشمندی کنند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "A rigid hierarchy can hold that back.",
-            "translation": "یک سلسله‌مراتب خشک می‌تواند مانع آن شود."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "True. Autonomy makes people more engaged.",
-            "translation": "درست است. استقلال باعث مشارکت بیشتر می‌شود."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "A toxic culture drives talent away.",
-            "translation": "فرهنگ سمی استعدادها را فراری می‌دهد."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Which hurts retention badly.",
-            "translation": "که به حفظ نیرو آسیب جدی می‌زند."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Leadership really sets the tone.",
-            "translation": "رهبری واقعاً فضا را تعیین می‌کند."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Exactly. Good culture has to be fostered.",
-            "translation": "دقیقاً. فرهنگ خوب باید پرورش داده شود."
-        }
-    ]
+  "title": "26 - Discussing Corporate Culture",
+  "description": "دو همکار درباره فرهنگ سازمانی و تأثیر آن بر رضایت کارکنان صحبت می‌کنند.",
+  "words": [
+    "culture",
+    "values",
+    "transparency",
+    "morale",
+    "inclusive",
+    "toxic",
+    "retention",
+    "hierarchy",
+    "autonomy",
+    "engagement",
+    "foster",
+    "thrive",
+    "reflect"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "What do you think of the culture here?",
+      "translation": "نظرت درباره فرهنگ اینجا چیست؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "It's improved, but there's still work to do.",
+      "translation": "بهتر شده، اما هنوز کار دارد."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I agree. Communication could be more open.",
+      "translation": "موافقم. ارتباط می‌تواند بازتر باشد."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Transparency builds trust.",
+      "translation": "شفافیت اعتماد می‌سازد."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "And it boosts morale too.",
+      "translation": "و روحیه را هم بالا می‌برد."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "People want to feel valued.",
+      "translation": "مردم می‌خواهند احساس ارزشمندی کنند."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "A rigid hierarchy can hold that back.",
+      "translation": "یک سلسله‌مراتب خشک می‌تواند مانع آن شود."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "True. Autonomy makes people more engaged.",
+      "translation": "درست است. استقلال باعث مشارکت بیشتر می‌شود."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "A toxic culture drives talent away.",
+      "translation": "فرهنگ سمی استعدادها را فراری می‌دهد."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Which hurts retention badly.",
+      "translation": "که به حفظ نیرو آسیب جدی می‌زند."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Leadership really sets the tone.",
+      "translation": "رهبری واقعاً فضا را تعیین می‌کند."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Exactly. Good culture has to be fostered.",
+      "translation": "دقیقاً. فرهنگ خوب باید پرورش داده شود."
+    }
+  ]
 }

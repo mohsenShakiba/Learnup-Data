@@ -1,95 +1,94 @@
 {
-    "title": "5 - Navigating Office Politics",
-    "description": "یک همکار باتجربه به همکار جوان‌تری درباره مدیریت سیاست‌های پیچیده محیط کار توصیه می‌کند.",
-    "words": [
-        "politics",
-        "alliance",
-        "discreet",
-        "undermine",
-        "credit",
-        "navigate",
-        "agenda",
-        "diplomatic",
-        "trust",
-        "reputation",
-        "neutral",
-        "manipulate",
-        "perception",
-        "tactful"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I'm finding the office politics here exhausting.",
-            "translation": "سیاست‌های اداری اینجا را خسته‌کننده می‌بینم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "You're not alone. It takes time to navigate.",
-            "translation": "تنها نیستی. مدیریت آن زمان می‌برد."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Someone took credit for my work last week.",
-            "translation": "هفته پیش کسی اعتبار کار من را به نام خودش زد."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "That's frustrating, but don't react impulsively.",
-            "translation": "ناامیدکننده است، اما واکنش احساسی نشان نده."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "So I should just let it go?",
-            "translation": "پس باید فقط بی‌خیالش شوم؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "No, but be diplomatic about how you address it.",
-            "translation": "نه، اما در نحوه برخورد با آن دیپلماتیک باش."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "I don't want to undermine anyone.",
-            "translation": "نمی‌خواهم زیرآب کسی را بزنم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Good. Your reputation depends on staying tactful.",
-            "translation": "خوب است. اعتبارت به باتدبیر ماندن بستگی دارد."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "How do I protect myself, then?",
-            "translation": "پس چطور از خودم محافظت کنم؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Document your contributions and build genuine trust.",
-            "translation": "مشارکت‌هایت را مستند کن و اعتماد واقعی بساز."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "And stay neutral when others take sides?",
-            "translation": "و وقتی دیگران جبهه می‌گیرند بی‌طرف بمانم؟"
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Exactly. Perception is everything in a workplace.",
-            "translation": "دقیقاً. در محیط کار، تصوری که از تو دارند همه‌چیز است."
-        }
-    ]
+  "title": "5 - Navigating Office Politics",
+  "description": "یک همکار باتجربه به همکار جوان‌تری درباره مدیریت سیاست‌های پیچیده محیط کار توصیه می‌کند.",
+  "words": [
+    "politics",
+    "alliance",
+    "discreet",
+    "undermine",
+    "credit",
+    "navigate",
+    "agenda",
+    "diplomatic",
+    "reputation",
+    "neutral",
+    "manipulate",
+    "perception",
+    "tactful"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "I'm finding the office politics here exhausting.",
+      "translation": "سیاست‌های اداری اینجا را خسته‌کننده می‌بینم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "You're not alone. It takes time to navigate.",
+      "translation": "تنها نیستی. مدیریت آن زمان می‌برد."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Someone took credit for my work last week.",
+      "translation": "هفته پیش کسی اعتبار کار من را به نام خودش زد."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "That's frustrating, but don't react impulsively.",
+      "translation": "ناامیدکننده است، اما واکنش احساسی نشان نده."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "So I should just let it go?",
+      "translation": "پس باید فقط بی‌خیالش شوم؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "No, but be diplomatic about how you address it.",
+      "translation": "نه، اما در نحوه برخورد با آن دیپلماتیک باش."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "I don't want to undermine anyone.",
+      "translation": "نمی‌خواهم زیرآب کسی را بزنم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Good. Your reputation depends on staying tactful.",
+      "translation": "خوب است. اعتبارت به باتدبیر ماندن بستگی دارد."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "How do I protect myself, then?",
+      "translation": "پس چطور از خودم محافظت کنم؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Document your contributions and build genuine trust.",
+      "translation": "مشارکت‌هایت را مستند کن و اعتماد واقعی بساز."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "And stay neutral when others take sides?",
+      "translation": "و وقتی دیگران جبهه می‌گیرند بی‌طرف بمانم؟"
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Exactly. Perception is everything in a workplace.",
+      "translation": "دقیقاً. در محیط کار، تصوری که از تو دارند همه‌چیز است."
+    }
+  ]
 }
