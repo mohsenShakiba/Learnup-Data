@@ -11,7 +11,18 @@
         "kind",
         "cook",
         "clothes",
-        "Sunday"
+        "Sunday",
+        "homeless",
+        "charity",
+        "give",
+        "collect",
+        "dish",
+        "volunteer",
+        "generous",
+        "donate",
+        "kindness",
+        "needy",
+        "pray"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -25,20 +36,20 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Yes, we help poor families there.",
-            "translation": "بله، آن‌جا به خانواده‌های فقیر کمک می‌کنیم."
+            "text": "Yes, we help poor and homeless families there.",
+            "translation": "بله، آن‌جا به خانواده‌های فقیر و بی‌خانمان کمک می‌کنیم."
         },
         {
             "order": 2,
             "person": 1,
-            "text": "That is very kind.",
-            "translation": "این خیلی مهربانانه است."
+            "text": "That is very kind. It is a good charity.",
+            "translation": "این خیلی مهربانانه است. کار خیریه خوبی است."
         },
         {
             "order": 3,
             "person": 2,
-            "text": "We give them food and clothes.",
-            "translation": "به آن‌ها غذا و لباس می‌دهیم."
+            "text": "We give them food and clothes. We collect them each week.",
+            "translation": "به آن‌ها غذا و لباس می‌دهیم. هر هفته آن‌ها را جمع می‌کنیم."
         },
         {
             "order": 4,
@@ -49,41 +60,53 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Yes, we cook in the kitchen.",
-            "translation": "بله، در آشپزخانه غذا می‌پزیم."
+            "text": "Yes, we cook in the kitchen and wash the dishes.",
+            "translation": "بله، در آشپزخانه غذا می‌پزیم و ظرف‌ها را می‌شوییم."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Can I help in the kitchen?",
-            "translation": "می‌توانم در آشپزخانه کمک کنم؟"
+            "text": "Can I help in the kitchen? I want to volunteer.",
+            "translation": "می‌توانم در آشپزخانه کمک کنم؟ می‌خواهم داوطلب شوم."
         },
         {
             "order": 7,
             "person": 2,
-            "text": "Yes, that would be kind.",
-            "translation": "بله، این خیلی لطف است."
+            "text": "Yes, that would be kind. We need generous people.",
+            "translation": "بله، این خیلی لطف است. به آدم‌های سخاوتمند نیاز داریم."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "The church helps many poor people.",
-            "translation": "کلیسا به آدم‌های فقیر زیادی کمک می‌کند."
+            "text": "I can donate some money too.",
+            "translation": "من می‌توانم کمی پول هم اهدا کنم."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "I want to help too.",
-            "translation": "من هم می‌خواهم کمک کنم."
+            "text": "Thank you. That is real kindness.",
+            "translation": "ممنون. این مهربانی واقعی است."
         },
         {
             "order": 10,
+            "person": 1,
+            "text": "The church helps many needy people.",
+            "translation": "کلیسا به آدم‌های نیازمند زیادی کمک می‌کند."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "We also pray together on Sunday.",
+            "translation": "ما یکشنبه‌ها هم با هم دعا می‌کنیم."
+        },
+        {
+            "order": 12,
             "person": 1,
             "text": "Great, come with me on Sunday.",
             "translation": "عالیه، یکشنبه با من بیا."
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 2,
             "text": "Thank you, I will.",
             "translation": "ممنون، حتماً می‌آیم."

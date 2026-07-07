@@ -8,7 +8,23 @@
     "include",
     "mobile phone",
     "data",
-    "twenty"
+    "twenty",
+    "provider",
+    "switch",
+    "service",
+    "monthly",
+    "contract",
+    "prepaid",
+    "unlimited",
+    "coverage",
+    "gigabyte",
+    "offer",
+    "deal",
+    "bonus",
+    "message",
+    "limit",
+    "app",
+    "activate"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -22,68 +38,86 @@
     {
       "order": 1,
       "person": 2,
-      "text": "Sure. Do you make a lot of calls?",
-      "translation": "حتماً. زیاد تماس می‌گیرید؟"
+      "text": "Sure. Are you with another provider now?",
+      "translation": "حتماً. الان با اپراتور دیگری هستید؟"
     },
     {
       "order": 2,
       "person": 1,
-      "text": "No, but I use a lot of data.",
-      "translation": "نه، اما خیلی از اینترنت موبایل استفاده می‌کنم."
+      "text": "Yes, but I want to switch. Their service is bad.",
+      "translation": "بله، اما می‌خواهم عوض کنم. سرویسشان بد است."
     },
     {
       "order": 3,
       "person": 2,
-      "text": "Then you need a plan with more data.",
-      "translation": "پس به طرحی با اینترنت موبایل بیشتر نیاز دارید."
+      "text": "Okay. Do you want a monthly contract or prepaid?",
+      "translation": "باشه. قرارداد ماهانه می‌خواهید یا اعتباری؟"
     },
     {
       "order": 4,
       "person": 1,
-      "text": "How much do I pay per month?",
-      "translation": "ماهانه چقدر باید پرداخت کنم؟"
+      "text": "A contract is fine. I use a lot of data.",
+      "translation": "قرارداد خوب است. من خیلی از اینترنت موبایل استفاده می‌کنم."
     },
     {
       "order": 5,
       "person": 2,
-      "text": "This one is twenty dollars a month.",
-      "translation": "این یکی ماهی بیست دلار است."
+      "text": "This plan has unlimited data and good coverage.",
+      "translation": "این طرح اینترنت نامحدود و پوشش خوبی دارد."
     },
     {
       "order": 6,
       "person": 1,
-      "text": "What does it include?",
-      "translation": "شامل چه چیزهایی می‌شود؟"
+      "text": "How many gigabytes each month?",
+      "translation": "هر ماه چند گیگابایت است؟"
     },
     {
       "order": 7,
       "person": 2,
-      "text": "It includes lots of data and free calls.",
-      "translation": "شامل اینترنت موبایل زیاد و تماس رایگان می‌شود."
+      "text": "Twenty gigabytes. There is a special offer now.",
+      "translation": "بیست گیگابایت. الان یک پیشنهاد ویژه هست."
     },
     {
       "order": 8,
       "person": 1,
-      "text": "Is there a cheaper plan?",
-      "translation": "طرح ارزان‌تری هم هست؟"
+      "text": "Is it a good deal?",
+      "translation": "معامله خوبی است؟"
     },
     {
       "order": 9,
       "person": 2,
-      "text": "Yes, but it has fewer minutes.",
-      "translation": "بله، اما دقیقه‌های کمتری دارد."
+      "text": "Yes, a great deal with a free bonus.",
+      "translation": "بله، معامله عالی با یک جایزه رایگان."
     },
     {
       "order": 10,
       "person": 1,
-      "text": "I'll choose the twenty-dollar plan.",
-      "translation": "طرح بیست دلاری را انتخاب می‌کنم."
+      "text": "Can I send lots of messages too?",
+      "translation": "می‌توانم پیام‌های زیادی هم بفرستم؟"
     },
     {
       "order": 11,
       "person": 2,
-      "text": "Good choice. You'll get a new number. Please sign here.",
-      "translation": "انتخاب خوبی است. یک شماره جدید می‌گیرید. لطفاً اینجا را امضا کنید."
+      "text": "Yes, with no limit. You also get a free app.",
+      "translation": "بله، بدون محدودیت. یک اپلیکیشن رایگان هم می‌گیرید."
+    },
+    {
+      "order": 12,
+      "person": 1,
+      "text": "Okay, I'll choose this one. Does it include calls?",
+      "translation": "باشه، این یکی را انتخاب می‌کنم. شامل تماس هم می‌شود؟"
+    },
+    {
+      "order": 13,
+      "person": 2,
+      "text": "Yes. I can activate it and give you a new number.",
+      "translation": "بله. می‌توانم فعالش کنم و یک شماره جدید به شما بدهم."
+    },
+    {
+      "order": 14,
+      "person": 1,
+      "text": "Great, thank you!",
+      "translation": "عالی، ممنون!"
     }
   ]
 }

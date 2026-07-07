@@ -11,7 +11,18 @@
         "quiet",
         "class",
         "true",
-        "allowed"
+        "allowed",
+        "attention",
+        "respect",
+        "shout",
+        "permission",
+        "raise",
+        "eat",
+        "behave",
+        "strict",
+        "fair",
+        "absent",
+        "reward"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -25,20 +36,20 @@
         {
             "order": 1,
             "person": 1,
-            "text": "Please write each sentence clearly.",
-            "translation": "لطفاً هر جمله را واضح بنویسید."
+            "text": "Please write each sentence clearly and pay attention.",
+            "translation": "لطفاً هر جمله را واضح بنویسید و حواستان را جمع کنید."
         },
         {
             "order": 2,
             "person": 1,
-            "text": "Do not be rude to each other.",
-            "translation": "با یکدیگر بی‌ادب نباشید."
+            "text": "Do not be rude to each other. Respect everyone.",
+            "translation": "با یکدیگر بی‌ادب نباشید. به همه احترام بگذارید."
         },
         {
             "order": 3,
             "person": 1,
-            "text": "And please do not fight.",
-            "translation": "و لطفاً دعوا نکنید."
+            "text": "And please do not fight or shout.",
+            "translation": "و لطفاً دعوا نکنید و داد نزنید."
         },
         {
             "order": 4,
@@ -61,32 +72,62 @@
         {
             "order": 7,
             "person": 1,
-            "text": "Please turn your phones off in class.",
-            "translation": "لطفاً در کلاس تلفن‌هایتان را خاموش کنید."
+            "text": "Please turn your phones off in class. You need permission to use one.",
+            "translation": "لطفاً در کلاس تلفن‌هایتان را خاموش کنید. برای استفاده باید اجازه بگیرید."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Is talking loudly allowed?",
-            "translation": "بلند صحبت کردن مجاز است؟"
+            "text": "Raise your hand before you speak.",
+            "translation": "قبل از صحبت دستتان را بالا ببرید."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "No, we should be quiet.",
-            "translation": "نه، باید ساکت باشیم."
+            "text": "Can we eat in class?",
+            "translation": "می‌توانیم در کلاس غذا بخوریم؟"
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Good. You know the rule.",
-            "translation": "خوبه. قانون را می‌دانی."
+            "text": "No, and please behave well.",
+            "translation": "نه، و لطفاً خوب رفتار کنید."
         },
         {
             "order": 11,
             "person": 2,
-            "text": "Thank you for the clear rules.",
-            "translation": "ممنون از قوانین واضح."
+            "text": "Is talking loudly allowed?",
+            "translation": "بلند صحبت کردن مجاز است؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "No, we should be quiet. That is the true rule.",
+            "translation": "نه، باید ساکت باشیم. این قانون درست است."
+        },
+        {
+            "order": 13,
+            "person": 1,
+            "text": "I am strict but fair.",
+            "translation": "من سخت‌گیر اما منصف هستم."
+        },
+        {
+            "order": 14,
+            "person": 2,
+            "text": "What if a student is absent?",
+            "translation": "اگر دانش‌آموزی غایب باشد چه؟"
+        },
+        {
+            "order": 15,
+            "person": 1,
+            "text": "Good students get a reward.",
+            "translation": "دانش‌آموزان خوب جایزه می‌گیرند."
+        },
+        {
+            "order": 16,
+            "person": 2,
+            "text": "That is true. Thank you for the clear rules.",
+            "translation": "درست است. ممنون از قوانین واضح."
         }
     ]
 }

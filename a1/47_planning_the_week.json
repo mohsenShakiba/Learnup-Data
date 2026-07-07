@@ -19,7 +19,10 @@
         "until",
         "twelve",
         "second",
-        "p.m."
+        "p.m.",
+        "Thursday",
+        "Friday",
+        "Saturday"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -81,29 +84,41 @@
         {
             "order": 9,
             "person": 2,
+            "text": "What about Thursday and Friday?",
+            "translation": "پنج‌شنبه و جمعه چطور؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thursday is at four, and we have no meetings on Saturday.",
+            "translation": "پنج‌شنبه ساعت چهار است، و شنبه جلسه‌ای نداریم."
+        },
+        {
+            "order": 11,
+            "person": 2,
             "text": "My clock says it is almost noon now.",
             "translation": "ساعت من می‌گوید تقریباً ظهر است."
         },
         {
-            "order": 10,
+            "order": 12,
             "person": 1,
             "text": "Yes, we have work until twelve.",
             "translation": "بله، تا ساعت دوازده کار داریم."
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 2,
             "text": "Wait, one second. Let me write this down.",
             "translation": "صبر کن، یک لحظه. بگذار این را یادداشت کنم."
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 1,
             "text": "The last meeting is at three p.m.",
             "translation": "آخرین جلسه ساعت سه بعد از ظهر است."
         },
         {
-            "order": 13,
+            "order": 15,
             "person": 2,
             "text": "Great. Thank you very much.",
             "translation": "عالیه. خیلی ممنون."

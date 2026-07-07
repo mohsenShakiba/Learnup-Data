@@ -14,7 +14,15 @@
         "dancing",
         "January",
         "music",
-        "summer"
+        "summer",
+        "February",
+        "April",
+        "May",
+        "July",
+        "December",
+        "crowd",
+        "parade",
+        "fireworks"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -40,53 +48,77 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Nice. What about summer?",
-            "translation": "چه خوب. تابستان چطور؟"
+            "text": "Is there anything in February?",
+            "translation": "در فوریه چیزی هست؟"
         },
         {
             "order": 4,
             "person": 1,
-            "text": "There is a big one in June.",
-            "translation": "یک جشنواره بزرگ در ژوئن هست."
+            "text": "Yes, a small flower festival in February.",
+            "translation": "بله، یک جشنواره کوچک گل در فوریه."
         },
         {
             "order": 5,
-            "person": 1,
-            "text": "And a food festival in August.",
-            "translation": "و یک جشنواره غذا در اوت."
+            "person": 2,
+            "text": "Nice. What about spring and summer?",
+            "translation": "چه خوب. بهار و تابستان چطور؟"
         },
         {
             "order": 6,
+            "person": 1,
+            "text": "There is an art fair in April and a book festival in May.",
+            "translation": "یک نمایشگاه هنری در آوریل و یک جشنواره کتاب در ماه مه هست."
+        },
+        {
+            "order": 7,
+            "person": 1,
+            "text": "Then a big one in June and fireworks in July.",
+            "translation": "بعد یک جشنواره بزرگ در ژوئن و آتش‌بازی در ژوئیه."
+        },
+        {
+            "order": 8,
+            "person": 2,
+            "text": "I love the big summer crowd.",
+            "translation": "من جمعیت زیاد تابستان را دوست دارم."
+        },
+        {
+            "order": 9,
+            "person": 1,
+            "text": "And a food festival in August with a street parade.",
+            "translation": "و یک جشنواره غذا در اوت با رژه خیابانی."
+        },
+        {
+            "order": 10,
             "person": 2,
             "text": "I love autumn festivals too.",
             "translation": "من جشنواره‌های پاییزی را هم دوست دارم."
         },
         {
-            "order": 7,
+            "order": 11,
             "person": 1,
             "text": "Yes, one in September and one in October.",
             "translation": "بله، یکی در سپتامبر و یکی در اکتبر."
         },
         {
-            "order": 8,
+            "order": 12,
             "person": 2,
             "text": "Is there a winter program?",
             "translation": "برنامه زمستانی هم هست؟"
         },
         {
-            "order": 9,
+            "order": 13,
             "person": 1,
             "text": "In November we have a show with dancing.",
             "translation": "در نوامبر یک نمایش با رقص داریم."
         },
         {
-            "order": 10,
+            "order": 14,
             "person": 1,
-            "text": "And in January, a light festival.",
-            "translation": "و در ژانویه، یک جشنواره نور."
+            "text": "And in December and January, light festivals.",
+            "translation": "و در دسامبر و ژانویه، جشنواره‌های نور."
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
             "text": "Wow, there are festivals in many months!",
             "translation": "وای، در ماه‌های زیادی جشنواره هست!"

@@ -11,7 +11,18 @@
         "find",
         "start",
         "shop",
-        "hard"
+        "hard",
+        "sell",
+        "product",
+        "partner",
+        "expensive",
+        "market",
+        "invest",
+        "spend",
+        "profit",
+        "goal",
+        "income",
+        "brand"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -31,8 +42,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "I will sell garden tools.",
-            "translation": "ابزار باغبانی می‌فروشم."
+            "text": "I will sell garden tools and other products.",
+            "translation": "ابزار باغبانی و محصولات دیگر می‌فروشم."
         },
         {
             "order": 3,
@@ -43,8 +54,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Yes, I am the owner for now.",
-            "translation": "بله، فعلاً خودم صاحبش هستم."
+            "text": "Yes, but I have a partner too.",
+            "translation": "بله، اما یک شریک هم دارم."
         },
         {
             "order": 5,
@@ -55,35 +66,59 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Yes, because it is new.",
-            "translation": "بله، چون تازه است."
+            "text": "Yes, because it is new. The tools are expensive.",
+            "translation": "بله، چون تازه است. ابزارها گران هستند."
         },
         {
             "order": 7,
+            "person": 2,
+            "text": "Go to the market and find customers.",
+            "translation": "به بازار برو و مشتری پیدا کن."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I will invest some money and spend it carefully.",
+            "translation": "کمی پول سرمایه‌گذاری می‌کنم و با دقت خرج می‌کنم."
+        },
+        {
+            "order": 9,
             "person": 2,
             "text": "But your shop can grow.",
             "translation": "اما مغازه‌ات می‌تواند رشد کند."
         },
         {
-            "order": 8,
-            "person": 1,
-            "text": "I hope to grow it slowly.",
-            "translation": "امیدوارم کم‌کم رشدش بدهم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "You will find many customers.",
-            "translation": "مشتری‌های زیادی پیدا می‌کنی."
-        },
-        {
             "order": 10,
+            "person": 1,
+            "text": "I hope to grow it and make a profit.",
+            "translation": "امیدوارم رشدش بدهم و سود کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "What is your goal?",
+            "translation": "هدفت چیست؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "My goal is a good income every month.",
+            "translation": "هدف من یک درآمد خوب در هر ماه است."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "You need a strong brand.",
+            "translation": "به یک برند قوی نیاز داری."
+        },
+        {
+            "order": 14,
             "person": 1,
             "text": "Thank you. I will work hard.",
             "translation": "ممنون. سخت کار می‌کنم."
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
             "text": "Good luck with your business!",
             "translation": "برای کسب‌وکارت موفق باشی!"

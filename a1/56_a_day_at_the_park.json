@@ -13,7 +13,16 @@
         "ground",
         "stand",
         "yard",
-        "park"
+        "park",
+        "kick",
+        "pull",
+        "hold",
+        "pond",
+        "slide",
+        "swing",
+        "fall",
+        "race",
+        "win"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -33,20 +42,20 @@
         {
             "order": 2,
             "person": 1,
-            "text": "The boy can jump very high.",
-            "translation": "پسر می‌تواند خیلی بالا بپرد."
+            "text": "The boy can jump high and kick the ball.",
+            "translation": "پسر می‌تواند بالا بپرد و توپ را شوت کند."
         },
         {
             "order": 3,
             "person": 2,
-            "text": "The girl likes to throw the ball.",
-            "translation": "دختر دوست دارد توپ را پرتاب کند."
+            "text": "The girl likes to throw the ball and pull the wagon.",
+            "translation": "دختر دوست دارد توپ را پرتاب کند و واگن را بکشد."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "Watch your step near the water.",
-            "translation": "کنار آب مواظب قدم‌هایت باش."
+            "text": "Watch your step near the water. Hold my hand.",
+            "translation": "کنار آب مواظب قدم‌هایت باش. دستم را بگیر."
         },
         {
             "order": 5,
@@ -57,36 +66,54 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Sure. The baby is sleeping.",
-            "translation": "حتماً. نوزاد خوابیده است."
+            "text": "Sure. The baby is sleeping. Look at the ducks in the pond.",
+            "translation": "حتماً. نوزاد خوابیده است. به اردک‌ها در برکه نگاه کن."
         },
         {
             "order": 7,
+            "person": 2,
+            "text": "The kids are on the slide and the swing.",
+            "translation": "بچه‌ها روی سرسره و تاب هستند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Careful, don't fall!",
+            "translation": "مواظب باش، نیفتی!"
+        },
+        {
+            "order": 9,
             "person": 2,
             "text": "Some players are sitting on the ground over there.",
             "translation": "چند بازیکن آن‌جا روی زمین نشسته‌اند."
         },
         {
-            "order": 8,
-            "person": 1,
-            "text": "They stand in a line before the game.",
-            "translation": "قبل از بازی در یک صف می‌ایستند."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Our yard at home is small.",
-            "translation": "حیاط خانه ما کوچک است."
-        },
-        {
             "order": 10,
             "person": 1,
-            "text": "Yes, the park has more space.",
-            "translation": "بله، پارک فضای بیشتری دارد."
+            "text": "They stand in a line before the race.",
+            "translation": "قبل از مسابقه در یک صف می‌ایستند."
         },
         {
             "order": 11,
             "person": 2,
+            "text": "Which team will win?",
+            "translation": "کدام تیم برنده می‌شود؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Our yard at home is small.",
+            "translation": "حیاط خانه ما کوچک است."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Yes, the park has more space.",
+            "translation": "بله، پارک فضای بیشتری دارد."
+        },
+        {
+            "order": 14,
+            "person": 1,
             "text": "Let's sit on the grass and rest.",
             "translation": "بیا روی چمن بنشینیم و استراحت کنیم."
         }

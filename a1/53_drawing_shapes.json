@@ -12,7 +12,17 @@
         "copy",
         "activity",
         "draw",
-        "picture"
+        "picture",
+        "big",
+        "round",
+        "shape",
+        "square",
+        "triangle",
+        "point",
+        "dot",
+        "edge",
+        "oval",
+        "erase"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -38,8 +48,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Like this?",
-            "translation": "این‌طوری؟"
+            "text": "Like this? A round shape?",
+            "translation": "این‌طوری؟ یک شکل گرد؟"
         },
         {
             "order": 4,
@@ -57,7 +67,7 @@
             "order": 6,
             "person": 1,
             "text": "Yes, do it carefully.",
-            "translation": "بله، با دقت انجامش بده."
+            "translation": "بله, با دقت انجامش بده."
         },
         {
             "order": 7,
@@ -68,23 +78,47 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Draw a small box at the bottom.",
-            "translation": "یک جعبه کوچک پایین بکش."
+            "text": "Draw a small box at the bottom, then a square and a triangle.",
+            "translation": "یک جعبه کوچک پایین بکش، بعد یک مربع و یک مثلث."
         },
         {
             "order": 9,
+            "person": 2,
+            "text": "Should I mark a point here?",
+            "translation": "اینجا یک نقطه بگذارم؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes, put a small dot on each edge.",
+            "translation": "بله، روی هر لبه یک نقطه کوچک بگذار."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "What about an oval on top?",
+            "translation": "یک بیضی هم بالا چطور؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Good idea. If you make a mistake, just erase it.",
+            "translation": "فکر خوبی است. اگر اشتباه کردی، پاکش کن."
+        },
+        {
+            "order": 13,
             "person": 2,
             "text": "Can I copy your picture?",
             "translation": "می‌توانم نقاشی‌ات را کپی کنم؟"
         },
         {
-            "order": 10,
+            "order": 14,
             "person": 1,
             "text": "Sure, look at mine.",
             "translation": "حتماً، به مال من نگاه کن."
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
             "text": "This is a fun activity.",
             "translation": "این یک فعالیت سرگرم‌کننده است."

@@ -1,0 +1,16 @@
+At the Hair Salon
+hair, cut, short, wash, style, sit, mirror, back, front, tip, salon, trim, beard, shampoo, curly, comb, scissors, shave, gel, spray
+Hi, I have a haircut at two.
+Welcome to the salon. Please sit here. What style would you like today?
+Just a little shorter, please. Can you trim my beard too?
+Of course. Do you want a wash first? I'll use shampoo.
+Yes, please. And please cut a little at the back.
+What about the front?
+Keep the front long, please. My hair is a bit curly.
+No problem. I'll use my comb and scissors.
+Can you also shave the sides?
+Sure. Do you want any color or gel today?
+Just a little gel and some spray, please.
+All done. Your hair is ready. Look in the mirror.
+It looks great. Thank you so much. Here is a tip.
+Thank you! Please come again.

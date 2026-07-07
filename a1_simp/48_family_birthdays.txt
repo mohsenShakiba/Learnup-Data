@@ -1,0 +1,22 @@
+Family Birthdays
+birthday, December, month, February, parent, May, grandparent, celebration, July, guess, age, April, January, March, June, August, September, October, November, niece, nephew
+When is your birthday, Mia?
+My birthday is in December.
+Nice! My birthday is in February.
+When is your mother's birthday?
+My parents' birthdays are in May.
+Both parents in the same month?
+Yes. And my grandparents' celebration is in July.
+What about your sister and brother?
+My sister's birthday is in January, and my brother's is in March.
+Any other family birthdays?
+My uncle's is in June and my aunt's is in August.
+Your family is big!
+Yes. My niece was born in September and my nephew in October.
+And November?
+My cousin's party is in November.
+That is a lot of parties!
+Can you guess my age?
+Hmm, are you twenty?
+No, I turn twenty-one in April.
+Happy early birthday, then!

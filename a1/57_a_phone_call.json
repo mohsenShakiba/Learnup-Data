@@ -11,7 +11,17 @@
         "office",
         "open",
         "call",
-        "tomorrow"
+        "tomorrow",
+        "speaker",
+        "reply",
+        "missed",
+        "dial",
+        "voicemail",
+        "reach",
+        "hang",
+        "mute",
+        "ringtone",
+        "caller"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -31,59 +41,95 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Yes, but please speak louder.",
-            "translation": "بله، اما لطفاً بلندتر صحبت کن."
+            "text": "Yes, but please speak louder. You are on speaker.",
+            "translation": "بله، اما لطفاً بلندتر صحبت کن. روی بلندگو هستی."
         },
         {
             "order": 3,
             "person": 2,
-            "text": "Is that better? I want to ask something.",
-            "translation": "بهتر شد؟ می‌خواهم چیزی بپرسم."
+            "text": "Is that better? I called before but got no reply.",
+            "translation": "بهتر شد؟ قبلاً تماس گرفتم اما جوابی نگرفتم."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "Go ahead. Let me take a note.",
-            "translation": "بفرما. بگذار یادداشت کنم."
+            "text": "Sorry, we had many missed calls today. Go ahead, let me take a note.",
+            "translation": "ببخشید، امروز تماس‌های بی‌پاسخ زیادی داشتیم. بفرما، بگذار یادداشت کنم."
         },
         {
             "order": 5,
+            "person": 2,
+            "text": "I had to dial three times. I want to ask something.",
+            "translation": "مجبور شدم سه بار شماره بگیرم. می‌خواهم چیزی بپرسم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Sorry about that. What is your question?",
+            "translation": "بابت آن معذرت. سؤالتان چیست؟"
+        },
+        {
+            "order": 7,
             "person": 2,
             "text": "Is your shop open today?",
             "translation": "مغازه‌تان امروز باز است؟"
         },
         {
-            "order": 6,
+            "order": 8,
             "person": 1,
             "text": "No, sorry, we're closed today.",
             "translation": "نه، متأسفم، امروز تعطیل هستیم."
         },
         {
-            "order": 7,
+            "order": 9,
             "person": 2,
-            "text": "Oh, that's too bad.",
-            "translation": "اوه، چه بد."
+            "text": "Oh, that's too bad. Can I leave a voicemail?",
+            "translation": "اوه، چه بد. می‌توانم پیام صوتی بگذارم؟"
         },
         {
-            "order": 8,
+            "order": 10,
+            "person": 1,
+            "text": "Yes, or the manager can reach you tomorrow.",
+            "translation": "بله، یا مدیر می‌تواند فردا با شما تماس بگیرد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Please don't hang up yet.",
+            "translation": "لطفاً هنوز قطع نکنید."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "I won't. Let me turn off mute.",
+            "translation": "قطع نمی‌کنم. بگذارید بی‌صدا را خاموش کنم."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "The ringtone was very loud when you called back.",
+            "translation": "وقتی دوباره زنگ زدید، آهنگ زنگ خیلی بلند بود."
+        },
+        {
+            "order": 14,
             "person": 1,
             "text": "We open again tomorrow morning.",
             "translation": "فردا صبح دوباره باز می‌کنیم."
         },
         {
-            "order": 9,
+            "order": 15,
             "person": 2,
             "text": "Okay. Thank you for your help.",
             "translation": "باشه. ممنون از کمکتان."
         },
         {
-            "order": 10,
+            "order": 16,
             "person": 1,
-            "text": "You're welcome. Thanks for your call. Have a good day.",
+            "text": "You're welcome, caller. Thanks for your call. Have a good day.",
             "translation": "خواهش می‌کنم. ممنون از تماس شما. روز خوبی داشته باشید."
         },
         {
-            "order": 11,
+            "order": 17,
             "person": 2,
             "text": "You too. Goodbye.",
             "translation": "شما هم همینطور. خداحافظ."

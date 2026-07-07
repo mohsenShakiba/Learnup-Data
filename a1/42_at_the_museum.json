@@ -1,108 +1,129 @@
 {
-    "title": "42 - At the Museum",
-    "description": "دو دوست در موزه هنر درباره نقاشی‌ها صحبت می‌کنند.",
-    "words": [
-        "museum",
-        "art",
-        "painting",
-        "beautiful",
-        "famous",
-        "artist",
-        "picture",
-        "photo",
-        "camera",
-        "color",
-        "store",
-        "book",
-        "favorite",
-        "room"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "This art museum is very big.",
-            "translation": "این موزه هنر خیلی بزرگ است."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Yes, and the paintings are beautiful.",
-            "translation": "بله، و نقاشی‌ها زیبا هستند."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Look at this painting. I love the colors.",
-            "translation": "به این نقاشی نگاه کن. عاشق رنگ‌هایش هستم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "It is very famous. Many people come to see it.",
-            "translation": "خیلی معروف است. مردم زیادی برای دیدنش می‌آیند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Who painted it?",
-            "translation": "چه کسی آن را کشیده است؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "A famous artist from Italy.",
-            "translation": "یک هنرمند معروف از ایتالیا."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Can I take a picture with my camera?",
-            "translation": "می‌توانم با دوربینم عکس بگیرم؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "No, we can't take photos here.",
-            "translation": "نه، این‌جا نمی‌توانیم عکس بگیریم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Okay. Let's see the next room.",
-            "translation": "باشه. بیا اتاق بعدی را ببینیم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "This one is my favorite painting.",
-            "translation": "این یکی نقاشی مورد علاقه‌ام است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "It's beautiful. The colors are so bright.",
-            "translation": "زیباست. رنگ‌هایش خیلی روشن‌اند."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "I want a book about this artist.",
-            "translation": "یک کتاب درباره این هنرمند می‌خواهم."
-        },
-        {
-            "order": 12,
-            "person": 1,
-            "text": "The museum store is near the door.",
-            "translation": "فروشگاه موزه نزدیک در است."
-        },
-        {
-            "order": 13,
-            "person": 2,
-            "text": "Great. Let's go there after.",
-            "translation": "عالی. بیا بعداً برویم آن‌جا."
-        }
-    ]
+  "title": "42 - At the Museum",
+  "description": "دو دوست از یک موزه هنر بازدید می‌کنند و درباره نقاشی‌ها صحبت می‌کنند.",
+  "words": [
+    "museum",
+    "art",
+    "painting",
+    "beautiful",
+    "famous",
+    "artist",
+    "picture",
+    "photo",
+    "camera",
+    "color",
+    "store",
+    "book",
+    "favorite",
+    "room",
+    "statue",
+    "sculpture",
+    "gallery",
+    "guide",
+    "exhibit",
+    "ancient",
+    "frame",
+    "sketch",
+    "old"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "This art museum is very big.",
+      "translation": "این موزه هنر خیلی بزرگ است."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Yes, and the paintings are beautiful.",
+      "translation": "بله، و نقاشی‌ها زیبا هستند."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Look at this painting. I love the colors.",
+      "translation": "به این نقاشی نگاه کن. عاشق رنگ‌هایش هستم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "It is very famous and very old. Many people come to see it.",
+      "translation": "خیلی معروف و خیلی قدیمی است. مردم زیادی برای دیدنش می‌آیند."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "It has a beautiful gold frame. Who painted it?",
+      "translation": "یک قاب طلایی زیبا دارد. چه کسی آن را کشیده است؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "A famous artist from Italy. The guide can tell us more.",
+      "translation": "یک هنرمند معروف از ایتالیا. راهنما می‌تواند بیشتر برایمان بگوید."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Can I take a picture with my camera?",
+      "translation": "می‌توانم با دوربینم عکس بگیرم؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "No, we can't take photos in this gallery.",
+      "translation": "نه، در این گالری نمی‌توانیم عکس بگیریم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Okay. Let's walk to the next room.",
+      "translation": "باشه. بیا به اتاق بعدی برویم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "This exhibit has a big statue. It's a beautiful sculpture.",
+      "translation": "این نمایشگاه یک مجسمه بزرگ دارد. یک تندیس زیباست."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "These are ancient works. They are so old.",
+      "translation": "این‌ها آثار باستانی هستند. خیلی قدیمی‌اند."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "This one is my favorite painting. The colors are so bright.",
+      "translation": "این یکی نقاشی مورد علاقه‌ام است. رنگ‌هایش خیلی روشن‌اند."
+    },
+    {
+      "order": 12,
+      "person": 1,
+      "text": "I want to sketch it in my notebook.",
+      "translation": "می‌خواهم آن را در دفترچه‌ام طرح بزنم."
+    },
+    {
+      "order": 13,
+      "person": 2,
+      "text": "I want a book about this artist.",
+      "translation": "یک کتاب درباره این هنرمند می‌خواهم."
+    },
+    {
+      "order": 14,
+      "person": 1,
+      "text": "The museum store is near the door.",
+      "translation": "فروشگاه موزه نزدیک در است."
+    },
+    {
+      "order": 15,
+      "person": 2,
+      "text": "Great. Let's go there after.",
+      "translation": "عالی. بیا بعداً برویم آن‌جا."
+    }
+  ]
 }

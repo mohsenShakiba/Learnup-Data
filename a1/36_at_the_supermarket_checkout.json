@@ -2,9 +2,29 @@
   "title": "36 - At the Supermarket Checkout",
   "description": "پرداخت خرید در صندوق سوپرمارکت.",
   "words": [
-    "cheap",
     "supermarket",
-    "thirty"
+    "queue",
+    "item",
+    "dozen",
+    "egg",
+    "yogurt",
+    "barcode",
+    "count",
+    "orange",
+    "chocolate",
+    "biscuit",
+    "ripe",
+    "frozen",
+    "cheap",
+    "discount",
+    "bargain",
+    "coupon",
+    "points",
+    "plastic",
+    "chips",
+    "jar",
+    "thirty",
+    "till"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -18,68 +38,92 @@
     {
       "order": 1,
       "person": 2,
-      "text": "Yes, thank you.",
-      "translation": "بله، ممنون."
+      "text": "Yes, thank you. The queue was long today.",
+      "translation": "بله، ممنون. امروز صف طولانی بود."
     },
     {
       "order": 2,
       "person": 1,
-      "text": "Do you need a bag?",
-      "translation": "کیسه می‌خواهید؟"
+      "text": "Sorry about that. Let me scan your items.",
+      "translation": "بابت آن متأسفم. بگذارید اقلامتان را اسکن کنم."
     },
     {
       "order": 3,
       "person": 2,
-      "text": "Yes, two bags, please. They are heavy.",
-      "translation": "بله، دو کیسه لطفاً. سنگین هستند."
+      "text": "Okay. I have a dozen eggs and some yogurt.",
+      "translation": "باشه. یک دوجین تخم‌مرغ و مقداری ماست دارم."
     },
     {
       "order": 4,
       "person": 1,
-      "text": "Let me check the price. I can help with the heavy bags.",
-      "translation": "بگذارید قیمت را چک کنم. می‌توانم برای کیسه‌های سنگین کمک کنم."
+      "text": "This barcode won't scan. Let me count it by hand.",
+      "translation": "این بارکد اسکن نمی‌شود. بگذارید دستی حساب کنم."
     },
     {
       "order": 5,
       "person": 2,
-      "text": "Is the milk cheaper today?",
-      "translation": "امروز شیر ارزان‌تر است؟"
+      "text": "I also got oranges, chocolate, and biscuits.",
+      "translation": "پرتقال، شکلات و بیسکویت هم گرفتم."
     },
     {
       "order": 6,
       "person": 1,
-      "text": "Yes, it's two for one today.",
-      "translation": "بله، امروز دوتا به قیمت یکی است."
+      "text": "Are these oranges ripe? They look fresh.",
+      "translation": "این پرتقال‌ها رسیده هستند؟ تازه به نظر می‌رسند."
     },
     {
       "order": 7,
       "person": 2,
-      "text": "Great. What is the total?",
-      "translation": "عالی. جمع کل چقدر می‌شود؟"
+      "text": "Yes. Is the frozen pizza cheap today?",
+      "translation": "بله. پیتزای یخ‌زده امروز ارزان است؟"
     },
     {
       "order": 8,
       "person": 1,
-      "text": "Twenty-five dollars. How do you want to pay, cash or card?",
-      "translation": "بیست و پنج دلار. چطور می‌خواهید پرداخت کنید، نقد یا کارت؟"
+      "text": "It's on discount now. It's a real bargain.",
+      "translation": "الان تخفیف دارد. واقعاً معامله خوبی است."
     },
     {
       "order": 9,
       "person": 2,
-      "text": "Cash. Here is thirty.",
-      "translation": "نقد. این هم سی دلار."
+      "text": "Great. I have a coupon too.",
+      "translation": "عالی. یک کوپن هم دارم."
     },
     {
       "order": 10,
       "person": 1,
-      "text": "Here is your change and your receipt.",
-      "translation": "این هم بقیه پولتان و رسید."
+      "text": "Thank you. You also earn points on your card.",
+      "translation": "ممنون. روی کارتتان امتیاز هم می‌گیرید."
     },
     {
       "order": 11,
+      "person": 1,
+      "text": "Do you want a plastic bag for the chips and the jar?",
+      "translation": "برای چیپس و شیشه‌مربا کیسه پلاستیکی می‌خواهید؟"
+    },
+    {
+      "order": 12,
       "person": 2,
-      "text": "Thanks. Have a nice day.",
-      "translation": "ممنون. روز خوبی داشته باشید."
+      "text": "Yes, please. What is the total?",
+      "translation": "بله، لطفاً. جمع کل چقدر می‌شود؟"
+    },
+    {
+      "order": 13,
+      "person": 1,
+      "text": "Thirty dollars here at the till.",
+      "translation": "سی دلار اینجا سر صندوق."
+    },
+    {
+      "order": 14,
+      "person": 2,
+      "text": "Here you are. Thanks!",
+      "translation": "بفرمایید. ممنون!"
+    },
+    {
+      "order": 15,
+      "person": 1,
+      "text": "Here is your change and receipt. Have a nice day.",
+      "translation": "این هم بقیه پول و رسیدتان. روز خوبی داشته باشید."
     }
   ]
 }

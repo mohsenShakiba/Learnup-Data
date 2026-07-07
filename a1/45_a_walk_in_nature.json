@@ -14,7 +14,16 @@
         "moon",
         "star",
         "nature",
-        "beautiful"
+        "beautiful",
+        "path",
+        "air",
+        "river",
+        "rabbit",
+        "bird",
+        "leaf",
+        "under",
+        "forest",
+        "sound"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -28,14 +37,14 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Yes! Look at all the trees and flowers.",
-            "translation": "بله! به این همه درخت و گل نگاه کن."
+            "text": "Yes! Let's take this path. Look at all the trees and flowers.",
+            "translation": "بله! بیا از این مسیر برویم. به این همه درخت و گل نگاه کن."
         },
         {
             "order": 2,
             "person": 1,
-            "text": "The flowers are so pretty.",
-            "translation": "گل‌ها خیلی قشنگ‌اند."
+            "text": "The flowers are so pretty. The air is so fresh.",
+            "translation": "گل‌ها خیلی قشنگ‌اند. هوا خیلی تازه است."
         },
         {
             "order": 3,
@@ -46,8 +55,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Good idea. I can see the mountain from here.",
-            "translation": "فکر خوبی است. از اینجا کوه را می‌بینم."
+            "text": "Good idea. I can see the mountain and the river from here.",
+            "translation": "فکر خوبی است. از اینجا کوه و رودخانه را می‌بینم."
         },
         {
             "order": 5,
@@ -64,30 +73,48 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Let's sit under this big tree.",
-            "translation": "بیا زیر این درخت بزرگ بنشینیم."
+            "text": "And look, a bird in that big tree!",
+            "translation": "و ببین، یک پرنده روی آن درخت بزرگ!"
         },
         {
             "order": 8,
             "person": 1,
-            "text": "At night, we can see the moon and stars here.",
-            "translation": "شب‌ها، اینجا می‌توانیم ماه و ستاره‌ها را ببینیم."
+            "text": "A green leaf is falling in the wind.",
+            "translation": "یک برگ سبز در باد می‌افتد."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "That sounds lovely. Nature is wonderful.",
-            "translation": "چه دلپذیر. طبیعت فوق‌العاده است."
+            "text": "Let's sit under this tree.",
+            "translation": "بیا زیر این درخت بنشینیم."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Yes. I feel so happy here.",
-            "translation": "بله. اینجا خیلی احساس خوشحالی می‌کنم."
+            "text": "This forest is so quiet and peaceful.",
+            "translation": "این جنگل خیلی ساکت و آرام است."
         },
         {
             "order": 11,
             "person": 2,
+            "text": "At night, we can see the moon and stars here.",
+            "translation": "شب‌ها، اینجا می‌توانیم ماه و ستاره‌ها را ببینیم."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "That sounds lovely. Nature is wonderful.",
+            "translation": "چه دلپذیر. طبیعت فوق‌العاده است."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Yes. I feel so happy here.",
+            "translation": "بله. اینجا خیلی احساس خوشحالی می‌کنم."
+        },
+        {
+            "order": 14,
+            "person": 1,
             "text": "Me too. Let's come again next week.",
             "translation": "من هم. بیا هفته بعد دوباره بیاییم."
         }

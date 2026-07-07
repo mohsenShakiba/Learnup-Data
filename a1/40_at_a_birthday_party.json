@@ -1,6 +1,6 @@
 {
   "title": "40 - At a Birthday Party",
-  "description": "گفتگو در یک جشن تولد و دادن هدیه به دوست.",
+  "description": "دو دوست در یک جشن تولد صحبت می‌کنند و جشن می‌گیرند.",
   "words": [
     "birthday",
     "party",
@@ -14,7 +14,17 @@
     "surprise",
     "child",
     "game",
-    "celebrate"
+    "celebrate",
+    "balloon",
+    "clap",
+    "song",
+    "blow",
+    "sweets",
+    "decorate",
+    "ribbon",
+    "prize",
+    "winner",
+    "clown"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -28,14 +38,14 @@
     {
       "order": 1,
       "person": 2,
-      "text": "Thank you so much! Can I open it now?",
-      "translation": "خیلی ممنون! می‌توانم همین حالا بازش کنم؟"
+      "text": "Thank you so much! I love the ribbon on it.",
+      "translation": "خیلی ممنون! روبان رویش را دوست دارم."
     },
     {
       "order": 2,
       "person": 1,
-      "text": "Of course! I hope you like it.",
-      "translation": "البته! امیدوارم خوشت بیاید."
+      "text": "Open it! I hope you like it.",
+      "translation": "بازش کن! امیدوارم خوشت بیاید."
     },
     {
       "order": 3,
@@ -46,47 +56,59 @@
     {
       "order": 4,
       "person": 1,
-      "text": "I'm glad you like it. Let's celebrate!",
-      "translation": "خوشحالم که دوستش داری. بیا جشن بگیریم!"
+      "text": "I'm glad. Let's celebrate! We decorated the room with balloons.",
+      "translation": "خوشحالم. بیا جشن بگیریم! اتاق را با بادکنک تزئین کردیم."
     },
     {
       "order": 5,
       "person": 2,
-      "text": "Yes, there is music and cake!",
-      "translation": "بله، موسیقی و کیک هست!"
+      "text": "It looks great! There is music and a big cake.",
+      "translation": "خیلی قشنگ شده! موسیقی و یک کیک بزرگ هست."
     },
     {
       "order": 6,
       "person": 1,
-      "text": "It's time for the cake. Make a wish!",
-      "translation": "وقت کیک است. یک آرزو کن!"
+      "text": "It's time for the cake. Make a wish and blow out the candles!",
+      "translation": "وقت کیک است. یک آرزو کن و شمع‌ها را فوت کن!"
     },
     {
       "order": 7,
       "person": 2,
-      "text": "Okay. Let me blow out the candles.",
-      "translation": "باشه. بگذار شمع‌ها را فوت کنم."
+      "text": "Okay. Everyone, clap and sing a song!",
+      "translation": "باشه. همگی، دست بزنید و یک آهنگ بخوانید!"
     },
     {
       "order": 8,
       "person": 1,
-      "text": "Wonderful! Let's dance and play a game.",
-      "translation": "عالی! بیا برقصیم و یک بازی کنیم."
+      "text": "Now let's dance and play a fun game.",
+      "translation": "حالا بیایید برقصیم و یک بازی سرگرم‌کننده کنیم."
     },
     {
       "order": 9,
       "person": 2,
-      "text": "The children love the music. This is so much fun.",
-      "translation": "بچه‌ها عاشق موسیقی هستند. این خیلی خوش می‌گذرد."
+      "text": "The children love the clown. He is so funny.",
+      "translation": "بچه‌ها عاشق دلقک هستند. او خیلی بامزه است."
     },
     {
       "order": 10,
       "person": 1,
-      "text": "I'm happy you came, my friend.",
-      "translation": "خوشحالم که آمدی، دوست خوبم."
+      "text": "The game has a prize for the winner.",
+      "translation": "بازی برای برنده یک جایزه دارد."
     },
     {
       "order": 11,
+      "person": 2,
+      "text": "Nice! What a great party! Let's eat cake and sweets.",
+      "translation": "چه خوب! چه جشن عالی‌ای! بیا کیک و شیرینی بخوریم."
+    },
+    {
+      "order": 12,
+      "person": 1,
+      "text": "I'm so happy you came, my friend.",
+      "translation": "خیلی خوشحالم که آمدی، دوست خوبم."
+    },
+    {
+      "order": 13,
       "person": 2,
       "text": "Thank you for the wonderful surprise!",
       "translation": "ممنون بابت این سورپرایز فوق‌العاده!"

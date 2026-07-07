@@ -17,7 +17,14 @@
         "ninety",
         "excellent",
         "grade",
-        "high"
+        "high",
+        "hundred",
+        "thousand",
+        "million",
+        "zero",
+        "math",
+        "plus",
+        "score"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -85,11 +92,35 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Perfect. You get a high grade today.",
-            "translation": "عالی است. امروز نمره بالایی می‌گیری."
+            "text": "Good. And after ninety-nine comes one hundred.",
+            "translation": "خوب. و بعد از نود و نه، صد می‌آید."
         },
         {
             "order": 11,
+            "person": 2,
+            "text": "What comes after one thousand?",
+            "translation": "بعد از هزار چه می‌آید؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "One thousand, then one million. Zero is the smallest.",
+            "translation": "هزار، بعد یک میلیون. صفر کوچک‌ترین است."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "In math, ten plus ten is twenty.",
+            "translation": "در ریاضی، ده به‌علاوه ده می‌شود بیست."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Correct! You get a high score and a high grade today.",
+            "translation": "درست است! امروز نمره و امتیاز بالایی می‌گیری."
+        },
+        {
+            "order": 15,
             "person": 2,
             "text": "Thank you. This class is fun.",
             "translation": "ممنون. این کلاس سرگرم‌کننده است."

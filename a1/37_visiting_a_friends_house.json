@@ -8,7 +8,23 @@
     "dinner",
     "smell",
     "good",
-    "lovely"
+    "lovely",
+    "bell",
+    "shoes",
+    "slippers",
+    "armchair",
+    "lamp",
+    "cushion",
+    "rug",
+    "curtain",
+    "stove",
+    "pot",
+    "pan",
+    "recipe",
+    "spice",
+    "tablecloth",
+    "joke",
+    "enjoy"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -16,8 +32,8 @@
     {
       "order": 0,
       "person": 1,
-      "text": "Hi! Come in, come in.",
-      "translation": "سلام! بیا تو، بیا تو."
+      "text": "Hi! Come in, come in. I heard the bell.",
+      "translation": "سلام! بیا تو، بیا تو. صدای زنگ را شنیدم."
     },
     {
       "order": 1,
@@ -28,62 +44,80 @@
     {
       "order": 2,
       "person": 1,
-      "text": "Thanks! I'm so glad you came to visit. Please sit down.",
-      "translation": "ممنون! خیلی خوشحالم که به دیدنم آمدی. لطفاً بنشین."
+      "text": "I'm so glad you came. Please take off your shoes.",
+      "translation": "خیلی خوشحالم که آمدی. لطفاً کفش‌هایت را دربیاور."
     },
     {
       "order": 3,
+      "person": 2,
+      "text": "Sure. Are these slippers for me?",
+      "translation": "حتماً. این دمپایی‌ها برای من است؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Yes. Sit in the armchair by the lamp.",
+      "translation": "بله. روی مبل راحتی کنار چراغ بنشین."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "This soft cushion is so comfortable.",
+      "translation": "این کوسن نرم خیلی راحت است."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Thanks. I put a new rug on the floor too.",
+      "translation": "ممنون. یک فرش نو هم روی زمین گذاشتم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "The room looks warm. I like the curtains.",
+      "translation": "اتاق گرم و دنج به نظر می‌رسد. پرده‌ها را دوست دارم."
+    },
+    {
+      "order": 8,
       "person": 2,
       "text": "Something smells good.",
       "translation": "بوی خوبی می‌آید."
     },
     {
-      "order": 4,
-      "person": 1,
-      "text": "I'm cooking dinner in the kitchen.",
-      "translation": "دارم در آشپزخانه شام درست می‌کنم."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "It smells delicious. I'm so hungry.",
-      "translation": "بویش خیلی خوب است. خیلی گرسنه‌ام."
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "Would you like something to drink?",
-      "translation": "چیزی برای نوشیدن می‌خواهی؟"
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "Yes, some water, please.",
-      "translation": "بله، کمی آب لطفاً."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "Here you are. Dinner is almost ready.",
-      "translation": "بفرما. شام تقریباً آماده است."
-    },
-    {
       "order": 9,
-      "person": 2,
-      "text": "Can I help you with anything?",
-      "translation": "می‌توانم در کاری کمکت کنم؟"
+      "person": 1,
+      "text": "I'm cooking dinner on the stove.",
+      "translation": "دارم روی اجاق شام درست می‌کنم."
     },
     {
       "order": 10,
-      "person": 1,
-      "text": "No, thank you. Just relax.",
-      "translation": "نه، ممنون. فقط راحت باش."
+      "person": 2,
+      "text": "What's in the pot and the pan?",
+      "translation": "توی قابلمه و ماهیتابه چه چیزی هست؟"
     },
     {
       "order": 11,
+      "person": 1,
+      "text": "Soup. It's an old family recipe with lots of spice.",
+      "translation": "سوپ. یک دستور پخت قدیمی خانوادگی با کلی ادویه است."
+    },
+    {
+      "order": 12,
       "person": 2,
-      "text": "Thank you for inviting me. This is so nice.",
-      "translation": "ممنون که دعوتم کردی. خیلی خوب است."
+      "text": "The table looks nice with that tablecloth.",
+      "translation": "میز با آن رومیزی قشنگ به نظر می‌رسد."
+    },
+    {
+      "order": 13,
+      "person": 1,
+      "text": "Sit down. Let me tell you a funny joke.",
+      "translation": "بنشین. بگذار یک جوک بامزه برایت تعریف کنم."
+    },
+    {
+      "order": 14,
+      "person": 2,
+      "text": "Ha! Thank you for inviting me. I will enjoy this dinner.",
+      "translation": "ها! ممنون که دعوتم کردی. از این شام لذت خواهم برد."
     }
   ]
 }

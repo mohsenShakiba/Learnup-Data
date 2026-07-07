@@ -34,98 +34,98 @@
         {
             "order": 0,
             "person": 1,
-            "text": "What do you do for work?",
-            "translation": "شغلت چیست؟"
+            "text": "What do you do for work now?",
+            "translation": "الان برای کار چه کار می‌کنی؟"
         },
         {
             "order": 1,
             "person": 2,
-            "text": "I'm a nurse. I work at a hospital and care for sick patients.",
-            "translation": "من پرستارم. در یک بیمارستان کار می‌کنم و از بیماران مریض مراقبت می‌کنم."
+            "text": "I'm a nurse at the hospital. I help patients every day.",
+            "translation": "من در بیمارستان پرستارم. هر روز به بیماران کمک می‌کنم."
         },
         {
             "order": 2,
             "person": 1,
-            "text": "That's a great job. Do you like it?",
-            "translation": "شغل خیلی خوبی است. دوستش داری؟"
+            "text": "That sounds like a hard job. Do you like it?",
+            "translation": "به نظر شغل سختی می‌آید. دوستش داری؟"
         },
         {
             "order": 3,
             "person": 2,
-            "text": "Yes, I love to help people. It is a good career. And you?",
-            "translation": "بله، عاشق کمک به مردم هستم. حرفه خوبی است. تو چطور؟"
+            "text": "Yes, I do. I like helping people. Maybe it is a good career for me.",
+            "translation": "بله، دوستش دارم. کمک کردن به مردم را دوست دارم. شاید برای من حرفه خوبی باشد."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "I'm an engineer. I help build bridges.",
-            "translation": "من مهندسم. به ساختن پل‌ها کمک می‌کنم."
+            "text": "That's good. I'm an engineer, and I help build small bridges.",
+            "translation": "خوب است. من مهندسم و به ساختن پل‌های کوچک کمک می‌کنم."
         },
         {
             "order": 5,
             "person": 2,
-            "text": "Wow, that sounds hard!",
-            "translation": "وای، به نظر سخت می‌آید!"
+            "text": "Really? That's interesting.",
+            "translation": "واقعاً؟ جالب است."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "It is, but it's fun. What about your family?",
-            "translation": "هست، اما جالب است. خانواده تو چطور؟"
+            "text": "It is, but some days are long. Does anyone in your family do a different job?",
+            "translation": "جالب است، اما بعضی روزها طولانی است. کسی در خانواده‌ات شغل متفاوتی دارد؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "My sister is a waitress at a cafe; she serves food to people. My uncle is a farmer who works on a farm.",
-            "translation": "خواهرم در یک کافه پیشخدمت است؛ او به مردم غذا سرو می‌کند. عمویم کشاورزی است که در یک مزرعه کار می‌کند."
+            "text": "Yes. My sister is a waitress in a cafe. She helps serve breakfast and coffee.",
+            "translation": "بله. خواهرم در یک کافه پیشخدمت است. او به سرو صبحانه و قهوه کمک می‌کند."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "My brother is a scientist. He is very smart.",
-            "translation": "برادرم دانشمند است. او خیلی باهوش است."
+            "text": "My uncle is a farmer. He works on a small farm.",
+            "translation": "عمویم کشاورز است. او در یک مزرعه کوچک کار می‌کند."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "A scientist? That's very interesting.",
-            "translation": "دانشمند؟ خیلی جالب است."
+            "text": "That sounds nice. My brother is a scientist.",
+            "translation": "به نظر خوب می‌آید. برادرم دانشمند است."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Yes, he works in a big lab. His work is very useful.",
-            "translation": "بله، در یک آزمایشگاه بزرگ کار می‌کند. کارش خیلی مفید است."
+            "text": "Does he work in a lab?",
+            "translation": "آیا در آزمایشگاه کار می‌کند؟"
         },
         {
             "order": 11,
             "person": 2,
-            "text": "My cousin is a pilot. He flies big planes.",
-            "translation": "پسرعمویم خلبان است. او هواپیماهای بزرگ می‌راند."
+            "text": "Yes, and he is very smart. His work is useful.",
+            "translation": "بله، و خیلی باهوش است. کارش مفید است."
         },
         {
             "order": 12,
             "person": 1,
-            "text": "And my aunt is a chef. She cooks in a restaurant.",
-            "translation": "و خاله‌ام سرآشپز است. او در یک رستوران آشپزی می‌کند."
+            "text": "My cousin is a pilot. He flies big planes.",
+            "translation": "پسرعمویم خلبان است. او با هواپیماهای بزرگ پرواز می‌کند."
         },
         {
             "order": 13,
             "person": 2,
-            "text": "Our family has many different jobs!",
-            "translation": "خانواده ما شغل‌های مختلف زیادی دارد!"
+            "text": "And my aunt is a chef. She cooks in a restaurant.",
+            "translation": "و خاله‌ام سرآشپز است. او در یک رستوران آشپزی می‌کند."
         },
         {
             "order": 14,
             "person": 1,
-            "text": "That's true. A good job helps you earn money.",
-            "translation": "درست است. یک شغل خوب کمک می‌کند پول در بیاوری."
+            "text": "Your family has many jobs!",
+            "translation": "خانواده‌ات شغل‌های زیادی دارد!"
         },
         {
             "order": 15,
             "person": 2,
-            "text": "Work is a big part of life.",
-            "translation": "کار بخش بزرگی از زندگی است."
+            "text": "That's true. Work is a big part of life, and people earn money in different ways.",
+            "translation": "درست است. کار بخش بزرگی از زندگی است و مردم به روش‌های مختلف پول درمی‌آورند."
         }
     ]
 }

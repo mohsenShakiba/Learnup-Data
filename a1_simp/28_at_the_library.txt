@@ -1,0 +1,19 @@
+At the Library
+library, member, find, history, fee, novel, poem, section, librarian, fiction, biography, author, catalog, textbook, study, renew, silence, whisper, cover, chapter
+Hi, I want to borrow some books.
+Are you a member?
+No, not yet. How can I join?
+It's free. I just need your name and address.
+Here you are. Where can I find the history books?
+In that section, near the window. The librarian can help you.
+Thank you. I also want a novel and a book of poems.
+The fiction section has novels. Do you like biography or poems?
+Biography, please. Who is a good author?
+This one. Check the catalog for more titles.
+Great. Can I also get a textbook to study?
+Yes. With this library card you can borrow five books.
+When should I return them? Can I renew?
+In three weeks. You can renew once. Please don't be late.
+What happens if I am late?
+You pay a small late fee. Please keep silence and only whisper inside.
+Okay. This novel has a nice cover and many chapters.

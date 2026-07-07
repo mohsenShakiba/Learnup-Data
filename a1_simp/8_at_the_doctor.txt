@@ -1,0 +1,15 @@
+At the Doctor
+sick, feel, head, hurt, fever, throat, tired, rest, medicine, better, sleep, doctor, eye, ear, nose, health, care, clinic, temperature, weak, stomach, well
+Hello. Welcome to the clinic. What's wrong?
+I feel sick. My head and nose hurt.
+Do you have a fever? Let me check your temperature.
+Yes, since yesterday. I feel weak too.
+Do your throat and ears hurt too?
+A little. My eyes feel tired, and my stomach hurts a bit too.
+It sounds like you have a cold.
+What should I do?
+Drink a lot of water and get some rest. Take this medicine two times a day.
+How many days?
+For five days. You will feel better soon.
+Thank you, doctor.
+Take care of your health and sleep well.

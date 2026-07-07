@@ -11,7 +11,18 @@
         "kind",
         "friend",
         "miss",
-        "night"
+        "night",
+        "worried",
+        "scared",
+        "afraid",
+        "upset",
+        "angry",
+        "calm",
+        "share",
+        "comfort",
+        "brave",
+        "cheer",
+        "mood"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -43,47 +54,83 @@
         {
             "order": 4,
             "person": 1,
-            "text": "That is a hard feeling.",
-            "translation": "این حس سختی است."
+            "text": "That is a hard feeling. Are you worried?",
+            "translation": "این حس سختی است. نگرانی؟"
         },
         {
             "order": 5,
             "person": 2,
-            "text": "Sometimes I want to cry.",
-            "translation": "بعضی وقت‌ها دلم می‌خواهد گریه کنم."
+            "text": "Yes, and sometimes I feel scared and afraid.",
+            "translation": "بله، و گاهی احساس ترس و وحشت می‌کنم."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Don't be sad. I am your friend.",
-            "translation": "غمگین نباش. من دوستت هستم."
+            "text": "It is okay to feel upset.",
+            "translation": "اشکالی ندارد که ناراحت باشی."
         },
         {
             "order": 7,
+            "person": 2,
+            "text": "Sometimes I want to cry. I get angry too.",
+            "translation": "بعضی وقت‌ها دلم می‌خواهد گریه کنم. عصبانی هم می‌شوم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Don't be sad. I am your friend. Try to stay calm.",
+            "translation": "غمگین نباش. من دوستت هستم. سعی کن آرام باشی."
+        },
+        {
+            "order": 9,
             "person": 2,
             "text": "Thank you. That is very kind.",
             "translation": "ممنون. خیلی مهربانی."
         },
         {
-            "order": 8,
+            "order": 10,
+            "person": 1,
+            "text": "You can share your feelings with me.",
+            "translation": "می‌توانی احساساتت را با من در میان بگذاری."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That is a comfort.",
+            "translation": "این مایه دلگرمی است."
+        },
+        {
+            "order": 12,
             "person": 1,
             "text": "Do you miss your family?",
             "translation": "دلت برای خانواده‌ات تنگ شده؟"
         },
         {
-            "order": 9,
+            "order": 13,
             "person": 2,
             "text": "Yes, I miss them a lot.",
             "translation": "بله، خیلی دلم برایشان تنگ شده."
         },
         {
-            "order": 10,
+            "order": 14,
+            "person": 1,
+            "text": "Be brave. Let me cheer you up.",
+            "translation": "قوی باش. بگذار روحیه‌ات را عوض کنم."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "You always lift my mood.",
+            "translation": "تو همیشه حال من را بهتر می‌کنی."
+        },
+        {
+            "order": 16,
             "person": 1,
             "text": "Let's have dinner together tonight.",
             "translation": "بیا امشب با هم شام بخوریم."
         },
         {
-            "order": 11,
+            "order": 17,
             "person": 2,
             "text": "Yes! I feel much better now.",
             "translation": "بله! حالا خیلی بهتر شدم."

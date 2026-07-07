@@ -1,0 +1,16 @@
+Asking for Directions
+excuse, help, bank, street, far, near, minute, walk, straight, turn, left, corner, right, lost, sorry, follow, road, block, cross, behind, bus stop, across
+Excuse me, sorry to bother you. Can you help me?
+Sure. What are you looking for?
+I'm looking for the bank.
+It's on Main Street. Just follow this road.
+Is it far?
+No, it's near. It's two blocks away, about five minutes.
+How do I get there?
+Walk straight, then cross the street at the corner.
+Left or right after that?
+Turn left. The bank is behind the bus stop.
+Is it near the park?
+Yes, it's right across from the park.
+Thank you so much. I was lost.
+No problem. Take care!

@@ -11,7 +11,18 @@
         "gold",
         "forget",
         "dream",
-        "asleep"
+        "asleep",
+        "scary",
+        "nightmare",
+        "monster",
+        "ghost",
+        "giant",
+        "chase",
+        "hide",
+        "shadow",
+        "deep",
+        "magic",
+        "weird"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -31,8 +42,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "It was dark and a little scary.",
-            "translation": "تاریک بود و کمی ترسناک."
+            "text": "It was dark and a little scary, like a nightmare.",
+            "translation": "تاریک بود و کمی ترسناک، مثل یک کابوس."
         },
         {
             "order": 3,
@@ -43,8 +54,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Asleep. I saw an ugly monster.",
-            "translation": "خواب. یک هیولای زشت دیدم."
+            "text": "Asleep. I saw an ugly monster and a ghost.",
+            "translation": "خواب. یک هیولای زشت و یک روح دیدم."
         },
         {
             "order": 5,
@@ -55,8 +66,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Yes! It held a piece of gold.",
-            "translation": "بله! یک تکه طلا در دست داشت."
+            "text": "Yes, a giant! It held a piece of gold.",
+            "translation": "بله، یک غول! یک تکه طلا در دست داشت."
         },
         {
             "order": 7,
@@ -67,23 +78,47 @@
         {
             "order": 8,
             "person": 1,
-            "text": "I forget the rest of it.",
-            "translation": "بقیه‌اش را فراموش کرده‌ام."
+            "text": "It began to chase me, so I tried to hide.",
+            "translation": "شروع کرد به دنبال کردن من، برای همین سعی کردم پنهان شوم."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "Dreams are strange like that.",
-            "translation": "خواب‌ها همینطور عجیب هستند."
+            "text": "Did you see its shadow?",
+            "translation": "سایه‌اش را دیدی؟"
         },
         {
             "order": 10,
+            "person": 1,
+            "text": "Yes, in the deep dark. It felt like magic.",
+            "translation": "بله، در تاریکی عمیق. مثل جادو بود."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Then what?",
+            "translation": "بعد چه شد؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "I forget the rest of it.",
+            "translation": "بقیه‌اش را فراموش کرده‌ام."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Dreams are strange and weird like that.",
+            "translation": "خواب‌ها همینطور عجیب و غریب هستند."
+        },
+        {
+            "order": 14,
             "person": 1,
             "text": "Yes. I don't want to sleep now.",
             "translation": "بله. حالا نمی‌خواهم بخوابم."
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
             "text": "Don't worry, it was not real.",
             "translation": "نگران نباش، واقعی نبود."

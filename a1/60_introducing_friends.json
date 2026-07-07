@@ -11,7 +11,19 @@
         "think",
         "clever",
         "meet",
-        "kind"
+        "kind",
+        "introduce",
+        "event",
+        "hand",
+        "handshake",
+        "foreign",
+        "accent",
+        "stranger",
+        "gentleman",
+        "teammate",
+        "sir",
+        "manner",
+        "nickname"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -19,8 +31,8 @@
         {
             "order": 0,
             "person": 1,
-            "text": "Let me introduce you to each other.",
-            "translation": "بگذار شما را به هم معرفی کنم."
+            "text": "Let me introduce you to each other at this event.",
+            "translation": "بگذار شما را در این رویداد به هم معرفی کنم."
         },
         {
             "order": 1,
@@ -31,8 +43,8 @@
         {
             "order": 2,
             "person": 3,
-            "text": "It is a pleasure to meet you.",
-            "translation": "از آشنایی با شما خوشوقتم."
+            "text": "It is a pleasure. That was a warm handshake.",
+            "translation": "باعث افتخار است. چه دست‌دادن گرمی بود."
         },
         {
             "order": 3,
@@ -43,20 +55,20 @@
         {
             "order": 4,
             "person": 3,
-            "text": "I am from Spain. And you?",
-            "translation": "من اهل اسپانیا هستم. و تو؟"
+            "text": "I am from Spain. I have a foreign accent.",
+            "translation": "من اهل اسپانیا هستم. لهجه خارجی دارم."
         },
         {
             "order": 5,
             "person": 2,
-            "text": "I am from Japan.",
-            "translation": "من اهل ژاپن هستم."
+            "text": "I am from Japan. Now you are not a stranger.",
+            "translation": "من اهل ژاپن هستم. حالا دیگر غریبه نیستی."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "That lady over there is my boss.",
-            "translation": "آن خانم آن‌جا رئیس من است."
+            "text": "That lady over there is my boss. The gentleman next to her is my teammate.",
+            "translation": "آن خانم آن‌جا رئیس من است. آن آقا کنارش هم‌تیمی من است."
         },
         {
             "order": 7,
@@ -67,24 +79,30 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Yes. I think she is very kind.",
-            "translation": "بله. فکر می‌کنم خیلی مهربان است."
+            "text": "Yes, sir. I think she is very kind.",
+            "translation": "بله، آقا. فکر می‌کنم خیلی مهربان است."
         },
         {
             "order": 9,
             "person": 3,
-            "text": "She looks clever too.",
-            "translation": "باهوش هم به نظر می‌رسد."
+            "text": "She looks clever too. She has good manners.",
+            "translation": "باهوش هم به نظر می‌رسد. رفتار خوبی دارد."
         },
         {
             "order": 10,
             "person": 2,
-            "text": "It was nice talking to you.",
-            "translation": "از صحبت با شما خوشحال شدم."
+            "text": "People here call me by my nickname, Ken.",
+            "translation": "اینجا مردم من را با نام مستعارم، کن، صدا می‌زنند."
         },
         {
             "order": 11,
             "person": 3,
+            "text": "It was nice talking to you.",
+            "translation": "از صحبت با شما خوشحال شدم."
+        },
+        {
+            "order": 12,
+            "person": 2,
             "text": "Same here. Goodbye!",
             "translation": "من هم همینطور. خداحافظ!"
         }

@@ -1,0 +1,19 @@
+At the Airport
+ticket, passport, flight, gate, window, seat, plane, trip, suitcase, luggage, delay, terminal, boarding, security, board, departure, fly, land, arrival, customs
+Hello. Can I see your ticket and passport?
+Here you are.
+Thank you. How many bags are you checking?
+Just one suitcase.
+Please put your luggage here.
+Is the flight on time?
+There is a short delay, about thirty minutes.
+Okay. Which gate is it?
+Gate twelve, in terminal two.
+Can I have a window seat?
+Yes. Here is your boarding pass. Go through security first, then you can board the plane.
+When does it leave?
+Departure is at two o'clock. The plane will fly for three hours.
+And when do we arrive?
+The arrival is at five o'clock. After you land, go to customs.
+Thank you. Have a good day.
+Have a safe trip!

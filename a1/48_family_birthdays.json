@@ -13,7 +13,16 @@
         "July",
         "guess",
         "age",
-        "April"
+        "April",
+        "January",
+        "March",
+        "June",
+        "August",
+        "September",
+        "October",
+        "November",
+        "niece",
+        "nephew"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -63,29 +72,77 @@
         {
             "order": 7,
             "person": 2,
+            "text": "What about your sister and brother?",
+            "translation": "خواهر و برادرت چطور؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "My sister's birthday is in January, and my brother's is in March.",
+            "translation": "تولد خواهرم در ژانویه و برادرم در مارس است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Any other family birthdays?",
+            "translation": "تولد دیگری در خانواده هست؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "My uncle's is in June and my aunt's is in August.",
+            "translation": "تولد عمویم در ژوئن و خاله‌ام در اوت است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Your family is big!",
+            "translation": "خانواده‌ات بزرگ است!"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Yes. My niece was born in September and my nephew in October.",
+            "translation": "بله. خواهرزاده‌ام در سپتامبر و برادرزاده‌ام در اکتبر به دنیا آمد."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "And November?",
+            "translation": "و نوامبر؟"
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "My cousin's party is in November.",
+            "translation": "مهمانی پسرعمویم در نوامبر است."
+        },
+        {
+            "order": 15,
+            "person": 2,
             "text": "That is a lot of parties!",
             "translation": "این خیلی مهمانی است!"
         },
         {
-            "order": 8,
+            "order": 16,
             "person": 1,
             "text": "Can you guess my age?",
             "translation": "می‌توانی سن من را حدس بزنی؟"
         },
         {
-            "order": 9,
+            "order": 17,
             "person": 2,
             "text": "Hmm, are you twenty?",
             "translation": "هوم، بیست ساله هستی؟"
         },
         {
-            "order": 10,
+            "order": 18,
             "person": 1,
             "text": "No, I turn twenty-one in April.",
             "translation": "نه، در آوریل بیست‌ویک ساله می‌شوم."
         },
         {
-            "order": 11,
+            "order": 19,
             "person": 2,
             "text": "Happy early birthday, then!",
             "translation": "پس تولدت از حالا مبارک!"
