@@ -17,7 +17,16 @@
         "life",
         "true",
         "farmer",
-        "farm"
+        "farm",
+        "patients",
+        "career",
+        "serve",
+        "smart",
+        "lab",
+        "useful",
+        "pilot",
+        "chef",
+        "earn"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -31,8 +40,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "I'm a nurse. I work at a hospital.",
-            "translation": "من پرستارم. در یک بیمارستان کار می‌کنم."
+            "text": "I'm a nurse. I work at a hospital and care for sick patients.",
+            "translation": "من پرستارم. در یک بیمارستان کار می‌کنم و از بیماران مریض مراقبت می‌کنم."
         },
         {
             "order": 2,
@@ -43,8 +52,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Yes, I love to help people. And you?",
-            "translation": "بله، عاشق کمک به مردم هستم. تو چطور؟"
+            "text": "Yes, I love to help people. It is a good career. And you?",
+            "translation": "بله، عاشق کمک به مردم هستم. حرفه خوبی است. تو چطور؟"
         },
         {
             "order": 4,
@@ -67,14 +76,14 @@
         {
             "order": 7,
             "person": 2,
-            "text": "My sister is a waitress. My uncle is a farmer. He works on a farm.",
-            "translation": "خواهرم پیشخدمت است. عمویم کشاورز است. او در یک مزرعه کار می‌کند."
+            "text": "My sister is a waitress at a cafe; she serves food to people. My uncle is a farmer who works on a farm.",
+            "translation": "خواهرم در یک کافه پیشخدمت است؛ او به مردم غذا سرو می‌کند. عمویم کشاورزی است که در یک مزرعه کار می‌کند."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "My brother is a scientist.",
-            "translation": "برادرم دانشمند است."
+            "text": "My brother is a scientist. He is very smart.",
+            "translation": "برادرم دانشمند است. او خیلی باهوش است."
         },
         {
             "order": 9,
@@ -85,20 +94,38 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Yes, he works in a big lab.",
-            "translation": "بله، در یک آزمایشگاه بزرگ کار می‌کند."
+            "text": "Yes, he works in a big lab. His work is very useful.",
+            "translation": "بله، در یک آزمایشگاه بزرگ کار می‌کند. کارش خیلی مفید است."
         },
         {
             "order": 11,
+            "person": 2,
+            "text": "My cousin is a pilot. He flies big planes.",
+            "translation": "پسرعمویم خلبان است. او هواپیماهای بزرگ می‌راند."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "And my aunt is a chef. She cooks in a restaurant.",
+            "translation": "و خاله‌ام سرآشپز است. او در یک رستوران آشپزی می‌کند."
+        },
+        {
+            "order": 13,
             "person": 2,
             "text": "Our family has many different jobs!",
             "translation": "خانواده ما شغل‌های مختلف زیادی دارد!"
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 1,
-            "text": "That's true. Work is a big part of life.",
-            "translation": "درست است. کار بخش بزرگی از زندگی است."
+            "text": "That's true. A good job helps you earn money.",
+            "translation": "درست است. یک شغل خوب کمک می‌کند پول در بیاوری."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "Work is a big part of life.",
+            "translation": "کار بخش بزرگی از زندگی است."
         }
     ]
 }
