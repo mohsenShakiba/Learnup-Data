@@ -9,7 +9,19 @@
         "cup",
         "building",
         "anytime",
-        "glad"
+        "glad",
+        "upstairs",
+        "downstairs",
+        "hallway",
+        "kids",
+        "pet",
+        "dog",
+        "cat",
+        "doorbell",
+        "spare",
+        "plant",
+        "housewarming",
+        "greet"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -41,44 +53,74 @@
         {
             "order": 4,
             "person": 1,
-            "text": "It's a nice, quiet building.",
-            "translation": "ساختمان خوب و آرامی است."
+            "text": "So you're just upstairs. I'm downstairs on the second floor.",
+            "translation": "پس شما درست طبقه بالا هستید. من طبقه پایین، طبقه دوم هستم."
         },
         {
             "order": 5,
             "person": 2,
-            "text": "Good. We don't like noise.",
-            "translation": "خوب است. ما سر و صدا را دوست نداریم."
+            "text": "Yes! We share the same hallway.",
+            "translation": "بله! راهروی مشترک داریم."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "If you need anything, just ask.",
-            "translation": "اگر چیزی لازم داشتید، فقط بگویید."
+            "text": "It's a nice, quiet building. Do you have any kids or pets?",
+            "translation": "ساختمان خوب و آرامی است. بچه یا حیوان خانگی دارید؟"
         },
         {
             "order": 7,
+            "person": 2,
+            "text": "Yes, two kids, a small dog, and a cat. I hope the noise is okay.",
+            "translation": "بله، دو بچه، یک سگ کوچک و یک گربه. امیدوارم سر و صدا مشکلی نباشد."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "That's fine. If you need anything, just ring my doorbell.",
+            "translation": "اشکالی ندارد. اگر چیزی لازم داشتید، فقط زنگ در من را بزنید."
+        },
+        {
+            "order": 9,
             "person": 2,
             "text": "Thank you. That's very kind.",
             "translation": "ممنون. خیلی لطف دارید."
         },
         {
-            "order": 8,
-            "person": 1,
-            "text": "You can borrow a cup anytime.",
-            "translation": "هر وقت خواستید می‌توانید یک فنجان قرض بگیرید."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Maybe we can have coffee sometime.",
-            "translation": "شاید بتوانیم یک وقتی قهوه بخوریم."
-        },
-        {
             "order": 10,
             "person": 1,
-            "text": "I'd love that. Glad to meet you, Mark.",
-            "translation": "خیلی دوست دارم. از آشنایی با شما خوشحالم، مارک."
+            "text": "You can borrow a cup or a spare key anytime.",
+            "translation": "هر وقت خواستید می‌توانید یک فنجان یا یک کلید یدکی قرض بگیرید."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Great. Maybe we can have coffee sometime.",
+            "translation": "عالی. شاید بتوانیم یک وقتی قهوه بخوریم."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "I'd love that. I'll bring a plant for your new home.",
+            "translation": "خیلی دوست دارم. یک گلدان برای خانه‌ی جدیدتان می‌آورم."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "How nice! We should have a small housewarming party.",
+            "translation": "چه خوب! باید یک جشن کوچک خانه‌ی نو بگیریم."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Perfect. I'll greet the other neighbors for you too.",
+            "translation": "عالی. من همسایه‌های دیگر را هم به شما معرفی می‌کنم."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "Glad to meet you, Sara.",
+            "translation": "از آشنایی با شما خوشحالم، سارا."
         }
     ]
 }

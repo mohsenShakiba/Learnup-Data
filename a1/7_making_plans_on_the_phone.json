@@ -12,7 +12,17 @@
     "cinema",
     "late",
     "Thursday",
-    "Friday"
+    "Friday",
+    "text",
+    "ring",
+    "Sunday",
+    "funny",
+    "before",
+    "seats",
+    "agree",
+    "popcorn",
+    "after",
+    "bye"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -20,14 +30,14 @@
     {
       "order": 0,
       "person": 1,
-      "text": "Hi Jack, it's Nora.",
-      "translation": "سلام جک، نورا هستم."
+      "text": "Hi Jack, it's Nora. I sent you a text but got no answer.",
+      "translation": "سلام جک، نورا هستم. برایت پیام فرستادم اما جوابی نگرفتم."
     },
     {
       "order": 1,
       "person": 2,
-      "text": "Hi Nora! I'm glad you called.",
-      "translation": "سلام نورا! خوشحالم که زنگ زدی."
+      "text": "Sorry, my phone didn't ring. I'm glad you called now.",
+      "translation": "ببخشید، گوشی‌ام زنگ نخورد. خوشحالم که حالا زنگ زدی."
     },
     {
       "order": 2,
@@ -38,14 +48,14 @@
     {
       "order": 3,
       "person": 2,
-      "text": "I'm busy on Thursday and Friday, but I'm free on Saturday.",
-      "translation": "پنجشنبه و جمعه سرم شلوغ است، اما شنبه آزادم."
+      "text": "I'm busy on Thursday and Friday, but I'm free on Saturday and Sunday.",
+      "translation": "پنجشنبه و جمعه سرم شلوغ است، اما شنبه و یکشنبه آزادم."
     },
     {
       "order": 4,
       "person": 1,
-      "text": "Do you want to see a movie?",
-      "translation": "می‌خواهی فیلم ببینیم؟"
+      "text": "Do you want to see a movie? I heard it's very funny.",
+      "translation": "می‌خواهی فیلم ببینیم؟ شنیدم خیلی خنده‌دار است."
     },
     {
       "order": 5,
@@ -62,29 +72,41 @@
     {
       "order": 7,
       "person": 2,
-      "text": "Seven is good for me.",
-      "translation": "هفت برای من خوبه."
+      "text": "Seven is good for me. Should we buy the tickets before Saturday?",
+      "translation": "هفت برای من خوبه. بلیت‌ها را قبل از شنبه بخریم؟"
     },
     {
       "order": 8,
+      "person": 1,
+      "text": "Yes, let's book good seats now.",
+      "translation": "بله، همین حالا صندلی‌های خوب رزرو کنیم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "I agree. And we can get popcorn there.",
+      "translation": "موافقم. آنجا هم می‌توانیم پاپ‌کورن بگیریم."
+    },
+    {
+      "order": 10,
       "person": 1,
       "text": "Let's meet at the cinema.",
       "translation": "بیا جلوی سینما همدیگر را ببینیم."
     },
     {
-      "order": 9,
+      "order": 11,
       "person": 2,
       "text": "Sure. See you on Saturday.",
       "translation": "حتماً. شنبه می‌بینمت."
     },
     {
-      "order": 10,
+      "order": 12,
       "person": 1,
-      "text": "Great. Don't be late!",
-      "translation": "عالی. دیر نکن!"
+      "text": "Great. Don't be late! We can eat after the movie too.",
+      "translation": "عالی. دیر نکن! بعد از فیلم هم می‌توانیم غذا بخوریم."
     },
     {
-      "order": 11,
+      "order": 13,
       "person": 2,
       "text": "I won't. Bye, Nora.",
       "translation": "دیر نمی‌کنم. خداحافظ، نورا."

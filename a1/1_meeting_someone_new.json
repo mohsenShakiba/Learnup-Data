@@ -15,7 +15,16 @@
         "people",
         "great",
         "later",
-        "last name"
+        "last name",
+        "hello",
+        "shy",
+        "everyone",
+        "friendly",
+        "student",
+        "team",
+        "invite",
+        "together",
+        "chat"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -29,7 +38,7 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Hi Anna. I'm Tom. Nice to meet you.",
+            "text": "Hello Anna. I'm Tom. Nice to meet you.",
             "translation": "سلام آنا. من تام هستم. از آشنایی با تو خوشحالم."
         },
         {
@@ -41,50 +50,74 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Yes, this is my first day.",
-            "translation": "بله، امروز روز اول من است."
+            "text": "Yes, this is my first day. I'm a little shy.",
+            "translation": "بله، امروز روز اول من است. کمی خجالتی هستم."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "Welcome! Where are you from?",
-            "translation": "خوش آمدی! اهل کجایی؟"
+            "text": "Don't worry. Everyone here is very friendly.",
+            "translation": "نگران نباش. همه اینجا خیلی صمیمی هستند."
         },
         {
             "order": 5,
             "person": 2,
-            "text": "I'm from Spain. And you?",
-            "translation": "من اهل اسپانیا هستم. تو چطور؟"
+            "text": "That's good to hear. Where are you from?",
+            "translation": "خوشحالم که این را می‌شنوم. اهل کجایی؟"
         },
         {
             "order": 6,
             "person": 1,
-            "text": "I'm from Canada.",
-            "translation": "من اهل کانادا هستم."
+            "text": "I'm from Canada. And you?",
+            "translation": "من اهل کانادا هستم. تو چطور؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "Nice. Do you like it here?",
-            "translation": "خوبه. اینجا را دوست داری؟"
+            "text": "I'm from Spain. I was a student there.",
+            "translation": "من اهل اسپانیا هستم. آنجا دانشجو بودم."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Yes, I do. People here are nice.",
-            "translation": "بله، دوست دارم. مردم اینجا خوب هستند."
+            "text": "Nice! We are on the same team now.",
+            "translation": "چه خوب! حالا ما در یک تیم هستیم."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "Great. See you later, Anna.",
-            "translation": "عالیه. بعداً می‌بینمت، آنا."
+            "text": "Great. I like the people here already.",
+            "translation": "عالیه. از همین حالا مردم اینجا را دوست دارم."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "See you later, Tom.",
-            "translation": "بعداً می‌بینمت، تام."
+            "text": "Let me invite you to lunch with us.",
+            "translation": "بگذار تو را به ناهار با ما دعوت کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thank you. I'd love to eat together.",
+            "translation": "ممنون. دوست دارم با هم غذا بخوریم."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "We can chat more at the table.",
+            "translation": "می‌توانیم سر میز بیشتر گپ بزنیم."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Sounds good. See you later, Anna.",
+            "translation": "خوب به نظر می‌رسد. بعداً می‌بینمت، آنا."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "See you later, Tom. Welcome to the team!",
+            "translation": "بعداً می‌بینمت، تام. به تیم خوش آمدی!"
         }
     ]
 }

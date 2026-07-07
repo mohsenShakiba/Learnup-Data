@@ -18,7 +18,11 @@
         "bath",
         "living room",
         "sofa",
-        "chair"
+        "chair",
+        "furniture",
+        "balcony",
+        "garden",
+        "landlord"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -80,41 +84,53 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Yes, a small dining room and a living room with a sofa and chairs.",
-            "translation": "بله، یک اتاق غذاخوری کوچک و یک اتاق نشیمن با مبل و صندلی."
+            "text": "Yes, a small dining room and a living room with furniture like a sofa and chairs.",
+            "translation": "بله، یک اتاق غذاخوری کوچک و یک اتاق نشیمن با مبلمان مثل مبل و صندلی."
         },
         {
             "order": 10,
+            "person": 1,
+            "text": "Does it have any outside space?",
+            "translation": "فضای بیرونی دارد؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Yes, a balcony and a small garden.",
+            "translation": "بله، یک بالکن و یک باغچه‌ی کوچک."
+        },
+        {
+            "order": 12,
             "person": 1,
             "text": "Is the area quiet?",
             "translation": "منطقه آرام است؟"
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 2,
             "text": "Yes, it's very quiet and near the park.",
             "translation": "بله، خیلی آرام است و نزدیک پارک است."
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 1,
             "text": "When can I move in?",
             "translation": "کی می‌توانم اسباب‌کشی کنم؟"
         },
         {
-            "order": 13,
+            "order": 15,
             "person": 2,
-            "text": "Next month. You need to pay a deposit first.",
-            "translation": "ماه بعد. اول باید ودیعه بدهید."
+            "text": "Next month. You pay a deposit to me, the landlord, first.",
+            "translation": "ماه بعد. اول ودیعه را به من، صاحب‌خانه، می‌دهید."
         },
         {
-            "order": 14,
+            "order": 16,
             "person": 1,
             "text": "Okay. Can I see it tomorrow?",
             "translation": "باشه. می‌توانم فردا ببینمش؟"
         },
         {
-            "order": 15,
+            "order": 17,
             "person": 2,
             "text": "Of course. See you then.",
             "translation": "البته. پس می‌بینمتان."

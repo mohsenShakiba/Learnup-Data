@@ -18,7 +18,12 @@
         "pocket",
         "hat",
         "pair",
-        "shoe"
+        "shoe",
+        "cotton",
+        "belt",
+        "scarf",
+        "sock",
+        "dress"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -62,8 +67,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Here is a blue shirt in a medium.",
-            "translation": "این هم یک پیراهن آبی سایز متوسط."
+            "text": "Here is a blue shirt in a medium. It is soft cotton.",
+            "translation": "این هم یک پیراهن آبی سایز متوسط. از پنبه‌ی نرم است."
         },
         {
             "order": 7,
@@ -116,23 +121,53 @@
         {
             "order": 15,
             "person": 2,
-            "text": "Nice. I'll also take a hat and a pair of shoes.",
-            "translation": "خوب است. یک کلاه و یک جفت کفش هم برمی‌دارم."
+            "text": "Nice. I'll also take a hat, a belt, and a pair of shoes.",
+            "translation": "خوب است. یک کلاه، یک کمربند و یک جفت کفش هم برمی‌دارم."
         },
         {
             "order": 16,
+            "person": 1,
+            "text": "We also have warm scarves and socks.",
+            "translation": "شال‌گردن و جوراب گرم هم داریم."
+        },
+        {
+            "order": 17,
+            "person": 2,
+            "text": "Good idea. Add a scarf and some socks, please.",
+            "translation": "فکر خوبی است. یک شال‌گردن و چند جوراب هم اضافه کنید، لطفاً."
+        },
+        {
+            "order": 18,
+            "person": 2,
+            "text": "Do you also sell dresses?",
+            "translation": "لباس زنانه هم می‌فروشید؟"
+        },
+        {
+            "order": 19,
+            "person": 1,
+            "text": "Yes, the dresses are next to the coats.",
+            "translation": "بله، لباس‌های زنانه کنار پالتوها هستند."
+        },
+        {
+            "order": 20,
+            "person": 2,
+            "text": "Maybe next time. That's all for today.",
+            "translation": "شاید دفعه‌ی بعد. برای امروز همین کافی است."
+        },
+        {
+            "order": 21,
             "person": 1,
             "text": "How do you want to pay?",
             "translation": "چطور می‌خواهید پرداخت کنید؟"
         },
         {
-            "order": 17,
+            "order": 22,
             "person": 2,
             "text": "With cash, please.",
             "translation": "با پول نقد، لطفاً."
         },
         {
-            "order": 18,
+            "order": 23,
             "person": 1,
             "text": "Thank you. Have a great day!",
             "translation": "ممنون. روز خوبی داشته باشید!"

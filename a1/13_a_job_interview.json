@@ -13,7 +13,15 @@
         "week",
         "worker",
         "email",
-        "college"
+        "college",
+        "resume",
+        "experience",
+        "skill",
+        "task",
+        "staff",
+        "uniform",
+        "salary",
+        "manager"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -33,8 +41,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "So, why do you want this job?",
-            "translation": "خب، چرا این شغل را می‌خواهید؟"
+            "text": "I have your resume here. Why do you want this job?",
+            "translation": "رزومه‌تان اینجاست. چرا این شغل را می‌خواهید؟"
         },
         {
             "order": 3,
@@ -51,53 +59,71 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Yes, I worked in a shop for two years.",
-            "translation": "بله، دو سال در یک مغازه کار کردم."
+            "text": "Yes, I worked in a shop for two years. I have good experience.",
+            "translation": "بله، دو سال در یک مغازه کار کردم. تجربه‌ی خوبی دارم."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Good. Can you work on weekends?",
-            "translation": "خوب است. می‌توانید آخر هفته‌ها کار کنید؟"
+            "text": "What skills do you have?",
+            "translation": "چه مهارت‌هایی دارید؟"
         },
         {
             "order": 7,
+            "person": 2,
+            "text": "I work fast and I am good with people. Every task is easy for me.",
+            "translation": "سریع کار می‌کنم و با مردم خوب هستم. هر کاری برایم آسان است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Good. Can you work on weekends with the rest of the staff?",
+            "translation": "خوب است. می‌توانید آخر هفته‌ها با بقیه‌ی کارکنان کار کنید؟"
+        },
+        {
+            "order": 9,
             "person": 2,
             "text": "Yes, I can. I am a hard worker.",
             "translation": "بله، می‌توانم. من کارگر سخت‌کوشی هستم."
         },
         {
-            "order": 8,
-            "person": 1,
-            "text": "The hours are nine to five.",
-            "translation": "ساعت کار از نه تا پنج است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "That works for me.",
-            "translation": "برای من مناسب است."
-        },
-        {
             "order": 10,
+            "person": 1,
+            "text": "The hours are nine to five, and you will wear a uniform.",
+            "translation": "ساعت کار از نه تا پنج است و لباس فرم می‌پوشید."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That works for me. What is the salary?",
+            "translation": "برای من مناسب است. حقوق چقدر است؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "The salary is fair. Your manager will explain more.",
+            "translation": "حقوق منصفانه است. مدیرتان بیشتر توضیح می‌دهد."
+        },
+        {
+            "order": 13,
             "person": 1,
             "text": "Do you have any questions?",
             "translation": "سؤالی دارید؟"
         },
         {
-            "order": 11,
+            "order": 14,
             "person": 2,
             "text": "Yes. When can I start?",
             "translation": "بله. کی می‌توانم شروع کنم؟"
         },
         {
-            "order": 12,
+            "order": 15,
             "person": 1,
             "text": "We'll call or email you next week.",
             "translation": "هفته بعد به شما زنگ می‌زنیم یا ایمیل می‌فرستیم."
         },
         {
-            "order": 13,
+            "order": 16,
             "person": 2,
             "text": "Thank you for your time.",
             "translation": "ممنون از وقتتان."

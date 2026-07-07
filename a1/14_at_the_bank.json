@@ -7,7 +7,22 @@
         "form",
         "put",
         "money",
-        "ATM"
+        "ATM",
+        "teller",
+        "savings",
+        "save",
+        "wallet",
+        "amount",
+        "coin",
+        "debit",
+        "credit",
+        "pin",
+        "safe",
+        "withdraw",
+        "branch",
+        "balance",
+        "transfer",
+        "loan"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -15,14 +30,14 @@
         {
             "order": 0,
             "person": 1,
-            "text": "Good morning. Welcome to the bank. How can I help you?",
-            "translation": "صبح بخیر. به بانک خوش آمدید. چطور می‌توانم کمکتان کنم؟"
+            "text": "Good morning. Welcome to the bank. I am the teller. How can I help you?",
+            "translation": "صبح بخیر. به بانک خوش آمدید. من صندوق‌دار هستم. چطور می‌توانم کمکتان کنم؟"
         },
         {
             "order": 1,
             "person": 2,
-            "text": "I'd like to open an account.",
-            "translation": "می‌خواهم یک حساب باز کنم."
+            "text": "I'd like to open a savings account to save some money.",
+            "translation": "می‌خواهم یک حساب پس‌انداز باز کنم تا کمی پول پس‌انداز کنم."
         },
         {
             "order": 2,
@@ -33,8 +48,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Yes, here it is.",
-            "translation": "بله، بفرمایید."
+            "text": "Yes, it's here in my wallet.",
+            "translation": "بله، اینجا توی کیف پولم است."
         },
         {
             "order": 4,
@@ -51,41 +66,77 @@
         {
             "order": 6,
             "person": 1,
-            "text": "How much do you want to put in?",
-            "translation": "چقدر می‌خواهید بگذارید؟"
+            "text": "How much do you want to put in? What amount?",
+            "translation": "چقدر می‌خواهید بگذارید؟ چه مبلغی؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "One hundred dollars.",
-            "translation": "صد دلار."
+            "text": "One hundred dollars and some coins.",
+            "translation": "صد دلار و چند سکه."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Thank you. Here is your new card.",
-            "translation": "ممنون. این هم کارت جدید شما."
+            "text": "Thank you. Do you want a debit or a credit card?",
+            "translation": "ممنون. کارت نقدی می‌خواهید یا اعتباری؟"
         },
         {
             "order": 9,
+            "person": 2,
+            "text": "A debit card, please.",
+            "translation": "کارت نقدی، لطفاً."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Here is your card. Your PIN is on this paper. Keep it safe.",
+            "translation": "این هم کارت شما. رمزتان روی این کاغذ است. آن را جای امن نگه دارید."
+        },
+        {
+            "order": 11,
             "person": 2,
             "text": "Can I get money with this card?",
             "translation": "می‌توانم با این کارت پول بگیرم؟"
         },
         {
-            "order": 10,
-            "person": 1,
-            "text": "Yes, at any ATM.",
-            "translation": "بله، از هر خودپردازی."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Great. Thank you for your help.",
-            "translation": "عالی. ممنون از کمکتان."
-        },
-        {
             "order": 12,
+            "person": 1,
+            "text": "Yes. You can withdraw cash at any ATM or branch.",
+            "translation": "بله. می‌توانید از هر خودپرداز یا شعبه‌ای پول برداشت کنید."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Can I check my balance there too?",
+            "translation": "می‌توانم موجودی‌ام را هم آنجا ببینم؟"
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Yes, and you can transfer money to friends.",
+            "translation": "بله، و می‌توانید به دوستانتان پول انتقال دهید."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "Great. Later I may ask about a loan for a car.",
+            "translation": "عالی. بعداً شاید درباره‌ی وام برای خرید ماشین بپرسم."
+        },
+        {
+            "order": 16,
+            "person": 1,
+            "text": "Of course. Your money is safe with us.",
+            "translation": "البته. پول شما پیش ما امن است."
+        },
+        {
+            "order": 17,
+            "person": 2,
+            "text": "Thank you for your help.",
+            "translation": "ممنون از کمکتان."
+        },
+        {
+            "order": 18,
             "person": 1,
             "text": "You're welcome. Have a good day!",
             "translation": "خواهش می‌کنم. روز خوبی داشته باشید!"

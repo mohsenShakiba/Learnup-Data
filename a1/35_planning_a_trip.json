@@ -12,7 +12,16 @@
     "sea",
     "vacation",
     "sun",
-    "clothes"
+    "clothes",
+    "tent",
+    "sail",
+    "boat",
+    "swimsuit",
+    "sunglasses",
+    "sand",
+    "tan",
+    "shell",
+    "holiday"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -44,14 +53,14 @@
     {
       "order": 4,
       "person": 1,
-      "text": "Should we book a hotel?",
-      "translation": "هتل رزرو کنیم؟"
+      "text": "Should we book a hotel or bring a tent?",
+      "translation": "هتل رزرو کنیم یا یک چادر بیاوریم؟"
     },
     {
       "order": 5,
       "person": 2,
-      "text": "Yes, I'll book one near the sea.",
-      "translation": "بله، یکی نزدیک دریا رزرو می‌کنم."
+      "text": "Yes, I'll book one near the sea. We can also sail on a boat.",
+      "translation": "بله، یکی نزدیک دریا رزرو می‌کنم. می‌توانیم با قایق هم قایق‌سواری کنیم."
     },
     {
       "order": 6,
@@ -74,17 +83,29 @@
     {
       "order": 9,
       "person": 2,
-      "text": "Just clothes, towels, and sunglasses.",
-      "translation": "فقط لباس، حوله و عینک آفتابی."
+      "text": "Just clothes, a swimsuit, sunglasses, and towels.",
+      "translation": "فقط لباس، مایو، عینک آفتابی و حوله."
     },
     {
       "order": 10,
       "person": 1,
-      "text": "I'm so excited! It will be a great vacation in the sun.",
-      "translation": "خیلی هیجان‌زده‌ام! تعطیلات فوق‌العاده‌ای زیر آفتاب خواهد بود."
+      "text": "I'm so excited! We can lie on the sand and get a tan.",
+      "translation": "خیلی هیجان‌زده‌ام! می‌توانیم روی شن دراز بکشیم و برنزه شویم."
     },
     {
       "order": 11,
+      "person": 2,
+      "text": "And collect pretty shells by the water.",
+      "translation": "و صدف‌های قشنگ کنار آب جمع کنیم."
+    },
+    {
+      "order": 12,
+      "person": 1,
+      "text": "It will be a great vacation in the sun. A perfect holiday!",
+      "translation": "تعطیلات فوق‌العاده‌ای زیر آفتاب خواهد بود. یک تعطیلات عالی!"
+    },
+    {
+      "order": 13,
       "person": 2,
       "text": "Me too. Let's get ready.",
       "translation": "من هم همینطور. بیا آماده شویم."

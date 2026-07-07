@@ -1,11 +1,27 @@
 {
   "title": "16 - At the Pharmacy",
-  "description": "گرفتن دارو برای سرفه از داروخانه.",
+  "description": "گرفتن دارو برای سرفه و سرماخوردگی از داروخانه.",
   "words": [
     "cough",
     "fever",
     "pill",
-    "twice"
+    "twice",
+    "sore",
+    "sneeze",
+    "headache",
+    "runny",
+    "syrup",
+    "painkiller",
+    "dose",
+    "prescription",
+    "vitamin",
+    "tablet",
+    "tissue",
+    "mask",
+    "cream",
+    "bandage",
+    "drops",
+    "pharmacy"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -13,8 +29,8 @@
     {
       "order": 0,
       "person": 1,
-      "text": "Hi, I have a bad cough.",
-      "translation": "سلام، سرفه بدی دارم."
+      "text": "Hi, I have a bad cough and a sore throat.",
+      "translation": "سلام، سرفه‌ی بدی دارم و گلویم درد می‌کند."
     },
     {
       "order": 1,
@@ -25,8 +41,8 @@
     {
       "order": 2,
       "person": 1,
-      "text": "Three days.",
-      "translation": "سه روز."
+      "text": "Three days. I also sneeze a lot and have a headache.",
+      "translation": "سه روز. زیاد هم عطسه می‌کنم و سردرد دارم."
     },
     {
       "order": 3,
@@ -37,14 +53,14 @@
     {
       "order": 4,
       "person": 1,
-      "text": "No, just a cough.",
-      "translation": "نه، فقط سرفه."
+      "text": "No, just a cough and a runny nose.",
+      "translation": "نه، فقط سرفه و آبریزش بینی."
     },
     {
       "order": 5,
       "person": 2,
-      "text": "This medicine can help.",
-      "translation": "این دارو می‌تواند کمک کند."
+      "text": "This cough syrup will help. For the headache, take one painkiller pill twice a day.",
+      "translation": "این شربت سرفه کمک می‌کند. برای سردرد، روزی دو بار یک قرص مسکن مصرف کنید."
     },
     {
       "order": 6,
@@ -55,29 +71,53 @@
     {
       "order": 7,
       "person": 2,
-      "text": "Take one pill twice a day.",
-      "translation": "روزی دو بار یک قرص مصرف کنید."
+      "text": "One dose in the morning and one at night, after food.",
+      "translation": "یک وعده صبح و یک وعده شب، بعد از غذا."
     },
     {
       "order": 8,
       "person": 1,
-      "text": "Before or after food?",
-      "translation": "قبل از غذا یا بعد از غذا مصرف کنم؟"
+      "text": "Do I need a prescription?",
+      "translation": "نسخه لازم دارم؟"
     },
     {
       "order": 9,
       "person": 2,
-      "text": "After food, with water.",
-      "translation": "بعد از غذا، با آب."
+      "text": "No. Here is a bottle of vitamin tablets too; they are good for you.",
+      "translation": "نه. این هم یک شیشه قرص ویتامین؛ برایتان خوب است."
     },
     {
       "order": 10,
+      "person": 1,
+      "text": "Great. Do you sell tissues and a mask?",
+      "translation": "عالی. دستمال کاغذی و ماسک می‌فروشید؟"
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Yes. And here is some cream for your skin, a bandage, and nose drops.",
+      "translation": "بله. و این هم کمی کرم برای پوستتان، یک چسب زخم و قطره‌ی بینی."
+    },
+    {
+      "order": 12,
+      "person": 1,
+      "text": "Thank you. Where do I pay?",
+      "translation": "ممنون. کجا پرداخت کنم؟"
+    },
+    {
+      "order": 13,
+      "person": 2,
+      "text": "At the front of the pharmacy.",
+      "translation": "جلوی داروخانه."
+    },
+    {
+      "order": 14,
       "person": 1,
       "text": "Okay. Thank you.",
       "translation": "باشه. ممنون."
     },
     {
-      "order": 11,
+      "order": 15,
       "person": 2,
       "text": "Feel better soon!",
       "translation": "امیدوارم زودتر بهتر شوید!"

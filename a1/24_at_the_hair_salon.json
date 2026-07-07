@@ -11,7 +11,17 @@
         "mirror",
         "back",
         "front",
-        "tip"
+        "tip",
+        "salon",
+        "trim",
+        "beard",
+        "shampoo",
+        "curly",
+        "comb",
+        "scissors",
+        "shave",
+        "gel",
+        "spray"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -25,8 +35,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "Welcome. Please sit here.",
-            "translation": "خوش آمدید. لطفاً اینجا بنشینید."
+            "text": "Welcome to the salon. Please sit here.",
+            "translation": "به آرایشگاه خوش آمدید. لطفاً اینجا بنشینید."
         },
         {
             "order": 2,
@@ -37,14 +47,14 @@
         {
             "order": 3,
             "person": 1,
-            "text": "Just a little shorter, please.",
-            "translation": "فقط کمی کوتاه‌تر، لطفاً."
+            "text": "Just a little shorter, please. Can you trim my beard too?",
+            "translation": "فقط کمی کوتاه‌تر، لطفاً. می‌توانید ریشم را هم مرتب کنید؟"
         },
         {
             "order": 4,
             "person": 2,
-            "text": "Okay. Do you want a wash first?",
-            "translation": "باشه. اول می‌خواهید بشورمش؟"
+            "text": "Of course. Do you want a wash first? I'll use shampoo.",
+            "translation": "البته. اول می‌خواهید بشورمش؟ از شامپو استفاده می‌کنم."
         },
         {
             "order": 5,
@@ -61,35 +71,47 @@
         {
             "order": 7,
             "person": 1,
-            "text": "Keep the front long, please.",
-            "translation": "جلو را بلند نگه دارید، لطفاً."
+            "text": "Keep the front long, please. My hair is a bit curly.",
+            "translation": "جلو را بلند نگه دارید، لطفاً. موهایم کمی فرفری است."
         },
         {
             "order": 8,
             "person": 2,
-            "text": "Do you want any color today?",
-            "translation": "امروز رنگ هم می‌خواهید؟"
+            "text": "No problem. I'll use my comb and scissors.",
+            "translation": "مشکلی نیست. از شانه و قیچی‌ام استفاده می‌کنم."
         },
         {
             "order": 9,
             "person": 1,
-            "text": "No, thank you. Just the cut.",
-            "translation": "نه، ممنون. فقط کوتاهی."
+            "text": "Can you also shave the sides?",
+            "translation": "می‌توانید کناره‌ها را هم بتراشید؟"
         },
         {
             "order": 10,
+            "person": 2,
+            "text": "Sure. Do you want any color or gel today?",
+            "translation": "حتماً. امروز رنگ یا ژل می‌خواهید؟"
+        },
+        {
+            "order": 11,
+            "person": 1,
+            "text": "Just a little gel and some spray, please.",
+            "translation": "فقط کمی ژل و کمی اسپری، لطفاً."
+        },
+        {
+            "order": 12,
             "person": 2,
             "text": "All done. Your hair is ready. Look in the mirror.",
             "translation": "تمام شد. موهایتان آماده است. به آینه نگاه کنید."
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 1,
             "text": "It looks great. Thank you so much. Here is a tip.",
             "translation": "خیلی خوب شده. خیلی ممنون. این هم انعام."
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 2,
             "text": "Thank you! Please come again.",
             "translation": "ممنون! لطفاً باز هم تشریف بیاورید."

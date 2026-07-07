@@ -14,7 +14,14 @@
         "floor",
         "elevator",
         "stay",
-        "shower"
+        "shower",
+        "reservation",
+        "towel",
+        "view",
+        "comfortable",
+        "guest",
+        "reception",
+        "lobby"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -46,7 +53,7 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Yes, I see your booking for two nights.",
+            "text": "Yes, I see your reservation for two nights.",
             "translation": "بله، رزرو شما برای دو شب ثبت شده است."
         },
         {
@@ -88,23 +95,53 @@
         {
             "order": 11,
             "person": 1,
-            "text": "Here is your key. Room 204, second floor.",
-            "translation": "این هم کلید شما. اتاق ۲۰۴، طبقه دوم."
+            "text": "The room also has fresh towels and a nice view of the city.",
+            "translation": "اتاق حوله‌های تمیز و منظره‌ی خوبی از شهر هم دارد."
         },
         {
             "order": 12,
             "person": 2,
-            "text": "Thank you. Where is the elevator?",
-            "translation": "ممنون. آسانسور کجاست؟"
+            "text": "Is the bed comfortable?",
+            "translation": "تخت راحت است؟"
         },
         {
             "order": 13,
+            "person": 1,
+            "text": "Very comfortable. Our guests love it.",
+            "translation": "خیلی راحت است. مهمان‌های ما عاشقش هستند."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Here is your key. Room 204, second floor.",
+            "translation": "این هم کلید شما. اتاق ۲۰۴، طبقه دوم."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "Thank you. Can someone help with my bags?",
+            "translation": "ممنون. کسی می‌تواند با چمدان‌هایم کمک کند؟"
+        },
+        {
+            "order": 16,
+            "person": 1,
+            "text": "Yes, a worker will bring it up. The reception is here in the lobby if you need anything.",
+            "translation": "بله، یک کارمند آن را بالا می‌آورد. اگر چیزی لازم داشتید، پذیرش همین‌جا در لابی است."
+        },
+        {
+            "order": 17,
+            "person": 2,
+            "text": "Where is the elevator?",
+            "translation": "آسانسور کجاست؟"
+        },
+        {
+            "order": 18,
             "person": 1,
             "text": "It's on your left. Enjoy your stay!",
             "translation": "سمت چپ شماست. از اقامتتان لذت ببرید!"
         },
         {
-            "order": 14,
+            "order": 19,
             "person": 2,
             "text": "Thank you very much.",
             "translation": "خیلی ممنون."

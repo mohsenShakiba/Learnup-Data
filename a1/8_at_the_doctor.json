@@ -18,7 +18,12 @@
     "ear",
     "nose",
     "health",
-    "care"
+    "care",
+    "clinic",
+    "temperature",
+    "weak",
+    "stomach",
+    "well"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -26,8 +31,8 @@
     {
       "order": 0,
       "person": 1,
-      "text": "Hello. What's wrong?",
-      "translation": "سلام. مشکلتان چیست؟"
+      "text": "Hello. Welcome to the clinic. What's wrong?",
+      "translation": "سلام. به درمانگاه خوش آمدید. مشکلتان چیست؟"
     },
     {
       "order": 1,
@@ -38,14 +43,14 @@
     {
       "order": 2,
       "person": 1,
-      "text": "Do you have a fever?",
-      "translation": "تب دارید؟"
+      "text": "Do you have a fever? Let me check your temperature.",
+      "translation": "تب دارید؟ بگذارید دمای بدنتان را اندازه بگیرم."
     },
     {
       "order": 3,
       "person": 2,
-      "text": "Yes, since yesterday.",
-      "translation": "بله، از دیروز دارم."
+      "text": "Yes, since yesterday. I feel weak too.",
+      "translation": "بله، از دیروز دارم. احساس ضعف هم می‌کنم."
     },
     {
       "order": 4,
@@ -56,8 +61,8 @@
     {
       "order": 5,
       "person": 2,
-      "text": "A little. My eyes feel tired too.",
-      "translation": "کمی. چشم‌هایم هم خسته‌اند."
+      "text": "A little. My eyes feel tired, and my stomach hurts a bit too.",
+      "translation": "کمی. چشم‌هایم خسته‌اند و معده‌ام هم کمی درد می‌کند."
     },
     {
       "order": 6,

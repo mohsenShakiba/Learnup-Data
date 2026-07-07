@@ -15,7 +15,15 @@
         "bill",
         "evening",
         "glass",
-        "meal"
+        "meal",
+        "waiter",
+        "soup",
+        "fish",
+        "meat",
+        "fork",
+        "knife",
+        "napkin",
+        "dessert"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -23,8 +31,8 @@
         {
             "order": 0,
             "person": 1,
-            "text": "Good evening. A table for two?",
-            "translation": "عصر بخیر. میز برای دو نفر؟"
+            "text": "Good evening. I am your waiter tonight. A table for two?",
+            "translation": "عصر بخیر. من امشب پیشخدمت شما هستم. میز برای دو نفر؟"
         },
         {
             "order": 1,
@@ -35,8 +43,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Here is the menu.",
-            "translation": "این هم منو."
+            "text": "Here is the menu. The soup and fish are very good today.",
+            "translation": "این هم منو. سوپ و ماهی امروز خیلی خوب هستند."
         },
         {
             "order": 3,
@@ -59,32 +67,32 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Good choice. And a salad?",
-            "translation": "انتخاب خوبی است. و سالاد؟"
+            "text": "Good choice. And for your friend?",
+            "translation": "انتخاب خوبی است. و برای دوستتان؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "Yes, a small salad, please.",
-            "translation": "بله، یک سالاد کوچک، لطفاً."
+            "text": "The fish, please. She doesn't eat much meat.",
+            "translation": "ماهی، لطفاً. او زیاد گوشت نمی‌خورد."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Anything to drink?",
-            "translation": "چیزی برای نوشیدن؟"
+            "text": "Would you like soup or a salad to start?",
+            "translation": "برای شروع سوپ می‌خواهید یا سالاد؟"
         },
         {
             "order": 9,
             "person": 2,
-            "text": "Just water for now.",
-            "translation": "فعلاً فقط آب."
+            "text": "A small salad, please.",
+            "translation": "یک سالاد کوچک، لطفاً."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Okay. Your food will be ready soon.",
-            "translation": "باشه. غذایتان به‌زودی آماده می‌شود."
+            "text": "Okay. Your food will be ready soon. Here is a fork, a knife, and a napkin for each of you.",
+            "translation": "باشه. غذایتان به‌زودی آماده می‌شود. برای هر کدامتان یک چنگال، یک کارد و یک دستمال هست."
         },
         {
             "order": 11,
@@ -106,12 +114,18 @@
         },
         {
             "order": 14,
-            "person": 2,
-            "text": "Could we have the bill, please?",
-            "translation": "می‌شود صورتحساب را بیاورید، لطفاً؟"
+            "person": 1,
+            "text": "Would you like a dessert after?",
+            "translation": "بعد از غذا دسر می‌خواهید؟"
         },
         {
             "order": 15,
+            "person": 2,
+            "text": "Maybe later. Could we have the bill, please?",
+            "translation": "شاید بعداً. می‌شود صورتحساب را بیاورید، لطفاً؟"
+        },
+        {
+            "order": 16,
             "person": 1,
             "text": "Sure. Here you go.",
             "translation": "حتماً. بفرمایید."

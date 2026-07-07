@@ -8,7 +8,20 @@
         "total",
         "extra",
         "cheese",
-        "wait"
+        "wait",
+        "crust",
+        "topping",
+        "mushroom",
+        "pepper",
+        "garlic",
+        "spicy",
+        "sauce",
+        "combo",
+        "cola",
+        "soda",
+        "oven",
+        "slice",
+        "knock"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -34,56 +47,80 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Large, with extra cheese.",
-            "translation": "بزرگ، با پنیر اضافه."
+            "text": "Large, with extra cheese and a thin crust.",
+            "translation": "بزرگ، با پنیر اضافه و خمیر نازک."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "Any drinks?",
-            "translation": "نوشیدنی هم می‌خواهید؟"
+            "text": "What toppings do you want?",
+            "translation": "چه مخلفاتی می‌خواهید؟"
         },
         {
             "order": 5,
             "person": 2,
-            "text": "Yes, one cola, please. I'm very hungry.",
-            "translation": "بله، یک کولا لطفاً. خیلی گرسنه‌ام."
+            "text": "Mushrooms, peppers, and garlic, please.",
+            "translation": "قارچ، فلفل و سیر، لطفاً."
         },
         {
             "order": 6,
+            "person": 1,
+            "text": "Do you want it spicy? We have a hot sauce.",
+            "translation": "تند می‌خواهید؟ سس تند داریم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, a little spicy. Can I get the combo with a drink?",
+            "translation": "بله، کمی تند. می‌توانم منوی ترکیبی با نوشیدنی بگیرم؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Sure. A cola or another soda?",
+            "translation": "حتماً. کولا یا نوشابه‌ی دیگری؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "One cola, please. I'm very hungry.",
+            "translation": "یک کولا لطفاً. خیلی گرسنه‌ام."
+        },
+        {
+            "order": 10,
             "person": 1,
             "text": "What is your address?",
             "translation": "آدرس شما چیست؟"
         },
         {
-            "order": 7,
+            "order": 11,
             "person": 2,
             "text": "It's 25 Green Street. How long will it take?",
             "translation": "خیابان گرین، پلاک ۲۵. چقدر طول می‌کشد؟"
         },
         {
-            "order": 8,
+            "order": 12,
             "person": 1,
-            "text": "We will deliver it in thirty minutes.",
-            "translation": "تا سی دقیقه دیگر تحویلش می‌دهیم."
+            "text": "The pizza is in the oven now. We will deliver it in thirty minutes.",
+            "translation": "پیتزا الان توی فر است. تا سی دقیقه دیگر تحویلش می‌دهیم."
         },
         {
-            "order": 9,
+            "order": 13,
             "person": 2,
-            "text": "Great. What is the total?",
-            "translation": "عالی. جمع کل چقدر می‌شود؟"
+            "text": "Great. Please cut it into eight slices.",
+            "translation": "عالی. لطفاً آن را به هشت تکه ببرید."
         },
         {
-            "order": 10,
+            "order": 14,
             "person": 1,
-            "text": "Eighteen dollars. Cash or card?",
-            "translation": "هجده دلار. نقد یا کارت؟"
+            "text": "Of course. The total is eighteen dollars. Cash or card?",
+            "translation": "البته. جمع کل هجده دلار می‌شود. نقد یا کارت؟"
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
-            "text": "Cash, please. I'll wait at the door.",
-            "translation": "نقد، لطفاً. دم در منتظر می‌مانم."
+            "text": "Cash, please. I'll wait at the door, so just knock.",
+            "translation": "نقد، لطفاً. دم در منتظر می‌مانم، پس فقط در بزنید."
         }
     ]
 }

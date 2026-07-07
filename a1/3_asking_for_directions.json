@@ -15,7 +15,15 @@
         "left",
         "corner",
         "right",
-        "lost"
+        "lost",
+        "sorry",
+        "follow",
+        "road",
+        "block",
+        "cross",
+        "behind",
+        "bus stop",
+        "across"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -23,8 +31,8 @@
         {
             "order": 0,
             "person": 1,
-            "text": "Excuse me, can you help me?",
-            "translation": "ببخشید، می‌توانید به من کمک کنید؟"
+            "text": "Excuse me, sorry to bother you. Can you help me?",
+            "translation": "ببخشید، شرمنده که مزاحم می‌شوم. می‌توانید به من کمک کنید؟"
         },
         {
             "order": 1,
@@ -41,8 +49,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "It's on Main Street.",
-            "translation": "توی خیابان اصلی است."
+            "text": "It's on Main Street. Just follow this road.",
+            "translation": "توی خیابان اصلی است. فقط این جاده را دنبال کنید."
         },
         {
             "order": 4,
@@ -53,8 +61,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "No, it's near. You can walk there in five minutes.",
-            "translation": "نه، نزدیک است. می‌توانید پنج دقیقه‌ای پیاده به آنجا بروید."
+            "text": "No, it's near. It's two blocks away, about five minutes.",
+            "translation": "نه، نزدیک است. دو بلوک آن‌طرف‌تر است، حدود پنج دقیقه."
         },
         {
             "order": 6,
@@ -65,29 +73,41 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Walk straight, then turn left.",
-            "translation": "مستقیم بروید، بعد به چپ بپیچید."
+            "text": "Walk straight, then cross the street at the corner.",
+            "translation": "مستقیم بروید، بعد سر نبش از خیابان رد شوید."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Left at the corner?",
-            "translation": "سر نبش به چپ؟"
+            "text": "Left or right after that?",
+            "translation": "بعد از آن، چپ یا راست؟"
         },
         {
             "order": 9,
             "person": 2,
-            "text": "Yes. The bank is on the right.",
-            "translation": "بله. بانک سمت راست است."
+            "text": "Turn left. The bank is behind the bus stop.",
+            "translation": "به چپ بپیچید. بانک پشت ایستگاه اتوبوس است."
         },
         {
             "order": 10,
+            "person": 1,
+            "text": "Is it near the park?",
+            "translation": "نزدیک پارک است؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Yes, it's right across from the park.",
+            "translation": "بله، درست روبه‌روی پارک است."
+        },
+        {
+            "order": 12,
             "person": 1,
             "text": "Thank you so much. I was lost.",
             "translation": "خیلی ممنون. گم شده بودم."
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 2,
             "text": "No problem. Take care!",
             "translation": "خواهش می‌کنم. مراقب خودتان باشید!"

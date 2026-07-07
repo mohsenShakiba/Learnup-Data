@@ -6,7 +6,22 @@
         "member",
         "find",
         "history",
-        "fee"
+        "fee",
+        "novel",
+        "poem",
+        "section",
+        "librarian",
+        "fiction",
+        "biography",
+        "author",
+        "catalog",
+        "textbook",
+        "study",
+        "renew",
+        "silence",
+        "whisper",
+        "cover",
+        "chapter"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -44,44 +59,74 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Over there, near the window.",
-            "translation": "آن طرف، نزدیک پنجره."
+            "text": "In that section, near the window. The librarian can help you.",
+            "translation": "در آن بخش، نزدیک پنجره. کتابدار می‌تواند کمکتان کند."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Thank you. How many books can I take?",
-            "translation": "ممنون. چند کتاب می‌توانم بگیرم؟"
+            "text": "Thank you. I also want a novel and a book of poems.",
+            "translation": "ممنون. یک رمان و یک کتاب شعر هم می‌خواهم."
         },
         {
             "order": 7,
             "person": 2,
-            "text": "With this library card you can borrow five books.",
-            "translation": "با این کارت کتابخانه می‌توانید پنج کتاب امانت بگیرید."
+            "text": "The fiction section has novels. Do you like biography or poems?",
+            "translation": "بخش داستان رمان دارد. زندگی‌نامه دوست دارید یا شعر؟"
         },
         {
             "order": 8,
             "person": 1,
-            "text": "When should I return them?",
-            "translation": "کی باید آن‌ها را برگردانم؟"
+            "text": "Biography, please. Who is a good author?",
+            "translation": "زندگی‌نامه، لطفاً. نویسنده‌ی خوب کیست؟"
         },
         {
             "order": 9,
             "person": 2,
-            "text": "In three weeks. Please don't be late.",
-            "translation": "تا سه هفته دیگر. لطفاً دیر نکنید."
+            "text": "This one. Check the catalog for more titles.",
+            "translation": "این یکی. برای عنوان‌های بیشتر فهرست را ببینید."
         },
         {
             "order": 10,
+            "person": 1,
+            "text": "Great. Can I also get a textbook to study?",
+            "translation": "عالی. می‌توانم یک کتاب درسی هم برای مطالعه بگیرم؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Yes. With this library card you can borrow five books.",
+            "translation": "بله. با این کارت کتابخانه می‌توانید پنج کتاب امانت بگیرید."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "When should I return them? Can I renew?",
+            "translation": "کی باید آن‌ها را برگردانم؟ می‌توانم تمدید کنم؟"
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "In three weeks. You can renew once. Please don't be late.",
+            "translation": "تا سه هفته دیگر. یک بار می‌توانید تمدید کنید. لطفاً دیر نکنید."
+        },
+        {
+            "order": 14,
             "person": 1,
             "text": "What happens if I am late?",
             "translation": "اگر دیر کنم چه می‌شود؟"
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
-            "text": "You pay a small late fee. And please stay quiet inside.",
-            "translation": "یک جریمه کوچک برای دیرکرد می‌پردازید. و لطفاً داخل ساکت باشید."
+            "text": "You pay a small late fee. Please keep silence and only whisper inside.",
+            "translation": "یک جریمه کوچک برای دیرکرد می‌پردازید. لطفاً سکوت را حفظ کنید و داخل فقط پچ‌پچ کنید."
+        },
+        {
+            "order": 16,
+            "person": 1,
+            "text": "Okay. This novel has a nice cover and many chapters.",
+            "translation": "باشه. این رمان جلد قشنگی و فصل‌های زیادی دارد."
         }
     ]
 }

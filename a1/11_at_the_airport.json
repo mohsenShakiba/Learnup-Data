@@ -9,7 +9,19 @@
         "window",
         "seat",
         "plane",
-        "trip"
+        "trip",
+        "suitcase",
+        "luggage",
+        "delay",
+        "terminal",
+        "boarding",
+        "security",
+        "board",
+        "departure",
+        "fly",
+        "land",
+        "arrival",
+        "customs"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -35,14 +47,14 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Just one.",
+            "text": "Just one suitcase.",
             "translation": "فقط یک چمدان."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "Please put it here.",
-            "translation": "لطفاً آن را اینجا بگذارید."
+            "text": "Please put your luggage here.",
+            "translation": "لطفاً بار خود را اینجا بگذارید."
         },
         {
             "order": 5,
@@ -53,8 +65,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "The flight is a little late, about thirty minutes.",
-            "translation": "پرواز کمی دیر است، حدود سی دقیقه."
+            "text": "There is a short delay, about thirty minutes.",
+            "translation": "کمی تأخیر است، حدود سی دقیقه."
         },
         {
             "order": 7,
@@ -65,8 +77,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Gate twelve.",
-            "translation": "گیت دوازده است."
+            "text": "Gate twelve, in terminal two.",
+            "translation": "گیت دوازده، در ترمینال دو."
         },
         {
             "order": 9,
@@ -83,17 +95,41 @@
         {
             "order": 11,
             "person": 1,
-            "text": "Your plane leaves at two o'clock. Please be at the gate by one thirty.",
-            "translation": "هواپیمای شما ساعت دو پرواز می‌کند. لطفاً ساعت یک و نیم دمِ گیت باشید."
+            "text": "Go through security first, then you can board the plane.",
+            "translation": "اول از بازرسی امنیتی رد شوید، بعد می‌توانید سوار هواپیما شوید."
         },
         {
             "order": 12,
+            "person": 2,
+            "text": "When does it leave?",
+            "translation": "کی حرکت می‌کند؟"
+        },
+        {
+            "order": 13,
+            "person": 1,
+            "text": "Departure is at two o'clock. The plane will fly for three hours.",
+            "translation": "پرواز ساعت دو است. هواپیما سه ساعت پرواز می‌کند."
+        },
+        {
+            "order": 14,
+            "person": 2,
+            "text": "And when do we arrive?",
+            "translation": "و کی می‌رسیم؟"
+        },
+        {
+            "order": 15,
+            "person": 1,
+            "text": "The arrival is at five o'clock. After you land, go to customs.",
+            "translation": "ورود ساعت پنج است. بعد از فرود، به گمرک بروید."
+        },
+        {
+            "order": 16,
             "person": 2,
             "text": "Thank you. Have a good day.",
             "translation": "ممنون. روز خوبی داشته باشید."
         },
         {
-            "order": 13,
+            "order": 17,
             "person": 1,
             "text": "Have a safe trip!",
             "translation": "سفر خوبی داشته باشید!"

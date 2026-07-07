@@ -9,7 +9,19 @@
         "outside",
         "driver",
         "hurry",
-        "traffic"
+        "traffic",
+        "pickup",
+        "cab",
+        "car",
+        "highway",
+        "lane",
+        "roundabout",
+        "meter",
+        "seatbelt",
+        "honk",
+        "brake",
+        "fuel",
+        "booking"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -47,8 +59,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Okay. What is your address?",
-            "translation": "باشه. آدرستان چیست؟"
+            "text": "Okay. What is your address for the pickup?",
+            "translation": "باشه. آدرستان برای سوار کردن چیست؟"
         },
         {
             "order": 6,
@@ -59,8 +71,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "No problem. The driver will wait outside.",
-            "translation": "مشکلی نیست. راننده بیرون منتظر می‌ماند."
+            "text": "No problem. Your cab will be a blue car waiting outside.",
+            "translation": "مشکلی نیست. تاکسی شما یک ماشین آبی است که بیرون منتظر می‌ماند."
         },
         {
             "order": 8,
@@ -77,8 +89,44 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Thank you. I'll be ready.",
-            "translation": "ممنون. آماده خواهم بود."
+            "text": "Which way will the driver go?",
+            "translation": "راننده از کدام مسیر می‌رود؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "The driver takes the highway, then the fast lane past the roundabout.",
+            "translation": "راننده از بزرگراه می‌رود، بعد از لاین سریع بعد از میدان."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Does the meter start at pickup?",
+            "translation": "کنتور از لحظه‌ی سوار شدن شروع می‌شود؟"
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Yes. Please put on your seatbelt in the car.",
+            "translation": "بله. لطفاً در ماشین کمربندتان را ببندید."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Sure. I hope there is no traffic jam.",
+            "translation": "حتماً. امیدوارم ترافیک سنگین نباشد."
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "If a car honks, the driver will brake safely. We have plenty of fuel.",
+            "translation": "اگر ماشینی بوق بزند، راننده با احتیاط ترمز می‌کند. سوخت کافی داریم."
+        },
+        {
+            "order": 16,
+            "person": 1,
+            "text": "Great. I confirmed the booking. I'll be ready.",
+            "translation": "عالی. رزرو را تأیید کردم. آماده خواهم بود."
         }
     ]
 }

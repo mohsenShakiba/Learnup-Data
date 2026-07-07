@@ -9,7 +9,19 @@
         "bring",
         "drinks",
         "join",
-        "o'clock"
+        "o'clock",
+        "basket",
+        "sandwich",
+        "grapes",
+        "grass",
+        "lake",
+        "duck",
+        "bench",
+        "shade",
+        "ball",
+        "kite",
+        "catch",
+        "frisbee"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -41,14 +53,14 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Yes! I can bring food.",
-            "translation": "آره! من می‌توانم غذا بیاورم."
+            "text": "Yes! I can bring food in a basket.",
+            "translation": "آره! من می‌توانم غذا را توی سبد بیاورم."
         },
         {
             "order": 5,
             "person": 2,
-            "text": "Great. I will bring drinks.",
-            "translation": "عالیه. من نوشیدنی می‌آورم."
+            "text": "Great. I will bring drinks, sandwiches, and grapes.",
+            "translation": "عالیه. من نوشیدنی، ساندویچ و انگور می‌آورم."
         },
         {
             "order": 6,
@@ -65,29 +77,53 @@
         {
             "order": 8,
             "person": 1,
+            "text": "We can sit on the grass near the lake and feed the ducks.",
+            "translation": "می‌توانیم روی چمن کنار دریاچه بنشینیم و به اردک‌ها غذا بدهیم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Nice. Let's find a bench in the shade too.",
+            "translation": "خوب است. بیا یک نیمکت هم زیر سایه پیدا کنیم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Good idea. I'll bring a ball and a kite.",
+            "translation": "فکر خوبی است. من یک توپ و یک بادبادک می‌آورم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Fun! We can play catch or throw a frisbee.",
+            "translation": "چه خوب! می‌توانیم پرتاب و گرفتن بازی کنیم یا فریزبی بیندازیم."
+        },
+        {
+            "order": 12,
+            "person": 1,
             "text": "Let's meet in the morning.",
             "translation": "بیا صبح همدیگر را ببینیم."
         },
         {
-            "order": 9,
+            "order": 13,
             "person": 2,
             "text": "What time?",
             "translation": "چه ساعتی؟"
         },
         {
-            "order": 10,
+            "order": 14,
             "person": 1,
             "text": "How about ten o'clock?",
             "translation": "ساعت ده چطور؟"
         },
         {
-            "order": 11,
+            "order": 15,
             "person": 2,
             "text": "Perfect. See you on Sunday!",
             "translation": "عالی. یکشنبه می‌بینمت!"
         },
         {
-            "order": 12,
+            "order": 16,
             "person": 1,
             "text": "Sounds good. See you then!",
             "translation": "خوبه. پس می‌بینمت!"

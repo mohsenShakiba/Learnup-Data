@@ -12,7 +12,16 @@
         "connect",
         "works",
         "moment",
-        "information"
+        "information",
+        "signal",
+        "device",
+        "router",
+        "cable",
+        "plug",
+        "restart",
+        "screen",
+        "click",
+        "network"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -26,8 +35,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "My internet is not working.",
-            "translation": "اینترنتم کار نمی‌کند."
+            "text": "My internet is not working. There is no signal on my device.",
+            "translation": "اینترنتم کار نمی‌کند. روی دستگاهم هیچ سیگنالی نیست."
         },
         {
             "order": 2,
@@ -44,8 +53,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Is the light on the box green?",
-            "translation": "چراغ روی مودم سبز است؟"
+            "text": "Is the light on the box green? That box is your router.",
+            "translation": "چراغ روی جعبه سبز است؟ آن جعبه مودم شماست."
         },
         {
             "order": 5,
@@ -56,41 +65,53 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Please turn the box off and on again.",
-            "translation": "لطفاً مودم را خاموش و دوباره روشن کنید."
+            "text": "First, make sure the cable is in the plug at the back.",
+            "translation": "اول مطمئن شوید کابل به پریز پشت آن وصل است."
         },
         {
             "order": 7,
+            "person": 2,
+            "text": "Okay, it is in.",
+            "translation": "باشه، وصل است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Now turn the box off and on again to restart it.",
+            "translation": "حالا جعبه را خاموش و دوباره روشن کنید تا از نو راه بیفتد."
+        },
+        {
+            "order": 9,
             "person": 2,
             "text": "Okay, one moment... Done.",
             "translation": "باشه، یک لحظه... انجام شد."
         },
         {
-            "order": 8,
+            "order": 10,
             "person": 1,
-            "text": "Now wait one minute.",
-            "translation": "حالا یک دقیقه صبر کنید."
+            "text": "Now wait one minute and watch the screen.",
+            "translation": "حالا یک دقیقه صبر کنید و به صفحه نگاه کنید."
         },
         {
-            "order": 9,
+            "order": 11,
             "person": 2,
             "text": "The light is green now!",
             "translation": "حالا چراغ سبز است!"
         },
         {
-            "order": 10,
+            "order": 12,
             "person": 1,
-            "text": "Great. Can you connect now?",
-            "translation": "عالی. حالا می‌توانید وصل شوید؟"
+            "text": "Great. Open your computer and click connect to the network.",
+            "translation": "عالی. کامپیوترتان را باز کنید و روی اتصال به شبکه کلیک کنید."
         },
         {
-            "order": 11,
+            "order": 13,
             "person": 2,
             "text": "Yes, it works! Thank you so much.",
             "translation": "بله، کار می‌کند! خیلی ممنون."
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 1,
             "text": "You're welcome. Have a good day!",
             "translation": "خواهش می‌کنم. روز خوبی داشته باشید!"

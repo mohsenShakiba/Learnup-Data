@@ -9,7 +9,19 @@
     "sweet",
     "fill",
     "brush",
-    "careful"
+    "careful",
+    "teeth",
+    "cavity",
+    "decay",
+    "filling",
+    "drill",
+    "injection",
+    "numb",
+    "gentle",
+    "floss",
+    "gum",
+    "rinse",
+    "dentist"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -29,8 +41,8 @@
     {
       "order": 2,
       "person": 1,
-      "text": "Please open your mouth wide. Let me check.",
-      "translation": "لطفاً دهانتان را خوب باز کنید. بگذارید معاینه کنم."
+      "text": "Please open your mouth wide. Let me check your teeth.",
+      "translation": "لطفاً دهانتان را خوب باز کنید. بگذارید دندان‌هایتان را معاینه کنم."
     },
     {
       "order": 3,
@@ -41,8 +53,8 @@
     {
       "order": 4,
       "person": 1,
-      "text": "I see the problem. This tooth has a hole.",
-      "translation": "مشکل را می‌بینم. این دندان سوراخ دارد."
+      "text": "I see the problem. This tooth has a cavity, a small hole with decay.",
+      "translation": "مشکل را می‌بینم. این دندان پوسیدگی دارد، یک سوراخ کوچک با خرابی."
     },
     {
       "order": 5,
@@ -53,8 +65,8 @@
     {
       "order": 6,
       "person": 1,
-      "text": "No, but I need to fill it today.",
-      "translation": "نه، اما باید امروز پُرش کنم."
+      "text": "No, but I need to fill it with a filling today. I'll use a drill.",
+      "translation": "نه، اما باید امروز با یک پُرکردگی پُرش کنم. از مته استفاده می‌کنم."
     },
     {
       "order": 7,
@@ -65,8 +77,8 @@
     {
       "order": 8,
       "person": 1,
-      "text": "Just a little. I'll be careful.",
-      "translation": "فقط کمی. مراقب خواهم بود."
+      "text": "I'll give you an injection to make it numb, and I'll be careful and gentle.",
+      "translation": "یک تزریق می‌زنم تا بی‌حس شود، و مراقب و ملایم خواهم بود."
     },
     {
       "order": 9,
@@ -77,11 +89,23 @@
     {
       "order": 10,
       "person": 1,
-      "text": "Brush twice a day to keep your teeth clean, and eat less sweet food.",
-      "translation": "روزی دو بار مسواک بزنید تا دندان‌هایتان تمیز بماند، و کمتر شیرینی بخورید."
+      "text": "Brush twice a day, floss to keep your gums clean, and rinse your mouth.",
+      "translation": "روزی دو بار مسواک بزنید، برای تمیز ماندن لثه‌ها نخ دندان بکشید، و دهانتان را بشویید."
     },
     {
       "order": 11,
+      "person": 2,
+      "text": "Okay. And less sweet food?",
+      "translation": "باشه. و کمتر شیرینی بخورم؟"
+    },
+    {
+      "order": 12,
+      "person": 1,
+      "text": "Yes, eat less sweet food. Come back to the dentist in six months.",
+      "translation": "بله، کمتر شیرینی بخورید. تا شش ماه دیگر پیش دندان‌پزشک برگردید."
+    },
+    {
+      "order": 13,
       "person": 2,
       "text": "Okay, I will. Thank you, doctor.",
       "translation": "باشه، حتماً. ممنون، دکتر."

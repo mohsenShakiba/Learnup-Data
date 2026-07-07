@@ -18,7 +18,11 @@
         "neck",
         "heart",
         "breathe",
-        "stretch"
+        "stretch",
+        "shoulder",
+        "knee",
+        "muscle",
+        "sweat"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -62,8 +66,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Sure. Let's start slowly. First, stretch your arms, legs, and neck.",
-            "translation": "حتماً. بیایید آهسته شروع کنیم. اول بازوها، پاها و گردنتان را بکشید."
+            "text": "Sure. Let's start slowly. First, stretch your arms, legs, neck, shoulders, and knees.",
+            "translation": "حتماً. بیایید آهسته شروع کنیم. اول بازوها، پاها، گردن، شانه‌ها و زانوهایتان را بکشید."
         },
         {
             "order": 7,
@@ -80,14 +84,14 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Okay. I want to get stronger.",
-            "translation": "باشه. می‌خواهم قوی‌تر شوم."
+            "text": "Okay. I want to get stronger and build muscle.",
+            "translation": "باشه. می‌خواهم قوی‌تر شوم و عضله بسازم."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Remember to drink water and breathe well. It's good for your heart.",
-            "translation": "یادتان باشد آب بنوشید و خوب نفس بکشید. برای قلبتان خوب است."
+            "text": "Remember to drink water and breathe well. You will sweat a lot, and it's good for your heart.",
+            "translation": "یادتان باشد آب بنوشید و خوب نفس بکشید. زیاد عرق می‌کنید و این برای قلبتان خوب است."
         },
         {
             "order": 11,

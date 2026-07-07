@@ -11,7 +11,17 @@
         "cost",
         "platform",
         "arrive",
-        "stop"
+        "stop",
+        "coach",
+        "depart",
+        "schedule",
+        "timetable",
+        "fare",
+        "journey",
+        "route",
+        "backpack",
+        "passenger",
+        "engine"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -31,20 +41,20 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Single, please. When does the next bus leave the station?",
+            "text": "Single, please. When does the next coach depart from the station?",
             "translation": "یک‌طرفه، لطفاً. اتوبوس بعدی کی از ایستگاه حرکت می‌کند؟"
         },
         {
             "order": 3,
             "person": 2,
-            "text": "It leaves at ten.",
-            "translation": "ساعت ده حرکت می‌کند."
+            "text": "It leaves at ten. The full schedule is on this timetable.",
+            "translation": "ساعت ده حرکت می‌کند. برنامه‌ی کامل روی این جدول زمانی است."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "How much does it cost?",
-            "translation": "قیمتش چقدر است؟"
+            "text": "How much does it cost? What is the fare?",
+            "translation": "چقدر است؟ کرایه چقدر می‌شود؟"
         },
         {
             "order": 5,
@@ -79,11 +89,35 @@
         {
             "order": 10,
             "person": 1,
-            "text": "Thank you. When does it arrive?",
-            "translation": "ممنون. کی می‌رسد؟"
+            "text": "Is it a long journey?",
+            "translation": "سفر طولانی است؟"
         },
         {
             "order": 11,
+            "person": 2,
+            "text": "About three hours. The route goes through two towns.",
+            "translation": "حدود سه ساعت. مسیر از دو شهر می‌گذرد."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "Can I bring my backpack on board?",
+            "translation": "می‌توانم کوله‌پشتی‌ام را با خودم بیاورم؟"
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "Yes, every passenger can bring one bag. The coach has a big engine, so it's fast.",
+            "translation": "بله، هر مسافر می‌تواند یک کیف بیاورد. اتوبوس موتور بزرگی دارد، پس سریع است."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Great. When does it arrive?",
+            "translation": "عالی. کی می‌رسد؟"
+        },
+        {
+            "order": 15,
             "person": 2,
             "text": "At one o'clock. The bus stops once on the way.",
             "translation": "ساعت یک. اتوبوس یک بار در راه توقف می‌کند."

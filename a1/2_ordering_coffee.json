@@ -17,7 +17,14 @@
         "pay",
         "morning",
         "cafe",
-        "cup"
+        "cup",
+        "thirsty",
+        "spoon",
+        "snack",
+        "muffin",
+        "cookie",
+        "juice",
+        "taste"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -43,8 +50,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Large, please.",
-            "translation": "بزرگ، لطفاً."
+            "text": "Large, please. I'm really thirsty this morning.",
+            "translation": "بزرگ، لطفاً. امروز صبح خیلی تشنه‌ام."
         },
         {
             "order": 4,
@@ -67,56 +74,68 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Hot, please.",
-            "translation": "گرم، لطفاً."
+            "text": "Hot, please. Can I have a spoon too?",
+            "translation": "گرم، لطفاً. می‌توانم یک قاشق هم داشته باشم؟"
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Okay. Anything else?",
-            "translation": "باشه. چیز دیگه‌ای می‌خواهید؟"
+            "text": "Of course. Would you like a snack?",
+            "translation": "البته. میان‌وعده‌ای می‌خواهید؟"
         },
         {
             "order": 9,
             "person": 2,
-            "text": "Yes, and a tea, please. How much is it?",
-            "translation": "بله، و یه چای هم، لطفاً. چقدر می‌شود؟"
+            "text": "Yes, a muffin and a cookie, please.",
+            "translation": "بله، یک مافین و یک کلوچه، لطفاً."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "That's six dollars.",
-            "translation": "شش دلار می‌شود."
+            "text": "Good choice. Anything else to drink?",
+            "translation": "انتخاب خوبی است. نوشیدنی دیگری می‌خواهید؟"
         },
         {
             "order": 11,
+            "person": 2,
+            "text": "Yes, a tea and an orange juice. How much is it?",
+            "translation": "بله، یک چای و یک آب‌پرتقال. چقدر می‌شود؟"
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "That's ten dollars.",
+            "translation": "ده دلار می‌شود."
+        },
+        {
+            "order": 13,
             "person": 2,
             "text": "Can I pay by card?",
             "translation": "می‌توانم با کارت پرداخت کنم؟"
         },
         {
-            "order": 12,
+            "order": 14,
             "person": 1,
             "text": "Yes, of course.",
             "translation": "بله، البته."
         },
         {
-            "order": 13,
+            "order": 15,
             "person": 2,
             "text": "Thank you. I really like this cafe.",
             "translation": "ممنون. من این کافه را خیلی دوست دارم."
         },
         {
-            "order": 14,
+            "order": 16,
             "person": 1,
-            "text": "Your drinks are ready. Have a great day!",
-            "translation": "نوشیدنی‌هایتان آماده است. روز خوبی داشته باشید!"
+            "text": "Your drinks are ready. Enjoy, and taste that muffin!",
+            "translation": "نوشیدنی‌هایتان آماده است. نوش جان، و آن مافین را بچشید!"
         },
         {
-            "order": 15,
+            "order": 17,
             "person": 2,
-            "text": "You too. Thank you!",
-            "translation": "شما هم همینطور. ممنون!"
+            "text": "Thank you! Have a great day.",
+            "translation": "ممنون! روز خوبی داشته باشید."
         }
     ]
 }

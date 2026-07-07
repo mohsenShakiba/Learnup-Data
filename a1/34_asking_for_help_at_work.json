@@ -9,7 +9,19 @@
         "print",
         "show",
         "easy",
-        "thanks"
+        "thanks",
+        "document",
+        "laptop",
+        "login",
+        "folder",
+        "attach",
+        "type",
+        "mouse",
+        "scan",
+        "download",
+        "close",
+        "software",
+        "delete"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -29,14 +41,14 @@
         {
             "order": 2,
             "person": 1,
-            "text": "I can't open this file on my computer.",
-            "translation": "نمی‌توانم این فایل را روی کامپیوترم باز کنم."
+            "text": "I can't open this document file on my laptop.",
+            "translation": "نمی‌توانم این فایل سند را روی لپ‌تاپم باز کنم."
         },
         {
             "order": 3,
             "person": 2,
-            "text": "Let me see. Click here.",
-            "translation": "بگذار ببینم. اینجا کلیک کن."
+            "text": "Let me see. Click here. Check your login first.",
+            "translation": "بگذار ببینم. اینجا کلیک کن. اول ورود به حسابت را بررسی کن."
         },
         {
             "order": 4,
@@ -47,8 +59,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "No problem. It's easy.",
-            "translation": "خواهش می‌کنم. کار آسانی است."
+            "text": "No problem. It's easy. The file is in that folder.",
+            "translation": "خواهش می‌کنم. کار آسانی است. فایل در آن پوشه است."
         },
         {
             "order": 6,
@@ -59,8 +71,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "You can send it by email.",
-            "translation": "می‌توانی آن را با ایمیل بفرستی."
+            "text": "You can send it by email. Just attach it.",
+            "translation": "می‌توانی آن را با ایمیل بفرستی. فقط پیوستش کن."
         },
         {
             "order": 8,
@@ -71,17 +83,53 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Of course. First, open your email. Then print a copy too.",
-            "translation": "البته. اول ایمیلت را باز کن. بعد یک نسخه هم چاپ کن."
+            "text": "Of course. Open your email and attach the document.",
+            "translation": "البته. ایمیلت را باز کن و سند را پیوست کن."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Great. Thanks for your help.",
-            "translation": "عالی. ممنون از کمکت."
+            "text": "Should I type a message too?",
+            "translation": "پیامی هم تایپ کنم؟"
         },
         {
             "order": 11,
+            "person": 2,
+            "text": "Yes. Use the mouse to click send.",
+            "translation": "بله. با ماوس روی ارسال کلیک کن."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "It's done. Now I need to print a copy.",
+            "translation": "انجام شد. حالا باید یک نسخه چاپ کنم."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "First scan the paper, then download and print it.",
+            "translation": "اول کاغذ را اسکن کن، بعد دانلود و چاپش کن."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "Great. Can I close this old software now?",
+            "translation": "عالی. می‌توانم این نرم‌افزار قدیمی را حالا ببندم؟"
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "Yes, and delete the files you don't need.",
+            "translation": "بله، و فایل‌هایی که لازم نداری را پاک کن."
+        },
+        {
+            "order": 16,
+            "person": 1,
+            "text": "Thanks for your help.",
+            "translation": "ممنون از کمکت."
+        },
+        {
+            "order": 17,
             "person": 2,
             "text": "You're welcome. Ask me anytime.",
             "translation": "خواهش می‌کنم. هر وقت خواستی بپرس."

@@ -13,7 +13,16 @@
     "sky",
     "cloud",
     "cloudy",
-    "wind"
+    "wind",
+    "wet",
+    "degrees",
+    "season",
+    "winter",
+    "snow",
+    "ice",
+    "autumn",
+    "fog",
+    "storm"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -39,14 +48,14 @@
     {
       "order": 3,
       "person": 2,
-      "text": "I know. I needed a jacket.",
-      "translation": "آره. کاپشن لازم داشتم."
+      "text": "I know. I needed a jacket, and the streets were still wet from the rain.",
+      "translation": "آره. کاپشن لازم داشتم و خیابان‌ها هنوز از باران خیس بودند."
     },
     {
       "order": 4,
       "person": 1,
-      "text": "It's warm today. I like it.",
-      "translation": "امروز هوا گرمه. دوستش دارم."
+      "text": "It's warm today, about twenty-five degrees. I like it.",
+      "translation": "امروز هوا گرمه، حدود بیست‌وپنج درجه. دوستش دارم."
     },
     {
       "order": 5,
@@ -63,29 +72,41 @@
     {
       "order": 7,
       "person": 2,
-      "text": "Not really. I like spring.",
-      "translation": "نه چندان. بهار را دوست دارم."
+      "text": "Not really. Spring is my favorite season.",
+      "translation": "نه چندان. بهار فصل مورد علاقه‌ام است."
     },
     {
       "order": 8,
       "person": 1,
-      "text": "They say it will rain tomorrow. There will be clouds and wind.",
-      "translation": "می‌گویند فردا باران می‌بارد. ابر و باد خواهد بود."
+      "text": "What about winter? Do you like the snow and ice?",
+      "translation": "زمستان چطور؟ برف و یخ را دوست داری؟"
     },
     {
       "order": 9,
+      "person": 2,
+      "text": "The snow is pretty, but ice on the roads is not fun. And I don't like the autumn fog.",
+      "translation": "برف قشنگ است، اما یخ روی جاده‌ها خوب نیست. و مه پاییز را دوست ندارم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "They say a storm will come tomorrow, with clouds and wind.",
+      "translation": "می‌گویند فردا طوفان می‌آید، با ابر و باد."
+    },
+    {
+      "order": 11,
       "person": 2,
       "text": "Then I'll bring an umbrella.",
       "translation": "پس چتر می‌آورم."
     },
     {
-      "order": 10,
+      "order": 12,
       "person": 1,
       "text": "Good idea. Have a great day!",
       "translation": "فکر خوبی است. روز خوبی داشته باشی!"
     },
     {
-      "order": 11,
+      "order": 13,
       "person": 2,
       "text": "You too!",
       "translation": "تو هم همینطور!"

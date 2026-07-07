@@ -12,7 +12,19 @@
     "bag",
     "bottle",
     "sale",
-    "list"
+    "list",
+    "shelf",
+    "fruit",
+    "vegetable",
+    "banana",
+    "tomato",
+    "potato",
+    "onion",
+    "butter",
+    "salt",
+    "cart",
+    "checkout",
+    "cashier"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -38,8 +50,8 @@
     {
       "order": 3,
       "person": 2,
-      "text": "Yes, the bread is over there.",
-      "translation": "بله، نان آن طرف است."
+      "text": "Yes, the bread is over there, on the top shelf.",
+      "translation": "بله، نان آن طرف است، روی طبقه‌ی بالا."
     },
     {
       "order": 4,
@@ -56,35 +68,71 @@
     {
       "order": 6,
       "person": 1,
-      "text": "Great. That's everything on my list.",
-      "translation": "عالی. همه‌چیز توی لیستم همین است."
+      "text": "Where can I find fruit and vegetables?",
+      "translation": "میوه و سبزیجات را کجا پیدا کنم؟"
     },
     {
       "order": 7,
       "person": 2,
-      "text": "Okay. That's fifteen dollars.",
-      "translation": "باشه. پانزده دلار می‌شود."
+      "text": "The bananas and tomatoes are here. The potatoes and onions are in the next aisle.",
+      "translation": "موزها و گوجه‌ها اینجا هستند. سیب‌زمینی و پیاز در راهروی بعدی هستند."
     },
     {
       "order": 8,
+      "person": 1,
+      "text": "I also need some butter and salt for cooking.",
+      "translation": "برای آشپزی کمی کره و نمک هم لازم دارم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Sure. The butter is in the fridge and the salt is on that shelf.",
+      "translation": "حتماً. کره در یخچال است و نمک روی آن طبقه است."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Great. That's everything on my list.",
+      "translation": "عالی. همه‌چیز توی لیستم همین است."
+    },
+    {
+      "order": 11,
+      "person": 1,
+      "text": "My cart is full. Where is the checkout?",
+      "translation": "چرخ خریدم پر است. صندوق کجاست؟"
+    },
+    {
+      "order": 12,
+      "person": 2,
+      "text": "Right here. I am the cashier today.",
+      "translation": "همین‌جا. من امروز صندوق‌دار هستم."
+    },
+    {
+      "order": 13,
+      "person": 2,
+      "text": "That's fifteen dollars.",
+      "translation": "پانزده دلار می‌شود."
+    },
+    {
+      "order": 14,
       "person": 1,
       "text": "Here is twenty.",
       "translation": "این هم بیست دلار."
     },
     {
-      "order": 9,
+      "order": 15,
       "person": 2,
       "text": "Here is your change. Do you need a bag?",
       "translation": "این هم بقیه پولتان. کیسه لازم دارید؟"
     },
     {
-      "order": 10,
+      "order": 16,
       "person": 1,
       "text": "Yes, please. Thank you!",
       "translation": "بله، لطفاً. ممنون!"
     },
     {
-      "order": 11,
+      "order": 17,
       "person": 2,
       "text": "Have a good day!",
       "translation": "روز خوبی داشته باشید!"

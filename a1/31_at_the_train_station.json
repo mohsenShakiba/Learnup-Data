@@ -2,7 +2,26 @@
     "title": "31 - At the Train Station",
     "description": "پرسیدن اطلاعات درباره قطار و سکو در ایستگاه راه‌آهن.",
     "words": [
-        "train"
+        "train",
+        "express",
+        "local",
+        "announcement",
+        "direct",
+        "carriage",
+        "compartment",
+        "conductor",
+        "lounge",
+        "waiting",
+        "escalator",
+        "entrance",
+        "trolley",
+        "refreshment",
+        "exit",
+        "railway",
+        "speed",
+        "tunnel",
+        "whistle",
+        "rail"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -16,8 +35,8 @@
         {
             "order": 1,
             "person": 2,
-            "text": "It leaves at three o'clock.",
-            "translation": "ساعت سه حرکت می‌کند."
+            "text": "It leaves at three o'clock. It's a fast express, not the local one.",
+            "translation": "ساعت سه حرکت می‌کند. یک قطار سریع‌السیر است، نه قطار محلی."
         },
         {
             "order": 2,
@@ -28,8 +47,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Platform five. But the train is a little late.",
-            "translation": "سکوی پنج. اما قطار کمی دیر است."
+            "text": "Platform five. But the train is a little late. Listen for the announcement.",
+            "translation": "سکوی پنج. اما قطار کمی دیر است. به اعلان گوش بدهید."
         },
         {
             "order": 4,
@@ -46,44 +65,74 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Do I need to change trains?",
-            "translation": "باید قطار عوض کنم؟"
+            "text": "Is it a direct train, or do I need to change?",
+            "translation": "قطار مستقیم است، یا باید عوض کنم؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "Yes, you change trains in Lyon.",
-            "translation": "بله، در لیون قطار عوض می‌کنید."
+            "text": "You change trains in Lyon. It is not direct.",
+            "translation": "در لیون قطار عوض می‌کنید. مستقیم نیست."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "I see. When do we arrive in Paris?",
-            "translation": "که اینطور. کی به پاریس می‌رسیم؟"
+            "text": "Which carriage is my seat in?",
+            "translation": "صندلی من در کدام واگن است؟"
         },
         {
             "order": 9,
             "person": 2,
-            "text": "At seven in the evening.",
-            "translation": "ساعت هفت عصر."
+            "text": "Carriage four, in a quiet compartment. A conductor will check your ticket.",
+            "translation": "واگن چهار، در یک کوپه‌ی آرام. مأمور قطار بلیتتان را بررسی می‌کند."
         },
         {
             "order": 10,
             "person": 1,
-            "text": "Thank you. I'll go to the platform now.",
-            "translation": "ممنون. حالا به سمت سکو می‌روم."
+            "text": "Where can I wait? Is there a lounge?",
+            "translation": "کجا می‌توانم منتظر بمانم؟ سالن انتظار هست؟"
         },
         {
             "order": 11,
             "person": 2,
-            "text": "You have time, so there's no need to hurry.",
-            "translation": "وقت دارید، پس عجله‌ای نیست."
+            "text": "Yes, the waiting lounge is up the escalator, near the entrance.",
+            "translation": "بله، سالن انتظار بالای پله‌برقی، نزدیک ورودی است."
         },
         {
             "order": 12,
+            "person": 1,
+            "text": "Great. Can I buy a coffee there?",
+            "translation": "عالی. می‌توانم آنجا قهوه بخرم؟"
+        },
+        {
+            "order": 13,
             "person": 2,
-            "text": "You can get on in a few minutes. Have a good trip.",
-            "translation": "تا چند دقیقه دیگر می‌توانید سوار شوید. سفر خوبی داشته باشید."
+            "text": "Yes, a trolley sells refreshments, or there's a café by the exit.",
+            "translation": "بله، یک چرخ دستی خوراکی می‌فروشد، یا یک کافه کنار خروجی هست."
+        },
+        {
+            "order": 14,
+            "person": 1,
+            "text": "How fast does the train go?",
+            "translation": "قطار چقدر سریع می‌رود؟"
+        },
+        {
+            "order": 15,
+            "person": 2,
+            "text": "The railway is new, so the train has high speed through the long tunnel.",
+            "translation": "خط راه‌آهن جدید است، پس قطار در تونل بلند با سرعت بالا می‌رود."
+        },
+        {
+            "order": 16,
+            "person": 1,
+            "text": "Nice. Thank you. I'll go to the platform now.",
+            "translation": "چه خوب. ممنون. حالا به سمت سکو می‌روم."
+        },
+        {
+            "order": 17,
+            "person": 2,
+            "text": "When you hear the whistle, the rail doors close. Have a good trip.",
+            "translation": "وقتی سوت را شنیدید، درهای قطار بسته می‌شوند. سفر خوبی داشته باشید."
         }
     ]
 }

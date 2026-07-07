@@ -4,7 +4,25 @@
   "words": [
     "fit",
     "different",
-    "problem"
+    "problem",
+    "reason",
+    "wrong",
+    "tag",
+    "worn",
+    "label",
+    "customer",
+    "refund",
+    "exchange",
+    "policy",
+    "swap",
+    "counter",
+    "stain",
+    "sleeve",
+    "broken",
+    "zip",
+    "damaged",
+    "faulty",
+    "defect"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -18,65 +36,89 @@
     {
       "order": 1,
       "person": 2,
-      "text": "Okay. Is there a problem with it?",
-      "translation": "باشه. مشکلی دارد؟"
+      "text": "Okay. Is there a problem with it? What is the reason?",
+      "translation": "باشه. مشکلی دارد؟ دلیلش چیست؟"
     },
     {
       "order": 2,
       "person": 1,
-      "text": "Yes, the size is too small. It doesn't fit.",
-      "translation": "بله، سایزش خیلی کوچک است. اندازه نیست."
+      "text": "Yes, it's the wrong size and it doesn't fit.",
+      "translation": "بله، سایزش اشتباه است و اندازه نیست."
     },
     {
       "order": 3,
       "person": 2,
-      "text": "Do you have the receipt?",
-      "translation": "رسید دارید؟"
+      "text": "Do you have the receipt? Is the tag still on?",
+      "translation": "رسید دارید؟ برچسب قیمت هنوز رویش است؟"
     },
     {
       "order": 4,
       "person": 1,
-      "text": "Yes, here it is.",
-      "translation": "بله، بفرمایید."
+      "text": "Yes, here it is. I haven't worn it, and the label is still on.",
+      "translation": "بله، بفرمایید. آن را نپوشیده‌ام و لیبل هنوز رویش است."
     },
     {
       "order": 5,
       "person": 2,
-      "text": "Would you like your money back, or would you like another shirt?",
-      "translation": "پولتان را پس می‌خواهید، یا یک پیراهن دیگر می‌خواهید؟"
+      "text": "Good. As a customer, you can get a refund or an exchange.",
+      "translation": "خوب است. به عنوان مشتری می‌توانید پول را پس بگیرید یا تعویض کنید."
     },
     {
       "order": 6,
+      "person": 1,
+      "text": "What is your return policy?",
+      "translation": "سیاست مرجوعی شما چیست؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "You can swap it within thirty days.",
+      "translation": "تا سی روز می‌توانید آن را عوض کنید."
+    },
+    {
+      "order": 8,
       "person": 1,
       "text": "Can I get a bigger size?",
       "translation": "می‌توانم سایز بزرگ‌تر بگیرم؟"
     },
     {
-      "order": 7,
+      "order": 9,
       "person": 2,
-      "text": "Of course. We have it in large.",
-      "translation": "البته. سایز بزرگ آن را داریم."
+      "text": "Of course. We have it in large. Let me check this one at the counter.",
+      "translation": "البته. سایز بزرگ آن را داریم. بگذارید این یکی را پشت پیشخوان بررسی کنم."
     },
     {
-      "order": 8,
+      "order": 10,
+      "person": 2,
+      "text": "Wait, this shirt has a stain on the sleeve and a broken zip.",
+      "translation": "صبر کنید، این پیراهن روی آستین لکه دارد و زیپش شکسته است."
+    },
+    {
+      "order": 11,
+      "person": 1,
+      "text": "Oh, that one is damaged. It's faulty.",
+      "translation": "اوه، آن یکی خراب است. معیوب است."
+    },
+    {
+      "order": 12,
       "person": 1,
       "text": "Do you have it in a different color too?",
       "translation": "رنگ دیگری هم از آن دارید؟"
     },
     {
-      "order": 9,
+      "order": 13,
       "person": 2,
-      "text": "Yes, in blue and black.",
-      "translation": "بله، آبی و مشکی."
+      "text": "Yes, in blue and black. These have no defect.",
+      "translation": "بله، آبی و مشکی. این‌ها هیچ عیبی ندارند."
     },
     {
-      "order": 10,
+      "order": 14,
       "person": 1,
       "text": "I'll take the blue one, thank you.",
       "translation": "آبی را برمی‌دارم، ممنون."
     },
     {
-      "order": 11,
+      "order": 15,
       "person": 2,
       "text": "No problem. Here is your new shirt.",
       "translation": "مشکلی نیست. این هم پیراهن جدیدتان."

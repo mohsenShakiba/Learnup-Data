@@ -18,7 +18,11 @@
     "listen",
     "practice",
     "sport",
-    "ride"
+    "ride",
+    "sing",
+    "piano",
+    "swim",
+    "chess"
   ],
   "Level": "A1",
   "estimatedDuration": 1,
@@ -32,8 +36,8 @@
     {
       "order": 1,
       "person": 2,
-      "text": "I like to paint, draw, and listen to music.",
-      "translation": "دوست دارم نقاشی بکشم، طراحی کنم و موسیقی گوش بدهم."
+      "text": "I like to paint, draw, sing, and listen to music.",
+      "translation": "دوست دارم نقاشی بکشم، طراحی کنم، آواز بخوانم و موسیقی گوش بدهم."
     },
     {
       "order": 2,
@@ -44,8 +48,8 @@
     {
       "order": 3,
       "person": 2,
-      "text": "Yes, I practice the guitar a little. And you?",
-      "translation": "بله، کمی گیتار تمرین می‌کنم. تو چطور؟"
+      "text": "Yes, I practice the guitar and the piano a little. And you?",
+      "translation": "بله، کمی گیتار و پیانو تمرین می‌کنم. تو چطور؟"
     },
     {
       "order": 4,
@@ -68,8 +72,8 @@
     {
       "order": 7,
       "person": 2,
-      "text": "Running is my favorite sport, and I also ride my bike.",
-      "translation": "دویدن ورزش مورد علاقه‌ام است و دوچرخه هم سواری می‌کنم."
+      "text": "Running is my favorite sport, and I also ride my bike and swim.",
+      "translation": "دویدن ورزش مورد علاقه‌ام است و دوچرخه هم سواری می‌کنم و شنا می‌کنم."
     },
     {
       "order": 8,
@@ -80,8 +84,8 @@
     {
       "order": 9,
       "person": 2,
-      "text": "Then join me sometime. There is a bike club on Saturdays.",
-      "translation": "پس یک وقتی با من بیا. شنبه‌ها یک باشگاه دوچرخه‌سواری هست."
+      "text": "Then join me sometime. There is a bike club on Saturdays, and we play chess after.",
+      "translation": "پس یک وقتی با من بیا. شنبه‌ها یک باشگاه دوچرخه‌سواری هست و بعدش شطرنج بازی می‌کنیم."
     },
     {
       "order": 10,
