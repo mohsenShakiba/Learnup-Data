@@ -5,7 +5,7 @@
         "each other",
         "shake",
         "pleasure",
-        "nationality",
+        "country",
         "lady",
         "woman",
         "think",
@@ -37,8 +37,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "What is your nationality?",
-            "translation": "ملیتت چیست؟"
+            "text": "What country are you from?",
+            "translation": "اهل کدام کشور هستی؟"
         },
         {
             "order": 4,
@@ -79,7 +79,7 @@
         {
             "order": 10,
             "person": 2,
-            "text": "It was nice to talk.",
+            "text": "It was nice talking to you.",
             "translation": "از صحبت با شما خوشحال شدم."
         },
         {

@@ -17,6 +17,7 @@
         "relax",
         "soon"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -40,7 +41,7 @@
         {
             "order": 3,
             "person": 2,
-            "text": "I know. Our work must be ready on Friday.",
+            "text": "I know. Our work has to be ready on Friday.",
             "translation": "می‌دانم. کارمان باید جمعه آماده باشد."
         },
         {

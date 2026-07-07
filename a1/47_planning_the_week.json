@@ -63,8 +63,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Tuesday is at half past two.",
-            "translation": "سه‌شنبه ساعت دو و نیم است."
+            "text": "The Tuesday meeting is at half past two.",
+            "translation": "جلسه سه‌شنبه ساعت دو و نیم است."
         },
         {
             "order": 7,
@@ -75,8 +75,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Wednesday is at a quarter past ten.",
-            "translation": "چهارشنبه ساعت ده و ربع است."
+            "text": "The Wednesday meeting is at a quarter past ten.",
+            "translation": "جلسه چهارشنبه ساعت ده و ربع است."
         },
         {
             "order": 9,

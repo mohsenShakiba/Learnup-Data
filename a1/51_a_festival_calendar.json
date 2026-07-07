@@ -76,8 +76,8 @@
         {
             "order": 9,
             "person": 1,
-            "text": "In November we have a dancing show.",
-            "translation": "در نوامبر یک نمایش رقص داریم."
+            "text": "In November we have a show with dancing.",
+            "translation": "در نوامبر یک نمایش با رقص داریم."
         },
         {
             "order": 10,
@@ -88,8 +88,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "Wow, there is a festival every month!",
-            "translation": "وای، هر ماه یک جشنواره هست!"
+            "text": "Wow, there are festivals in many months!",
+            "translation": "وای، در ماه‌های زیادی جشنواره هست!"
         }
     ]
 }

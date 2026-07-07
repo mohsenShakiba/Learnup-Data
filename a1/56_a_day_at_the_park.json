@@ -51,8 +51,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Okay. Can you push the baby's chair?",
-            "translation": "باشه. می‌توانی صندلی نوزاد را هل بدهی؟"
+            "text": "Okay. Can you push the baby in the stroller?",
+            "translation": "باشه. می‌توانی نوزاد را در کالسکه هل بدهی؟"
         },
         {
             "order": 6,
@@ -63,8 +63,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "Some players are on the ground over there.",
-            "translation": "چند بازیکن آن‌جا روی زمین هستند."
+            "text": "Some players are sitting on the ground over there.",
+            "translation": "چند بازیکن آن‌جا روی زمین نشسته‌اند."
         },
         {
             "order": 8,

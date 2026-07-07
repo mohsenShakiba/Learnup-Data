@@ -9,7 +9,9 @@
         "weather",
         "warm",
         "cold",
-        "sunny"
+        "sunny",
+        "afternoon",
+        "coat"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -17,7 +19,7 @@
         {
             "order": 0,
             "person": 1,
-            "text": "What is the weather today?",
+            "text": "What's the weather like today?",
             "translation": "امروز هوا چطور است؟"
         },
         {
@@ -35,8 +37,8 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Yes, rainy in the afternoon.",
-            "translation": "بله، بعد از ظهر بارانی است."
+            "text": "Yes, it will be rainy in the afternoon.",
+            "translation": "بله، بعد از ظهر بارانی خواهد بود."
         },
         {
             "order": 4,
@@ -65,8 +67,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Snowy already? It is early.",
-            "translation": "همین حالا برفی؟ زود است."
+            "text": "Snow already? It's early.",
+            "translation": "برف به این زودی؟ زود است."
         },
         {
             "order": 9,

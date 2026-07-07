@@ -3,26 +3,23 @@
     "description": "رزرو تلفنی میز در رستوران برای شام.",
     "words": [
         "table",
-        "book",
         "people",
         "tonight",
         "evening",
-        "name",
         "window",
         "outside",
         "time",
         "check",
-        "special",
-        "free",
         "see"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Good evening, Bella Restaurant.",
-            "translation": "عصر بخیر، رستوران بلا."
+            "text": "Good evening, Bella Restaurant. How can I help you?",
+            "translation": "عصر بخیر، رستوران بلا. چطور می‌توانم کمکتان کنم؟"
         },
         {
             "order": 1,
@@ -57,8 +54,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "We have a free table at eight. Tonight we have a special dish.",
-            "translation": "ساعت هشت یک میز خالی داریم. امشب یک غذای ویژه داریم."
+            "text": "We have a free table at eight.",
+            "translation": "ساعت هشت یک میز خالی داریم."
         },
         {
             "order": 7,

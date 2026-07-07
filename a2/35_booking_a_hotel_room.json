@@ -2,12 +2,8 @@
     "title": "35 - Booking a Hotel Room",
     "description": "رزرو تلفنی اتاق هتل و پرسیدن درباره امکانات.",
     "words": [
-        "hotel",
-        "room",
-        "book",
         "nights",
         "double",
-        "breakfast",
         "available",
         "view",
         "price",

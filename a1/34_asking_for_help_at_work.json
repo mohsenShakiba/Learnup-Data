@@ -17,6 +17,7 @@
         "thanks",
         "welcome"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -76,8 +77,8 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Of course. First, print a copy too.",
-            "translation": "البته. اول، یک نسخه هم چاپ کن."
+            "text": "Of course. First, open your email. Then print a copy too.",
+            "translation": "البته. اول ایمیلت را باز کن. بعد یک نسخه هم چاپ کن."
         },
         {
             "order": 10,

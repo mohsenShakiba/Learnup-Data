@@ -61,14 +61,14 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Who is your favorite writer?",
-            "translation": "نویسنده مورد علاقه‌ات کیست؟"
+            "text": "Can you show me a book by your favorite writer?",
+            "translation": "می‌توانید کتابی از نویسنده مورد علاقه‌تان به من نشان دهید؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "I love this one. His new book is wonderful.",
-            "translation": "من این یکی را دوست دارم. کتاب جدیدش فوق‌العاده است."
+            "text": "Yes. This book is by my favorite writer. It's wonderful.",
+            "translation": "بله. این کتاب از نویسنده مورد علاقه من است. فوق‌العاده است."
         },
         {
             "order": 8,
@@ -79,8 +79,8 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Do you want a newspaper? Today's is new.",
-            "translation": "روزنامه می‌خواهید؟ روزنامه امروز تازه است."
+            "text": "Do you want a newspaper? Today's paper just came in.",
+            "translation": "روزنامه می‌خواهید؟ روزنامه امروز تازه رسیده است."
         },
         {
             "order": 10,

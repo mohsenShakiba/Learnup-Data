@@ -7,8 +7,8 @@
         "rude",
         "fight",
         "smoking",
-        "button",
-        "false",
+        "phone",
+        "quiet",
         "class",
         "true",
         "allowed"
@@ -61,20 +61,20 @@
         {
             "order": 7,
             "person": 1,
-            "text": "Press the red button to turn them off.",
-            "translation": "دکمه قرمز را بزنید تا خاموش شوند."
+            "text": "Please turn your phones off in class.",
+            "translation": "لطفاً در کلاس تلفن‌هایتان را خاموش کنید."
         },
         {
             "order": 8,
             "person": 1,
-            "text": "Is this sentence true or false?",
-            "translation": "این جمله درست است یا غلط؟"
+            "text": "Is talking loudly allowed?",
+            "translation": "بلند صحبت کردن مجاز است؟"
         },
         {
             "order": 9,
             "person": 2,
-            "text": "It is false, teacher.",
-            "translation": "غلط است، معلم."
+            "text": "No, we should be quiet.",
+            "translation": "نه، باید ساکت باشیم."
         },
         {
             "order": 10,

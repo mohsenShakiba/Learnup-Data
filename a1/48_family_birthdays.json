@@ -4,7 +4,6 @@
     "words": [
         "birthday",
         "December",
-        "birth",
         "month",
         "February",
         "parent",
@@ -14,7 +13,6 @@
         "July",
         "guess",
         "age",
-        "become",
         "April"
     ],
     "Level": "A1",
@@ -35,8 +33,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "Nice! My birth month is February.",
-            "translation": "چه خوب! ماه تولد من فوریه است."
+            "text": "Nice! My birthday is in February.",
+            "translation": "چه خوب! تولد من در فوریه است."
         },
         {
             "order": 3,
@@ -47,8 +45,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "My parents have their party in May.",
-            "translation": "پدر و مادرم مهمانی‌شان در ماه مه است."
+            "text": "My parents' birthdays are in May.",
+            "translation": "تولد پدر و مادرم در ماه مه است."
         },
         {
             "order": 5,
@@ -83,7 +81,7 @@
         {
             "order": 10,
             "person": 1,
-            "text": "No, I become twenty-one in April.",
+            "text": "No, I turn twenty-one in April.",
             "translation": "نه، در آوریل بیست‌ویک ساله می‌شوم."
         },
         {

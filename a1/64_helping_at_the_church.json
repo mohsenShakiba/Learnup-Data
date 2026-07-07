@@ -4,12 +4,14 @@
     "words": [
         "church",
         "poor",
-        "smoke",
+        "kitchen",
         "help",
         "food",
         "family",
         "kind",
-        "cook"
+        "cook",
+        "clothes",
+        "Sunday"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -41,26 +43,26 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Do you smell smoke?",
-            "translation": "بوی دود می‌آید؟"
+            "text": "Do you cook food there?",
+            "translation": "آن‌جا غذا می‌پزید؟"
         },
         {
             "order": 5,
             "person": 2,
-            "text": "Yes, someone is cooking outside.",
-            "translation": "بله، یک نفر بیرون آشپزی می‌کند."
+            "text": "Yes, we cook in the kitchen.",
+            "translation": "بله، در آشپزخانه غذا می‌پزیم."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Oh, it is just the kitchen smoke.",
-            "translation": "اوه، فقط دود آشپزخانه است."
+            "text": "Can I help in the kitchen?",
+            "translation": "می‌توانم در آشپزخانه کمک کنم؟"
         },
         {
             "order": 7,
             "person": 2,
-            "text": "Good. I was worried about a fire.",
-            "translation": "خوبه. نگران آتش‌سوزی شدم."
+            "text": "Yes, that would be kind.",
+            "translation": "بله، این خیلی لطف است."
         },
         {
             "order": 8,

@@ -6,8 +6,6 @@
         "plan",
         "beach",
         "weekend",
-        "hotel",
-        "book",
         "pack",
         "weather",
         "sunny",
@@ -23,6 +21,7 @@
         "sun",
         "clothes"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {

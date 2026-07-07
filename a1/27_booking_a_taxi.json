@@ -3,7 +3,6 @@
     "description": "رزرو تلفنی تاکسی برای رفتن به فرودگاه.",
     "words": [
         "taxi",
-        "book",
         "airport",
         "pick",
         "early",
@@ -17,6 +16,7 @@
         "flight",
         "ready"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {

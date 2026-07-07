@@ -17,13 +17,14 @@
         "moment",
         "information"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Hello, tech support. How can I help you?",
-            "translation": "سلام، پشتیبانی فنی. چطور می‌توانم کمکتان کنم؟"
+            "text": "Hello, this is tech support. How can I help you?",
+            "translation": "سلام، اینجا پشتیبانی فنی است. چطور می‌توانم کمکتان کنم؟"
         },
         {
             "order": 1,

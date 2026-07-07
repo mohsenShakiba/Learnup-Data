@@ -15,6 +15,7 @@
         "ready",
         "tip"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -50,8 +51,8 @@
         {
             "order": 5,
             "person": 1,
-            "text": "Yes, please. And a small cut at the back.",
-            "translation": "بله لطفاً. و کمی کوتاهی پشت سر."
+            "text": "Yes, please. And please cut a little at the back.",
+            "translation": "بله لطفاً. و لطفاً پشت موها را کمی کوتاه کنید."
         },
         {
             "order": 6,
@@ -92,8 +93,8 @@
         {
             "order": 12,
             "person": 2,
-            "text": "Thank you! Come again.",
-            "translation": "ممنون! باز هم تشریف بیاورید."
+            "text": "Thank you! Please come again.",
+            "translation": "ممنون! لطفاً باز هم تشریف بیاورید."
         }
     ]
 }

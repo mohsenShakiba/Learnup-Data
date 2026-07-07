@@ -8,7 +8,7 @@
         "bridge",
         "ago",
         "little",
-        "fire",
+        "station",
         "work",
         "city",
         "fast"
@@ -55,8 +55,8 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Yes, the subway goes under the bridge.",
-            "translation": "بله، مترو از زیر پل می‌گذرد."
+            "text": "Yes, the subway goes near the bridge.",
+            "translation": "بله، مترو از نزدیک پل می‌گذرد."
         },
         {
             "order": 7,
@@ -79,14 +79,14 @@
         {
             "order": 10,
             "person": 1,
-            "text": "I saw a fire near the station.",
-            "translation": "نزدیک ایستگاه یک آتش‌سوزی دیدم."
+            "text": "I work near the station.",
+            "translation": "نزدیک ایستگاه کار می‌کنم."
         },
         {
             "order": 11,
             "person": 2,
-            "text": "Oh no! Was it bad?",
-            "translation": "وای نه! بد بود؟"
+            "text": "That is easy. The subway is useful.",
+            "translation": "این راحت است. مترو مفید است."
         }
     ]
 }

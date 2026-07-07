@@ -3,7 +3,6 @@
     "description": "گرفتن کارت عضویت و امانت گرفتن کتاب از کتابخانه.",
     "words": [
         "library",
-        "book",
         "borrow",
         "card",
         "member",
@@ -12,10 +11,10 @@
         "quiet",
         "find",
         "history",
-        "free",
         "late",
-        "pay"
+        "fee"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -87,8 +86,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "You pay a little money. And please stay quiet inside.",
-            "translation": "کمی پول می‌دهید. و لطفاً داخل ساکت باشید."
+            "text": "You pay a small late fee. And please stay quiet inside.",
+            "translation": "یک جریمه کوچک برای دیرکرد می‌پردازید. و لطفاً داخل ساکت باشید."
         }
     ]
 }

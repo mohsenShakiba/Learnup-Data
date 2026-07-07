@@ -5,6 +5,7 @@
         "gym",
         "healthy",
         "idea",
+        "exercise",
         "run",
         "machine",
         "lift",
@@ -16,12 +17,12 @@
         "arm",
         "leg",
         "body",
-        "hand",
         "neck",
         "heart",
         "breathe",
-        "hold"
+        "stretch"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -39,8 +40,8 @@
         {
             "order": 2,
             "person": 1,
-            "text": "That's a good idea. What exercise do you like?",
-            "translation": "فکر خوبی است. چه ورزشی را دوست دارید؟"
+            "text": "That's a good idea. What kind of exercise do you like?",
+            "translation": "فکر خوبی است. چه نوع ورزشی را دوست دارید؟"
         },
         {
             "order": 3,
@@ -57,14 +58,14 @@
         {
             "order": 5,
             "person": 2,
-            "text": "I also want to lift and hold weights.",
-            "translation": "می‌خواهم وزنه هم بلند کنم و نگه دارم."
+            "text": "I also want to lift weights.",
+            "translation": "می‌خواهم وزنه هم بلند کنم."
         },
         {
             "order": 6,
             "person": 1,
-            "text": "Sure. Let's start slowly and stretch your arms, legs, and neck.",
-            "translation": "حتماً. بیایید آهسته شروع کنیم و بازوها، پاها و گردنتان را بکشید."
+            "text": "Sure. Let's start slowly. First, stretch your arms, legs, and neck.",
+            "translation": "حتماً. بیایید آهسته شروع کنیم. اول بازوها، پاها و گردنتان را بکشید."
         },
         {
             "order": 7,
@@ -81,8 +82,8 @@
         {
             "order": 9,
             "person": 2,
-            "text": "Okay. I want a strong body and strong hands.",
-            "translation": "باشه. بدن و دست‌های قوی می‌خواهم."
+            "text": "Okay. I want to get stronger.",
+            "translation": "باشه. می‌خواهم قوی‌تر شوم."
         },
         {
             "order": 10,

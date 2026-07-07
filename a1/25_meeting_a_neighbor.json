@@ -6,17 +6,17 @@
         "next",
         "door",
         "move",
-        "floor",
         "quiet",
         "noise",
         "anything",
         "borrow",
-        "key",
+        "cup",
         "building",
         "coffee",
         "anytime",
         "glad"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -70,8 +70,8 @@
         {
             "order": 8,
             "person": 1,
-            "text": "You can borrow my spare key anytime.",
-            "translation": "هر وقت خواستید می‌توانید کلید یدکی‌ام را قرض بگیرید."
+            "text": "You can borrow a cup anytime.",
+            "translation": "هر وقت خواستید می‌توانید یک فنجان قرض بگیرید."
         },
         {
             "order": 9,

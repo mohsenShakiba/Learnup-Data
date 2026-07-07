@@ -4,11 +4,11 @@
     "words": [
         "business",
         "tool",
-        "leader",
+        "owner",
         "difficult",
         "because",
         "grow",
-        "win",
+        "find",
         "start",
         "shop",
         "hard"
@@ -37,14 +37,14 @@
         {
             "order": 3,
             "person": 2,
-            "text": "Good idea. Who is the leader?",
-            "translation": "فکر خوبیه. رهبرش کیست؟"
+            "text": "Good idea. Are you the owner?",
+            "translation": "فکر خوبیه. خودت صاحبش هستی؟"
         },
         {
             "order": 4,
             "person": 1,
-            "text": "I am the leader for now.",
-            "translation": "فعلاً من رهبر هستم."
+            "text": "Yes, I am the owner for now.",
+            "translation": "بله، فعلاً خودم صاحبش هستم."
         },
         {
             "order": 5,
@@ -73,8 +73,8 @@
         {
             "order": 9,
             "person": 2,
-            "text": "You will win many customers.",
-            "translation": "مشتری‌های زیادی به دست می‌آوری."
+            "text": "You will find many customers.",
+            "translation": "مشتری‌های زیادی پیدا می‌کنی."
         },
         {
             "order": 10,

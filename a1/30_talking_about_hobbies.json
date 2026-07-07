@@ -3,7 +3,6 @@
     "description": "گفتگوی دو دوست درباره سرگرمی‌ها و علاقه‌مندی‌ها.",
     "words": [
         "hobby",
-        "free",
         "time",
         "paint",
         "music",
@@ -24,6 +23,7 @@
         "sport",
         "ride"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -77,14 +77,14 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Nice! I'm interested in cycling too.",
-            "translation": "چه خوب! من هم به دوچرخه‌سواری علاقه دارم."
+            "text": "Nice! I like bike rides too.",
+            "translation": "چه خوب! من هم دوچرخه‌سواری را دوست دارم."
         },
         {
             "order": 9,
             "person": 2,
-            "text": "Then join me sometime. There is a running club on Saturdays.",
-            "translation": "پس یک وقتی با من بیا. شنبه‌ها یک باشگاه دو هست."
+            "text": "Then join me sometime. There is a bike club on Saturdays.",
+            "translation": "پس یک وقتی با من بیا. شنبه‌ها یک باشگاه دوچرخه‌سواری هست."
         },
         {
             "order": 10,

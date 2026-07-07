@@ -67,8 +67,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "My sister is a waitress. My uncle is a farmer on a farm.",
-            "translation": "خواهرم پیشخدمت است. عمویم کشاورزی در یک مزرعه است."
+            "text": "My sister is a waitress. My uncle is a farmer. He works on a farm.",
+            "translation": "خواهرم پیشخدمت است. عمویم کشاورز است. او در یک مزرعه کار می‌کند."
         },
         {
             "order": 8,

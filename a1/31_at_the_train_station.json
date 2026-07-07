@@ -13,6 +13,7 @@
         "hurry",
         "trip"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -54,7 +55,7 @@
         {
             "order": 6,
             "person": 1,
-            "text": "Do I change trains?",
+            "text": "Do I need to change trains?",
             "translation": "باید قطار عوض کنم؟"
         },
         {

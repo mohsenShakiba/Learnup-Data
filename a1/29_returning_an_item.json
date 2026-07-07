@@ -15,6 +15,7 @@
         "back",
         "problem"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -27,7 +28,7 @@
             "order": 1,
             "person": 2,
             "text": "Okay. Is there a problem with it?",
-            "translation": "باشه. مشکلی با آن دارد؟"
+            "translation": "باشه. مشکلی دارد؟"
         },
         {
             "order": 2,
@@ -50,8 +51,8 @@
         {
             "order": 5,
             "person": 2,
-            "text": "Would you like your money back, or another one?",
-            "translation": "پولتان را پس می‌خواهید یا یکی دیگر؟"
+            "text": "Would you like your money back, or would you like another shirt?",
+            "translation": "پولتان را پس می‌خواهید، یا یک پیراهن دیگر می‌خواهید؟"
         },
         {
             "order": 6,

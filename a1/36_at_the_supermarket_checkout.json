@@ -17,13 +17,14 @@
         "supermarket",
         "thirty"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
             "order": 0,
             "person": 1,
-            "text": "Welcome to our supermarket. Did you find everything okay?",
-            "translation": "به سوپرمارکت ما خوش آمدید. همه چیز را به‌راحتی پیدا کردید؟"
+            "text": "Hi. Welcome to the supermarket. Did you find everything okay?",
+            "translation": "سلام. به سوپرمارکت خوش آمدید. همه چیز را به‌راحتی پیدا کردید؟"
         },
         {
             "order": 1,
@@ -46,8 +47,8 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Let me check everything. I can help with the heavy bags.",
-            "translation": "بگذارید همه را حساب کنم. می‌توانم با کیسه‌های سنگین کمک کنم."
+            "text": "Let me check the price. I can help with the heavy bags.",
+            "translation": "بگذارید قیمت را چک کنم. می‌توانم برای کیسه‌های سنگین کمک کنم."
         },
         {
             "order": 5,

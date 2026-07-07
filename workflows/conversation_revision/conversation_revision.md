@@ -12,6 +12,19 @@ conversation, revises only that one, logs it, and exits. Do not touch any other
 conversation. When every conversation in `a1/` already appears in `plan.csv`,
 there is nothing to do — report that and stop.
 
+## One-per-minute schedule
+
+Use `scripts/codex_conversation_audit_loop.ps1` to continue the audit one
+conversation at a time with a 60-second pause between runs:
+
+```powershell
+.\scripts\codex_conversation_audit_loop.ps1
+```
+
+The loop tracks scheduled audit progress in `conversation_audit_plan.csv`, not
+`plan.csv`, so it can continue from the last audited conversation even when
+`plan.csv` already has bulk-added entries.
+
 ## Priority
 
 Natural-sounding dialogue beats everything else — vocabulary count, the word

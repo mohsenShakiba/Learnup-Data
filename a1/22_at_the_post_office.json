@@ -12,12 +12,12 @@
         "fast",
         "slow",
         "country",
-        "sign",
         "receipt",
         "add",
         "mail",
         "write"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -47,13 +47,13 @@
         {
             "order": 4,
             "person": 2,
-            "text": "Do you want it fast or slow?",
-            "translation": "آن را سریع می‌خواهید یا آهسته؟"
+            "text": "Do you want fast or slow delivery?",
+            "translation": "ارسال سریع می‌خواهید یا معمولی؟"
         },
         {
             "order": 5,
             "person": 1,
-            "text": "Fast, please. How many days?",
+            "text": "Fast, please. How many days does it take?",
             "translation": "سریع، لطفاً. چند روز طول می‌کشد؟"
         },
         {
@@ -83,8 +83,8 @@
         {
             "order": 10,
             "person": 2,
-            "text": "Of course. Your mail will go out soon.",
-            "translation": "البته. نامه‌های شما به‌زودی ارسال می‌شوند."
+            "text": "Of course. Your package and letter will go out soon.",
+            "translation": "البته. بسته و نامه شما به‌زودی ارسال می‌شوند."
         }
     ]
 }

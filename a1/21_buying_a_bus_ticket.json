@@ -18,6 +18,7 @@
         "change",
         "stop"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -41,47 +42,53 @@
         {
             "order": 3,
             "person": 2,
-            "text": "It leaves at ten. How much does it cost?",
-            "translation": "ساعت ده حرکت می‌کند. قیمتش چقدر است؟"
+            "text": "It leaves at ten.",
+            "translation": "ساعت ده حرکت می‌کند."
         },
         {
             "order": 4,
+            "person": 1,
+            "text": "How much does it cost?",
+            "translation": "قیمتش چقدر است؟"
+        },
+        {
+            "order": 5,
             "person": 2,
             "text": "It is twelve dollars.",
             "translation": "دوازده دلار است."
         },
         {
-            "order": 5,
+            "order": 6,
             "person": 1,
             "text": "Can I pay by card?",
             "translation": "می‌توانم با کارت پرداخت کنم؟"
         },
         {
-            "order": 6,
+            "order": 7,
             "person": 2,
             "text": "Sorry, we only take cash today.",
             "translation": "ببخشید، امروز فقط پول نقد می‌گیریم."
         },
         {
-            "order": 7,
+            "order": 8,
             "person": 1,
             "text": "Okay. Here is twenty dollars. Which platform is it?",
             "translation": "باشه. این هم بیست دلار. کدام سکو است؟"
         },
         {
-            "order": 8,
+            "order": 9,
             "person": 2,
             "text": "Platform three. Here is your change, and your seat is number eight.",
             "translation": "سکوی سه. این هم بقیه پولتان، و صندلی شما شماره هشت است."
         },
         {
-            "order": 9,
+            "order": 10,
             "person": 1,
             "text": "Thank you. When does it arrive?",
             "translation": "ممنون. کی می‌رسد؟"
         },
         {
-            "order": 10,
+            "order": 11,
             "person": 2,
             "text": "At one o'clock. The bus stops once on the way.",
             "translation": "ساعت یک. اتوبوس یک بار در راه توقف می‌کند."

@@ -10,7 +10,8 @@
         "talk",
         "show",
         "play",
-        "story"
+        "story",
+        "friends"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -36,20 +37,20 @@
         {
             "order": 3,
             "person": 2,
-            "text": "The story was not real. It was silly.",
-            "translation": "داستان واقعی نبود. مسخره بود."
+            "text": "The story did not feel real. It was silly.",
+            "translation": "داستان واقعی به نظر نمی‌رسید. مسخره بود."
         },
         {
             "order": 4,
             "person": 1,
-            "text": "Did you talk to the actors?",
-            "translation": "با بازیگرها صحبت کردی؟"
+            "text": "Did you talk about it after the show?",
+            "translation": "بعد از نمایش درباره‌اش صحبت کردی؟"
         },
         {
             "order": 5,
             "person": 2,
-            "text": "No, but a big group waited outside.",
-            "translation": "نه، اما یک گروه بزرگ بیرون منتظر بودند."
+            "text": "Yes, our group talked outside.",
+            "translation": "بله، گروه ما بیرون صحبت کرد."
         },
         {
             "order": 6,

@@ -10,14 +10,14 @@
         "cheap",
         "minutes",
         "internet",
-        "sign",
         "pay",
         "choose",
         "include",
         "mobile phone",
-        "internet",
+        "data",
         "twenty"
     ],
+    "Level": "A1",
     "estimatedDuration": 1,
     "sentences": [
         {
@@ -35,14 +35,14 @@
         {
             "order": 2,
             "person": 1,
-            "text": "No, but I use a lot of internet.",
-            "translation": "نه، اما خیلی از اینترنت استفاده می‌کنم."
+            "text": "No, but I use a lot of data.",
+            "translation": "نه، اما خیلی از اینترنت موبایل استفاده می‌کنم."
         },
         {
             "order": 3,
             "person": 2,
-            "text": "Then you need a plan with more internet.",
-            "translation": "پس به طرحی با اینترنت بیشتر نیاز دارید."
+            "text": "Then you need a plan with more data.",
+            "translation": "پس به طرحی با اینترنت موبایل بیشتر نیاز دارید."
         },
         {
             "order": 4,
@@ -65,8 +65,8 @@
         {
             "order": 7,
             "person": 2,
-            "text": "It includes lots of internet and free calls.",
-            "translation": "شامل اینترنت زیاد و تماس رایگان می‌شود."
+            "text": "It includes lots of data and free calls.",
+            "translation": "شامل اینترنت موبایل زیاد و تماس رایگان می‌شود."
         },
         {
             "order": 8,

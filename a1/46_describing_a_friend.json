@@ -16,8 +16,7 @@
         "important",
         "laugh",
         "person",
-        "girlfriend",
-        "boyfriend"
+        "girlfriend"
     ],
     "Level": "A1",
     "estimatedDuration": 1,
@@ -91,8 +90,8 @@
         {
             "order": 11,
             "person": 2,
-            "text": "No, not now. But my sister has a nice boyfriend.",
-            "translation": "نه، الان نه. اما خواهرم یک دوست‌پسر خوب دارد."
+            "text": "No, not now. He is very busy with work.",
+            "translation": "نه، الان نه. خیلی درگیر کار است."
         },
         {
             "order": 12,

@@ -8,7 +8,6 @@
         "alone",
         "feeling",
         "cry",
-        "angry",
         "kind",
         "friend",
         "miss",
@@ -68,14 +67,14 @@
         {
             "order": 8,
             "person": 1,
-            "text": "Are you angry with anyone?",
-            "translation": "از کسی عصبانی هستی؟"
+            "text": "Do you miss your family?",
+            "translation": "دلت برای خانواده‌ات تنگ شده؟"
         },
         {
             "order": 9,
             "person": 2,
-            "text": "No, I just miss my family.",
-            "translation": "نه، فقط دلم برای خانواده‌ام تنگ شده."
+            "text": "Yes, I miss them a lot.",
+            "translation": "بله، خیلی دلم برایشان تنگ شده."
         },
         {
             "order": 10,

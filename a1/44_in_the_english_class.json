@@ -24,8 +24,8 @@
         {
             "order": 0,
             "person": 1,
-            "text": "Good morning, class. Welcome to the classroom.",
-            "translation": "صبح بخیر، بچه‌ها. به کلاس خوش آمدید."
+            "text": "Good morning, class. Welcome to our English classroom.",
+            "translation": "صبح بخیر، بچه‌ها. به کلاس انگلیسی ما خوش آمدید."
         },
         {
             "order": 1,
@@ -48,7 +48,7 @@
         {
             "order": 4,
             "person": 1,
-            "text": "Yes. Today we learn new words.",
+            "text": "Yes. Today we will learn new words.",
             "translation": "بله. امروز کلمات جدید یاد می‌گیریم."
         },
         {
