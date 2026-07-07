@@ -14,7 +14,6 @@
         "urgent",
         "responsible",
         "investigate",
-        "fix",
         "follow up"
     ],
     "estimatedDuration": 1,

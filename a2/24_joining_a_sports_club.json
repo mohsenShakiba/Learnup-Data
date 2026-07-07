@@ -3,7 +3,6 @@
     "description": "ثبت‌نام در یک باشگاه ورزشی و پرسیدن درباره برنامه‌ها.",
     "words": [
         "club",
-        "join",
         "member",
         "training",
         "coach",
@@ -14,7 +13,6 @@
         "equipment",
         "match",
         "fitness",
-        "twice",
         "improve"
     ],
     "estimatedDuration": 1,

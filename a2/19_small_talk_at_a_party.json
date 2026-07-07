@@ -6,16 +6,13 @@
         "know",
         "host",
         "guest",
-        "live",
-        "work",
         "recently",
         "interesting",
         "common",
         "drink",
         "enjoy",
         "chat",
-        "introduce",
-        "later"
+        "introduce"
     ],
     "estimatedDuration": 1,
     "sentences": [

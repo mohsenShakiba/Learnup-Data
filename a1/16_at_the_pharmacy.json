@@ -1,92 +1,86 @@
 {
-    "title": "16 - At the Pharmacy",
-    "description": "گرفتن دارو برای سرفه از داروخانه.",
-    "words": [
-        "cough",
-        "fever",
-        "medicine",
-        "help",
-        "pill",
-        "twice",
-        "day",
-        "food",
-        "water",
-        "better"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi, I have a bad cough.",
-            "translation": "سلام، سرفه بدی دارم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I'm sorry to hear that. How many days?",
-            "translation": "متأسفم. چند روز است؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Three days.",
-            "translation": "سه روز."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Do you have a fever?",
-            "translation": "تب دارید؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "No, just a cough.",
-            "translation": "نه، فقط سرفه."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "This medicine can help.",
-            "translation": "این دارو می‌تواند کمک کند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "How do I take it?",
-            "translation": "چطور بخورمش؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Take one pill twice a day.",
-            "translation": "روزی دو بار یک قرص مصرف کنید."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Before or after food?",
-            "translation": "قبل از غذا یا بعد از غذا مصرف کنم؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "After food, with water.",
-            "translation": "بعد از غذا، با آب."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Okay. Thank you.",
-            "translation": "باشه. ممنون."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Feel better soon!",
-            "translation": "امیدوارم زودتر بهتر شوید!"
-        }
-    ]
+  "title": "16 - At the Pharmacy",
+  "description": "گرفتن دارو برای سرفه از داروخانه.",
+  "words": [
+    "cough",
+    "fever",
+    "pill",
+    "twice"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi, I have a bad cough.",
+      "translation": "سلام، سرفه بدی دارم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I'm sorry to hear that. How many days?",
+      "translation": "متأسفم. چند روز است؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Three days.",
+      "translation": "سه روز."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Do you have a fever?",
+      "translation": "تب دارید؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "No, just a cough.",
+      "translation": "نه، فقط سرفه."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "This medicine can help.",
+      "translation": "این دارو می‌تواند کمک کند."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "How do I take it?",
+      "translation": "چطور بخورمش؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Take one pill twice a day.",
+      "translation": "روزی دو بار یک قرص مصرف کنید."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Before or after food?",
+      "translation": "قبل از غذا یا بعد از غذا مصرف کنم؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "After food, with water.",
+      "translation": "بعد از غذا، با آب."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Okay. Thank you.",
+      "translation": "باشه. ممنون."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Feel better soon!",
+      "translation": "امیدوارم زودتر بهتر شوید!"
+    }
+  ]
 }

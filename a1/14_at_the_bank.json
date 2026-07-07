@@ -2,16 +2,12 @@
     "title": "14 - At the Bank",
     "description": "باز کردن یک حساب جدید در بانک.",
     "words": [
-        "bank",
         "account",
         "open",
         "form",
         "put",
-        "dollar",
-        "card",
         "money",
-        "ATM",
-        "help"
+        "ATM"
     ],
     "Level": "A1",
     "estimatedDuration": 1,

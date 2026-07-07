@@ -4,15 +4,12 @@
     "words": [
         "ticket",
         "passport",
-        "bag",
         "flight",
-        "late",
         "gate",
         "window",
         "seat",
         "plane",
-        "trip",
-        "minute"
+        "trip"
     ],
     "Level": "A1",
     "estimatedDuration": 1,

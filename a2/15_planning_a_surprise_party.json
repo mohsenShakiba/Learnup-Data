@@ -1,95 +1,93 @@
 {
-    "title": "15 - Planning a Surprise Party",
-    "description": "دو دوست برای برنامه‌ریزی یک جشن غافلگیرکننده هماهنگ می‌شوند.",
-    "words": [
-        "surprise",
-        "party",
-        "invite",
-        "secret",
-        "guest",
-        "decorate",
-        "cake",
-        "balloon",
-        "hide",
-        "arrive",
-        "organize",
-        "music",
-        "plan",
-        "quiet"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Let's plan a surprise party for Anna.",
-            "translation": "بیا برای آنا یک جشن غافلگیرکننده برنامه‌ریزی کنیم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Great idea! When is her birthday?",
-            "translation": "ایده عالی! تولدش کی است؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Next Saturday. It must be a secret.",
-            "translation": "شنبه آینده. باید مخفی بماند."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Who should we invite?",
-            "translation": "چه کسانی را دعوت کنیم؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "All her close friends.",
-            "translation": "همه دوستان نزدیکش."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "I'll buy a cake and some balloons.",
-            "translation": "من یک کیک و چند بادکنک می‌خرم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "I'll decorate the room with music.",
-            "translation": "من اتاق را تزیین می‌کنم و موسیقی می‌گذارم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "When will the guests arrive?",
-            "translation": "مهمان‌ها کی می‌رسند؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "At seven. Anna comes at half past seven.",
-            "translation": "ساعت هفت. آنا ساعت هفت و نیم می‌آید."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "So everyone must hide and be quiet.",
-            "translation": "پس همه باید قایم شوند و ساکت باشند."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Exactly. She won't expect anything.",
-            "translation": "دقیقاً. اصلاً انتظارش را نخواهد داشت."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "This is going to be so much fun!",
-            "translation": "این خیلی خوش خواهد گذشت!"
-        }
-    ]
+  "title": "15 - Planning a Surprise Party",
+  "description": "دو دوست برای برنامه‌ریزی یک جشن غافلگیرکننده هماهنگ می‌شوند.",
+  "words": [
+    "surprise",
+    "party",
+    "invite",
+    "secret",
+    "guest",
+    "decorate",
+    "cake",
+    "balloon",
+    "hide",
+    "arrive",
+    "organize",
+    "music"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Let's plan a surprise party for Anna.",
+      "translation": "بیا برای آنا یک جشن غافلگیرکننده برنامه‌ریزی کنیم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Great idea! When is her birthday?",
+      "translation": "ایده عالی! تولدش کی است؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Next Saturday. It must be a secret.",
+      "translation": "شنبه آینده. باید مخفی بماند."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Who should we invite?",
+      "translation": "چه کسانی را دعوت کنیم؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "All her close friends.",
+      "translation": "همه دوستان نزدیکش."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "I'll buy a cake and some balloons.",
+      "translation": "من یک کیک و چند بادکنک می‌خرم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "I'll decorate the room with music.",
+      "translation": "من اتاق را تزیین می‌کنم و موسیقی می‌گذارم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "When will the guests arrive?",
+      "translation": "مهمان‌ها کی می‌رسند؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "At seven. Anna comes at half past seven.",
+      "translation": "ساعت هفت. آنا ساعت هفت و نیم می‌آید."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "So everyone must hide and be quiet.",
+      "translation": "پس همه باید قایم شوند و ساکت باشند."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Exactly. She won't expect anything.",
+      "translation": "دقیقاً. اصلاً انتظارش را نخواهد داشت."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "This is going to be so much fun!",
+      "translation": "این خیلی خوش خواهد گذشت!"
+    }
+  ]
 }

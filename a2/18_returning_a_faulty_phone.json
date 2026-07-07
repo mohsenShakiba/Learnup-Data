@@ -10,12 +10,9 @@
         "repair",
         "replace",
         "charge",
-        "slow",
         "fault",
         "check",
-        "service",
-        "week",
-        "cost"
+        "service"
     ],
     "estimatedDuration": 1,
     "sentences": [

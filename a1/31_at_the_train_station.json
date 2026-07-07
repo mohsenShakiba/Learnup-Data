@@ -3,15 +3,9 @@
     "description": "پرسیدن اطلاعات درباره قطار و سکو در ایستگاه راه‌آهن.",
     "words": [
         "train",
-        "platform",
-        "ticket",
-        "next",
-        "leave",
-        "late",
         "change",
         "arrive",
-        "hurry",
-        "trip"
+        "hurry"
     ],
     "Level": "A1",
     "estimatedDuration": 1,

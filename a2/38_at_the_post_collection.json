@@ -1,93 +1,92 @@
 {
-    "title": "38 - Collecting a Parcel",
-    "description": "گرفتن یک بسته از انبار پست با کارت اطلاع‌رسانی.",
-    "words": [
-        "parcel",
-        "collect",
-        "card",
-        "delivery",
-        "missed",
-        "identity",
-        "shelf",
-        "counter",
-        "address",
-        "check",
-        "ready",
-        "thanks"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi, I'm here to collect a parcel.",
-            "translation": "سلام، برای گرفتن یک بسته آمده‌ام."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Do you have the delivery card?",
-            "translation": "کارت تحویل را دارید؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Yes, here it is. I missed the delivery.",
-            "translation": "بله، بفرمایید. تحویل را از دست دادم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "No problem. May I see some identity?",
-            "translation": "مشکلی نیست. می‌توانم مدرک شناسایی ببینم؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Of course. Here's my ID card.",
-            "translation": "البته. این کارت شناسایی من است."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Thank you. Let me check the shelf.",
-            "translation": "ممنون. بگذارید قفسه را چک کنم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Is it a big box?",
-            "translation": "جعبه بزرگی است؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Medium size. Here it is.",
-            "translation": "اندازه متوسط. این هم بسته."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Great. Do I need to sign?",
-            "translation": "عالی. باید امضا کنم؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Yes, please sign at the counter.",
-            "translation": "بله، لطفاً پشت پیشخوان امضا کنید."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Done. Thank you for your help.",
-            "translation": "انجام شد. ممنون از کمکتان."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "You're welcome. Have a good day.",
-            "translation": "خواهش می‌کنم. روز خوبی داشته باشید."
-        }
-    ]
+  "title": "38 - Collecting a Parcel",
+  "description": "گرفتن یک بسته از انبار پست با کارت اطلاع‌رسانی.",
+  "words": [
+    "parcel",
+    "collect",
+    "delivery",
+    "missed",
+    "identity",
+    "shelf",
+    "counter",
+    "address",
+    "check",
+    "ready",
+    "thanks"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi, I'm here to collect a parcel.",
+      "translation": "سلام، برای گرفتن یک بسته آمده‌ام."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Do you have the delivery card?",
+      "translation": "کارت تحویل را دارید؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Yes, here it is. I missed the delivery.",
+      "translation": "بله، بفرمایید. تحویل را از دست دادم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "No problem. May I see some identity?",
+      "translation": "مشکلی نیست. می‌توانم مدرک شناسایی ببینم؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Of course. Here's my ID card.",
+      "translation": "البته. این کارت شناسایی من است."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Thank you. Let me check the shelf.",
+      "translation": "ممنون. بگذارید قفسه را چک کنم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Is it a big box?",
+      "translation": "جعبه بزرگی است؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Medium size. Here it is.",
+      "translation": "اندازه متوسط. این هم بسته."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Great. Do I need to sign?",
+      "translation": "عالی. باید امضا کنم؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Yes, please sign at the counter.",
+      "translation": "بله، لطفاً پشت پیشخوان امضا کنید."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Done. Thank you for your help.",
+      "translation": "انجام شد. ممنون از کمکتان."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "You're welcome. Have a good day.",
+      "translation": "خواهش می‌کنم. روز خوبی داشته باشید."
+    }
+  ]
 }
