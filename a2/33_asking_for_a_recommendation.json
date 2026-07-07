@@ -2,15 +2,14 @@
   "title": "33 - Asking for a Recommendation",
   "description": "پرسیدن از یک همکار درباره یک رستوران خوب برای شام.",
   "words": [
-    "recommend",
-    "restaurant",
-    "expensive",
-    "popular",
-    "vegetarian",
-    "service",
-    "friendly",
-    "worth",
-    "definitely"
+      "recommend",
+      "restaurant",
+      "expensive",
+      "vegetarian",
+      "service",
+      "friendly",
+      "worth",
+      "definitely"
   ],
   "estimatedDuration": 1,
   "sentences": [

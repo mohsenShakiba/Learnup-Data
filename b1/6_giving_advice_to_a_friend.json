@@ -1,19 +1,16 @@
-﻿{
+{
     "title":  "6 - Giving Advice to a Friend",
     "description":  "Ø¯Ø§Ø¯Ù† ØªÙˆØµÛŒÙ‡ Ø¨Ù‡ Ø¯ÙˆØ³ØªÛŒ Ú©Ù‡ Ø¯Ø±Ø¨Ø§Ø±Ù‡ ÛŒÚ© ØªØµÙ…ÛŒÙ… Ø´ØºÙ„ÛŒ Ù…Ø±Ø¯Ø¯ Ø§Ø³Øª.",
-    "words":  [
-                  "advice",
-                  "decision",
-                  "should",
-                  "consider",
-                  "opportunity",
-                  "risk",
-                  "regret",
-                  "depends",
-                  "suggest",
-                  "worried",
-                  "confident",
-                  "support"
+    "words": [
+        "decision",
+        "consider",
+        "opportunity",
+        "risk",
+        "regret",
+        "depends",
+        "worried",
+        "confident",
+        "support"
     ],
     "estimatedDuration":  1,
     "sentences":  [
