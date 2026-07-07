@@ -1,92 +1,91 @@
-﻿{
-    "title": "2 - Debating an Ethical Dilemma",
-    "description": "Ø¯Ùˆ Ø¯ÙˆØ³Øª Ø¯Ø±Ø¨Ø§Ø±Ù‡ ÛŒÚ© Ù…Ø¹Ø¶Ù„ Ø§Ø®Ù„Ø§Ù‚ÛŒ Ù¾ÛŒÚ†ÛŒØ¯Ù‡ Ùˆ Ù…Ø±Ø²Ù‡Ø§ÛŒ Ø¯Ø±Ø³Øª Ùˆ Ù†Ø§Ø¯Ø±Ø³Øª Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
-    "words": [
-        "dilemma",
-        "ethical",
-        "principle",
-        "justify",
-        "intention",
-        "integrity",
-        "rationalize",
-        "accountable",
-        "nuance",
-        "subjective",
-        "moral"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Would you ever bend the rules for a good cause?",
-            "translation": "Ø¢ÛŒØ§ ØªØ§ Ø¨Ù‡ Ø­Ø§Ù„ Ø¨Ø±Ø§ÛŒ ÛŒÚ© Ù‡Ø¯Ù Ø®ÙˆØ¨ Ù‚Ø§Ù†ÙˆÙ† Ø±Ø§ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù…ÛŒâ€ŒÚ¯ÛŒØ±ÛŒØŸ"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "It depends. The intention matters, but so do the consequences.",
-            "translation": "Ø¨Ø³ØªÚ¯ÛŒ Ø¯Ø§Ø±Ø¯. Ù†ÛŒØª Ù…Ù‡Ù… Ø§Ø³ØªØŒ Ø§Ù…Ø§ Ø¹ÙˆØ§Ù‚Ø¨ Ù‡Ù… Ù‡Ù…ÛŒÙ†â€ŒØ·ÙˆØ±."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "So you think the end can justify the means?",
-            "translation": "Ù¾Ø³ ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†ÛŒ Ù‡Ø¯Ù Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ ÙˆØ³ÛŒÙ„Ù‡ Ø±Ø§ ØªÙˆØ¬ÛŒÙ‡ Ú©Ù†Ø¯ØŸ"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Not always. That's a slippery slope.",
-            "translation": "Ù†Ù‡ Ù‡Ù…ÛŒØ´Ù‡. Ø§ÛŒÙ† ÛŒÚ© Ø³Ø±Ø§Ø´ÛŒØ¨ÛŒ Ø®Ø·Ø±Ù†Ø§Ú© Ø§Ø³Øª."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Once you compromise your principles, where do you stop?",
-            "translation": "ÙˆÙ‚ØªÛŒ ÛŒÚ© Ø¨Ø§Ø± Ø§ØµÙˆÙ„Øª Ø±Ø§ Ø²ÛŒØ± Ù¾Ø§ Ø¨Ú¯Ø°Ø§Ø±ÛŒØŒ Ú©Ø¬Ø§ Ù…ØªÙˆÙ‚Ù Ù…ÛŒâ€ŒØ´ÙˆÛŒØŸ"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Precisely. It's easy to rationalize small steps.",
-            "translation": "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. ØªÙˆØ¬ÛŒÙ‡ Ú©Ø±Ø¯Ù† Ù‚Ø¯Ù…â€ŒÙ‡Ø§ÛŒ Ú©ÙˆÚ†Ú© Ø¢Ø³Ø§Ù† Ø§Ø³Øª."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Yet life rarely offers black-and-white choices.",
-            "translation": "Ø¨Ø§ Ø§ÛŒÙ† Ø­Ø§Ù„ Ø²Ù†Ø¯Ú¯ÛŒ Ø¨Ù‡â€ŒÙ†Ø¯Ø±Øª Ø§Ù†ØªØ®Ø§Ø¨â€ŒÙ‡Ø§ÛŒ Ø³ÛŒØ§Ù‡ Ùˆ Ø³ÙÛŒØ¯ Ø§Ø±Ø§Ø¦Ù‡ Ù…ÛŒâ€ŒØ¯Ù‡Ø¯."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "That's the nuance people often overlook.",
-            "translation": "Ø§ÛŒÙ† Ù‡Ù…Ø§Ù† Ø¸Ø±Ø§ÙØªÛŒ Ø§Ø³Øª Ú©Ù‡ Ù…Ø±Ø¯Ù… Ø§ØºÙ„Ø¨ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù…ÛŒâ€ŒÚ¯ÛŒØ±Ù†Ø¯."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "So morality is partly subjective?",
-            "translation": "Ù¾Ø³ Ø§Ø®Ù„Ø§Ù‚ ØªØ§ Ø­Ø¯ÛŒ Ù†Ø³Ø¨ÛŒ Ø§Ø³ØªØŸ"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "To a degree, but some lines shouldn't be crossed.",
-            "translation": "ØªØ§ Ø­Ø¯ÛŒØŒ Ø§Ù…Ø§ Ø¨Ø¹Ø¶ÛŒ Ø®Ø·ÙˆØ· Ù†Ø¨Ø§ÛŒØ¯ Ø±Ø¯ Ø´ÙˆÙ†Ø¯."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "I suppose we each have to weigh it ourselves.",
-            "translation": "Ú¯Ù…Ø§Ù† Ù…ÛŒâ€ŒÚ©Ù†Ù… Ù‡Ø± Ú©Ø¯Ø§Ù…Ù…Ø§Ù† Ø¨Ø§ÛŒØ¯ Ø®ÙˆØ¯Ù…Ø§Ù† Ø¢Ù† Ø±Ø§ Ø¨Ø³Ù†Ø¬ÛŒÙ…."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "As long as we hold ourselves accountable.",
-            "translation": "ØªØ§ Ø²Ù…Ø§Ù†ÛŒ Ú©Ù‡ Ø®ÙˆØ¯Ù…Ø§Ù† Ø±Ø§ Ù¾Ø§Ø³Ø®Ú¯Ùˆ Ø¨Ø¯Ø§Ù†ÛŒÙ…."
-        }
-    ]
+{
+  "title": "2 - Debating an Ethical Dilemma",
+  "description": "Ø¯Ùˆ Ø¯ÙˆØ³Øª Ø¯Ø±Ø¨Ø§Ø±Ù‡ ÛŒÚ© Ù…Ø¹Ø¶Ù„ Ø§Ø®Ù„Ø§Ù‚ÛŒ Ù¾ÛŒÚ†ÛŒØ¯Ù‡ Ùˆ Ù…Ø±Ø²Ù‡Ø§ÛŒ Ø¯Ø±Ø³Øª Ùˆ Ù†Ø§Ø¯Ø±Ø³Øª Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+  "words": [
+    "dilemma",
+    "ethical",
+    "principle",
+    "justify",
+    "intention",
+    "integrity",
+    "rationalize",
+    "nuance",
+    "subjective",
+    "moral"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Would you ever bend the rules for a good cause?",
+      "translation": "Ø¢ÛŒØ§ ØªØ§ Ø¨Ù‡ Ø­Ø§Ù„ Ø¨Ø±Ø§ÛŒ ÛŒÚ© Ù‡Ø¯Ù Ø®ÙˆØ¨ Ù‚Ø§Ù†ÙˆÙ† Ø±Ø§ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù…ÛŒâ€ŒÚ¯ÛŒØ±ÛŒØŸ"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "It depends. The intention matters, but so do the consequences.",
+      "translation": "Ø¨Ø³ØªÚ¯ÛŒ Ø¯Ø§Ø±Ø¯. Ù†ÛŒØª Ù…Ù‡Ù… Ø§Ø³ØªØŒ Ø§Ù…Ø§ Ø¹ÙˆØ§Ù‚Ø¨ Ù‡Ù… Ù‡Ù…ÛŒÙ†â€ŒØ·ÙˆØ±."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "So you think the end can justify the means?",
+      "translation": "Ù¾Ø³ ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†ÛŒ Ù‡Ø¯Ù Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ ÙˆØ³ÛŒÙ„Ù‡ Ø±Ø§ ØªÙˆØ¬ÛŒÙ‡ Ú©Ù†Ø¯ØŸ"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Not always. That's a slippery slope.",
+      "translation": "Ù†Ù‡ Ù‡Ù…ÛŒØ´Ù‡. Ø§ÛŒÙ† ÛŒÚ© Ø³Ø±Ø§Ø´ÛŒØ¨ÛŒ Ø®Ø·Ø±Ù†Ø§Ú© Ø§Ø³Øª."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Once you compromise your principles, where do you stop?",
+      "translation": "ÙˆÙ‚ØªÛŒ ÛŒÚ© Ø¨Ø§Ø± Ø§ØµÙˆÙ„Øª Ø±Ø§ Ø²ÛŒØ± Ù¾Ø§ Ø¨Ú¯Ø°Ø§Ø±ÛŒØŒ Ú©Ø¬Ø§ Ù…ØªÙˆÙ‚Ù Ù…ÛŒâ€ŒØ´ÙˆÛŒØŸ"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Precisely. It's easy to rationalize small steps.",
+      "translation": "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. ØªÙˆØ¬ÛŒÙ‡ Ú©Ø±Ø¯Ù† Ù‚Ø¯Ù…â€ŒÙ‡Ø§ÛŒ Ú©ÙˆÚ†Ú© Ø¢Ø³Ø§Ù† Ø§Ø³Øª."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Yet life rarely offers black-and-white choices.",
+      "translation": "Ø¨Ø§ Ø§ÛŒÙ† Ø­Ø§Ù„ Ø²Ù†Ø¯Ú¯ÛŒ Ø¨Ù‡â€ŒÙ†Ø¯Ø±Øª Ø§Ù†ØªØ®Ø§Ø¨â€ŒÙ‡Ø§ÛŒ Ø³ÛŒØ§Ù‡ Ùˆ Ø³ÙÛŒØ¯ Ø§Ø±Ø§Ø¦Ù‡ Ù…ÛŒâ€ŒØ¯Ù‡Ø¯."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "That's the nuance people often overlook.",
+      "translation": "Ø§ÛŒÙ† Ù‡Ù…Ø§Ù† Ø¸Ø±Ø§ÙØªÛŒ Ø§Ø³Øª Ú©Ù‡ Ù…Ø±Ø¯Ù… Ø§ØºÙ„Ø¨ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù…ÛŒâ€ŒÚ¯ÛŒØ±Ù†Ø¯."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "So morality is partly subjective?",
+      "translation": "Ù¾Ø³ Ø§Ø®Ù„Ø§Ù‚ ØªØ§ Ø­Ø¯ÛŒ Ù†Ø³Ø¨ÛŒ Ø§Ø³ØªØŸ"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "To a degree, but some lines shouldn't be crossed.",
+      "translation": "ØªØ§ Ø­Ø¯ÛŒØŒ Ø§Ù…Ø§ Ø¨Ø¹Ø¶ÛŒ Ø®Ø·ÙˆØ· Ù†Ø¨Ø§ÛŒØ¯ Ø±Ø¯ Ø´ÙˆÙ†Ø¯."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "I suppose we each have to weigh it ourselves.",
+      "translation": "Ú¯Ù…Ø§Ù† Ù…ÛŒâ€ŒÚ©Ù†Ù… Ù‡Ø± Ú©Ø¯Ø§Ù…Ù…Ø§Ù† Ø¨Ø§ÛŒØ¯ Ø®ÙˆØ¯Ù…Ø§Ù† Ø¢Ù† Ø±Ø§ Ø¨Ø³Ù†Ø¬ÛŒÙ…."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "As long as we hold ourselves accountable.",
+      "translation": "ØªØ§ Ø²Ù…Ø§Ù†ÛŒ Ú©Ù‡ Ø®ÙˆØ¯Ù…Ø§Ù† Ø±Ø§ Ù¾Ø§Ø³Ø®Ú¯Ùˆ Ø¨Ø¯Ø§Ù†ÛŒÙ…."
+    }
+  ]
 }

@@ -1,94 +1,92 @@
-{
-    "title": "33 - Discussing Education Reform",
-    "description": "دو نفر درباره اینکه چگونه سیستم آموزشی باید تغییر کند بحث می‌کنند.",
-    "words": [
-        "education",
-        "curriculum",
-        "outdated",
-        "reform",
-        "creativity",
-        "exam",
-        "rote",
-        "relevant",
-        "inequality",
-        "access",
-        "potential",
-        "prepare",
-        "system"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I think our education system is outdated.",
-            "translation": "فکر می‌کنم سیستم آموزشی‌مان قدیمی است."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "In what way exactly?",
-            "translation": "دقیقاً به چه شکلی؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "It focuses too much on exams.",
-            "translation": "بیش از حد روی امتحانات تمرکز دارد."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "True. Rote learning kills creativity.",
-            "translation": "درست است. حفظ کردن خلاقیت را می‌کشد."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Students need more practical skills.",
-            "translation": "دانش‌آموزان به مهارت‌های عملی بیشتری نیاز دارند."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Skills that are relevant to real life.",
-            "translation": "مهارت‌هایی که به زندگی واقعی مربوط باشند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "And the curriculum rarely changes.",
-            "translation": "و برنامه درسی به‌ندرت تغییر می‌کند."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "There's also unequal access to quality.",
-            "translation": "دسترسی نابرابر به کیفیت هم وجود دارد."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "That inequality really concerns me.",
-            "translation": "آن نابرابری واقعاً نگرانم می‌کند."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Every child deserves the chance to thrive.",
-            "translation": "هر کودکی سزاوار فرصتی برای شکوفایی است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Reform is overdue, in my opinion.",
-            "translation": "به نظر من، اصلاحات دیر شده."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "We must prepare students for the future, not the past.",
-            "translation": "باید دانش‌آموزان را برای آینده آماده کنیم، نه گذشته."
-        }
-    ]
+﻿{
+    "title":  "33 - Discussing Education Reform",
+    "description":  "Ø¯Ùˆ Ù†ÙØ± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø§ÛŒÙ†Ú©Ù‡ Ú†Ú¯ÙˆÙ†Ù‡ Ø³ÛŒØ³ØªÙ… Ø¢Ù…ÙˆØ²Ø´ÛŒ Ø¨Ø§ÛŒØ¯ ØªØºÛŒÛŒØ± Ú©Ù†Ø¯ Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "education",
+                  "curriculum",
+                  "outdated",
+                  "reform",
+                  "creativity",
+                  "exam",
+                  "rote",
+                  "relevant",
+                  "access",
+                  "prepare",
+                  "system"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "I think our education system is outdated.",
+                          "translation":  "ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†Ù… Ø³ÛŒØ³ØªÙ… Ø¢Ù…ÙˆØ²Ø´ÛŒâ€ŒÙ…Ø§Ù† Ù‚Ø¯ÛŒÙ…ÛŒ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "In what way exactly?",
+                          "translation":  "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹ Ø¨Ù‡ Ú†Ù‡ Ø´Ú©Ù„ÛŒØŸ"
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "It focuses too much on exams.",
+                          "translation":  "Ø¨ÛŒØ´ Ø§Ø² Ø­Ø¯ Ø±ÙˆÛŒ Ø§Ù…ØªØ­Ø§Ù†Ø§Øª ØªÙ…Ø±Ú©Ø² Ø¯Ø§Ø±Ø¯."
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "True. Rote learning kills creativity.",
+                          "translation":  "Ø¯Ø±Ø³Øª Ø§Ø³Øª. Ø­ÙØ¸ Ú©Ø±Ø¯Ù† Ø®Ù„Ø§Ù‚ÛŒØª Ø±Ø§ Ù…ÛŒâ€ŒÚ©Ø´Ø¯."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "Students need more practical skills.",
+                          "translation":  "Ø¯Ø§Ù†Ø´â€ŒØ¢Ù…ÙˆØ²Ø§Ù† Ø¨Ù‡ Ù…Ù‡Ø§Ø±Øªâ€ŒÙ‡Ø§ÛŒ Ø¹Ù…Ù„ÛŒ Ø¨ÛŒØ´ØªØ±ÛŒ Ù†ÛŒØ§Ø² Ø¯Ø§Ø±Ù†Ø¯."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "Skills that are relevant to real life.",
+                          "translation":  "Ù…Ù‡Ø§Ø±Øªâ€ŒÙ‡Ø§ÛŒÛŒ Ú©Ù‡ Ø¨Ù‡ Ø²Ù†Ø¯Ú¯ÛŒ ÙˆØ§Ù‚Ø¹ÛŒ Ù…Ø±Ø¨ÙˆØ· Ø¨Ø§Ø´Ù†Ø¯."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "And the curriculum rarely changes.",
+                          "translation":  "Ùˆ Ø¨Ø±Ù†Ø§Ù…Ù‡ Ø¯Ø±Ø³ÛŒ Ø¨Ù‡â€ŒÙ†Ø¯Ø±Øª ØªØºÛŒÛŒØ± Ù…ÛŒâ€ŒÚ©Ù†Ø¯."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "There\u0027s also unequal access to quality.",
+                          "translation":  "Ø¯Ø³ØªØ±Ø³ÛŒ Ù†Ø§Ø¨Ø±Ø§Ø¨Ø± Ø¨Ù‡ Ú©ÛŒÙÛŒØª Ù‡Ù… ÙˆØ¬ÙˆØ¯ Ø¯Ø§Ø±Ø¯."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "That inequality really concerns me.",
+                          "translation":  "Ø¢Ù† Ù†Ø§Ø¨Ø±Ø§Ø¨Ø±ÛŒ ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ù†Ú¯Ø±Ø§Ù†Ù… Ù…ÛŒâ€ŒÚ©Ù†Ø¯."
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "Every child deserves the chance to thrive.",
+                          "translation":  "Ù‡Ø± Ú©ÙˆØ¯Ú©ÛŒ Ø³Ø²Ø§ÙˆØ§Ø± ÙØ±ØµØªÛŒ Ø¨Ø±Ø§ÛŒ Ø´Ú©ÙˆÙØ§ÛŒÛŒ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "Reform is overdue, in my opinion.",
+                          "translation":  "Ø¨Ù‡ Ù†Ø¸Ø± Ù…Ù†ØŒ Ø§ØµÙ„Ø§Ø­Ø§Øª Ø¯ÛŒØ± Ø´Ø¯Ù‡."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "We must prepare students for the future, not the past.",
+                          "translation":  "Ø¨Ø§ÛŒØ¯ Ø¯Ø§Ù†Ø´â€ŒØ¢Ù…ÙˆØ²Ø§Ù† Ø±Ø§ Ø¨Ø±Ø§ÛŒ Ø¢ÛŒÙ†Ø¯Ù‡ Ø¢Ù…Ø§Ø¯Ù‡ Ú©Ù†ÛŒÙ…ØŒ Ù†Ù‡ Ú¯Ø°Ø´ØªÙ‡."
+                      }
+                  ]
 }

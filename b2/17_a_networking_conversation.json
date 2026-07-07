@@ -1,92 +1,89 @@
-{
-    "title": "17 - A Networking Conversation",
-    "description": "دو حرفه‌ای در یک رویداد شبکه‌سازی با هم آشنا می‌شوند و درباره کارشان صحبت می‌کنند.",
-    "words": [
-        "networking",
-        "industry",
-        "background",
-        "collaborate",
-        "expertise",
-        "venture",
-        "exchange",
-        "contact",
-        "mutual",
-        "potential",
-        "impressed"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi, I don't think we've met. I'm Daniel.",
-            "translation": "سلام، فکر نکنم آشنا شده باشیم. من دنیل هستم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Nice to meet you. I'm Priya.",
-            "translation": "از آشنایی‌تان خوشحالم. من پریا هستم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "What industry are you in?",
-            "translation": "در چه صنعتی فعالیت می‌کنید؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Renewable energy. And you?",
-            "translation": "انرژی‌های تجدیدپذیر. شما چطور؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Software, but I'm interested in your field.",
-            "translation": "نرم‌افزار، اما به حوزه شما علاقه‌مندم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "There's real potential to collaborate.",
-            "translation": "پتانسیل واقعی برای همکاری وجود دارد."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "I was thinking the same thing.",
-            "translation": "من هم همین فکر را می‌کردم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Your expertise could complement ours.",
-            "translation": "تخصص شما می‌تواند مکمل تخصص ما باشد."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Shall we exchange contact details?",
-            "translation": "اطلاعات تماس را رد و بدل کنیم؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Definitely. Here's my card.",
-            "translation": "قطعاً. این کارت من است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "I'll follow up next week.",
-            "translation": "هفته آینده پیگیری می‌کنم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "I'd really welcome that. It was great talking.",
-            "translation": "واقعاً استقبال می‌کنم. از صحبت با شما لذت بردم."
-        }
-    ]
+﻿{
+    "title":  "17 - A Networking Conversation",
+    "description":  "Ø¯Ùˆ Ø­Ø±ÙÙ‡â€ŒØ§ÛŒ Ø¯Ø± ÛŒÚ© Ø±ÙˆÛŒØ¯Ø§Ø¯ Ø´Ø¨Ú©Ù‡â€ŒØ³Ø§Ø²ÛŒ Ø¨Ø§ Ù‡Ù… Ø¢Ø´Ù†Ø§ Ù…ÛŒâ€ŒØ´ÙˆÙ†Ø¯ Ùˆ Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ú©Ø§Ø±Ø´Ø§Ù† ØµØ­Ø¨Øª Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "networking",
+                  "industry",
+                  "background",
+                  "expertise",
+                  "venture",
+                  "exchange",
+                  "contact",
+                  "impressed"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "Hi, I don\u0027t think we\u0027ve met. I\u0027m Daniel.",
+                          "translation":  "Ø³Ù„Ø§Ù…ØŒ ÙÚ©Ø± Ù†Ú©Ù†Ù… Ø¢Ø´Ù†Ø§ Ø´Ø¯Ù‡ Ø¨Ø§Ø´ÛŒÙ…. Ù…Ù† Ø¯Ù†ÛŒÙ„ Ù‡Ø³ØªÙ…."
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "Nice to meet you. I\u0027m Priya.",
+                          "translation":  "Ø§Ø² Ø¢Ø´Ù†Ø§ÛŒÛŒâ€ŒØªØ§Ù† Ø®ÙˆØ´Ø­Ø§Ù„Ù…. Ù…Ù† Ù¾Ø±ÛŒØ§ Ù‡Ø³ØªÙ…."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "What industry are you in?",
+                          "translation":  "Ø¯Ø± Ú†Ù‡ ØµÙ†Ø¹ØªÛŒ ÙØ¹Ø§Ù„ÛŒØª Ù…ÛŒâ€ŒÚ©Ù†ÛŒØ¯ØŸ"
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "Renewable energy. And you?",
+                          "translation":  "Ø§Ù†Ø±Ú˜ÛŒâ€ŒÙ‡Ø§ÛŒ ØªØ¬Ø¯ÛŒØ¯Ù¾Ø°ÛŒØ±. Ø´Ù…Ø§ Ú†Ø·ÙˆØ±ØŸ"
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "Software, but I\u0027m interested in your field.",
+                          "translation":  "Ù†Ø±Ù…â€ŒØ§ÙØ²Ø§Ø±ØŒ Ø§Ù…Ø§ Ø¨Ù‡ Ø­ÙˆØ²Ù‡ Ø´Ù…Ø§ Ø¹Ù„Ø§Ù‚Ù‡â€ŒÙ…Ù†Ø¯Ù…."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "There\u0027s real potential to collaborate.",
+                          "translation":  "Ù¾ØªØ§Ù†Ø³ÛŒÙ„ ÙˆØ§Ù‚Ø¹ÛŒ Ø¨Ø±Ø§ÛŒ Ù‡Ù…Ú©Ø§Ø±ÛŒ ÙˆØ¬ÙˆØ¯ Ø¯Ø§Ø±Ø¯."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "I was thinking the same thing.",
+                          "translation":  "Ù…Ù† Ù‡Ù… Ù‡Ù…ÛŒÙ† ÙÚ©Ø± Ø±Ø§ Ù…ÛŒâ€ŒÚ©Ø±Ø¯Ù…."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "Your expertise could complement ours.",
+                          "translation":  "ØªØ®ØµØµ Ø´Ù…Ø§ Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ Ù…Ú©Ù…Ù„ ØªØ®ØµØµ Ù…Ø§ Ø¨Ø§Ø´Ø¯."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "Shall we exchange contact details?",
+                          "translation":  "Ø§Ø·Ù„Ø§Ø¹Ø§Øª ØªÙ…Ø§Ø³ Ø±Ø§ Ø±Ø¯ Ùˆ Ø¨Ø¯Ù„ Ú©Ù†ÛŒÙ…ØŸ"
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "Definitely. Here\u0027s my card.",
+                          "translation":  "Ù‚Ø·Ø¹Ø§Ù‹. Ø§ÛŒÙ† Ú©Ø§Ø±Øª Ù…Ù† Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "I\u0027ll follow up next week.",
+                          "translation":  "Ù‡ÙØªÙ‡ Ø¢ÛŒÙ†Ø¯Ù‡ Ù¾ÛŒÚ¯ÛŒØ±ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù…."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "I\u0027d really welcome that. It was great talking.",
+                          "translation":  "ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ø§Ø³ØªÙ‚Ø¨Ø§Ù„ Ù…ÛŒâ€ŒÚ©Ù†Ù…. Ø§Ø² ØµØ­Ø¨Øª Ø¨Ø§ Ø´Ù…Ø§ Ù„Ø°Øª Ø¨Ø±Ø¯Ù…."
+                      }
+                  ]
 }

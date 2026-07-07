@@ -1,93 +1,89 @@
-{
-    "title": "29 - Ethics in Technology",
-    "description": "دو نفر درباره مسئولیت اخلاقی شرکت‌های فناوری در توسعه هوش مصنوعی بحث می‌کنند.",
-    "words": [
-        "ethics",
-        "automation",
-        "bias",
-        "accountable",
-        "regulate",
-        "impact",
-        "transparency",
-        "displace",
-        "safeguard",
-        "potential",
-        "dilemma",
-        "oversight"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "AI is advancing faster than the rules.",
-            "translation": "هوش مصنوعی سریع‌تر از قوانین پیش می‌رود."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "That's exactly what worries me.",
-            "translation": "دقیقاً همان چیزی است که نگرانم می‌کند."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Who is accountable when it goes wrong?",
-            "translation": "وقتی اشتباه پیش می‌آید چه کسی پاسخگوست؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "That's the real ethical dilemma.",
-            "translation": "این همان معضل اخلاقی واقعی است."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "These systems can carry hidden bias.",
-            "translation": "این سیستم‌ها می‌توانند سوگیری پنهان داشته باشند."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "And they affect real people's lives.",
-            "translation": "و بر زندگی واقعی مردم اثر می‌گذارند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Companies must be more transparent.",
-            "translation": "شرکت‌ها باید شفاف‌تر باشند."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Transparency alone isn't enough.",
-            "translation": "فقط شفافیت کافی نیست."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "True. We need proper oversight.",
-            "translation": "درست است. به نظارت درست نیاز داریم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "And safeguards against misuse.",
-            "translation": "و تدابیر حفاظتی در برابر سوءاستفاده."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Otherwise the consequences could be severe.",
-            "translation": "وگرنه پیامدها می‌توانند شدید باشند."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Ethics has to keep pace with innovation.",
-            "translation": "اخلاق باید هم‌پای نوآوری پیش برود."
-        }
-    ]
+﻿{
+    "title":  "29 - Ethics in Technology",
+    "description":  "Ø¯Ùˆ Ù†ÙØ± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ù…Ø³Ø¦ÙˆÙ„ÛŒØª Ø§Ø®Ù„Ø§Ù‚ÛŒ Ø´Ø±Ú©Øªâ€ŒÙ‡Ø§ÛŒ ÙÙ†Ø§ÙˆØ±ÛŒ Ø¯Ø± ØªÙˆØ³Ø¹Ù‡ Ù‡ÙˆØ´ Ù…ØµÙ†ÙˆØ¹ÛŒ Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "ethics",
+                  "automation",
+                  "bias",
+                  "transparency",
+                  "displace",
+                  "safeguard",
+                  "dilemma",
+                  "oversight"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "AI is advancing faster than the rules.",
+                          "translation":  "Ù‡ÙˆØ´ Ù…ØµÙ†ÙˆØ¹ÛŒ Ø³Ø±ÛŒØ¹â€ŒØªØ± Ø§Ø² Ù‚ÙˆØ§Ù†ÛŒÙ† Ù¾ÛŒØ´ Ù…ÛŒâ€ŒØ±ÙˆØ¯."
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "That\u0027s exactly what worries me.",
+                          "translation":  "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹ Ù‡Ù…Ø§Ù† Ú†ÛŒØ²ÛŒ Ø§Ø³Øª Ú©Ù‡ Ù†Ú¯Ø±Ø§Ù†Ù… Ù…ÛŒâ€ŒÚ©Ù†Ø¯."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "Who is accountable when it goes wrong?",
+                          "translation":  "ÙˆÙ‚ØªÛŒ Ø§Ø´ØªØ¨Ø§Ù‡ Ù¾ÛŒØ´ Ù…ÛŒâ€ŒØ¢ÛŒØ¯ Ú†Ù‡ Ú©Ø³ÛŒ Ù¾Ø§Ø³Ø®Ú¯ÙˆØ³ØªØŸ"
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "That\u0027s the real ethical dilemma.",
+                          "translation":  "Ø§ÛŒÙ† Ù‡Ù…Ø§Ù† Ù…Ø¹Ø¶Ù„ Ø§Ø®Ù„Ø§Ù‚ÛŒ ÙˆØ§Ù‚Ø¹ÛŒ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "These systems can carry hidden bias.",
+                          "translation":  "Ø§ÛŒÙ† Ø³ÛŒØ³ØªÙ…â€ŒÙ‡Ø§ Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ù†Ø¯ Ø³ÙˆÚ¯ÛŒØ±ÛŒ Ù¾Ù†Ù‡Ø§Ù† Ø¯Ø§Ø´ØªÙ‡ Ø¨Ø§Ø´Ù†Ø¯."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "And they affect real people\u0027s lives.",
+                          "translation":  "Ùˆ Ø¨Ø± Ø²Ù†Ø¯Ú¯ÛŒ ÙˆØ§Ù‚Ø¹ÛŒ Ù…Ø±Ø¯Ù… Ø§Ø«Ø± Ù…ÛŒâ€ŒÚ¯Ø°Ø§Ø±Ù†Ø¯."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "Companies must be more transparent.",
+                          "translation":  "Ø´Ø±Ú©Øªâ€ŒÙ‡Ø§ Ø¨Ø§ÛŒØ¯ Ø´ÙØ§Ùâ€ŒØªØ± Ø¨Ø§Ø´Ù†Ø¯."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "Transparency alone isn\u0027t enough.",
+                          "translation":  "ÙÙ‚Ø· Ø´ÙØ§ÙÛŒØª Ú©Ø§ÙÛŒ Ù†ÛŒØ³Øª."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "True. We need proper oversight.",
+                          "translation":  "Ø¯Ø±Ø³Øª Ø§Ø³Øª. Ø¨Ù‡ Ù†Ø¸Ø§Ø±Øª Ø¯Ø±Ø³Øª Ù†ÛŒØ§Ø² Ø¯Ø§Ø±ÛŒÙ…."
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "And safeguards against misuse.",
+                          "translation":  "Ùˆ ØªØ¯Ø§Ø¨ÛŒØ± Ø­ÙØ§Ø¸ØªÛŒ Ø¯Ø± Ø¨Ø±Ø§Ø¨Ø± Ø³ÙˆØ¡Ø§Ø³ØªÙØ§Ø¯Ù‡."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "Otherwise the consequences could be severe.",
+                          "translation":  "ÙˆÚ¯Ø±Ù†Ù‡ Ù¾ÛŒØ§Ù…Ø¯Ù‡Ø§ Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ù†Ø¯ Ø´Ø¯ÛŒØ¯ Ø¨Ø§Ø´Ù†Ø¯."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "Ethics has to keep pace with innovation.",
+                          "translation":  "Ø§Ø®Ù„Ø§Ù‚ Ø¨Ø§ÛŒØ¯ Ù‡Ù…â€ŒÙ¾Ø§ÛŒ Ù†ÙˆØ¢ÙˆØ±ÛŒ Ù¾ÛŒØ´ Ø¨Ø±ÙˆØ¯."
+                      }
+                  ]
 }

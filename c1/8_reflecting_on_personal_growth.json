@@ -1,93 +1,91 @@
-{
-    "title": "8 - Reflecting on Personal Growth",
-    "description": "دو دوست قدیمی درباره اینکه چگونه در طول سال‌ها تغییر و رشد کرده‌اند تأمل می‌کنند.",
-    "words": [
-        "growth",
-        "introspective",
-        "evolve",
-        "comfort",
-        "humbling",
-        "resilience",
-        "self-aware",
-        "embrace",
-        "transform",
-        "gradual",
-        "meaningful",
-        "potential"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Looking back, I barely recognize who I used to be.",
-            "translation": "وقتی به گذشته نگاه می‌کنم، به‌سختی آدم سابق را می‌شناسم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I know what you mean. We've both changed so much.",
-            "translation": "می‌دانم منظورت چیست. هر دوی ما خیلی تغییر کرده‌ایم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "What pushed you to grow the most?",
-            "translation": "چه چیزی بیشترین فشار را برای رشد به تو آورد؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Honestly, my hardest failures taught me the most.",
-            "translation": "صادقانه بگویم، سخت‌ترین شکست‌هایم بیشترین درس را به من دادند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "It's humbling how much adversity shapes us.",
-            "translation": "جالب و فروتنی‌آور است که سختی چقدر ما را شکل می‌دهد."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "I had to step out of my comfort zone repeatedly.",
-            "translation": "بارها مجبور شدم از منطقه امنم بیرون بیایم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "That kind of growth is rarely comfortable.",
-            "translation": "این نوع رشد به‌ندرت راحت است."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "No, but it's been deeply meaningful.",
-            "translation": "نه، اما عمیقاً پرمعنا بوده."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "I've learned to embrace uncertainty more.",
-            "translation": "یاد گرفته‌ام عدم قطعیت را بیشتر بپذیرم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Becoming more self-aware changed everything for me.",
-            "translation": "خودآگاه‌تر شدن همه‌چیز را برایم تغییر داد."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "We're still works in progress, though.",
-            "translation": "با این حال هنوز در حال ساخته شدن هستیم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "And I'm grateful for every step of it.",
-            "translation": "و من بابت هر قدمش سپاسگزارم."
-        }
-    ]
+﻿{
+    "title":  "8 - Reflecting on Personal Growth",
+    "description":  "Ø¯Ùˆ Ø¯ÙˆØ³Øª Ù‚Ø¯ÛŒÙ…ÛŒ Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø§ÛŒÙ†Ú©Ù‡ Ú†Ú¯ÙˆÙ†Ù‡ Ø¯Ø± Ø·ÙˆÙ„ Ø³Ø§Ù„â€ŒÙ‡Ø§ ØªØºÛŒÛŒØ± Ùˆ Ø±Ø´Ø¯ Ú©Ø±Ø¯Ù‡â€ŒØ§Ù†Ø¯ ØªØ£Ù…Ù„ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "growth",
+                  "introspective",
+                  "evolve",
+                  "comfort",
+                  "humbling",
+                  "resilience",
+                  "self-aware",
+                  "transform",
+                  "gradual",
+                  "meaningful"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "Looking back, I barely recognize who I used to be.",
+                          "translation":  "ÙˆÙ‚ØªÛŒ Ø¨Ù‡ Ú¯Ø°Ø´ØªÙ‡ Ù†Ú¯Ø§Ù‡ Ù…ÛŒâ€ŒÚ©Ù†Ù…ØŒ Ø¨Ù‡â€ŒØ³Ø®ØªÛŒ Ø¢Ø¯Ù… Ø³Ø§Ø¨Ù‚ Ø±Ø§ Ù…ÛŒâ€ŒØ´Ù†Ø§Ø³Ù…."
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "I know what you mean. We\u0027ve both changed so much.",
+                          "translation":  "Ù…ÛŒâ€ŒØ¯Ø§Ù†Ù… Ù…Ù†Ø¸ÙˆØ±Øª Ú†ÛŒØ³Øª. Ù‡Ø± Ø¯ÙˆÛŒ Ù…Ø§ Ø®ÛŒÙ„ÛŒ ØªØºÛŒÛŒØ± Ú©Ø±Ø¯Ù‡â€ŒØ§ÛŒÙ…."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "What pushed you to grow the most?",
+                          "translation":  "Ú†Ù‡ Ú†ÛŒØ²ÛŒ Ø¨ÛŒØ´ØªØ±ÛŒÙ† ÙØ´Ø§Ø± Ø±Ø§ Ø¨Ø±Ø§ÛŒ Ø±Ø´Ø¯ Ø¨Ù‡ ØªÙˆ Ø¢ÙˆØ±Ø¯ØŸ"
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "Honestly, my hardest failures taught me the most.",
+                          "translation":  "ØµØ§Ø¯Ù‚Ø§Ù†Ù‡ Ø¨Ú¯ÙˆÛŒÙ…ØŒ Ø³Ø®Øªâ€ŒØªØ±ÛŒÙ† Ø´Ú©Ø³Øªâ€ŒÙ‡Ø§ÛŒÙ… Ø¨ÛŒØ´ØªØ±ÛŒÙ† Ø¯Ø±Ø³ Ø±Ø§ Ø¨Ù‡ Ù…Ù† Ø¯Ø§Ø¯Ù†Ø¯."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "It\u0027s humbling how much adversity shapes us.",
+                          "translation":  "Ø¬Ø§Ù„Ø¨ Ùˆ ÙØ±ÙˆØªÙ†ÛŒâ€ŒØ¢ÙˆØ± Ø§Ø³Øª Ú©Ù‡ Ø³Ø®ØªÛŒ Ú†Ù‚Ø¯Ø± Ù…Ø§ Ø±Ø§ Ø´Ú©Ù„ Ù…ÛŒâ€ŒØ¯Ù‡Ø¯."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "I had to step out of my comfort zone repeatedly.",
+                          "translation":  "Ø¨Ø§Ø±Ù‡Ø§ Ù…Ø¬Ø¨ÙˆØ± Ø´Ø¯Ù… Ø§Ø² Ù…Ù†Ø·Ù‚Ù‡ Ø§Ù…Ù†Ù… Ø¨ÛŒØ±ÙˆÙ† Ø¨ÛŒØ§ÛŒÙ…."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "That kind of growth is rarely comfortable.",
+                          "translation":  "Ø§ÛŒÙ† Ù†ÙˆØ¹ Ø±Ø´Ø¯ Ø¨Ù‡â€ŒÙ†Ø¯Ø±Øª Ø±Ø§Ø­Øª Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "No, but it\u0027s been deeply meaningful.",
+                          "translation":  "Ù†Ù‡ØŒ Ø§Ù…Ø§ Ø¹Ù…ÛŒÙ‚Ø§Ù‹ Ù¾Ø±Ù…Ø¹Ù†Ø§ Ø¨ÙˆØ¯Ù‡."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "I\u0027ve learned to embrace uncertainty more.",
+                          "translation":  "ÛŒØ§Ø¯ Ú¯Ø±ÙØªÙ‡â€ŒØ§Ù… Ø¹Ø¯Ù… Ù‚Ø·Ø¹ÛŒØª Ø±Ø§ Ø¨ÛŒØ´ØªØ± Ø¨Ù¾Ø°ÛŒØ±Ù…."
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "Becoming more self-aware changed everything for me.",
+                          "translation":  "Ø®ÙˆØ¯Ø¢Ú¯Ø§Ù‡â€ŒØªØ± Ø´Ø¯Ù† Ù‡Ù…Ù‡â€ŒÚ†ÛŒØ² Ø±Ø§ Ø¨Ø±Ø§ÛŒÙ… ØªØºÛŒÛŒØ± Ø¯Ø§Ø¯."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "We\u0027re still works in progress, though.",
+                          "translation":  "Ø¨Ø§ Ø§ÛŒÙ† Ø­Ø§Ù„ Ù‡Ù†ÙˆØ² Ø¯Ø± Ø­Ø§Ù„ Ø³Ø§Ø®ØªÙ‡ Ø´Ø¯Ù† Ù‡Ø³ØªÛŒÙ…."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "And I\u0027m grateful for every step of it.",
+                          "translation":  "Ùˆ Ù…Ù† Ø¨Ø§Ø¨Øª Ù‡Ø± Ù‚Ø¯Ù…Ø´ Ø³Ù¾Ø§Ø³Ú¯Ø²Ø§Ø±Ù…."
+                      }
+                  ]
 }

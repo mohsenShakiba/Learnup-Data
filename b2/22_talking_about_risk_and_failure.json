@@ -1,92 +1,90 @@
-{
-  "title": "22 - Talking About Risk and Failure",
-  "description": "دو کارآفرین درباره پذیرفتن ریسک و یاد گرفتن از شکست صحبت می‌کنند.",
-  "words": [
-    "failure",
-    "setback",
-    "resilience",
-    "calculated",
-    "bounce back",
-    "fear",
-    "venture",
-    "persevere",
-    "mindset",
-    "embrace",
-    "growth"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "Were you ever afraid to start your business?",
-      "translation": "هیچ‌وقت از شروع کسب‌وکارت ترسیدی؟"
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Of course. The fear of failure was huge.",
-      "translation": "البته. ترس از شکست عظیم بود."
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "How did you overcome it?",
-      "translation": "چطور بر آن غلبه کردی؟"
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "I took calculated risks, not reckless ones.",
-      "translation": "ریسک‌های حساب‌شده کردم، نه بی‌پروا."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "Did you ever experience a real setback?",
-      "translation": "هیچ‌وقت با یک شکست واقعی روبه‌رو شدی؟"
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "Yes, my first venture failed completely.",
-      "translation": "بله، اولین کسب‌وکارم کاملاً شکست خورد."
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "That must have been hard.",
-      "translation": "حتماً سخت بوده."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "It was, but it taught me valuable lessons.",
-      "translation": "بود، اما درس‌های ارزشمندی به من داد."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "So failure wasn't the end?",
-      "translation": "پس شکست پایان کار نبود؟"
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "Not at all. Resilience is everything.",
-      "translation": "اصلاً. تاب‌آوری همه چیز است."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "It's really about the mindset, isn't it?",
-      "translation": "واقعاً به طرز فکر برمی‌گردد، نه؟"
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "Exactly. Embrace failure and you'll grow.",
-      "translation": "دقیقاً. شکست را بپذیر و رشد می‌کنی."
-    }
-  ]
+﻿{
+    "title":  "22 - Talking About Risk and Failure",
+    "description":  "Ø¯Ùˆ Ú©Ø§Ø±Ø¢ÙØ±ÛŒÙ† Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ù¾Ø°ÛŒØ±ÙØªÙ† Ø±ÛŒØ³Ú© Ùˆ ÛŒØ§Ø¯ Ú¯Ø±ÙØªÙ† Ø§Ø² Ø´Ú©Ø³Øª ØµØ­Ø¨Øª Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "failure",
+                  "setback",
+                  "resilience",
+                  "calculated",
+                  "bounce back",
+                  "fear",
+                  "persevere",
+                  "mindset",
+                  "growth"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "Were you ever afraid to start your business?",
+                          "translation":  "Ù‡ÛŒÚ†â€ŒÙˆÙ‚Øª Ø§Ø² Ø´Ø±ÙˆØ¹ Ú©Ø³Ø¨â€ŒÙˆÚ©Ø§Ø±Øª ØªØ±Ø³ÛŒØ¯ÛŒØŸ"
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "Of course. The fear of failure was huge.",
+                          "translation":  "Ø§Ù„Ø¨ØªÙ‡. ØªØ±Ø³ Ø§Ø² Ø´Ú©Ø³Øª Ø¹Ø¸ÛŒÙ… Ø¨ÙˆØ¯."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "How did you overcome it?",
+                          "translation":  "Ú†Ø·ÙˆØ± Ø¨Ø± Ø¢Ù† ØºÙ„Ø¨Ù‡ Ú©Ø±Ø¯ÛŒØŸ"
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "I took calculated risks, not reckless ones.",
+                          "translation":  "Ø±ÛŒØ³Ú©â€ŒÙ‡Ø§ÛŒ Ø­Ø³Ø§Ø¨â€ŒØ´Ø¯Ù‡ Ú©Ø±Ø¯Ù…ØŒ Ù†Ù‡ Ø¨ÛŒâ€ŒÙ¾Ø±ÙˆØ§."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "Did you ever experience a real setback?",
+                          "translation":  "Ù‡ÛŒÚ†â€ŒÙˆÙ‚Øª Ø¨Ø§ ÛŒÚ© Ø´Ú©Ø³Øª ÙˆØ§Ù‚Ø¹ÛŒ Ø±ÙˆØ¨Ù‡â€ŒØ±Ùˆ Ø´Ø¯ÛŒØŸ"
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "Yes, my first venture failed completely.",
+                          "translation":  "Ø¨Ù„Ù‡ØŒ Ø§ÙˆÙ„ÛŒÙ† Ú©Ø³Ø¨â€ŒÙˆÚ©Ø§Ø±Ù… Ú©Ø§Ù…Ù„Ø§Ù‹ Ø´Ú©Ø³Øª Ø®ÙˆØ±Ø¯."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "That must have been hard.",
+                          "translation":  "Ø­ØªÙ…Ø§Ù‹ Ø³Ø®Øª Ø¨ÙˆØ¯Ù‡."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "It was, but it taught me valuable lessons.",
+                          "translation":  "Ø¨ÙˆØ¯ØŒ Ø§Ù…Ø§ Ø¯Ø±Ø³â€ŒÙ‡Ø§ÛŒ Ø§Ø±Ø²Ø´Ù…Ù†Ø¯ÛŒ Ø¨Ù‡ Ù…Ù† Ø¯Ø§Ø¯."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "So failure wasn\u0027t the end?",
+                          "translation":  "Ù¾Ø³ Ø´Ú©Ø³Øª Ù¾Ø§ÛŒØ§Ù† Ú©Ø§Ø± Ù†Ø¨ÙˆØ¯ØŸ"
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "Not at all. Resilience is everything.",
+                          "translation":  "Ø§ØµÙ„Ø§Ù‹. ØªØ§Ø¨â€ŒØ¢ÙˆØ±ÛŒ Ù‡Ù…Ù‡ Ú†ÛŒØ² Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "It\u0027s really about the mindset, isn\u0027t it?",
+                          "translation":  "ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ø¨Ù‡ Ø·Ø±Ø² ÙÚ©Ø± Ø¨Ø±Ù…ÛŒâ€ŒÚ¯Ø±Ø¯Ø¯ØŒ Ù†Ù‡ØŸ"
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "Exactly. Embrace failure and you\u0027ll grow.",
+                          "translation":  "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. Ø´Ú©Ø³Øª Ø±Ø§ Ø¨Ù¾Ø°ÛŒØ± Ùˆ Ø±Ø´Ø¯ Ù…ÛŒâ€ŒÚ©Ù†ÛŒ."
+                      }
+                  ]
 }

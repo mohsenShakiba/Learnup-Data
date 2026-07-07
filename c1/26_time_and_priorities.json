@@ -1,92 +1,90 @@
 {
-    "title": "26 - Time and Priorities",
-    "description": "دو نفر درباره اینکه چگونه مردم زمان خود را خرج می‌کنند و آنچه واقعاً مهم است تأمل می‌کنند.",
-    "words": [
-        "finite",
-        "priorities",
-        "intentional",
-        "fleeting",
-        "squander",
-        "meaningful",
-        "presence",
-        "allocate",
-        "deliberate",
-        "scarce",
-        "align"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "We treat time as if it were limitless.",
-            "translation": "با زمان طوری رفتار می‌کنیم که انگار بی‌پایان است."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Yet it's our scarcest resource.",
-            "translation": "در حالی که کمیاب‌ترین منبع ماست."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "We squander it on trivial things.",
-            "translation": "آن را صرف چیزهای بی‌اهمیت می‌کنیم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Because we rarely pause to reflect.",
-            "translation": "چون به‌ندرت مکث می‌کنیم تا تأمل کنیم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "How do you decide what truly matters?",
-            "translation": "تو چطور تصمیم می‌گیری چه چیزی واقعاً مهم است؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "I ask what I'd regret neglecting.",
-            "translation": "از خودم می‌پرسم از غفلت از چه چیزی پشیمان می‌شوم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "That's a sobering way to choose.",
-            "translation": "این روش هوشیارکننده‌ای برای انتخاب است."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Every yes is a no to something else.",
-            "translation": "هر بله، یک نه به چیز دیگری است."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "So priorities are really trade-offs.",
-            "translation": "پس اولویت‌ها در واقع همان معامله‌های دوسویه‌اند."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Exactly. We must be intentional.",
-            "translation": "دقیقاً. باید آگاهانه عمل کنیم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Otherwise life simply drifts past.",
-            "translation": "وگرنه زندگی فقط از کنارمان می‌گذرد."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Living deliberately is the whole challenge.",
-            "translation": "زندگی کردن آگاهانه، تمام چالش است."
-        }
-    ]
+  "title": "26 - Time and Priorities",
+  "description": "دو نفر درباره اینکه چگونه مردم زمان خود را خرج می‌کنند و آنچه واقعاً مهم است تأمل می‌کنند.",
+  "words": [
+    "finite",
+    "priorities",
+    "intentional",
+    "fleeting",
+    "squander",
+    "meaningful",
+    "presence",
+    "deliberate",
+    "scarce"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "We treat time as if it were limitless.",
+      "translation": "با زمان طوری رفتار می‌کنیم که انگار بی‌پایان است."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Yet it's our scarcest resource.",
+      "translation": "در حالی که کمیاب‌ترین منبع ماست."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "We squander it on trivial things.",
+      "translation": "آن را صرف چیزهای بی‌اهمیت می‌کنیم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Because we rarely pause to reflect.",
+      "translation": "چون به‌ندرت مکث می‌کنیم تا تأمل کنیم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "How do you decide what truly matters?",
+      "translation": "تو چطور تصمیم می‌گیری چه چیزی واقعاً مهم است؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "I ask what I'd regret neglecting.",
+      "translation": "از خودم می‌پرسم از غفلت از چه چیزی پشیمان می‌شوم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "That's a sobering way to choose.",
+      "translation": "این روش هوشیارکننده‌ای برای انتخاب است."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Every yes is a no to something else.",
+      "translation": "هر بله، یک نه به چیز دیگری است."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "So priorities are really trade-offs.",
+      "translation": "پس اولویت‌ها در واقع همان معامله‌های دوسویه‌اند."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Exactly. We must be intentional.",
+      "translation": "دقیقاً. باید آگاهانه عمل کنیم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Otherwise life simply drifts past.",
+      "translation": "وگرنه زندگی فقط از کنارمان می‌گذرد."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Living deliberately is the whole challenge.",
+      "translation": "زندگی کردن آگاهانه، تمام چالش است."
+    }
+  ]
 }

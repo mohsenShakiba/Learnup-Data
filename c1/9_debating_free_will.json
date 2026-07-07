@@ -1,95 +1,93 @@
-{
-    "title": "9 - Debating Free Will",
-    "description": "دو دوست درباره اینکه آیا انسان واقعاً اراده آزاد دارد یا خیر بحث فلسفی می‌کنند.",
-    "words": [
-        "free will",
-        "determinism",
-        "predetermined",
-        "consciousness",
-        "illusion",
-        "agency",
-        "inevitable",
-        "philosophical",
-        "accountable",
-        "circumstance",
-        "compelling",
-        "contradict",
-        "premise",
-        "ultimately"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Do you genuinely believe we have free will?",
-            "translation": "واقعاً معتقدی ما اراده آزاد داریم؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I do, though I admit it's hard to prove.",
-            "translation": "بله، هرچند اعتراف می‌کنم اثباتش سخت است."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Some argue everything is predetermined.",
-            "translation": "بعضی‌ها استدلال می‌کنند همه چیز از پیش تعیین شده."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "That's the determinist view, isn't it?",
-            "translation": "این دیدگاه جبرگراست، نه؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Yes, that our choices are merely an illusion.",
-            "translation": "بله، اینکه انتخاب‌های ما صرفاً یک توهم‌اند."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "But that contradicts how we actually live.",
-            "translation": "اما این با نحوه واقعی زندگی ما در تناقض است."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "True. We still hold people accountable.",
-            "translation": "درست است. ما هنوز مردم را پاسخگو می‌دانیم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Exactly. Without agency, blame is meaningless.",
-            "translation": "دقیقاً. بدون اختیار، سرزنش بی‌معناست."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Yet our circumstances shape us profoundly.",
-            "translation": "با این حال شرایطمان عمیقاً ما را شکل می‌دهد."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Perhaps freedom lies somewhere in between.",
-            "translation": "شاید آزادی جایی در این میان نهفته است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "A compelling compromise, I'll admit.",
-            "translation": "یک مصالحه متقاعدکننده، اعتراف می‌کنم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Ultimately, the question may never be settled.",
-            "translation": "در نهایت، شاید این پرسش هرگز حل نشود."
-        }
-    ]
+﻿{
+    "title":  "9 - Debating Free Will",
+    "description":  "Ø¯Ùˆ Ø¯ÙˆØ³Øª Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø§ÛŒÙ†Ú©Ù‡ Ø¢ÛŒØ§ Ø§Ù†Ø³Ø§Ù† ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ø§Ø±Ø§Ø¯Ù‡ Ø¢Ø²Ø§Ø¯ Ø¯Ø§Ø±Ø¯ ÛŒØ§ Ø®ÛŒØ± Ø¨Ø­Ø« ÙÙ„Ø³ÙÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "free will",
+                  "determinism",
+                  "predetermined",
+                  "consciousness",
+                  "illusion",
+                  "agency",
+                  "inevitable",
+                  "philosophical",
+                  "circumstance",
+                  "contradict",
+                  "premise",
+                  "ultimately"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "Do you genuinely believe we have free will?",
+                          "translation":  "ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ù…Ø¹ØªÙ‚Ø¯ÛŒ Ù…Ø§ Ø§Ø±Ø§Ø¯Ù‡ Ø¢Ø²Ø§Ø¯ Ø¯Ø§Ø±ÛŒÙ…ØŸ"
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "I do, though I admit it\u0027s hard to prove.",
+                          "translation":  "Ø¨Ù„Ù‡ØŒ Ù‡Ø±Ú†Ù†Ø¯ Ø§Ø¹ØªØ±Ø§Ù Ù…ÛŒâ€ŒÚ©Ù†Ù… Ø§Ø«Ø¨Ø§ØªØ´ Ø³Ø®Øª Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "Some argue everything is predetermined.",
+                          "translation":  "Ø¨Ø¹Ø¶ÛŒâ€ŒÙ‡Ø§ Ø§Ø³ØªØ¯Ù„Ø§Ù„ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯ Ù‡Ù…Ù‡ Ú†ÛŒØ² Ø§Ø² Ù¾ÛŒØ´ ØªØ¹ÛŒÛŒÙ† Ø´Ø¯Ù‡."
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "That\u0027s the determinist view, isn\u0027t it?",
+                          "translation":  "Ø§ÛŒÙ† Ø¯ÛŒØ¯Ú¯Ø§Ù‡ Ø¬Ø¨Ø±Ú¯Ø±Ø§Ø³ØªØŒ Ù†Ù‡ØŸ"
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "Yes, that our choices are merely an illusion.",
+                          "translation":  "Ø¨Ù„Ù‡ØŒ Ø§ÛŒÙ†Ú©Ù‡ Ø§Ù†ØªØ®Ø§Ø¨â€ŒÙ‡Ø§ÛŒ Ù…Ø§ ØµØ±ÙØ§Ù‹ ÛŒÚ© ØªÙˆÙ‡Ù…â€ŒØ§Ù†Ø¯."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "But that contradicts how we actually live.",
+                          "translation":  "Ø§Ù…Ø§ Ø§ÛŒÙ† Ø¨Ø§ Ù†Ø­ÙˆÙ‡ ÙˆØ§Ù‚Ø¹ÛŒ Ø²Ù†Ø¯Ú¯ÛŒ Ù…Ø§ Ø¯Ø± ØªÙ†Ø§Ù‚Ø¶ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "True. We still hold people accountable.",
+                          "translation":  "Ø¯Ø±Ø³Øª Ø§Ø³Øª. Ù…Ø§ Ù‡Ù†ÙˆØ² Ù…Ø±Ø¯Ù… Ø±Ø§ Ù¾Ø§Ø³Ø®Ú¯Ùˆ Ù…ÛŒâ€ŒØ¯Ø§Ù†ÛŒÙ…."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "Exactly. Without agency, blame is meaningless.",
+                          "translation":  "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. Ø¨Ø¯ÙˆÙ† Ø§Ø®ØªÛŒØ§Ø±ØŒ Ø³Ø±Ø²Ù†Ø´ Ø¨ÛŒâ€ŒÙ…Ø¹Ù†Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "Yet our circumstances shape us profoundly.",
+                          "translation":  "Ø¨Ø§ Ø§ÛŒÙ† Ø­Ø§Ù„ Ø´Ø±Ø§ÛŒØ·Ù…Ø§Ù† Ø¹Ù…ÛŒÙ‚Ø§Ù‹ Ù…Ø§ Ø±Ø§ Ø´Ú©Ù„ Ù…ÛŒâ€ŒØ¯Ù‡Ø¯."
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "Perhaps freedom lies somewhere in between.",
+                          "translation":  "Ø´Ø§ÛŒØ¯ Ø¢Ø²Ø§Ø¯ÛŒ Ø¬Ø§ÛŒÛŒ Ø¯Ø± Ø§ÛŒÙ† Ù…ÛŒØ§Ù† Ù†Ù‡ÙØªÙ‡ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "A compelling compromise, I\u0027ll admit.",
+                          "translation":  "ÛŒÚ© Ù…ØµØ§Ù„Ø­Ù‡ Ù…ØªÙ‚Ø§Ø¹Ø¯Ú©Ù†Ù†Ø¯Ù‡ØŒ Ø§Ø¹ØªØ±Ø§Ù Ù…ÛŒâ€ŒÚ©Ù†Ù…."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "Ultimately, the question may never be settled.",
+                          "translation":  "Ø¯Ø± Ù†Ù‡Ø§ÛŒØªØŒ Ø´Ø§ÛŒØ¯ Ø§ÛŒÙ† Ù¾Ø±Ø³Ø´ Ù‡Ø±Ú¯Ø² Ø­Ù„ Ù†Ø´ÙˆØ¯."
+                      }
+                  ]
 }

@@ -1,92 +1,91 @@
-{
-    "title": "24 - A Conversation About Privacy",
-    "description": "دو دوست درباره حریم خصوصی داده‌ها و ردیابی آنلاین گفتگو می‌کنند.",
-    "words": [
-        "privacy",
-        "data",
-        "consent",
-        "surveillance",
-        "permission",
-        "concern",
-        "anonymous",
-        "leak",
-        "convenience",
-        "regulation",
-        "tradeoff"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Does it bother you how apps track us?",
-            "translation": "اینکه برنامه‌ها ما را ردیابی می‌کنند آزارت می‌دهد؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "It does, actually. It feels intrusive.",
-            "translation": "راستش بله. حس تجاوز به حریم می‌دهد."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "They collect so much of our data.",
-            "translation": "حجم زیادی از داده‌های ما را جمع می‌کنند."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "And we often consent without reading.",
-            "translation": "و ما اغلب بدون خواندن رضایت می‌دهیم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "True. Nobody reads the terms.",
-            "translation": "درست است. هیچ‌کس شرایط را نمی‌خواند."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "But the convenience is hard to give up.",
-            "translation": "اما صرف‌نظر کردن از راحتی‌اش سخت است."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "That's the real tradeoff.",
-            "translation": "این همان معامله دوسویه واقعی است."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "I try to limit what I share.",
-            "translation": "سعی می‌کنم آنچه را به اشتراک می‌گذارم محدود کنم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Do you think regulation helps?",
-            "translation": "فکر می‌کنی مقررات کمک می‌کند؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Somewhat, but companies find loopholes.",
-            "translation": "تا حدی، اما شرکت‌ها راه‌های فرار پیدا می‌کنند."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "We should at least stay aware.",
-            "translation": "لااقل باید آگاه بمانیم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Agreed. Awareness is our best protection.",
-            "translation": "موافقم. آگاهی بهترین محافظ ماست."
-        }
-    ]
+﻿{
+    "title":  "24 - A Conversation About Privacy",
+    "description":  "Ø¯Ùˆ Ø¯ÙˆØ³Øª Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø­Ø±ÛŒÙ… Ø®ØµÙˆØµÛŒ Ø¯Ø§Ø¯Ù‡â€ŒÙ‡Ø§ Ùˆ Ø±Ø¯ÛŒØ§Ø¨ÛŒ Ø¢Ù†Ù„Ø§ÛŒÙ† Ú¯ÙØªÚ¯Ùˆ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "privacy",
+                  "data",
+                  "consent",
+                  "surveillance",
+                  "permission",
+                  "anonymous",
+                  "leak",
+                  "convenience",
+                  "regulation",
+                  "tradeoff"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "Does it bother you how apps track us?",
+                          "translation":  "Ø§ÛŒÙ†Ú©Ù‡ Ø¨Ø±Ù†Ø§Ù…Ù‡â€ŒÙ‡Ø§ Ù…Ø§ Ø±Ø§ Ø±Ø¯ÛŒØ§Ø¨ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯ Ø¢Ø²Ø§Ø±Øª Ù…ÛŒâ€ŒØ¯Ù‡Ø¯ØŸ"
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "It does, actually. It feels intrusive.",
+                          "translation":  "Ø±Ø§Ø³ØªØ´ Ø¨Ù„Ù‡. Ø­Ø³ ØªØ¬Ø§ÙˆØ² Ø¨Ù‡ Ø­Ø±ÛŒÙ… Ù…ÛŒâ€ŒØ¯Ù‡Ø¯."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "They collect so much of our data.",
+                          "translation":  "Ø­Ø¬Ù… Ø²ÛŒØ§Ø¯ÛŒ Ø§Ø² Ø¯Ø§Ø¯Ù‡â€ŒÙ‡Ø§ÛŒ Ù…Ø§ Ø±Ø§ Ø¬Ù…Ø¹ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯."
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "And we often consent without reading.",
+                          "translation":  "Ùˆ Ù…Ø§ Ø§ØºÙ„Ø¨ Ø¨Ø¯ÙˆÙ† Ø®ÙˆØ§Ù†Ø¯Ù† Ø±Ø¶Ø§ÛŒØª Ù…ÛŒâ€ŒØ¯Ù‡ÛŒÙ…."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "True. Nobody reads the terms.",
+                          "translation":  "Ø¯Ø±Ø³Øª Ø§Ø³Øª. Ù‡ÛŒÚ†â€ŒÚ©Ø³ Ø´Ø±Ø§ÛŒØ· Ø±Ø§ Ù†Ù…ÛŒâ€ŒØ®ÙˆØ§Ù†Ø¯."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "But the convenience is hard to give up.",
+                          "translation":  "Ø§Ù…Ø§ ØµØ±Ùâ€ŒÙ†Ø¸Ø± Ú©Ø±Ø¯Ù† Ø§Ø² Ø±Ø§Ø­ØªÛŒâ€ŒØ§Ø´ Ø³Ø®Øª Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "That\u0027s the real tradeoff.",
+                          "translation":  "Ø§ÛŒÙ† Ù‡Ù…Ø§Ù† Ù…Ø¹Ø§Ù…Ù„Ù‡ Ø¯ÙˆØ³ÙˆÛŒÙ‡ ÙˆØ§Ù‚Ø¹ÛŒ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "I try to limit what I share.",
+                          "translation":  "Ø³Ø¹ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù… Ø¢Ù†Ú†Ù‡ Ø±Ø§ Ø¨Ù‡ Ø§Ø´ØªØ±Ø§Ú© Ù…ÛŒâ€ŒÚ¯Ø°Ø§Ø±Ù… Ù…Ø­Ø¯ÙˆØ¯ Ú©Ù†Ù…."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "Do you think regulation helps?",
+                          "translation":  "ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†ÛŒ Ù…Ù‚Ø±Ø±Ø§Øª Ú©Ù…Ú© Ù…ÛŒâ€ŒÚ©Ù†Ø¯ØŸ"
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "Somewhat, but companies find loopholes.",
+                          "translation":  "ØªØ§ Ø­Ø¯ÛŒØŒ Ø§Ù…Ø§ Ø´Ø±Ú©Øªâ€ŒÙ‡Ø§ Ø±Ø§Ù‡â€ŒÙ‡Ø§ÛŒ ÙØ±Ø§Ø± Ù¾ÛŒØ¯Ø§ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "We should at least stay aware.",
+                          "translation":  "Ù„Ø§Ø§Ù‚Ù„ Ø¨Ø§ÛŒØ¯ Ø¢Ú¯Ø§Ù‡ Ø¨Ù…Ø§Ù†ÛŒÙ…."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "Agreed. Awareness is our best protection.",
+                          "translation":  "Ù…ÙˆØ§ÙÙ‚Ù…. Ø¢Ú¯Ø§Ù‡ÛŒ Ø¨Ù‡ØªØ±ÛŒÙ† Ù…Ø­Ø§ÙØ¸ Ù…Ø§Ø³Øª."
+                      }
+                  ]
 }

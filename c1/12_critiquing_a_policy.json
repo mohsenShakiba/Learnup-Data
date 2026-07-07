@@ -1,117 +1,114 @@
-{
-    "title": "12 - Critiquing a Policy Proposal",
-    "description": "دو تحلیل‌گر یک پیشنهاد سیاستی جدید را نقد می‌کنند و نقاط ضعف آن را می‌سنجند.",
-    "words": [
-        "proposal",
-        "implications",
-        "feasible",
-        "unintended",
-        "stakeholder",
-        "scrutiny",
-        "flawed",
-        "rationale",
-        "ambitious",
-        "loophole",
-        "viable",
-        "assess"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Have you read the new housing proposal?",
-            "translation": "پیشنهاد جدید مسکن را خوانده‌ای؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I have. It's ambitious, but deeply flawed.",
-            "translation": "خوانده‌ام. بلندپروازانه است، اما عمیقاً ناقص."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "What's your main objection?",
-            "translation": "ایراد اصلی‌ات چیست؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "The funding model simply isn't feasible.",
-            "translation": "مدل تأمین مالی اصلاً عملی نیست."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "I agree the rationale is shaky.",
-            "translation": "موافقم که منطقش سست است."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "And it overlooks several key stakeholders.",
-            "translation": "و چند ذی‌نفع کلیدی را نادیده می‌گیرد."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "There could be serious unintended consequences.",
-            "translation": "می‌تواند پیامدهای ناخواسته جدی داشته باشد."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Precisely. It hasn't been properly scrutinized.",
-            "translation": "دقیقاً. به‌درستی موشکافی نشده."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "The timeline also seems unrealistic.",
-            "translation": "زمان‌بندی هم غیرواقع‌بینانه به نظر می‌رسد."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "And there's an obvious loophole in clause four.",
-            "translation": "و یک خلأ آشکار در بند چهار وجود دارد."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Not only does the policy raise costs, but it also ignores small businesses.",
-            "translation": "این سیاست نه‌تنها هزینه‌ها را بالا می‌برد، بلکه کسب‌وکارهای کوچک را هم نادیده می‌گیرد."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "The poor implementation of the policy caused widespread confusion.",
-            "translation": "اجرای ضعیف این سیاست باعث سردرگمی گسترده شد."
-        },
-        {
-            "order": 12,
-            "person": 1,
-            "text": "That said, the intention behind it is sound.",
-            "translation": "با این حال، نیتِ پشت آن درست است."
-        },
-        {
-            "order": 13,
-            "person": 2,
-            "text": "To sum up, the goal is right but the method is flawed.",
-            "translation": "در مجموع، هدف درست است اما روش ایراد دارد."
-        },
-        {
-            "order": 14,
-            "person": 1,
-            "text": "So how would you make it viable?",
-            "translation": "پس چطور آن را عملی می‌کنی؟"
-        },
-        {
-            "order": 15,
-            "person": 2,
-            "text": "It needs phased implementation and clearer funding.",
-            "translation": "به اجرای مرحله‌ای و تأمین مالی شفاف‌تر نیاز دارد."
-        }
-    ]
+﻿{
+    "title":  "12 - Critiquing a Policy Proposal",
+    "description":  "Ø¯Ùˆ ØªØ­Ù„ÛŒÙ„â€ŒÚ¯Ø± ÛŒÚ© Ù¾ÛŒØ´Ù†Ù‡Ø§Ø¯ Ø³ÛŒØ§Ø³ØªÛŒ Ø¬Ø¯ÛŒØ¯ Ø±Ø§ Ù†Ù‚Ø¯ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯ Ùˆ Ù†Ù‚Ø§Ø· Ø¶Ø¹Ù Ø¢Ù† Ø±Ø§ Ù…ÛŒâ€ŒØ³Ù†Ø¬Ù†Ø¯.",
+    "words":  [
+                  "implications",
+                  "unintended",
+                  "scrutiny",
+                  "flawed",
+                  "rationale",
+                  "ambitious",
+                  "loophole",
+                  "viable",
+                  "assess"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "Have you read the new housing proposal?",
+                          "translation":  "Ù¾ÛŒØ´Ù†Ù‡Ø§Ø¯ Ø¬Ø¯ÛŒØ¯ Ù…Ø³Ú©Ù† Ø±Ø§ Ø®ÙˆØ§Ù†Ø¯Ù‡â€ŒØ§ÛŒØŸ"
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "I have. It\u0027s ambitious, but deeply flawed.",
+                          "translation":  "Ø®ÙˆØ§Ù†Ø¯Ù‡â€ŒØ§Ù…. Ø¨Ù„Ù†Ø¯Ù¾Ø±ÙˆØ§Ø²Ø§Ù†Ù‡ Ø§Ø³ØªØŒ Ø§Ù…Ø§ Ø¹Ù…ÛŒÙ‚Ø§Ù‹ Ù†Ø§Ù‚Øµ."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "What\u0027s your main objection?",
+                          "translation":  "Ø§ÛŒØ±Ø§Ø¯ Ø§ØµÙ„ÛŒâ€ŒØ§Øª Ú†ÛŒØ³ØªØŸ"
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "The funding model simply isn\u0027t feasible.",
+                          "translation":  "Ù…Ø¯Ù„ ØªØ£Ù…ÛŒÙ† Ù…Ø§Ù„ÛŒ Ø§ØµÙ„Ø§Ù‹ Ø¹Ù…Ù„ÛŒ Ù†ÛŒØ³Øª."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "I agree the rationale is shaky.",
+                          "translation":  "Ù…ÙˆØ§ÙÙ‚Ù… Ú©Ù‡ Ù…Ù†Ø·Ù‚Ø´ Ø³Ø³Øª Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "And it overlooks several key stakeholders.",
+                          "translation":  "Ùˆ Ú†Ù†Ø¯ Ø°ÛŒâ€ŒÙ†ÙØ¹ Ú©Ù„ÛŒØ¯ÛŒ Ø±Ø§ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù…ÛŒâ€ŒÚ¯ÛŒØ±Ø¯."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "There could be serious unintended consequences.",
+                          "translation":  "Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ Ù¾ÛŒØ§Ù…Ø¯Ù‡Ø§ÛŒ Ù†Ø§Ø®ÙˆØ§Ø³ØªÙ‡ Ø¬Ø¯ÛŒ Ø¯Ø§Ø´ØªÙ‡ Ø¨Ø§Ø´Ø¯."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "Precisely. It hasn\u0027t been properly scrutinized.",
+                          "translation":  "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. Ø¨Ù‡â€ŒØ¯Ø±Ø³ØªÛŒ Ù…ÙˆØ´Ú©Ø§ÙÛŒ Ù†Ø´Ø¯Ù‡."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "The timeline also seems unrealistic.",
+                          "translation":  "Ø²Ù…Ø§Ù†â€ŒØ¨Ù†Ø¯ÛŒ Ù‡Ù… ØºÛŒØ±ÙˆØ§Ù‚Ø¹â€ŒØ¨ÛŒÙ†Ø§Ù†Ù‡ Ø¨Ù‡ Ù†Ø¸Ø± Ù…ÛŒâ€ŒØ±Ø³Ø¯."
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "And there\u0027s an obvious loophole in clause four.",
+                          "translation":  "Ùˆ ÛŒÚ© Ø®Ù„Ø£ Ø¢Ø´Ú©Ø§Ø± Ø¯Ø± Ø¨Ù†Ø¯ Ú†Ù‡Ø§Ø± ÙˆØ¬ÙˆØ¯ Ø¯Ø§Ø±Ø¯."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "Not only does the policy raise costs, but it also ignores small businesses.",
+                          "translation":  "Ø§ÛŒÙ† Ø³ÛŒØ§Ø³Øª Ù†Ù‡â€ŒØªÙ†Ù‡Ø§ Ù‡Ø²ÛŒÙ†Ù‡â€ŒÙ‡Ø§ Ø±Ø§ Ø¨Ø§Ù„Ø§ Ù…ÛŒâ€ŒØ¨Ø±Ø¯ØŒ Ø¨Ù„Ú©Ù‡ Ú©Ø³Ø¨â€ŒÙˆÚ©Ø§Ø±Ù‡Ø§ÛŒ Ú©ÙˆÚ†Ú© Ø±Ø§ Ù‡Ù… Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù…ÛŒâ€ŒÚ¯ÛŒØ±Ø¯."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "The poor implementation of the policy caused widespread confusion.",
+                          "translation":  "Ø§Ø¬Ø±Ø§ÛŒ Ø¶Ø¹ÛŒÙ Ø§ÛŒÙ† Ø³ÛŒØ§Ø³Øª Ø¨Ø§Ø¹Ø« Ø³Ø±Ø¯Ø±Ú¯Ù…ÛŒ Ú¯Ø³ØªØ±Ø¯Ù‡ Ø´Ø¯."
+                      },
+                      {
+                          "order":  12,
+                          "person":  1,
+                          "text":  "That said, the intention behind it is sound.",
+                          "translation":  "Ø¨Ø§ Ø§ÛŒÙ† Ø­Ø§Ù„ØŒ Ù†ÛŒØªÙ Ù¾Ø´Øª Ø¢Ù† Ø¯Ø±Ø³Øª Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  13,
+                          "person":  2,
+                          "text":  "To sum up, the goal is right but the method is flawed.",
+                          "translation":  "Ø¯Ø± Ù…Ø¬Ù…ÙˆØ¹ØŒ Ù‡Ø¯Ù Ø¯Ø±Ø³Øª Ø§Ø³Øª Ø§Ù…Ø§ Ø±ÙˆØ´ Ø§ÛŒØ±Ø§Ø¯ Ø¯Ø§Ø±Ø¯."
+                      },
+                      {
+                          "order":  14,
+                          "person":  1,
+                          "text":  "So how would you make it viable?",
+                          "translation":  "Ù¾Ø³ Ú†Ø·ÙˆØ± Ø¢Ù† Ø±Ø§ Ø¹Ù…Ù„ÛŒ Ù…ÛŒâ€ŒÚ©Ù†ÛŒØŸ"
+                      },
+                      {
+                          "order":  15,
+                          "person":  2,
+                          "text":  "It needs phased implementation and clearer funding.",
+                          "translation":  "Ø¨Ù‡ Ø§Ø¬Ø±Ø§ÛŒ Ù…Ø±Ø­Ù„Ù‡â€ŒØ§ÛŒ Ùˆ ØªØ£Ù…ÛŒÙ† Ù…Ø§Ù„ÛŒ Ø´ÙØ§Ùâ€ŒØªØ± Ù†ÛŒØ§Ø² Ø¯Ø§Ø±Ø¯."
+                      }
+                  ]
 }

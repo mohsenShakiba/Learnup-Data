@@ -1,88 +1,87 @@
-{
-    "title": "19 - Mentoring a Colleague",
-    "description": "یک کارمند باتجربه به همکار جوان‌تری راهنمایی شغلی می‌دهد.",
-    "words": [
-        "mentor",
-        "guidance",
-        "potential",
-        "confidence",
-        "growth",
-        "patient",
-        "ambition"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "How are you settling into the role?",
-            "translation": "چطور در این نقش جا می‌افتی؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Honestly, I sometimes doubt myself.",
-            "translation": "راستش، گاهی به خودم شک می‌کنم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "That's natural early on.",
-            "translation": "این در اوایل طبیعی است."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "How did you build your confidence?",
-            "translation": "تو چطور اعتمادبه‌نفست را ساختی؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "By learning from my mistakes.",
-            "translation": "با یاد گرفتن از اشتباهاتم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "I worry about making them.",
-            "translation": "نگران مرتکب شدنشان هستم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Mistakes are how you grow.",
-            "translation": "اشتباهات همان راه رشد تو هستند."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "What do you think my strengths are?",
-            "translation": "فکر می‌کنی نقاط قوت من چیست؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "You're analytical and very reliable.",
-            "translation": "تحلیلی و خیلی قابل‌اعتماد هستی."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "That means a lot, thank you.",
-            "translation": "این برایم ارزش زیادی دارد، ممنون."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Just be patient with yourself.",
-            "translation": "فقط با خودت صبور باش."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "I appreciate your guidance so much.",
-            "translation": "خیلی از راهنمایی‌ات قدردانی می‌کنم."
-        }
-    ]
+﻿{
+    "title":  "19 - Mentoring a Colleague",
+    "description":  "ÛŒÚ© Ú©Ø§Ø±Ù…Ù†Ø¯ Ø¨Ø§ØªØ¬Ø±Ø¨Ù‡ Ø¨Ù‡ Ù‡Ù…Ú©Ø§Ø± Ø¬ÙˆØ§Ù†â€ŒØªØ±ÛŒ Ø±Ø§Ù‡Ù†Ù…Ø§ÛŒÛŒ Ø´ØºÙ„ÛŒ Ù…ÛŒâ€ŒØ¯Ù‡Ø¯.",
+    "words":  [
+                  "mentor",
+                  "guidance",
+                  "confidence",
+                  "growth",
+                  "patient",
+                  "ambition"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "How are you settling into the role?",
+                          "translation":  "Ú†Ø·ÙˆØ± Ø¯Ø± Ø§ÛŒÙ† Ù†Ù‚Ø´ Ø¬Ø§ Ù…ÛŒâ€ŒØ§ÙØªÛŒØŸ"
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "Honestly, I sometimes doubt myself.",
+                          "translation":  "Ø±Ø§Ø³ØªØ´ØŒ Ú¯Ø§Ù‡ÛŒ Ø¨Ù‡ Ø®ÙˆØ¯Ù… Ø´Ú© Ù…ÛŒâ€ŒÚ©Ù†Ù…."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "That\u0027s natural early on.",
+                          "translation":  "Ø§ÛŒÙ† Ø¯Ø± Ø§ÙˆØ§ÛŒÙ„ Ø·Ø¨ÛŒØ¹ÛŒ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "How did you build your confidence?",
+                          "translation":  "ØªÙˆ Ú†Ø·ÙˆØ± Ø§Ø¹ØªÙ…Ø§Ø¯Ø¨Ù‡â€ŒÙ†ÙØ³Øª Ø±Ø§ Ø³Ø§Ø®ØªÛŒØŸ"
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "By learning from my mistakes.",
+                          "translation":  "Ø¨Ø§ ÛŒØ§Ø¯ Ú¯Ø±ÙØªÙ† Ø§Ø² Ø§Ø´ØªØ¨Ø§Ù‡Ø§ØªÙ…."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "I worry about making them.",
+                          "translation":  "Ù†Ú¯Ø±Ø§Ù† Ù…Ø±ØªÚ©Ø¨ Ø´Ø¯Ù†Ø´Ø§Ù† Ù‡Ø³ØªÙ…."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "Mistakes are how you grow.",
+                          "translation":  "Ø§Ø´ØªØ¨Ø§Ù‡Ø§Øª Ù‡Ù…Ø§Ù† Ø±Ø§Ù‡ Ø±Ø´Ø¯ ØªÙˆ Ù‡Ø³ØªÙ†Ø¯."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "What do you think my strengths are?",
+                          "translation":  "ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†ÛŒ Ù†Ù‚Ø§Ø· Ù‚ÙˆØª Ù…Ù† Ú†ÛŒØ³ØªØŸ"
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "You\u0027re analytical and very reliable.",
+                          "translation":  "ØªØ­Ù„ÛŒÙ„ÛŒ Ùˆ Ø®ÛŒÙ„ÛŒ Ù‚Ø§Ø¨Ù„â€ŒØ§Ø¹ØªÙ…Ø§Ø¯ Ù‡Ø³ØªÛŒ."
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "That means a lot, thank you.",
+                          "translation":  "Ø§ÛŒÙ† Ø¨Ø±Ø§ÛŒÙ… Ø§Ø±Ø²Ø´ Ø²ÛŒØ§Ø¯ÛŒ Ø¯Ø§Ø±Ø¯ØŒ Ù…Ù…Ù†ÙˆÙ†."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "Just be patient with yourself.",
+                          "translation":  "ÙÙ‚Ø· Ø¨Ø§ Ø®ÙˆØ¯Øª ØµØ¨ÙˆØ± Ø¨Ø§Ø´."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "I appreciate your guidance so much.",
+                          "translation":  "Ø®ÛŒÙ„ÛŒ Ø§Ø² Ø±Ø§Ù‡Ù†Ù…Ø§ÛŒÛŒâ€ŒØ§Øª Ù‚Ø¯Ø±Ø¯Ø§Ù†ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù…."
+                      }
+                  ]
 }
