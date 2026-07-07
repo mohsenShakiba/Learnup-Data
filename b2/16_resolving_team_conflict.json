@@ -1,17 +1,12 @@
 {
     "title": "16 - Resolving Team Conflict",
-    "description": "مدیری به دو عضو تیم که با هم اختلاف دارند کمک می‌کند به تفاهم برسند.",
+    "description": "Ù…Ø¯ÛŒØ±ÛŒ Ø¨Ù‡ Ø¯Ùˆ Ø¹Ø¶Ùˆ ØªÛŒÙ… Ú©Ù‡ Ø¨Ø§ Ù‡Ù… Ø§Ø®ØªÙ„Ø§Ù Ø¯Ø§Ø±Ù†Ø¯ Ú©Ù…Ú© Ù…ÛŒâ€ŒÚ©Ù†Ø¯ Ø¨Ù‡ ØªÙØ§Ù‡Ù… Ø¨Ø±Ø³Ù†Ø¯.",
     "words": [
         "conflict",
         "tension",
-        "perspective",
         "mediate",
-        "resolve",
-        "blame",
         "acknowledge",
-        "compromise",
         "professional",
-        "respect",
         "underlying",
         "constructive",
         "move on"
@@ -22,73 +17,73 @@
             "order": 0,
             "person": 1,
             "text": "I've noticed some tension between you two.",
-            "translation": "متوجه کمی تنش بین شما دو نفر شده‌ام."
+            "translation": "Ù…ØªÙˆØ¬Ù‡ Ú©Ù…ÛŒ ØªÙ†Ø´ Ø¨ÛŒÙ† Ø´Ù…Ø§ Ø¯Ùˆ Ù†ÙØ± Ø´Ø¯Ù‡â€ŒØ§Ù…."
         },
         {
             "order": 1,
             "person": 2,
             "text": "Yes, we've had a few disagreements.",
-            "translation": "بله، چند اختلاف‌نظر داشته‌ایم."
+            "translation": "Ø¨Ù„Ù‡ØŒ Ú†Ù†Ø¯ Ø§Ø®ØªÙ„Ø§Ùâ€ŒÙ†Ø¸Ø± Ø¯Ø§Ø´ØªÙ‡â€ŒØ§ÛŒÙ…."
         },
         {
             "order": 2,
             "person": 1,
             "text": "I'd like to understand both perspectives.",
-            "translation": "می‌خواهم هر دو دیدگاه را درک کنم."
+            "translation": "Ù…ÛŒâ€ŒØ®ÙˆØ§Ù‡Ù… Ù‡Ø± Ø¯Ùˆ Ø¯ÛŒØ¯Ú¯Ø§Ù‡ Ø±Ø§ Ø¯Ø±Ú© Ú©Ù†Ù…."
         },
         {
             "order": 3,
             "person": 2,
             "text": "I feel my ideas are often dismissed.",
-            "translation": "احساس می‌کنم ایده‌هایم اغلب نادیده گرفته می‌شوند."
+            "translation": "Ø§Ø­Ø³Ø§Ø³ Ù…ÛŒâ€ŒÚ©Ù†Ù… Ø§ÛŒØ¯Ù‡â€ŒÙ‡Ø§ÛŒÙ… Ø§ØºÙ„Ø¨ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ú¯Ø±ÙØªÙ‡ Ù…ÛŒâ€ŒØ´ÙˆÙ†Ø¯."
         },
         {
             "order": 4,
             "person": 1,
             "text": "Thank you for being honest about that.",
-            "translation": "ممنون که درباره آن صادق بودی."
+            "translation": "Ù…Ù…Ù†ÙˆÙ† Ú©Ù‡ Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø¢Ù† ØµØ§Ø¯Ù‚ Ø¨ÙˆØ¯ÛŒ."
         },
         {
             "order": 5,
             "person": 2,
             "text": "I didn't mean to dismiss anyone.",
-            "translation": "قصد نداشتم کسی را نادیده بگیرم."
+            "translation": "Ù‚ØµØ¯ Ù†Ø¯Ø§Ø´ØªÙ… Ú©Ø³ÛŒ Ø±Ø§ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ø¨Ú¯ÛŒØ±Ù…."
         },
         {
             "order": 6,
             "person": 1,
             "text": "Let's address the underlying issue.",
-            "translation": "بیایید مشکل اصلی را بررسی کنیم."
+            "translation": "Ø¨ÛŒØ§ÛŒÛŒØ¯ Ù…Ø´Ú©Ù„ Ø§ØµÙ„ÛŒ Ø±Ø§ Ø¨Ø±Ø±Ø³ÛŒ Ú©Ù†ÛŒÙ…."
         },
         {
             "order": 7,
             "person": 2,
             "text": "Maybe we need clearer communication.",
-            "translation": "شاید به ارتباط شفاف‌تری نیاز داریم."
+            "translation": "Ø´Ø§ÛŒØ¯ Ø¨Ù‡ Ø§Ø±ØªØ¨Ø§Ø· Ø´ÙØ§Ùâ€ŒØªØ±ÛŒ Ù†ÛŒØ§Ø² Ø¯Ø§Ø±ÛŒÙ…."
         },
         {
             "order": 8,
             "person": 1,
             "text": "Agreed. Let's hear each other out first.",
-            "translation": "موافقم. بیایید اول حرف هم را بشنویم."
+            "translation": "Ù…ÙˆØ§ÙÙ‚Ù…. Ø¨ÛŒØ§ÛŒÛŒØ¯ Ø§ÙˆÙ„ Ø­Ø±Ù Ù‡Ù… Ø±Ø§ Ø¨Ø´Ù†ÙˆÛŒÙ…."
         },
         {
             "order": 9,
             "person": 2,
             "text": "I'm willing to find a compromise.",
-            "translation": "حاضرم به یک توافق برسم."
+            "translation": "Ø­Ø§Ø¶Ø±Ù… Ø¨Ù‡ ÛŒÚ© ØªÙˆØ§ÙÙ‚ Ø¨Ø±Ø³Ù…."
         },
         {
             "order": 10,
             "person": 1,
             "text": "That's a constructive attitude.",
-            "translation": "این نگرش سازنده‌ای است."
+            "translation": "Ø§ÛŒÙ† Ù†Ú¯Ø±Ø´ Ø³Ø§Ø²Ù†Ø¯Ù‡â€ŒØ§ÛŒ Ø§Ø³Øª."
         },
         {
             "order": 11,
             "person": 2,
             "text": "Let's move on and work together better.",
-            "translation": "بیایید پیش برویم و بهتر با هم کار کنیم."
+            "translation": "Ø¨ÛŒØ§ÛŒÛŒØ¯ Ù¾ÛŒØ´ Ø¨Ø±ÙˆÛŒÙ… Ùˆ Ø¨Ù‡ØªØ± Ø¨Ø§ Ù‡Ù… Ú©Ø§Ø± Ú©Ù†ÛŒÙ…."
         }
     ]
 }

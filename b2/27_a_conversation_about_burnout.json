@@ -1,20 +1,13 @@
 {
   "title": "27 - Recovering From Burnout",
-  "description": "فردی که دچار فرسودگی شغلی شده درباره بهبودی‌اش با یک دوست صحبت می‌کند.",
+  "description": "ÙØ±Ø¯ÛŒ Ú©Ù‡ Ø¯Ú†Ø§Ø± ÙØ±Ø³ÙˆØ¯Ú¯ÛŒ Ø´ØºÙ„ÛŒ Ø´Ø¯Ù‡ Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø¨Ù‡Ø¨ÙˆØ¯ÛŒâ€ŒØ§Ø´ Ø¨Ø§ ÛŒÚ© Ø¯ÙˆØ³Øª ØµØ­Ø¨Øª Ù…ÛŒâ€ŒÚ©Ù†Ø¯.",
   "words": [
-    "burnout",
-    "exhausted",
     "recover",
     "boundaries",
     "overwork",
-    "recharge",
     "priorities",
     "guilt",
-    "balance",
-    "perspective",
-    "sustainable",
-    "gradually",
-    "wellbeing"
+    "sustainable"
   ],
   "estimatedDuration": 1,
   "sentences": [
@@ -22,73 +15,73 @@
       "order": 0,
       "person": 1,
       "text": "You seem more relaxed than last month.",
-      "translation": "از ماه گذشته آرام‌تر به نظر می‌رسی."
+      "translation": "Ø§Ø² Ù…Ø§Ù‡ Ú¯Ø°Ø´ØªÙ‡ Ø¢Ø±Ø§Ù…â€ŒØªØ± Ø¨Ù‡ Ù†Ø¸Ø± Ù…ÛŒâ€ŒØ±Ø³ÛŒ."
     },
     {
       "order": 1,
       "person": 2,
       "text": "I am. I hit real burnout, though.",
-      "translation": "هستم. هرچند به فرسودگی واقعی رسیده بودم."
+      "translation": "Ù‡Ø³ØªÙ…. Ù‡Ø±Ú†Ù†Ø¯ Ø¨Ù‡ ÙØ±Ø³ÙˆØ¯Ú¯ÛŒ ÙˆØ§Ù‚Ø¹ÛŒ Ø±Ø³ÛŒØ¯Ù‡ Ø¨ÙˆØ¯Ù…."
     },
     {
       "order": 2,
       "person": 1,
       "text": "I could tell. You were exhausted.",
-      "translation": "می‌شد فهمید. خیلی خسته بودی."
+      "translation": "Ù…ÛŒâ€ŒØ´Ø¯ ÙÙ‡Ù…ÛŒØ¯. Ø®ÛŒÙ„ÛŒ Ø®Ø³ØªÙ‡ Ø¨ÙˆØ¯ÛŒ."
     },
     {
       "order": 3,
       "person": 2,
       "text": "I was overworking constantly.",
-      "translation": "مدام بیش از حد کار می‌کردم."
+      "translation": "Ù…Ø¯Ø§Ù… Ø¨ÛŒØ´ Ø§Ø² Ø­Ø¯ Ú©Ø§Ø± Ù…ÛŒâ€ŒÚ©Ø±Ø¯Ù…."
     },
     {
       "order": 4,
       "person": 1,
       "text": "What helped you recover?",
-      "translation": "چه چیزی به بهبودی‌ات کمک کرد؟"
+      "translation": "Ú†Ù‡ Ú†ÛŒØ²ÛŒ Ø¨Ù‡ Ø¨Ù‡Ø¨ÙˆØ¯ÛŒâ€ŒØ§Øª Ú©Ù…Ú© Ú©Ø±Ø¯ØŸ"
     },
     {
       "order": 5,
       "person": 2,
       "text": "I finally set proper boundaries.",
-      "translation": "بالاخره مرزهای درستی تعیین کردم."
+      "translation": "Ø¨Ø§Ù„Ø§Ø®Ø±Ù‡ Ù…Ø±Ø²Ù‡Ø§ÛŒ Ø¯Ø±Ø³ØªÛŒ ØªØ¹ÛŒÛŒÙ† Ú©Ø±Ø¯Ù…."
     },
     {
       "order": 6,
       "person": 1,
       "text": "Wasn't it hard to slow down?",
-      "translation": "آهسته کردن سخت نبود؟"
+      "translation": "Ø¢Ù‡Ø³ØªÙ‡ Ú©Ø±Ø¯Ù† Ø³Ø®Øª Ù†Ø¨ÙˆØ¯ØŸ"
     },
     {
       "order": 7,
       "person": 2,
       "text": "Yes, I felt guilty at first.",
-      "translation": "بله، اولش احساس گناه می‌کردم."
+      "translation": "Ø¨Ù„Ù‡ØŒ Ø§ÙˆÙ„Ø´ Ø§Ø­Ø³Ø§Ø³ Ú¯Ù†Ø§Ù‡ Ù…ÛŒâ€ŒÚ©Ø±Ø¯Ù…."
     },
     {
       "order": 8,
       "person": 1,
       "text": "But your wellbeing comes first.",
-      "translation": "اما سلامتت در اولویت است."
+      "translation": "Ø§Ù…Ø§ Ø³Ù„Ø§Ù…ØªØª Ø¯Ø± Ø§ÙˆÙ„ÙˆÛŒØª Ø§Ø³Øª."
     },
     {
       "order": 9,
       "person": 2,
       "text": "I realize that now.",
-      "translation": "حالا این را درک می‌کنم."
+      "translation": "Ø­Ø§Ù„Ø§ Ø§ÛŒÙ† Ø±Ø§ Ø¯Ø±Ú© Ù…ÛŒâ€ŒÚ©Ù†Ù…."
     },
     {
       "order": 10,
       "person": 1,
       "text": "It's about a sustainable pace.",
-      "translation": "موضوع یک سرعت پایدار است."
+      "translation": "Ù…ÙˆØ¶ÙˆØ¹ ÛŒÚ© Ø³Ø±Ø¹Øª Ù¾Ø§ÛŒØ¯Ø§Ø± Ø§Ø³Øª."
     },
     {
       "order": 11,
       "person": 2,
       "text": "Exactly. I won't ignore the warning signs again.",
-      "translation": "دقیقاً. دیگر علائم هشدار را نادیده نمی‌گیرم."
+      "translation": "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. Ø¯ÛŒÚ¯Ø± Ø¹Ù„Ø§Ø¦Ù… Ù‡Ø´Ø¯Ø§Ø± Ø±Ø§ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù†Ù…ÛŒâ€ŒÚ¯ÛŒØ±Ù…."
     }
   ]
 }

@@ -1,94 +1,89 @@
 {
-  "title": "3 - Debating Remote Work",
-  "description": "دو همکار درباره مزایا و معایب دورکاری بحث می‌کنند.",
-  "words": [
-    "remote",
-    "productivity",
-    "flexibility",
-    "isolation",
-    "collaborate",
-    "distraction",
-    "boundary",
-    "advantage",
-    "drawback",
-    "hybrid",
-    "discipline",
-    "rely",
-    "overall"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "Honestly, I think remote work suits me better.",
-      "translation": "راستش، فکر می‌کنم دورکاری بیشتر به من می‌آید."
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Really? I miss seeing everyone in the office.",
-      "translation": "واقعاً؟ من دلم برای دیدن همه در دفتر تنگ می‌شود."
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "The flexibility has improved my productivity.",
-      "translation": "این انعطاف‌پذیری بهره‌وری‌ام را بهتر کرده."
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "For me, working from home feels isolating.",
-      "translation": "برای من، کار از خانه احساس انزوا می‌دهد."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "That's fair. It takes discipline.",
-      "translation": "منصفانه است. به نظم نیاز دارد."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "And it's harder to collaborate on big projects.",
-      "translation": "و همکاری روی پروژه‌های بزرگ سخت‌تر است."
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "But I save hours by not commuting.",
-      "translation": "اما با نرفتن به سر کار ساعت‌ها صرفه‌جویی می‌کنم."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "I understand the advantages.",
-      "translation": "مزایایش را درک می‌کنم."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "Maybe a hybrid model would suit us both.",
-      "translation": "شاید یک مدل ترکیبی به هر دوی ما بیاید."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "That's a good compromise.",
-      "translation": "این مصالحه خوبی است."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "We could set clear boundaries for each.",
-      "translation": "می‌توانیم برای هر کدام مرزهای روشنی تعیین کنیم."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "Overall, I think that would work well.",
-      "translation": "در کل، فکر می‌کنم آن خوب جواب می‌دهد."
-    }
-  ]
+    "title": "3 - Debating Remote Work",
+    "description": "دو همکار درباره مزایا و معایب دورکاری بحث می‌کنند.",
+    "words": [
+        "productivity",
+        "flexibility",
+        "isolation",
+        "collaborate",
+        "advantage",
+        "drawback",
+        "hybrid",
+        "overall"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Honestly, I think remote work suits me better.",
+            "translation": "راستش، فکر می‌کنم دورکاری بیشتر به من می‌آید."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Really? I miss seeing everyone in the office.",
+            "translation": "واقعاً؟ من دلم برای دیدن همه در دفتر تنگ می‌شود."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "The flexibility has improved my productivity.",
+            "translation": "این انعطاف‌پذیری بهره‌وری‌ام را بهتر کرده."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "For me, working from home feels isolating.",
+            "translation": "برای من، کار از خانه احساس انزوا می‌دهد."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "That's fair. It takes discipline.",
+            "translation": "منصفانه است. به نظم نیاز دارد."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "And it's harder to collaborate on big projects.",
+            "translation": "و همکاری روی پروژه‌های بزرگ سخت‌تر است."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "But I save hours by not commuting.",
+            "translation": "اما با نرفتن به سر کار ساعت‌ها صرفه‌جویی می‌کنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I understand the advantages.",
+            "translation": "مزایایش را درک می‌کنم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Maybe a hybrid model would suit us both.",
+            "translation": "شاید یک مدل ترکیبی به هر دوی ما بیاید."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "That's a good compromise.",
+            "translation": "این مصالحه خوبی است."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "We could set clear boundaries for each.",
+            "translation": "می‌توانیم برای هر کدام مرزهای روشنی تعیین کنیم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Overall, I think that would work well.",
+            "translation": "در کل، فکر می‌کنم آن خوب جواب می‌دهد."
+        }
+    ]
 }

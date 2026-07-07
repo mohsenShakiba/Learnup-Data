@@ -1,18 +1,14 @@
 {
     "title": "32 - Adapting to Change",
-    "description": "دو همکار درباره چگونگی سازگاری با تغییرات بزرگ در محل کار صحبت می‌کنند.",
+    "description": "Ø¯Ùˆ Ù‡Ù…Ú©Ø§Ø± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ú†Ú¯ÙˆÙ†Ú¯ÛŒ Ø³Ø§Ø²Ú¯Ø§Ø±ÛŒ Ø¨Ø§ ØªØºÛŒÛŒØ±Ø§Øª Ø¨Ø²Ø±Ú¯ Ø¯Ø± Ù…Ø­Ù„ Ú©Ø§Ø± ØµØ­Ø¨Øª Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
     "words": [
-        "adapt",
         "uncertainty",
         "resist",
-        "flexible",
-        "transition",
         "embrace",
         "mindset",
         "comfort zone",
         "evolve",
         "resilient",
-        "opportunity",
         "adjust",
         "thrive"
     ],
@@ -22,73 +18,73 @@
             "order": 0,
             "person": 1,
             "text": "The restructuring has unsettled everyone.",
-            "translation": "تجدید ساختار همه را نگران کرده."
+            "translation": "ØªØ¬Ø¯ÛŒØ¯ Ø³Ø§Ø®ØªØ§Ø± Ù‡Ù…Ù‡ Ø±Ø§ Ù†Ú¯Ø±Ø§Ù† Ú©Ø±Ø¯Ù‡."
         },
         {
             "order": 1,
             "person": 2,
             "text": "Change is always uncomfortable at first.",
-            "translation": "تغییر همیشه اولش ناخوشایند است."
+            "translation": "ØªØºÛŒÛŒØ± Ù‡Ù…ÛŒØ´Ù‡ Ø§ÙˆÙ„Ø´ Ù†Ø§Ø®ÙˆØ´Ø§ÛŒÙ†Ø¯ Ø§Ø³Øª."
         },
         {
             "order": 2,
             "person": 1,
             "text": "Some people are really resisting it.",
-            "translation": "بعضی‌ها واقعاً در برابرش مقاومت می‌کنند."
+            "translation": "Ø¨Ø¹Ø¶ÛŒâ€ŒÙ‡Ø§ ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ø¯Ø± Ø¨Ø±Ø§Ø¨Ø±Ø´ Ù…Ù‚Ø§ÙˆÙ…Øª Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯."
         },
         {
             "order": 3,
             "person": 2,
             "text": "Resistance usually makes it harder.",
-            "translation": "مقاومت معمولاً کار را سخت‌تر می‌کند."
+            "translation": "Ù…Ù‚Ø§ÙˆÙ…Øª Ù…Ø¹Ù…ÙˆÙ„Ø§Ù‹ Ú©Ø§Ø± Ø±Ø§ Ø³Ø®Øªâ€ŒØªØ± Ù…ÛŒâ€ŒÚ©Ù†Ø¯."
         },
         {
             "order": 4,
             "person": 1,
             "text": "How do you stay so calm about it?",
-            "translation": "تو چطور درباره‌اش این‌قدر آرام می‌مانی؟"
+            "translation": "ØªÙˆ Ú†Ø·ÙˆØ± Ø¯Ø±Ø¨Ø§Ø±Ù‡â€ŒØ§Ø´ Ø§ÛŒÙ†â€ŒÙ‚Ø¯Ø± Ø¢Ø±Ø§Ù… Ù…ÛŒâ€ŒÙ…Ø§Ù†ÛŒØŸ"
         },
         {
             "order": 5,
             "person": 2,
             "text": "I try to see change as an opportunity.",
-            "translation": "سعی می‌کنم تغییر را یک فرصت ببینم."
+            "translation": "Ø³Ø¹ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù… ØªØºÛŒÛŒØ± Ø±Ø§ ÛŒÚ© ÙØ±ØµØª Ø¨Ø¨ÛŒÙ†Ù…."
         },
         {
             "order": 6,
             "person": 1,
             "text": "That's a healthy mindset.",
-            "translation": "این طرز فکر سالمی است."
+            "translation": "Ø§ÛŒÙ† Ø·Ø±Ø² ÙÚ©Ø± Ø³Ø§Ù„Ù…ÛŒ Ø§Ø³Øª."
         },
         {
             "order": 7,
             "person": 2,
             "text": "Staying flexible helps a lot.",
-            "translation": "انعطاف‌پذیر ماندن خیلی کمک می‌کند."
+            "translation": "Ø§Ù†Ø¹Ø·Ø§Ùâ€ŒÙ¾Ø°ÛŒØ± Ù…Ø§Ù†Ø¯Ù† Ø®ÛŒÙ„ÛŒ Ú©Ù…Ú© Ù…ÛŒâ€ŒÚ©Ù†Ø¯."
         },
         {
             "order": 8,
             "person": 1,
             "text": "I suppose we have to adapt anyway.",
-            "translation": "گمان کنم به هر حال باید سازگار شویم."
+            "translation": "Ú¯Ù…Ø§Ù† Ú©Ù†Ù… Ø¨Ù‡ Ù‡Ø± Ø­Ø§Ù„ Ø¨Ø§ÛŒØ¯ Ø³Ø§Ø²Ú¯Ø§Ø± Ø´ÙˆÛŒÙ…."
         },
         {
             "order": 9,
             "person": 2,
             "text": "Those who adjust quickly tend to thrive.",
-            "translation": "کسانی که سریع تطبیق می‌یابند معمولاً شکوفا می‌شوند."
+            "translation": "Ú©Ø³Ø§Ù†ÛŒ Ú©Ù‡ Ø³Ø±ÛŒØ¹ ØªØ·Ø¨ÛŒÙ‚ Ù…ÛŒâ€ŒÛŒØ§Ø¨Ù†Ø¯ Ù…Ø¹Ù…ÙˆÙ„Ø§Ù‹ Ø´Ú©ÙˆÙØ§ Ù…ÛŒâ€ŒØ´ÙˆÙ†Ø¯."
         },
         {
             "order": 10,
             "person": 1,
             "text": "You've given me a new perspective.",
-            "translation": "دیدگاه تازه‌ای به من دادی."
+            "translation": "Ø¯ÛŒØ¯Ú¯Ø§Ù‡ ØªØ§Ø²Ù‡â€ŒØ§ÛŒ Ø¨Ù‡ Ù…Ù† Ø¯Ø§Ø¯ÛŒ."
         },
         {
             "order": 11,
             "person": 2,
             "text": "Embrace it, and it gets easier.",
-            "translation": "بپذیرش، و آسان‌تر می‌شود."
+            "translation": "Ø¨Ù¾Ø°ÛŒØ±Ø´ØŒ Ùˆ Ø¢Ø³Ø§Ù†â€ŒØªØ± Ù…ÛŒâ€ŒØ´ÙˆØ¯."
         }
     ]
 }

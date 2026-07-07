@@ -1,94 +1,86 @@
 {
-  "title": "8 - Reflecting on a Career Change",
-  "description": "گفتگو درباره تصمیم برای تغییر مسیر شغلی و دلایل آن.",
-  "words": [
-    "switch",
-    "passion",
-    "fulfilling",
-    "stable",
-    "uncertain",
-    "retrain",
-    "courage",
-    "field",
-    "transferable",
-    "motivation",
-    "pursue",
-    "sacrifice",
-    "worthwhile"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "I heard you're thinking of changing careers.",
-      "translation": "شنیدم به فکر تغییر شغل هستی."
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Yes, I've been considering it for a while.",
-      "translation": "بله، مدتی است به آن فکر می‌کنم."
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "What's driving the decision?",
-      "translation": "چه چیزی این تصمیم را پیش می‌برد؟"
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "My current job is stable but not fulfilling.",
-      "translation": "شغل فعلی‌ام باثبات است اما رضایت‌بخش نیست."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "That takes courage to admit.",
-      "translation": "اعتراف به این موضوع شجاعت می‌خواهد."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "I want to pursue something I'm passionate about.",
-      "translation": "می‌خواهم چیزی را دنبال کنم که به آن علاقه دارم."
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "Will you need to retrain?",
-      "translation": "لازم است دوباره آموزش ببینی؟"
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "Yes, but many of my skills are transferable.",
-      "translation": "بله، اما بسیاری از مهارت‌هایم قابل انتقال هستند."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "It's a big sacrifice in the short term.",
-      "translation": "در کوتاه‌مدت فداکاری بزرگی است."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "I know, but I think it'll be worthwhile.",
-      "translation": "می‌دانم، اما فکر می‌کنم ارزشش را خواهد داشت."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "I admire your motivation.",
-      "translation": "انگیزه‌ات را تحسین می‌کنم."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "Thanks. Life's too short to stay unhappy.",
-      "translation": "ممنون. زندگی کوتاه‌تر از آن است که ناراضی بمانی."
-    }
-  ]
+    "title": "8 - Reflecting on a Career Change",
+    "description": "گفتگو درباره تصمیم برای تغییر مسیر شغلی و دلایل آن.",
+    "words": [
+        "fulfilling",
+        "transferable",
+        "motivation",
+        "sacrifice",
+        "worthwhile"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I heard you're thinking of changing careers.",
+            "translation": "شنیدم به فکر تغییر شغل هستی."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, I've been considering it for a while.",
+            "translation": "بله، مدتی است به آن فکر می‌کنم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "What's driving the decision?",
+            "translation": "چه چیزی این تصمیم را پیش می‌برد؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "My current job is stable but not fulfilling.",
+            "translation": "شغل فعلی‌ام باثبات است اما رضایت‌بخش نیست."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "That takes courage to admit.",
+            "translation": "اعتراف به این موضوع شجاعت می‌خواهد."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I want to pursue something I'm passionate about.",
+            "translation": "می‌خواهم چیزی را دنبال کنم که به آن علاقه دارم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Will you need to retrain?",
+            "translation": "لازم است دوباره آموزش ببینی؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, but many of my skills are transferable.",
+            "translation": "بله، اما بسیاری از مهارت‌هایم قابل انتقال هستند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "It's a big sacrifice in the short term.",
+            "translation": "در کوتاه‌مدت فداکاری بزرگی است."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I know, but I think it'll be worthwhile.",
+            "translation": "می‌دانم، اما فکر می‌کنم ارزشش را خواهد داشت."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I admire your motivation.",
+            "translation": "انگیزه‌ات را تحسین می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thanks. Life's too short to stay unhappy.",
+            "translation": "ممنون. زندگی کوتاه‌تر از آن است که ناراضی بمانی."
+        }
+    ]
 }

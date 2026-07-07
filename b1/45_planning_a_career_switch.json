@@ -1,92 +1,89 @@
 {
-  "title": "45 - Planning a Career Switch",
-  "description": "فردی درباره برنامه‌اش برای تغییر مسیر شغلی با یک دوست مشورت می‌کند.",
-  "words": [
-    "switch",
-    "field",
-    "retrain",
-    "passion",
-    "stable",
-    "uncertain",
-    "research",
-    "network",
-    "transition",
-    "courage",
-    "pursue"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "I'm thinking about changing my career.",
-      "translation": "به تغییر شغلم فکر می‌کنم."
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Really? What field interests you?",
-      "translation": "واقعاً؟ چه حوزه‌ای برایت جالب است؟"
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "I'd love to work in design.",
-      "translation": "دوست دارم در طراحی کار کنم."
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "That's a big change. Have you researched it?",
-      "translation": "تغییر بزرگی است. درباره‌اش تحقیق کرده‌ای؟"
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "Yes, I might need to retrain.",
-      "translation": "بله، شاید لازم باشد دوباره آموزش ببینم."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "Do you have the skills already?",
-      "translation": "مهارت‌هایش را از قبل داری؟"
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "Some, but I'd take an evening course.",
-      "translation": "بعضی‌ها را، اما یک دوره شبانه می‌گذرانم."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "Won't it be risky to leave a stable job?",
-      "translation": "ترک یک شغل باثبات پرریسک نیست؟"
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "It is, but I'm not happy where I am.",
-      "translation": "هست، اما از جایی که هستم راضی نیستم."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "Following your passion takes courage.",
-      "translation": "دنبال کردن علاقه‌ات شجاعت می‌خواهد."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "I want to plan the transition carefully.",
-      "translation": "می‌خواهم این گذار را با دقت برنامه‌ریزی کنم."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "That's wise. I'm sure you'll succeed.",
-      "translation": "عاقلانه است. مطمئنم موفق می‌شوی."
-    }
-  ]
+    "title": "45 - Planning a Career Switch",
+    "description": "فردی درباره برنامه‌اش برای تغییر مسیر شغلی با یک دوست مشورت می‌کند.",
+    "words": [
+        "switch",
+        "field",
+        "retrain",
+        "research",
+        "network",
+        "transition",
+        "courage",
+        "pursue"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "I'm thinking about changing my career.",
+            "translation": "به تغییر شغلم فکر می‌کنم."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Really? What field interests you?",
+            "translation": "واقعاً؟ چه حوزه‌ای برایت جالب است؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'd love to work in design.",
+            "translation": "دوست دارم در طراحی کار کنم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "That's a big change. Have you researched it?",
+            "translation": "تغییر بزرگی است. درباره‌اش تحقیق کرده‌ای؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Yes, I might need to retrain.",
+            "translation": "بله، شاید لازم باشد دوباره آموزش ببینم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Do you have the skills already?",
+            "translation": "مهارت‌هایش را از قبل داری؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Some, but I'd take an evening course.",
+            "translation": "بعضی‌ها را، اما یک دوره شبانه می‌گذرانم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Won't it be risky to leave a stable job?",
+            "translation": "ترک یک شغل باثبات پرریسک نیست؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "It is, but I'm not happy where I am.",
+            "translation": "هست، اما از جایی که هستم راضی نیستم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Following your passion takes courage.",
+            "translation": "دنبال کردن علاقه‌ات شجاعت می‌خواهد."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "I want to plan the transition carefully.",
+            "translation": "می‌خواهم این گذار را با دقت برنامه‌ریزی کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That's wise. I'm sure you'll succeed.",
+            "translation": "عاقلانه است. مطمئنم موفق می‌شوی."
+        }
+    ]
 }

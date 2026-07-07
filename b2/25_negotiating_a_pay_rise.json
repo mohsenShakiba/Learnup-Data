@@ -1,95 +1,85 @@
 {
-    "title": "25 - Negotiating a Pay Rise",
-    "description": "کارمندی با دلیل و آرامش از مدیرش درخواست افزایش حقوق می‌کند.",
-    "words": [
-        "raise",
-        "value",
-        "contribution",
-        "market",
-        "justify",
-        "performance",
-        "responsibility",
-        "review",
-        "reasonable",
-        "deserve",
-        "budget",
-        "consider",
-        "appreciate",
-        "discuss"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Thanks for meeting me. I'd like to discuss my pay.",
-            "translation": "ممنون که ملاقاتم کردید. می‌خواهم درباره حقوقم صحبت کنم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Of course. What did you have in mind?",
-            "translation": "البته. چه چیزی مد نظر داشتی؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I believe a raise is justified.",
-            "translation": "معتقدم افزایش حقوق منطقی است."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Can you tell me why?",
-            "translation": "می‌توانی بگویی چرا؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "My responsibilities have grown significantly.",
-            "translation": "مسئولیت‌هایم به‌طور قابل‌توجهی بیشتر شده."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "That's true. You've taken on a lot.",
-            "translation": "درست است. کارهای زیادی را به عهده گرفته‌ای."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "My performance reviews have been strong too.",
-            "translation": "ارزیابی‌های عملکردم هم قوی بوده‌اند."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "I can't argue with that.",
-            "translation": "نمی‌توانم با آن مخالفت کنم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "My salary is also below the market rate.",
-            "translation": "حقوقم هم زیر نرخ بازار است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Let me review the budget this week.",
-            "translation": "بگذار این هفته بودجه را بررسی کنم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "I'd really appreciate that.",
-            "translation": "واقعاً قدردانی می‌کنم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "You've made a reasonable case. I'll consider it.",
-            "translation": "استدلال منطقی‌ای ارائه دادی. در نظرش می‌گیرم."
-        }
-    ]
+  "title": "25 - Negotiating a Pay Rise",
+  "description": "Ú©Ø§Ø±Ù…Ù†Ø¯ÛŒ Ø¨Ø§ Ø¯Ù„ÛŒÙ„ Ùˆ Ø¢Ø±Ø§Ù…Ø´ Ø§Ø² Ù…Ø¯ÛŒØ±Ø´ Ø¯Ø±Ø®ÙˆØ§Ø³Øª Ø§ÙØ²Ø§ÛŒØ´ Ø­Ù‚ÙˆÙ‚ Ù…ÛŒâ€ŒÚ©Ù†Ø¯.",
+  "words": [
+    "contribution",
+    "market",
+    "justify",
+    "deserve"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Thanks for meeting me. I'd like to discuss my pay.",
+      "translation": "Ù…Ù…Ù†ÙˆÙ† Ú©Ù‡ Ù…Ù„Ø§Ù‚Ø§ØªÙ… Ú©Ø±Ø¯ÛŒØ¯. Ù…ÛŒâ€ŒØ®ÙˆØ§Ù‡Ù… Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø­Ù‚ÙˆÙ‚Ù… ØµØ­Ø¨Øª Ú©Ù†Ù…."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Of course. What did you have in mind?",
+      "translation": "Ø§Ù„Ø¨ØªÙ‡. Ú†Ù‡ Ú†ÛŒØ²ÛŒ Ù…Ø¯ Ù†Ø¸Ø± Ø¯Ø§Ø´ØªÛŒØŸ"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I believe a raise is justified.",
+      "translation": "Ù…Ø¹ØªÙ‚Ø¯Ù… Ø§ÙØ²Ø§ÛŒØ´ Ø­Ù‚ÙˆÙ‚ Ù…Ù†Ø·Ù‚ÛŒ Ø§Ø³Øª."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Can you tell me why?",
+      "translation": "Ù…ÛŒâ€ŒØªÙˆØ§Ù†ÛŒ Ø¨Ú¯ÙˆÛŒÛŒ Ú†Ø±Ø§ØŸ"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "My responsibilities have grown significantly.",
+      "translation": "Ù…Ø³Ø¦ÙˆÙ„ÛŒØªâ€ŒÙ‡Ø§ÛŒÙ… Ø¨Ù‡â€ŒØ·ÙˆØ± Ù‚Ø§Ø¨Ù„â€ŒØªÙˆØ¬Ù‡ÛŒ Ø¨ÛŒØ´ØªØ± Ø´Ø¯Ù‡."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "That's true. You've taken on a lot.",
+      "translation": "Ø¯Ø±Ø³Øª Ø§Ø³Øª. Ú©Ø§Ø±Ù‡Ø§ÛŒ Ø²ÛŒØ§Ø¯ÛŒ Ø±Ø§ Ø¨Ù‡ Ø¹Ù‡Ø¯Ù‡ Ú¯Ø±ÙØªÙ‡â€ŒØ§ÛŒ."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "My performance reviews have been strong too.",
+      "translation": "Ø§Ø±Ø²ÛŒØ§Ø¨ÛŒâ€ŒÙ‡Ø§ÛŒ Ø¹Ù…Ù„Ú©Ø±Ø¯Ù… Ù‡Ù… Ù‚ÙˆÛŒ Ø¨ÙˆØ¯Ù‡â€ŒØ§Ù†Ø¯."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "I can't argue with that.",
+      "translation": "Ù†Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ù… Ø¨Ø§ Ø¢Ù† Ù…Ø®Ø§Ù„ÙØª Ú©Ù†Ù…."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "My salary is also below the market rate.",
+      "translation": "Ø­Ù‚ÙˆÙ‚Ù… Ù‡Ù… Ø²ÛŒØ± Ù†Ø±Ø® Ø¨Ø§Ø²Ø§Ø± Ø§Ø³Øª."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Let me review the budget this week.",
+      "translation": "Ø¨Ú¯Ø°Ø§Ø± Ø§ÛŒÙ† Ù‡ÙØªÙ‡ Ø¨ÙˆØ¯Ø¬Ù‡ Ø±Ø§ Ø¨Ø±Ø±Ø³ÛŒ Ú©Ù†Ù…."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "I'd really appreciate that.",
+      "translation": "ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ù‚Ø¯Ø±Ø¯Ø§Ù†ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù…."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "You've made a reasonable case. I'll consider it.",
+      "translation": "Ø§Ø³ØªØ¯Ù„Ø§Ù„ Ù…Ù†Ø·Ù‚ÛŒâ€ŒØ§ÛŒ Ø§Ø±Ø§Ø¦Ù‡ Ø¯Ø§Ø¯ÛŒ. Ø¯Ø± Ù†Ø¸Ø±Ø´ Ù…ÛŒâ€ŒÚ¯ÛŒØ±Ù…."
+    }
+  ]
 }

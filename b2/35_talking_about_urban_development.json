@@ -1,95 +1,93 @@
 {
-    "title": "35 - Talking About Urban Development",
-    "description": "دو ساکن شهر درباره ساخت‌وسازهای جدید و تأثیر آن بر محله بحث می‌کنند.",
-    "words": [
-        "development",
-        "construction",
-        "infrastructure",
-        "affordable",
-        "displace",
-        "green space",
-        "density",
-        "regeneration",
-        "community",
-        "preserve",
-        "investment",
-        "balance",
-        "impact",
-        "thrive"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Have you seen all the new construction downtown?",
-            "translation": "همه ساخت‌وسازهای جدید مرکز شهر را دیده‌ای؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Yes, the area is changing fast.",
-            "translation": "بله، منطقه سریع در حال تغییر است."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Some say it brings much-needed investment.",
-            "translation": "بعضی‌ها می‌گویند سرمایه‌گذاری لازم را می‌آورد."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "But it's pushing out long-time residents.",
-            "translation": "اما ساکنان قدیمی را بیرون می‌راند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "That's the downside of regeneration.",
-            "translation": "این جنبه منفی نوسازی است."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "We're losing affordable housing too.",
-            "translation": "مسکن ارزان‌قیمت را هم از دست می‌دهیم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "And there's hardly any green space left.",
-            "translation": "و تقریباً هیچ فضای سبزی باقی نمانده."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Good planning should balance both.",
-            "translation": "برنامه‌ریزی خوب باید هر دو را متعادل کند."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "The infrastructure can't cope with the density.",
-            "translation": "زیرساخت نمی‌تواند با این تراکم کنار بیاید."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Exactly. Growth must be sustainable.",
-            "translation": "دقیقاً. رشد باید پایدار باشد."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "We should preserve the community's character.",
-            "translation": "باید هویت محله را حفظ کنیم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Only then can the neighborhood truly thrive.",
-            "translation": "تنها در این صورت محله واقعاً شکوفا می‌شود."
-        }
-    ]
+  "title": "35 - Talking About Urban Development",
+  "description": "دو ساکن شهر درباره ساخت‌وسازهای جدید و تأثیر آن بر محله بحث می‌کنند.",
+  "words": [
+    "development",
+    "construction",
+    "infrastructure",
+    "affordable",
+    "displace",
+    "green space",
+    "density",
+    "regeneration",
+    "preserve",
+    "investment",
+    "impact",
+    "thrive"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Have you seen all the new construction downtown?",
+      "translation": "همه ساخت‌وسازهای جدید مرکز شهر را دیده‌ای؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Yes, the area is changing fast.",
+      "translation": "بله، منطقه سریع در حال تغییر است."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Some say it brings much-needed investment.",
+      "translation": "بعضی‌ها می‌گویند سرمایه‌گذاری لازم را می‌آورد."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "But it's pushing out long-time residents.",
+      "translation": "اما ساکنان قدیمی را بیرون می‌راند."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "That's the downside of regeneration.",
+      "translation": "این جنبه منفی نوسازی است."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "We're losing affordable housing too.",
+      "translation": "مسکن ارزان‌قیمت را هم از دست می‌دهیم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "And there's hardly any green space left.",
+      "translation": "و تقریباً هیچ فضای سبزی باقی نمانده."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Good planning should balance both.",
+      "translation": "برنامه‌ریزی خوب باید هر دو را متعادل کند."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "The infrastructure can't cope with the density.",
+      "translation": "زیرساخت نمی‌تواند با این تراکم کنار بیاید."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Exactly. Growth must be sustainable.",
+      "translation": "دقیقاً. رشد باید پایدار باشد."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "We should preserve the community's character.",
+      "translation": "باید هویت محله را حفظ کنیم."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Only then can the neighborhood truly thrive.",
+      "translation": "تنها در این صورت محله واقعاً شکوفا می‌شود."
+    }
+  ]
 }

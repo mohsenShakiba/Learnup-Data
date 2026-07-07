@@ -1,95 +1,92 @@
 {
-    "title": "15 - Talking About Globalization",
-    "description": "دو نفر درباره پیامدهای مثبت و منفی جهانی‌شدن بحث می‌کنند.",
-    "words": [
-        "globalization",
-        "economy",
-        "interconnected",
-        "outsource",
-        "competition",
-        "identity",
-        "inequality",
-        "benefit",
-        "trade",
-        "exploit",
-        "diversity",
-        "impact",
-        "regulate",
-        "argue"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Globalization has changed everything, hasn't it?",
-            "translation": "جهانی‌شدن همه چیز را تغییر داده، نه؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Absolutely. The world is so interconnected now.",
-            "translation": "قطعاً. حالا دنیا خیلی به هم مرتبط است."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "It's brought huge economic benefits.",
-            "translation": "منافع اقتصادی بزرگی به همراه آورده."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "True, but not everyone gains equally.",
-            "translation": "درست است، اما همه به یک اندازه سود نمی‌برند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "You mean it increases inequality?",
-            "translation": "منظورت این است که نابرابری را افزایش می‌دهد؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "In some regions, yes. Jobs get outsourced.",
-            "translation": "در بعضی مناطق، بله. شغل‌ها برون‌سپاری می‌شوند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "But it also creates new opportunities.",
-            "translation": "اما فرصت‌های جدیدی هم می‌سازد."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "And it exposes us to new cultures.",
-            "translation": "و ما را با فرهنگ‌های جدید آشنا می‌کند."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Some worry it erodes local identity.",
-            "translation": "بعضی‌ها نگرانند که هویت محلی را از بین ببرد."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "That's a fair concern.",
-            "translation": "نگرانی به‌جایی است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Maybe it needs better regulation.",
-            "translation": "شاید به مقررات بهتری نیاز دارد."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Either way, it's hard to reverse now.",
-            "translation": "در هر صورت، حالا برگرداندنش سخت است."
-        }
-    ]
+    "title":  "15 - Talking About Globalization",
+    "description":  "Ø¯Ùˆ Ù†ÙØ± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ù¾ÛŒØ§Ù…Ø¯Ù‡Ø§ÛŒ Ù…Ø«Ø¨Øª Ùˆ Ù…Ù†ÙÛŒ Ø¬Ù‡Ø§Ù†ÛŒâ€ŒØ´Ø¯Ù† Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "globalization",
+                  "economy",
+                  "interconnected",
+                  "outsource",
+                  "competition",
+                  "inequality",
+                  "trade",
+                  "exploit",
+                  "diversity",
+                  "impact",
+                  "regulate"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "Globalization has changed everything, hasn\u0027t it?",
+                          "translation":  "Ø¬Ù‡Ø§Ù†ÛŒâ€ŒØ´Ø¯Ù† Ù‡Ù…Ù‡ Ú†ÛŒØ² Ø±Ø§ ØªØºÛŒÛŒØ± Ø¯Ø§Ø¯Ù‡ØŒ Ù†Ù‡ØŸ"
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "Absolutely. The world is so interconnected now.",
+                          "translation":  "Ù‚Ø·Ø¹Ø§Ù‹. Ø­Ø§Ù„Ø§ Ø¯Ù†ÛŒØ§ Ø®ÛŒÙ„ÛŒ Ø¨Ù‡ Ù‡Ù… Ù…Ø±ØªØ¨Ø· Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "It\u0027s brought huge economic benefits.",
+                          "translation":  "Ù…Ù†Ø§ÙØ¹ Ø§Ù‚ØªØµØ§Ø¯ÛŒ Ø¨Ø²Ø±Ú¯ÛŒ Ø¨Ù‡ Ù‡Ù…Ø±Ø§Ù‡ Ø¢ÙˆØ±Ø¯Ù‡."
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "True, but not everyone gains equally.",
+                          "translation":  "Ø¯Ø±Ø³Øª Ø§Ø³ØªØŒ Ø§Ù…Ø§ Ù‡Ù…Ù‡ Ø¨Ù‡ ÛŒÚ© Ø§Ù†Ø¯Ø§Ø²Ù‡ Ø³ÙˆØ¯ Ù†Ù…ÛŒâ€ŒØ¨Ø±Ù†Ø¯."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "You mean it increases inequality?",
+                          "translation":  "Ù…Ù†Ø¸ÙˆØ±Øª Ø§ÛŒÙ† Ø§Ø³Øª Ú©Ù‡ Ù†Ø§Ø¨Ø±Ø§Ø¨Ø±ÛŒ Ø±Ø§ Ø§ÙØ²Ø§ÛŒØ´ Ù…ÛŒâ€ŒØ¯Ù‡Ø¯ØŸ"
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "In some regions, yes. Jobs get outsourced.",
+                          "translation":  "Ø¯Ø± Ø¨Ø¹Ø¶ÛŒ Ù…Ù†Ø§Ø·Ù‚ØŒ Ø¨Ù„Ù‡. Ø´ØºÙ„â€ŒÙ‡Ø§ Ø¨Ø±ÙˆÙ†â€ŒØ³Ù¾Ø§Ø±ÛŒ Ù…ÛŒâ€ŒØ´ÙˆÙ†Ø¯."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "But it also creates new opportunities.",
+                          "translation":  "Ø§Ù…Ø§ ÙØ±ØµØªâ€ŒÙ‡Ø§ÛŒ Ø¬Ø¯ÛŒØ¯ÛŒ Ù‡Ù… Ù…ÛŒâ€ŒØ³Ø§Ø²Ø¯."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "And it exposes us to new cultures.",
+                          "translation":  "Ùˆ Ù…Ø§ Ø±Ø§ Ø¨Ø§ ÙØ±Ù‡Ù†Ú¯â€ŒÙ‡Ø§ÛŒ Ø¬Ø¯ÛŒØ¯ Ø¢Ø´Ù†Ø§ Ù…ÛŒâ€ŒÚ©Ù†Ø¯."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "Some worry it erodes local identity.",
+                          "translation":  "Ø¨Ø¹Ø¶ÛŒâ€ŒÙ‡Ø§ Ù†Ú¯Ø±Ø§Ù†Ù†Ø¯ Ú©Ù‡ Ù‡ÙˆÛŒØª Ù…Ø­Ù„ÛŒ Ø±Ø§ Ø§Ø² Ø¨ÛŒÙ† Ø¨Ø¨Ø±Ø¯."
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "That\u0027s a fair concern.",
+                          "translation":  "Ù†Ú¯Ø±Ø§Ù†ÛŒ Ø¨Ù‡â€ŒØ¬Ø§ÛŒÛŒ Ø§Ø³Øª."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "Maybe it needs better regulation.",
+                          "translation":  "Ø´Ø§ÛŒØ¯ Ø¨Ù‡ Ù…Ù‚Ø±Ø±Ø§Øª Ø¨Ù‡ØªØ±ÛŒ Ù†ÛŒØ§Ø² Ø¯Ø§Ø±Ø¯."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "Either way, it\u0027s hard to reverse now.",
+                          "translation":  "Ø¯Ø± Ù‡Ø± ØµÙˆØ±ØªØŒ Ø­Ø§Ù„Ø§ Ø¨Ø±Ú¯Ø±Ø¯Ø§Ù†Ø¯Ù†Ø´ Ø³Ø®Øª Ø§Ø³Øª."
+                      }
+                  ]
 }

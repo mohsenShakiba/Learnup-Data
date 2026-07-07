@@ -1,21 +1,15 @@
 {
     "title": "34 - A Difficult Client Negotiation",
-    "description": "مدیر فروش با مشتری سختگیری که خواهان تخفیف بزرگ است مذاکره می‌کند.",
+    "description": "Ù…Ø¯ÛŒØ± ÙØ±ÙˆØ´ Ø¨Ø§ Ù…Ø´ØªØ±ÛŒ Ø³Ø®ØªÚ¯ÛŒØ±ÛŒ Ú©Ù‡ Ø®ÙˆØ§Ù‡Ø§Ù† ØªØ®ÙÛŒÙ Ø¨Ø²Ø±Ú¯ Ø§Ø³Øª Ù…Ø°Ø§Ú©Ø±Ù‡ Ù…ÛŒâ€ŒÚ©Ù†Ø¯.",
     "words": [
         "negotiation",
-        "discount",
-        "value",
         "margin",
         "firm",
-        "compromise",
         "justify",
-        "budget",
         "relationship",
         "concession",
-        "reasonable",
         "walk away",
-        "leverage",
-        "agreement"
+        "leverage"
     ],
     "estimatedDuration": 1,
     "sentences": [
@@ -23,73 +17,73 @@
             "order": 0,
             "person": 1,
             "text": "Your price is simply too high for us.",
-            "translation": "قیمت شما برای ما خیلی بالاست."
+            "translation": "Ù‚ÛŒÙ…Øª Ø´Ù…Ø§ Ø¨Ø±Ø§ÛŒ Ù…Ø§ Ø®ÛŒÙ„ÛŒ Ø¨Ø§Ù„Ø§Ø³Øª."
         },
         {
             "order": 1,
             "person": 2,
             "text": "I understand, but it reflects the value.",
-            "translation": "درک می‌کنم، اما نشان‌دهنده ارزش آن است."
+            "translation": "Ø¯Ø±Ú© Ù…ÛŒâ€ŒÚ©Ù†Ù…ØŒ Ø§Ù…Ø§ Ù†Ø´Ø§Ù†â€ŒØ¯Ù‡Ù†Ø¯Ù‡ Ø§Ø±Ø²Ø´ Ø¢Ù† Ø§Ø³Øª."
         },
         {
             "order": 2,
             "person": 1,
             "text": "We'd need at least a thirty percent discount.",
-            "translation": "ما حداقل سی درصد تخفیف لازم داریم."
+            "translation": "Ù…Ø§ Ø­Ø¯Ø§Ù‚Ù„ Ø³ÛŒ Ø¯Ø±ØµØ¯ ØªØ®ÙÛŒÙ Ù„Ø§Ø²Ù… Ø¯Ø§Ø±ÛŒÙ…."
         },
         {
             "order": 3,
             "person": 2,
             "text": "That would cut deeply into our margin.",
-            "translation": "این به‌شدت حاشیه سود ما را کاهش می‌دهد."
+            "translation": "Ø§ÛŒÙ† Ø¨Ù‡â€ŒØ´Ø¯Øª Ø­Ø§Ø´ÛŒÙ‡ Ø³ÙˆØ¯ Ù…Ø§ Ø±Ø§ Ú©Ø§Ù‡Ø´ Ù…ÛŒâ€ŒØ¯Ù‡Ø¯."
         },
         {
             "order": 4,
             "person": 1,
             "text": "Other suppliers offer lower rates.",
-            "translation": "تأمین‌کنندگان دیگر نرخ‌های پایین‌تری ارائه می‌دهند."
+            "translation": "ØªØ£Ù…ÛŒÙ†â€ŒÚ©Ù†Ù†Ø¯Ú¯Ø§Ù† Ø¯ÛŒÚ¯Ø± Ù†Ø±Ø®â€ŒÙ‡Ø§ÛŒ Ù¾Ø§ÛŒÛŒÙ†â€ŒØªØ±ÛŒ Ø§Ø±Ø§Ø¦Ù‡ Ù…ÛŒâ€ŒØ¯Ù‡Ù†Ø¯."
         },
         {
             "order": 5,
             "person": 2,
             "text": "But few match our quality and support.",
-            "translation": "اما کمتر کسی کیفیت و پشتیبانی ما را دارد."
+            "translation": "Ø§Ù…Ø§ Ú©Ù…ØªØ± Ú©Ø³ÛŒ Ú©ÛŒÙÛŒØª Ùˆ Ù¾Ø´ØªÛŒØ¨Ø§Ù†ÛŒ Ù…Ø§ Ø±Ø§ Ø¯Ø§Ø±Ø¯."
         },
         {
             "order": 6,
             "person": 1,
             "text": "That's fair. Still, I have a budget.",
-            "translation": "منصفانه است. با این حال، بودجه‌ای دارم."
+            "translation": "Ù…Ù†ØµÙØ§Ù†Ù‡ Ø§Ø³Øª. Ø¨Ø§ Ø§ÛŒÙ† Ø­Ø§Ù„ØŒ Ø¨ÙˆØ¯Ø¬Ù‡â€ŒØ§ÛŒ Ø¯Ø§Ø±Ù…."
         },
         {
             "order": 7,
             "person": 2,
             "text": "I can offer fifteen percent for a long contract.",
-            "translation": "می‌توانم برای یک قرارداد بلندمدت پانزده درصد بدهم."
+            "translation": "Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ù… Ø¨Ø±Ø§ÛŒ ÛŒÚ© Ù‚Ø±Ø§Ø±Ø¯Ø§Ø¯ Ø¨Ù„Ù†Ø¯Ù…Ø¯Øª Ù¾Ø§Ù†Ø²Ø¯Ù‡ Ø¯Ø±ØµØ¯ Ø¨Ø¯Ù‡Ù…."
         },
         {
             "order": 8,
             "person": 1,
             "text": "Could you add free delivery as well?",
-            "translation": "می‌توانید ارسال رایگان هم اضافه کنید؟"
+            "translation": "Ù…ÛŒâ€ŒØªÙˆØ§Ù†ÛŒØ¯ Ø§Ø±Ø³Ø§Ù„ Ø±Ø§ÛŒÚ¯Ø§Ù† Ù‡Ù… Ø§Ø¶Ø§ÙÙ‡ Ú©Ù†ÛŒØ¯ØŸ"
         },
         {
             "order": 9,
             "person": 2,
             "text": "If you commit to two years, yes.",
-            "translation": "اگر دو سال متعهد شوید، بله."
+            "translation": "Ø§Ú¯Ø± Ø¯Ùˆ Ø³Ø§Ù„ Ù…ØªØ¹Ù‡Ø¯ Ø´ÙˆÛŒØ¯ØŒ Ø¨Ù„Ù‡."
         },
         {
             "order": 10,
             "person": 1,
             "text": "That's a deal I can work with.",
-            "translation": "این معامله‌ای است که می‌توانم با آن کنار بیایم."
+            "translation": "Ø§ÛŒÙ† Ù…Ø¹Ø§Ù…Ù„Ù‡â€ŒØ§ÛŒ Ø§Ø³Øª Ú©Ù‡ Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ù… Ø¨Ø§ Ø¢Ù† Ú©Ù†Ø§Ø± Ø¨ÛŒØ§ÛŒÙ…."
         },
         {
             "order": 11,
             "person": 2,
             "text": "Excellent. Let's put it in writing.",
-            "translation": "عالی. بیایید آن را مکتوب کنیم."
+            "translation": "Ø¹Ø§Ù„ÛŒ. Ø¨ÛŒØ§ÛŒÛŒØ¯ Ø¢Ù† Ø±Ø§ Ù…Ú©ØªÙˆØ¨ Ú©Ù†ÛŒÙ…."
         }
     ]
 }

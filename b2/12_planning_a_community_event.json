@@ -1,18 +1,13 @@
 {
   "title": "12 - Planning a Community Event",
-  "description": "دو داوطلب درباره سازماندهی یک رویداد محلی برنامه‌ریزی می‌کنند.",
+  "description": "Ø¯Ùˆ Ø¯Ø§ÙˆØ·Ù„Ø¨ Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø³Ø§Ø²Ù…Ø§Ù†Ø¯Ù‡ÛŒ ÛŒÚ© Ø±ÙˆÛŒØ¯Ø§Ø¯ Ù…Ø­Ù„ÛŒ Ø¨Ø±Ù†Ø§Ù…Ù‡â€ŒØ±ÛŒØ²ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
   "words": [
-    "community",
-    "volunteer",
-    "venue",
-    "budget",
     "promote",
     "sponsor",
     "attendance",
     "logistics",
     "coordinate",
     "permit",
-    "raise",
     "awareness",
     "successful"
   ],
@@ -22,85 +17,85 @@
       "order": 0,
       "person": 1,
       "text": "We need to start planning the community fair.",
-      "translation": "باید برنامه‌ریزی جشنواره محلی را شروع کنیم."
+      "translation": "Ø¨Ø§ÛŒØ¯ Ø¨Ø±Ù†Ø§Ù…Ù‡â€ŒØ±ÛŒØ²ÛŒ Ø¬Ø´Ù†ÙˆØ§Ø±Ù‡ Ù…Ø­Ù„ÛŒ Ø±Ø§ Ø´Ø±ÙˆØ¹ Ú©Ù†ÛŒÙ…."
     },
     {
       "order": 1,
       "person": 2,
       "text": "Right. Have we booked a venue yet?",
-      "translation": "درست است. هنوز مکانی رزرو کرده‌ایم؟"
+      "translation": "Ø¯Ø±Ø³Øª Ø§Ø³Øª. Ù‡Ù†ÙˆØ² Ù…Ú©Ø§Ù†ÛŒ Ø±Ø²Ø±Ùˆ Ú©Ø±Ø¯Ù‡â€ŒØ§ÛŒÙ…ØŸ"
     },
     {
       "order": 2,
       "person": 1,
       "text": "Not yet. The park would be ideal.",
-      "translation": "هنوز نه. پارک ایده‌آل خواهد بود."
+      "translation": "Ù‡Ù†ÙˆØ² Ù†Ù‡. Ù¾Ø§Ø±Ú© Ø§ÛŒØ¯Ù‡â€ŒØ¢Ù„ Ø®ÙˆØ§Ù‡Ø¯ Ø¨ÙˆØ¯."
     },
     {
       "order": 3,
       "person": 2,
       "text": "We'll need a permit from the council.",
-      "translation": "به مجوزی از شورا نیاز داریم."
+      "translation": "Ø¨Ù‡ Ù…Ø¬ÙˆØ²ÛŒ Ø§Ø² Ø´ÙˆØ±Ø§ Ù†ÛŒØ§Ø² Ø¯Ø§Ø±ÛŒÙ…."
     },
     {
       "order": 4,
       "person": 1,
       "text": "I'll handle that. What about the budget?",
-      "translation": "من به آن رسیدگی می‌کنم. بودجه چطور؟"
+      "translation": "Ù…Ù† Ø¨Ù‡ Ø¢Ù† Ø±Ø³ÛŒØ¯Ú¯ÛŒ Ù…ÛŒâ€ŒÚ©Ù†Ù…. Ø¨ÙˆØ¯Ø¬Ù‡ Ú†Ø·ÙˆØ±ØŸ"
     },
     {
       "order": 5,
       "person": 2,
       "text": "It's tight, so we should find a sponsor.",
-      "translation": "محدود است، پس باید یک حامی مالی پیدا کنیم."
+      "translation": "Ù…Ø­Ø¯ÙˆØ¯ Ø§Ø³ØªØŒ Ù¾Ø³ Ø¨Ø§ÛŒØ¯ ÛŒÚ© Ø­Ø§Ù…ÛŒ Ù…Ø§Ù„ÛŒ Ù¾ÛŒØ¯Ø§ Ú©Ù†ÛŒÙ…."
     },
     {
       "order": 6,
       "person": 1,
       "text": "Good idea. Local businesses might help.",
-      "translation": "فکر خوبی است. کسب‌وکارهای محلی شاید کمک کنند."
+      "translation": "ÙÚ©Ø± Ø®ÙˆØ¨ÛŒ Ø§Ø³Øª. Ú©Ø³Ø¨â€ŒÙˆÚ©Ø§Ø±Ù‡Ø§ÛŒ Ù…Ø­Ù„ÛŒ Ø´Ø§ÛŒØ¯ Ú©Ù…Ú© Ú©Ù†Ù†Ø¯."
     },
     {
       "order": 7,
       "person": 2,
       "text": "How will we promote the event?",
-      "translation": "چطور رویداد را تبلیغ کنیم؟"
+      "translation": "Ú†Ø·ÙˆØ± Ø±ÙˆÛŒØ¯Ø§Ø¯ Ø±Ø§ ØªØ¨Ù„ÛŒØº Ú©Ù†ÛŒÙ…ØŸ"
     },
     {
       "order": 8,
       "person": 1,
       "text": "Social media and posters around town.",
-      "translation": "شبکه‌های اجتماعی و پوستر در سطح شهر."
+      "translation": "Ø´Ø¨Ú©Ù‡â€ŒÙ‡Ø§ÛŒ Ø§Ø¬ØªÙ…Ø§Ø¹ÛŒ Ùˆ Ù¾ÙˆØ³ØªØ± Ø¯Ø± Ø³Ø·Ø­ Ø´Ù‡Ø±."
     },
     {
       "order": 9,
       "person": 2,
       "text": "We also need volunteers to coordinate logistics.",
-      "translation": "همچنین به داوطلب برای هماهنگی امور اجرایی نیاز داریم."
+      "translation": "Ù‡Ù…Ú†Ù†ÛŒÙ† Ø¨Ù‡ Ø¯Ø§ÙˆØ·Ù„Ø¨ Ø¨Ø±Ø§ÛŒ Ù‡Ù…Ø§Ù‡Ù†Ú¯ÛŒ Ø§Ù…ÙˆØ± Ø§Ø¬Ø±Ø§ÛŒÛŒ Ù†ÛŒØ§Ø² Ø¯Ø§Ø±ÛŒÙ…."
     },
     {
       "order": 10,
       "person": 1,
       "text": "If we plan carefully, it'll raise real awareness.",
-      "translation": "اگر با دقت برنامه‌ریزی کنیم، آگاهی واقعی ایجاد می‌کند."
+      "translation": "Ø§Ú¯Ø± Ø¨Ø§ Ø¯Ù‚Øª Ø¨Ø±Ù†Ø§Ù…Ù‡â€ŒØ±ÛŒØ²ÛŒ Ú©Ù†ÛŒÙ…ØŒ Ø¢Ú¯Ø§Ù‡ÛŒ ÙˆØ§Ù‚Ø¹ÛŒ Ø§ÛŒØ¬Ø§Ø¯ Ù…ÛŒâ€ŒÚ©Ù†Ø¯."
     },
     {
       "order": 11,
       "person": 2,
       "text": "By next month we will have finished the prep, and on the day I will be coordinating the volunteers.",
-      "translation": "تا ماه بعد آماده‌سازی را تمام خواهیم کرد، و در روزِ برنامه من داوطلبان را هماهنگ خواهم کرد."
+      "translation": "ØªØ§ Ù…Ø§Ù‡ Ø¨Ø¹Ø¯ Ø¢Ù…Ø§Ø¯Ù‡â€ŒØ³Ø§Ø²ÛŒ Ø±Ø§ ØªÙ…Ø§Ù… Ø®ÙˆØ§Ù‡ÛŒÙ… Ú©Ø±Ø¯ØŒ Ùˆ Ø¯Ø± Ø±ÙˆØ²Ù Ø¨Ø±Ù†Ø§Ù…Ù‡ Ù…Ù† Ø¯Ø§ÙˆØ·Ù„Ø¨Ø§Ù† Ø±Ø§ Ù‡Ù…Ø§Ù‡Ù†Ú¯ Ø®ÙˆØ§Ù‡Ù… Ú©Ø±Ø¯."
     },
     {
       "order": 12,
       "person": 1,
       "text": "Our coordinator, who has run festivals before, will lead the team.",
-      "translation": "هماهنگ‌کننده ما، که قبلاً جشنواره برگزار کرده است، تیم را رهبری خواهد کرد."
+      "translation": "Ù‡Ù…Ø§Ù‡Ù†Ú¯â€ŒÚ©Ù†Ù†Ø¯Ù‡ Ù…Ø§ØŒ Ú©Ù‡ Ù‚Ø¨Ù„Ø§Ù‹ Ø¬Ø´Ù†ÙˆØ§Ø±Ù‡ Ø¨Ø±Ú¯Ø²Ø§Ø± Ú©Ø±Ø¯Ù‡ Ø§Ø³ØªØŒ ØªÛŒÙ… Ø±Ø§ Ø±Ù‡Ø¨Ø±ÛŒ Ø®ÙˆØ§Ù‡Ø¯ Ú©Ø±Ø¯."
     },
     {
       "order": 13,
       "person": 2,
       "text": "I'm confident it'll be a great success.",
-      "translation": "مطمئنم موفقیت بزرگی خواهد بود."
+      "translation": "Ù…Ø·Ù…Ø¦Ù†Ù… Ù…ÙˆÙÙ‚ÛŒØª Ø¨Ø²Ø±Ú¯ÛŒ Ø®ÙˆØ§Ù‡Ø¯ Ø¨ÙˆØ¯."
     }
   ]
 }

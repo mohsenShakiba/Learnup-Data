@@ -1,87 +1,86 @@
 {
-  "title": "39 - Comparing Weekend Plans",
-  "description": "دو دوست برنامه‌های متفاوتشان برای آخر هفته را با هم مقایسه می‌کنند.",
-  "words": [
-    "plans",
-    "rather",
-    "active",
-    "lazy",
-    "hiking",
-    "decide"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "What are your plans for the weekend?",
-      "translation": "برنامه‌ات برای آخر هفته چیست؟"
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "I want to go hiking in the hills.",
-      "translation": "می‌خواهم در تپه‌ها کوهنوردی کنم."
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "Really? That sounds tiring.",
-      "translation": "واقعاً؟ خسته‌کننده به نظر می‌رسد."
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "I'd rather be active than stay home.",
-      "translation": "ترجیح می‌دهم فعال باشم تا اینکه خانه بمانم."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "I prefer a lazy weekend.",
-      "translation": "من یک آخر هفته تنبلانه را ترجیح می‌دهم."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "What will you do instead?",
-      "translation": "به جایش چه کار می‌کنی؟"
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "Read books and watch movies.",
-      "translation": "کتاب می‌خوانم و فیلم می‌بینم."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "That's more relaxing, I admit.",
-      "translation": "اعتراف می‌کنم آن آرام‌بخش‌تر است."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "Maybe I'll have more energy after.",
-      "translation": "شاید بعدش انرژی بیشتری داشته باشم."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "Why don't you join me on Sunday?",
-      "translation": "چرا یکشنبه با من نمی‌آیی؟"
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "Okay, a short walk would be nice.",
-      "translation": "باشه، یک پیاده‌روی کوتاه خوب است."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "Perfect. Then we can relax together after.",
-      "translation": "عالی. بعدش می‌توانیم با هم استراحت کنیم."
-    }
-  ]
+    "title": "39 - Comparing Weekend Plans",
+    "description": "دو دوست برنامه‌های متفاوتشان برای آخر هفته را با هم مقایسه می‌کنند.",
+    "words": [
+        "plans",
+        "rather",
+        "active",
+        "lazy",
+        "hiking"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "What are your plans for the weekend?",
+            "translation": "برنامه‌ات برای آخر هفته چیست؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I want to go hiking in the hills.",
+            "translation": "می‌خواهم در تپه‌ها کوهنوردی کنم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Really? That sounds tiring.",
+            "translation": "واقعاً؟ خسته‌کننده به نظر می‌رسد."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I'd rather be active than stay home.",
+            "translation": "ترجیح می‌دهم فعال باشم تا اینکه خانه بمانم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I prefer a lazy weekend.",
+            "translation": "من یک آخر هفته تنبلانه را ترجیح می‌دهم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "What will you do instead?",
+            "translation": "به جایش چه کار می‌کنی؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Read books and watch movies.",
+            "translation": "کتاب می‌خوانم و فیلم می‌بینم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That's more relaxing, I admit.",
+            "translation": "اعتراف می‌کنم آن آرام‌بخش‌تر است."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Maybe I'll have more energy after.",
+            "translation": "شاید بعدش انرژی بیشتری داشته باشم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Why don't you join me on Sunday?",
+            "translation": "چرا یکشنبه با من نمی‌آیی؟"
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Okay, a short walk would be nice.",
+            "translation": "باشه، یک پیاده‌روی کوتاه خوب است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Perfect. Then we can relax together after.",
+            "translation": "عالی. بعدش می‌توانیم با هم استراحت کنیم."
+        }
+    ]
 }

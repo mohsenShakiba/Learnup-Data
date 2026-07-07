@@ -5,13 +5,11 @@
     "transport",
     "reliable",
     "delay",
-    "crowded",
     "fare",
     "route",
     "frequent",
     "alternative",
     "congestion",
-    "convenient",
     "invest",
     "rely"
   ],

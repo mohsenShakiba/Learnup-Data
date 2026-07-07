@@ -1,95 +1,91 @@
 {
-    "title": "23 - Discussing the Gig Economy",
-    "description": "دو نفر درباره مزایا و معایب کار آزاد و اقتصاد گیگ بحث می‌کنند.",
-    "words": [
-        "freelance",
-        "flexible",
-        "income",
-        "stability",
-        "benefits",
-        "client",
-        "self-employed",
-        "unpredictable",
-        "autonomy",
-        "pension",
-        "hustle",
-        "trade-off",
-        "thrive",
-        "secure"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I'm thinking of going freelance.",
-            "translation": "به فریلنسر شدن فکر می‌کنم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "That's a big change. What appeals to you?",
-            "translation": "تغییر بزرگی است. چه چیزش جذابت می‌کند؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Mainly the flexibility and autonomy.",
-            "translation": "عمدتاً انعطاف‌پذیری و استقلالش."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Those are real perks.",
-            "translation": "این‌ها مزایای واقعی‌ای هستند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "But I worry about the income stability.",
-            "translation": "اما نگران ثبات درآمد هستم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Yes, it can be quite unpredictable.",
-            "translation": "بله، می‌تواند نسبتاً غیرقابل‌پیش‌بینی باشد."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "And there are no company benefits.",
-            "translation": "و مزایای شرکتی هم وجود ندارد."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Right, you'd manage your own pension.",
-            "translation": "درست است، بازنشستگی‌ات را خودت مدیریت می‌کنی."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "It's a real trade-off, isn't it?",
-            "translation": "یک معامله دوسویه واقعی است، نه؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "It is. But many people thrive on it.",
-            "translation": "همینطور است. اما خیلی‌ها در آن شکوفا می‌شوند."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Maybe I'll start it as a side hustle.",
-            "translation": "شاید آن را به‌عنوان کار جانبی شروع کنم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "That's a smart, low-risk way to begin.",
-            "translation": "این یک راه هوشمندانه و کم‌ریسک برای شروع است."
-        }
-    ]
+    "title":  "23 - Discussing the Gig Economy",
+    "description":  "Ø¯Ùˆ Ù†ÙØ± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ù…Ø²Ø§ÛŒØ§ Ùˆ Ù…Ø¹Ø§ÛŒØ¨ Ú©Ø§Ø± Ø¢Ø²Ø§Ø¯ Ùˆ Ø§Ù‚ØªØµØ§Ø¯ Ú¯ÛŒÚ¯ Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+    "words":  [
+                  "freelance",
+                  "stability",
+                  "client",
+                  "self-employed",
+                  "unpredictable",
+                  "autonomy",
+                  "pension",
+                  "hustle",
+                  "thrive",
+                  "secure"
+              ],
+    "estimatedDuration":  1,
+    "sentences":  [
+                      {
+                          "order":  0,
+                          "person":  1,
+                          "text":  "I\u0027m thinking of going freelance.",
+                          "translation":  "Ø¨Ù‡ ÙØ±ÛŒÙ„Ù†Ø³Ø± Ø´Ø¯Ù† ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†Ù…."
+                      },
+                      {
+                          "order":  1,
+                          "person":  2,
+                          "text":  "That\u0027s a big change. What appeals to you?",
+                          "translation":  "ØªØºÛŒÛŒØ± Ø¨Ø²Ø±Ú¯ÛŒ Ø§Ø³Øª. Ú†Ù‡ Ú†ÛŒØ²Ø´ Ø¬Ø°Ø§Ø¨Øª Ù…ÛŒâ€ŒÚ©Ù†Ø¯ØŸ"
+                      },
+                      {
+                          "order":  2,
+                          "person":  1,
+                          "text":  "Mainly the flexibility and autonomy.",
+                          "translation":  "Ø¹Ù…Ø¯ØªØ§Ù‹ Ø§Ù†Ø¹Ø·Ø§Ùâ€ŒÙ¾Ø°ÛŒØ±ÛŒ Ùˆ Ø§Ø³ØªÙ‚Ù„Ø§Ù„Ø´."
+                      },
+                      {
+                          "order":  3,
+                          "person":  2,
+                          "text":  "Those are real perks.",
+                          "translation":  "Ø§ÛŒÙ†â€ŒÙ‡Ø§ Ù…Ø²Ø§ÛŒØ§ÛŒ ÙˆØ§Ù‚Ø¹ÛŒâ€ŒØ§ÛŒ Ù‡Ø³ØªÙ†Ø¯."
+                      },
+                      {
+                          "order":  4,
+                          "person":  1,
+                          "text":  "But I worry about the income stability.",
+                          "translation":  "Ø§Ù…Ø§ Ù†Ú¯Ø±Ø§Ù† Ø«Ø¨Ø§Øª Ø¯Ø±Ø¢Ù…Ø¯ Ù‡Ø³ØªÙ…."
+                      },
+                      {
+                          "order":  5,
+                          "person":  2,
+                          "text":  "Yes, it can be quite unpredictable.",
+                          "translation":  "Ø¨Ù„Ù‡ØŒ Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ Ù†Ø³Ø¨ØªØ§Ù‹ ØºÛŒØ±Ù‚Ø§Ø¨Ù„â€ŒÙ¾ÛŒØ´â€ŒØ¨ÛŒÙ†ÛŒ Ø¨Ø§Ø´Ø¯."
+                      },
+                      {
+                          "order":  6,
+                          "person":  1,
+                          "text":  "And there are no company benefits.",
+                          "translation":  "Ùˆ Ù…Ø²Ø§ÛŒØ§ÛŒ Ø´Ø±Ú©ØªÛŒ Ù‡Ù… ÙˆØ¬ÙˆØ¯ Ù†Ø¯Ø§Ø±Ø¯."
+                      },
+                      {
+                          "order":  7,
+                          "person":  2,
+                          "text":  "Right, you\u0027d manage your own pension.",
+                          "translation":  "Ø¯Ø±Ø³Øª Ø§Ø³ØªØŒ Ø¨Ø§Ø²Ù†Ø´Ø³ØªÚ¯ÛŒâ€ŒØ§Øª Ø±Ø§ Ø®ÙˆØ¯Øª Ù…Ø¯ÛŒØ±ÛŒØª Ù…ÛŒâ€ŒÚ©Ù†ÛŒ."
+                      },
+                      {
+                          "order":  8,
+                          "person":  1,
+                          "text":  "It\u0027s a real trade-off, isn\u0027t it?",
+                          "translation":  "ÛŒÚ© Ù…Ø¹Ø§Ù…Ù„Ù‡ Ø¯ÙˆØ³ÙˆÛŒÙ‡ ÙˆØ§Ù‚Ø¹ÛŒ Ø§Ø³ØªØŒ Ù†Ù‡ØŸ"
+                      },
+                      {
+                          "order":  9,
+                          "person":  2,
+                          "text":  "It is. But many people thrive on it.",
+                          "translation":  "Ù‡Ù…ÛŒÙ†Ø·ÙˆØ± Ø§Ø³Øª. Ø§Ù…Ø§ Ø®ÛŒÙ„ÛŒâ€ŒÙ‡Ø§ Ø¯Ø± Ø¢Ù† Ø´Ú©ÙˆÙØ§ Ù…ÛŒâ€ŒØ´ÙˆÙ†Ø¯."
+                      },
+                      {
+                          "order":  10,
+                          "person":  1,
+                          "text":  "Maybe I\u0027ll start it as a side hustle.",
+                          "translation":  "Ø´Ø§ÛŒØ¯ Ø¢Ù† Ø±Ø§ Ø¨Ù‡â€ŒØ¹Ù†ÙˆØ§Ù† Ú©Ø§Ø± Ø¬Ø§Ù†Ø¨ÛŒ Ø´Ø±ÙˆØ¹ Ú©Ù†Ù…."
+                      },
+                      {
+                          "order":  11,
+                          "person":  2,
+                          "text":  "That\u0027s a smart, low-risk way to begin.",
+                          "translation":  "Ø§ÛŒÙ† ÛŒÚ© Ø±Ø§Ù‡ Ù‡ÙˆØ´Ù…Ù†Ø¯Ø§Ù†Ù‡ Ùˆ Ú©Ù…â€ŒØ±ÛŒØ³Ú© Ø¨Ø±Ø§ÛŒ Ø´Ø±ÙˆØ¹ Ø§Ø³Øª."
+                      }
+                  ]
 }

@@ -1,92 +1,89 @@
 {
-    "title": "21 - Talking About Social Media",
-    "description": "دو دوست درباره نقش شبکه‌های اجتماعی در زندگی روزمره بحث می‌کنند.",
-    "words": [
-        "scroll",
-        "compare",
-        "influence",
-        "follower",
-        "post",
-        "addictive",
-        "genuine",
-        "pressure",
-        "aware",
-        "balance",
-        "honestly"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Do you spend much time on social media?",
-            "translation": "زمان زیادی را در شبکه‌های اجتماعی می‌گذرانی؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Honestly, more than I'd like to admit.",
-            "translation": "راستش، بیشتر از آنچه دوست دارم اعتراف کنم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I sometimes scroll for hours without noticing.",
-            "translation": "گاهی ساعت‌ها بدون اینکه متوجه شوم می‌چرخم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "It's quite addictive, isn't it?",
-            "translation": "نسبتاً اعتیادآور است، نه؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "And I often compare my life to others.",
-            "translation": "و اغلب زندگی‌ام را با دیگران مقایسه می‌کنم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "But most posts aren't even genuine.",
-            "translation": "اما بیشتر پست‌ها حتی واقعی نیستند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "True. People only show the best parts.",
-            "translation": "درست است. مردم فقط بهترین بخش‌ها را نشان می‌دهند."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "That creates a lot of pressure.",
-            "translation": "این فشار زیادی ایجاد می‌کند."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "I'm thinking of taking a short break.",
-            "translation": "به یک استراحت کوتاه فکر می‌کنم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "That might help you feel more present.",
-            "translation": "شاید کمک کند بیشتر در لحظه باشی."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "It's useful to connect, but balance matters.",
-            "translation": "ارتباط مفید است، اما تعادل مهم است."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Exactly. Being aware is the first step.",
-            "translation": "دقیقاً. آگاه بودن اولین قدم است."
-        }
-    ]
+  "title": "21 - Talking About Social Media",
+  "description": "دو دوست درباره نقش شبکه‌های اجتماعی در زندگی روزمره بحث می‌کنند.",
+  "words":   [
+    "scroll",
+    "compare",
+    "influence",
+    "follower",
+    "post",
+    "addictive",
+    "genuine",
+    "pressure"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Do you spend much time on social media?",
+      "translation": "زمان زیادی را در شبکه‌های اجتماعی می‌گذرانی؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Honestly, more than I'd like to admit.",
+      "translation": "راستش، بیشتر از آنچه دوست دارم اعتراف کنم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I sometimes scroll for hours without noticing.",
+      "translation": "گاهی ساعت‌ها بدون اینکه متوجه شوم می‌چرخم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "It's quite addictive, isn't it?",
+      "translation": "نسبتاً اعتیادآور است، نه؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "And I often compare my life to others.",
+      "translation": "و اغلب زندگی‌ام را با دیگران مقایسه می‌کنم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "But most posts aren't even genuine.",
+      "translation": "اما بیشتر پست‌ها حتی واقعی نیستند."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "True. People only show the best parts.",
+      "translation": "درست است. مردم فقط بهترین بخش‌ها را نشان می‌دهند."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "That creates a lot of pressure.",
+      "translation": "این فشار زیادی ایجاد می‌کند."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "I'm thinking of taking a short break.",
+      "translation": "به یک استراحت کوتاه فکر می‌کنم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "That might help you feel more present.",
+      "translation": "شاید کمک کند بیشتر در لحظه باشی."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "It's useful to connect, but balance matters.",
+      "translation": "ارتباط مفید است، اما تعادل مهم است."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Exactly. Being aware is the first step.",
+      "translation": "دقیقاً. آگاه بودن اولین قدم است."
+    }
+  ]
 }

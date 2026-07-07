@@ -1,95 +1,92 @@
 {
-    "title": "22 - Talking About Risk and Failure",
-    "description": "دو کارآفرین درباره پذیرفتن ریسک و یاد گرفتن از شکست صحبت می‌کنند.",
-    "words": [
-        "risk",
-        "failure",
-        "setback",
-        "resilience",
-        "lesson",
-        "calculated",
-        "bounce back",
-        "fear",
-        "venture",
-        "persevere",
-        "mindset",
-        "opportunity",
-        "embrace",
-        "growth"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Were you ever afraid to start your business?",
-            "translation": "هیچ‌وقت از شروع کسب‌وکارت ترسیدی؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Of course. The fear of failure was huge.",
-            "translation": "البته. ترس از شکست عظیم بود."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "How did you overcome it?",
-            "translation": "چطور بر آن غلبه کردی؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "I took calculated risks, not reckless ones.",
-            "translation": "ریسک‌های حساب‌شده کردم، نه بی‌پروا."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Did you ever experience a real setback?",
-            "translation": "هیچ‌وقت با یک شکست واقعی روبه‌رو شدی؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Yes, my first venture failed completely.",
-            "translation": "بله، اولین کسب‌وکارم کاملاً شکست خورد."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "That must have been hard.",
-            "translation": "حتماً سخت بوده."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "It was, but it taught me valuable lessons.",
-            "translation": "بود، اما درس‌های ارزشمندی به من داد."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "So failure wasn't the end?",
-            "translation": "پس شکست پایان کار نبود؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Not at all. Resilience is everything.",
-            "translation": "اصلاً. تاب‌آوری همه چیز است."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "It's really about the mindset, isn't it?",
-            "translation": "واقعاً به طرز فکر برمی‌گردد، نه؟"
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Exactly. Embrace failure and you'll grow.",
-            "translation": "دقیقاً. شکست را بپذیر و رشد می‌کنی."
-        }
-    ]
+  "title": "22 - Talking About Risk and Failure",
+  "description": "دو کارآفرین درباره پذیرفتن ریسک و یاد گرفتن از شکست صحبت می‌کنند.",
+  "words": [
+    "failure",
+    "setback",
+    "resilience",
+    "calculated",
+    "bounce back",
+    "fear",
+    "venture",
+    "persevere",
+    "mindset",
+    "embrace",
+    "growth"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Were you ever afraid to start your business?",
+      "translation": "هیچ‌وقت از شروع کسب‌وکارت ترسیدی؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Of course. The fear of failure was huge.",
+      "translation": "البته. ترس از شکست عظیم بود."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "How did you overcome it?",
+      "translation": "چطور بر آن غلبه کردی؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "I took calculated risks, not reckless ones.",
+      "translation": "ریسک‌های حساب‌شده کردم، نه بی‌پروا."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Did you ever experience a real setback?",
+      "translation": "هیچ‌وقت با یک شکست واقعی روبه‌رو شدی؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Yes, my first venture failed completely.",
+      "translation": "بله، اولین کسب‌وکارم کاملاً شکست خورد."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "That must have been hard.",
+      "translation": "حتماً سخت بوده."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "It was, but it taught me valuable lessons.",
+      "translation": "بود، اما درس‌های ارزشمندی به من داد."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "So failure wasn't the end?",
+      "translation": "پس شکست پایان کار نبود؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Not at all. Resilience is everything.",
+      "translation": "اصلاً. تاب‌آوری همه چیز است."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "It's really about the mindset, isn't it?",
+      "translation": "واقعاً به طرز فکر برمی‌گردد، نه؟"
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Exactly. Embrace failure and you'll grow.",
+      "translation": "دقیقاً. شکست را بپذیر و رشد می‌کنی."
+    }
+  ]
 }

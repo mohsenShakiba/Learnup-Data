@@ -1,93 +1,90 @@
 {
-  "title": "40 - Mentorship and Sponsorship",
-  "description": "دو حرفه‌ای درباره تفاوت میان راهنما و حامی شغلی و اهمیت هر کدام بحث می‌کنند.",
-  "words": [
-    "mentor",
-    "sponsor",
-    "advocate",
-    "guidance",
-    "advancement",
-    "visibility",
-    "opportunity",
-    "champion",
-    "network",
-    "distinct",
-    "invest",
-    "promote"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "People confuse mentors and sponsors.",
-      "translation": "مردم راهنما و حامی را با هم اشتباه می‌گیرند."
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Aren't they basically the same?",
-      "translation": "مگر اساساً یکی نیستند؟"
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "Not at all. They play distinct roles.",
-      "translation": "اصلاً. نقش‌های متمایزی دارند."
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "What's the main difference?",
-      "translation": "تفاوت اصلی چیست؟"
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "A mentor gives you advice and guidance.",
-      "translation": "یک راهنما به تو توصیه و راهنمایی می‌دهد."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "And a sponsor?",
-      "translation": "و یک حامی؟"
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "A sponsor advocates for your advancement.",
-      "translation": "یک حامی برای پیشرفت تو وکالت می‌کند."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "So they champion you when you're not there.",
-      "translation": "پس وقتی حضور نداری از تو دفاع می‌کند."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "Exactly. They open doors for you.",
-      "translation": "دقیقاً. درها را برایت باز می‌کند."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "So I really need both.",
-      "translation": "پس واقعاً به هر دو نیاز دارم."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "Yes, and you must earn that trust.",
-      "translation": "بله، و باید آن اعتماد را به دست بیاوری."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "That's a valuable distinction. Thank you.",
-      "translation": "این تمایز ارزشمندی است. ممنون."
-    }
-  ]
+    "title": "40 - Mentorship and Sponsorship",
+    "description": "دو حرفه‌ای درباره تفاوت میان راهنما و حامی شغلی و اهمیت هر کدام بحث می‌کنند.",
+    "words": [
+        "mentor",
+        "sponsor",
+        "advocate",
+        "guidance",
+        "advancement",
+        "visibility",
+        "champion",
+        "distinct",
+        "promote"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "People confuse mentors and sponsors.",
+            "translation": "مردم راهنما و حامی را با هم اشتباه می‌گیرند."
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Aren't they basically the same?",
+            "translation": "مگر اساساً یکی نیستند؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Not at all. They play distinct roles.",
+            "translation": "اصلاً. نقش‌های متمایزی دارند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "What's the main difference?",
+            "translation": "تفاوت اصلی چیست؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "A mentor gives you advice and guidance.",
+            "translation": "یک راهنما به تو توصیه و راهنمایی می‌دهد."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "And a sponsor?",
+            "translation": "و یک حامی؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "A sponsor advocates for your advancement.",
+            "translation": "یک حامی برای پیشرفت تو وکالت می‌کند."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "So they champion you when you're not there.",
+            "translation": "پس وقتی حضور نداری از تو دفاع می‌کند."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Exactly. They open doors for you.",
+            "translation": "دقیقاً. درها را برایت باز می‌کند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "So I really need both.",
+            "translation": "پس واقعاً به هر دو نیاز دارم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Yes, and you must earn that trust.",
+            "translation": "بله، و باید آن اعتماد را به دست بیاوری."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "That's a valuable distinction. Thank you.",
+            "translation": "این تمایز ارزشمندی است. ممنون."
+        }
+    ]
 }

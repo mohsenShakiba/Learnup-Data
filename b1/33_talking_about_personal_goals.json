@@ -1,93 +1,86 @@
 {
-  "title": "33 - Talking About Personal Goals",
-  "description": "دو دوست درباره اهداف شخصی و برنامه‌هایشان برای سال جدید گفتگو می‌کنند.",
-  "words": [
-    "achieve",
-    "resolution",
-    "realistic",
-    "motivated",
-    "progress",
-    "commit",
-    "track",
-    "deadline",
-    "focus",
-    "encourage",
-    "reward",
-    "consistent"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "Have you set any goals for this year?",
-      "translation": "برای امسال هدفی تعیین کرده‌ای؟"
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Yes, I want to read more and exercise.",
-      "translation": "بله، می‌خواهم بیشتر بخوانم و ورزش کنم."
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "Those sound realistic.",
-      "translation": "این‌ها واقع‌بینانه به نظر می‌رسند."
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "I'm trying not to be too ambitious.",
-      "translation": "سعی می‌کنم زیادی بلندپروازانه نباشم."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "That's wise. Big goals can feel overwhelming.",
-      "translation": "عاقلانه است. اهداف بزرگ می‌توانند طاقت‌فرسا باشند."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "How do you stay motivated?",
-      "translation": "تو چطور انگیزه‌ات را حفظ می‌کنی؟"
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "I track my progress every week.",
-      "translation": "هر هفته پیشرفتم را پیگیری می‌کنم."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "That must help you stay focused.",
-      "translation": "حتماً کمک می‌کند متمرکز بمانی."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "It does. I also reward myself for small wins.",
-      "translation": "همینطور است. برای پیروزی‌های کوچک هم به خودم جایزه می‌دهم."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "I should try that. I often lose focus.",
-      "translation": "باید آن را امتحان کنم. اغلب تمرکزم را از دست می‌دهم."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "Consistency matters more than speed.",
-      "translation": "تداوم از سرعت مهم‌تر است."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "Thanks. You've really encouraged me.",
-      "translation": "ممنون. واقعاً تشویقم کردی."
-    }
-  ]
+    "title": "33 - Talking About Personal Goals",
+    "description": "دو دوست درباره اهداف شخصی و برنامه‌هایشان برای سال جدید گفتگو می‌کنند.",
+    "words": [
+        "resolution",
+        "realistic",
+        "commit",
+        "focus",
+        "reward"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Have you set any goals for this year?",
+            "translation": "برای امسال هدفی تعیین کرده‌ای؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Yes, I want to read more and exercise.",
+            "translation": "بله، می‌خواهم بیشتر بخوانم و ورزش کنم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Those sound realistic.",
+            "translation": "این‌ها واقع‌بینانه به نظر می‌رسند."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I'm trying not to be too ambitious.",
+            "translation": "سعی می‌کنم زیادی بلندپروازانه نباشم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "That's wise. Big goals can feel overwhelming.",
+            "translation": "عاقلانه است. اهداف بزرگ می‌توانند طاقت‌فرسا باشند."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "How do you stay motivated?",
+            "translation": "تو چطور انگیزه‌ات را حفظ می‌کنی؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I track my progress every week.",
+            "translation": "هر هفته پیشرفتم را پیگیری می‌کنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "That must help you stay focused.",
+            "translation": "حتماً کمک می‌کند متمرکز بمانی."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "It does. I also reward myself for small wins.",
+            "translation": "همینطور است. برای پیروزی‌های کوچک هم به خودم جایزه می‌دهم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I should try that. I often lose focus.",
+            "translation": "باید آن را امتحان کنم. اغلب تمرکزم را از دست می‌دهم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Consistency matters more than speed.",
+            "translation": "تداوم از سرعت مهم‌تر است."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Thanks. You've really encouraged me.",
+            "translation": "ممنون. واقعاً تشویقم کردی."
+        }
+    ]
 }

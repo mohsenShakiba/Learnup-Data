@@ -1,95 +1,94 @@
 {
-    "title": "13 - Discussing Identity and Belonging",
-    "description": "دو نفر درباره معنای هویت و حس تعلق در دنیایی جهانی‌شده تأمل می‌کنند.",
-    "words": [
-        "identity",
-        "belonging",
-        "rootless",
-        "heritage",
-        "assimilate",
-        "duality",
-        "authentic",
-        "displaced",
-        "nuanced",
-        "fluid",
-        "navigate",
-        "reconcile",
-        "perception",
-        "shape"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Having lived abroad, I feel a bit rootless.",
-            "translation": "بعد از زندگی در خارج، کمی احساس بی‌ریشگی می‌کنم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "That sense of in-betweenness is common.",
-            "translation": "آن حس میان‌بودگی رایج است."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I belong to two cultures, yet fully to neither.",
-            "translation": "به دو فرهنگ تعلق دارم، اما کاملاً به هیچ‌کدام."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Perhaps identity isn't fixed at all.",
-            "translation": "شاید هویت اصلاً ثابت نیست."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "You mean it's more fluid than we assume?",
-            "translation": "منظورت این است که سیال‌تر از آن است که فکر می‌کنیم؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Exactly. It evolves as we do.",
-            "translation": "دقیقاً. همراه با ما تکامل می‌یابد."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Still, I struggle to reconcile both sides.",
-            "translation": "با این حال، برایم سخت است دو طرف را آشتی دهم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Maybe the duality is itself a strength.",
-            "translation": "شاید همین دوگانگی خودش یک قوت است."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "That's a generous way of seeing it.",
-            "translation": "این نگاه سخاوتمندانه‌ای به آن است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Belonging can come from within, not just place.",
-            "translation": "تعلق می‌تواند از درون بیاید، نه فقط از مکان."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "So I shape my own sense of home.",
-            "translation": "پس حس خانه‌بودنم را خودم می‌سازم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Precisely. Identity is something you author.",
-            "translation": "دقیقاً. هویت چیزی است که خودت می‌نویسی."
-        }
-    ]
+  "title": "13 - Discussing Identity and Belonging",
+  "description": "دو نفر درباره معنای هویت و حس تعلق در دنیایی جهانی‌شده تأمل می‌کنند.",
+  "words": [
+    "belonging",
+    "rootless",
+    "heritage",
+    "assimilate",
+    "duality",
+    "authentic",
+    "displaced",
+    "nuanced",
+    "fluid",
+    "navigate",
+    "reconcile",
+    "perception",
+    "shape"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Having lived abroad, I feel a bit rootless.",
+      "translation": "بعد از زندگی در خارج، کمی احساس بی‌ریشگی می‌کنم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "That sense of in-betweenness is common.",
+      "translation": "آن حس میان‌بودگی رایج است."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I belong to two cultures, yet fully to neither.",
+      "translation": "به دو فرهنگ تعلق دارم، اما کاملاً به هیچ‌کدام."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Perhaps identity isn't fixed at all.",
+      "translation": "شاید هویت اصلاً ثابت نیست."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "You mean it's more fluid than we assume?",
+      "translation": "منظورت این است که سیال‌تر از آن است که فکر می‌کنیم؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Exactly. It evolves as we do.",
+      "translation": "دقیقاً. همراه با ما تکامل می‌یابد."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Still, I struggle to reconcile both sides.",
+      "translation": "با این حال، برایم سخت است دو طرف را آشتی دهم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Maybe the duality is itself a strength.",
+      "translation": "شاید همین دوگانگی خودش یک قوت است."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "That's a generous way of seeing it.",
+      "translation": "این نگاه سخاوتمندانه‌ای به آن است."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Belonging can come from within, not just place.",
+      "translation": "تعلق می‌تواند از درون بیاید، نه فقط از مکان."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "So I shape my own sense of home.",
+      "translation": "پس حس خانه‌بودنم را خودم می‌سازم."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Precisely. Identity is something you author.",
+      "translation": "دقیقاً. هویت چیزی است که خودت می‌نویسی."
+    }
+  ]
 }
