@@ -1,16 +1,14 @@
-﻿{
+{
     "title":  "29 - Ethics in Technology",
     "description":  "Ø¯Ùˆ Ù†ÙØ± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ù…Ø³Ø¦ÙˆÙ„ÛŒØª Ø§Ø®Ù„Ø§Ù‚ÛŒ Ø´Ø±Ú©Øªâ€ŒÙ‡Ø§ÛŒ ÙÙ†Ø§ÙˆØ±ÛŒ Ø¯Ø± ØªÙˆØ³Ø¹Ù‡ Ù‡ÙˆØ´ Ù…ØµÙ†ÙˆØ¹ÛŒ Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
     "words":  [
-                  "ethics",
-                  "automation",
-                  "bias",
-                  "transparency",
-                  "displace",
-                  "safeguard",
-                  "dilemma",
-                  "oversight"
-              ],
+        "ethics",
+        "automation",
+        "displace",
+        "safeguard",
+        "dilemma",
+        "oversight"
+    ],
     "estimatedDuration":  1,
     "sentences":  [
                       {

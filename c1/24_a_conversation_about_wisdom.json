@@ -1,93 +1,92 @@
 {
-    "title": "24 - A Conversation About Wisdom",
-    "description": "دو نفر درباره تفاوت میان دانش و خرد و اینکه خرد چگونه به دست می‌آید تأمل می‌کنند.",
-    "words": [
-        "wisdom",
-        "knowledge",
-        "discernment",
-        "humility",
-        "judgment",
-        "accumulate",
-        "intuition",
-        "reflection",
-        "prudent",
-        "insight",
-        "distinguish",
-        "mature"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Is wisdom just accumulated knowledge?",
-            "translation": "آیا خرد فقط دانش انباشته است؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "No, knowledge is knowing; wisdom is judging.",
-            "translation": "نه، دانش دانستن است؛ خرد قضاوت کردن."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "So you can be knowledgeable but unwise?",
-            "translation": "پس می‌توان دانا بود اما بی‌خرد؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Certainly. Plenty of clever fools exist.",
-            "translation": "قطعاً. آدم‌های باهوش نادان فراوان‌اند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Then how is wisdom actually acquired?",
-            "translation": "پس خرد واقعاً چطور به دست می‌آید؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Largely through reflection on experience.",
-            "translation": "عمدتاً از طریق تأمل بر تجربه."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "So mistakes are essential to it?",
-            "translation": "پس اشتباهات برایش ضروری‌اند؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Indispensable, provided we learn from them.",
-            "translation": "ضروری‌اند، به شرط آنکه از آن‌ها بیاموزیم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "It seems to require real humility.",
-            "translation": "به نظر می‌رسد به فروتنی واقعی نیاز دارد."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Yes, knowing the limits of what you know.",
-            "translation": "بله، دانستن مرزهای آنچه می‌دانی."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "That's a discernment few truly master.",
-            "translation": "این تشخیصی است که کمتر کسی واقعاً بر آن مسلط می‌شود."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Which is why the wise stay endlessly curious.",
-            "translation": "برای همین خردمندان بی‌پایان کنجکاو می‌مانند."
-        }
-    ]
+  "title": "24 - A Conversation About Wisdom",
+  "description": "دو نفر درباره تفاوت میان دانش و خرد و اینکه خرد چگونه به دست می‌آید تأمل می‌کنند.",
+  "words": [
+    "wisdom",
+    "knowledge",
+    "discernment",
+    "judgment",
+    "accumulate",
+    "reflection",
+    "prudent",
+    "insight",
+    "distinguish",
+    "mature"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Is wisdom just accumulated knowledge?",
+      "translation": "آیا خرد فقط دانش انباشته است؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "No, knowledge is knowing; wisdom is judging.",
+      "translation": "نه، دانش دانستن است؛ خرد قضاوت کردن."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "So you can be knowledgeable but unwise?",
+      "translation": "پس می‌توان دانا بود اما بی‌خرد؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Certainly. Plenty of clever fools exist.",
+      "translation": "قطعاً. آدم‌های باهوش نادان فراوان‌اند."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Then how is wisdom actually acquired?",
+      "translation": "پس خرد واقعاً چطور به دست می‌آید؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Largely through reflection on experience.",
+      "translation": "عمدتاً از طریق تأمل بر تجربه."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "So mistakes are essential to it?",
+      "translation": "پس اشتباهات برایش ضروری‌اند؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Indispensable, provided we learn from them.",
+      "translation": "ضروری‌اند، به شرط آنکه از آن‌ها بیاموزیم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "It seems to require real humility.",
+      "translation": "به نظر می‌رسد به فروتنی واقعی نیاز دارد."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Yes, knowing the limits of what you know.",
+      "translation": "بله، دانستن مرزهای آنچه می‌دانی."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "That's a discernment few truly master.",
+      "translation": "این تشخیصی است که کمتر کسی واقعاً بر آن مسلط می‌شود."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Which is why the wise stay endlessly curious.",
+      "translation": "برای همین خردمندان بی‌پایان کنجکاو می‌مانند."
+    }
+  ]
 }
+

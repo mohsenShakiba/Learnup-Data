@@ -1,86 +1,85 @@
 {
-    "title": "5 - Handling a Difficult Customer",
-    "description": "یک کارمند خدمات مشتری با مشتری ناراضی برخورد حرفه‌ای می‌کند.",
-    "words": [
-        "inconvenience",
-        "assure",
-        "escalate",
-        "compensation",
-        "satisfy"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "This is the third time I've called about this!",
-            "translation": "این سومین بار است که درباره این موضوع تماس می‌گیرم!"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I completely understand your frustration.",
-            "translation": "ناراحتی شما را کاملاً درک می‌کنم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Nobody has solved my problem yet.",
-            "translation": "هنوز هیچ‌کس مشکلم را حل نکرده."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "I apologize for the inconvenience.",
-            "translation": "بابت این دردسر عذرخواهی می‌کنم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "I just want this resolved today.",
-            "translation": "فقط می‌خواهم امروز حل شود."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "I assure you I'll handle it personally.",
-            "translation": "به شما اطمینان می‌دهم که شخصاً به آن رسیدگی می‌کنم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "And what about a refund?",
-            "translation": "بازگشت پول چطور؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Given the situation, that's reasonable.",
-            "translation": "با توجه به شرایط، این منطقی است."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Thank you. I appreciate that.",
-            "translation": "ممنون. قدردانی می‌کنم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "I'll also add a small compensation.",
-            "translation": "یک جبران کوچک هم اضافه می‌کنم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "That's very fair. Thanks for your patience.",
-            "translation": "این خیلی منصفانه است. ممنون از صبرتان."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "It's my pleasure. I'm glad we could resolve it.",
-            "translation": "باعث خوشحالی است. خوشحالم که توانستیم حلش کنیم."
-        }
-    ]
+  "title": "5 - Handling a Difficult Customer",
+  "description": "یک کارمند خدمات مشتری با مشتری ناراضی برخورد حرفه‌ای می‌کند.",
+  "words": [
+    "inconvenience",
+    "assure",
+    "escalate",
+    "satisfy"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "This is the third time I've called about this!",
+      "translation": "این سومین بار است که درباره این موضوع تماس می‌گیرم!"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I completely understand your frustration.",
+      "translation": "ناراحتی شما را کاملاً درک می‌کنم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Nobody has solved my problem yet.",
+      "translation": "هنوز هیچ‌کس مشکلم را حل نکرده."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "I apologize for the inconvenience.",
+      "translation": "بابت این دردسر عذرخواهی می‌کنم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "I just want this resolved today.",
+      "translation": "فقط می‌خواهم امروز حل شود."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "I assure you I'll handle it personally.",
+      "translation": "به شما اطمینان می‌دهم که شخصاً به آن رسیدگی می‌کنم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "And what about a refund?",
+      "translation": "بازگشت پول چطور؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Given the situation, that's reasonable.",
+      "translation": "با توجه به شرایط، این منطقی است."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Thank you. I appreciate that.",
+      "translation": "ممنون. قدردانی می‌کنم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "I'll also add a small compensation.",
+      "translation": "یک جبران کوچک هم اضافه می‌کنم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "That's very fair. Thanks for your patience.",
+      "translation": "این خیلی منصفانه است. ممنون از صبرتان."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "It's my pleasure. I'm glad we could resolve it.",
+      "translation": "باعث خوشحالی است. خوشحالم که توانستیم حلش کنیم."
+    }
+  ]
 }

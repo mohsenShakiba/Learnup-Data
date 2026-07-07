@@ -1,95 +1,91 @@
 {
-    "title": "16 - Negotiating a High-Stakes Deal",
-    "description": "دو طرف در یک مذاکره حساس برای ادغام دو شرکت بر سر شرایط چانه می‌زنند.",
-    "words": [
-        "merger",
-        "valuation",
-        "leverage",
-        "concession",
-        "due diligence",
-        "stipulate",
-        "contingent",
-        "walk away",
-        "synergy",
-        "deadlock",
-        "counteroffer",
-        "safeguard",
-        "mutually",
-        "ratify"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Frankly, your valuation seems inflated.",
-            "translation": "رک بگویم، ارزش‌گذاری شما متورم به نظر می‌رسد."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "It reflects our market share and growth.",
-            "translation": "نشان‌دهنده سهم بازار و رشد ماست."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "We'd need due diligence before agreeing.",
-            "translation": "قبل از توافق به بررسی دقیق نیاز داریم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "That's entirely reasonable.",
-            "translation": "این کاملاً منطقی است."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Our offer is contingent on those figures.",
-            "translation": "پیشنهاد ما منوط به همان ارقام است."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Understood, but we won't accept a low valuation.",
-            "translation": "متوجه‌ام، اما ارزش‌گذاری پایین را نمی‌پذیریم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Then we may reach a deadlock.",
-            "translation": "پس ممکن است به بن‌بست برسیم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Let's not. What concession would help?",
-            "translation": "بیایید نرسیم. چه امتیازی کمک می‌کند؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Retain your leadership through the transition.",
-            "translation": "رهبری شما در طول گذار حفظ شود."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "That safeguards our team. I'm listening.",
-            "translation": "این از تیم ما محافظت می‌کند. گوش می‌دهم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "In return, we'd stipulate performance targets.",
-            "translation": "در عوض، اهداف عملکردی را شرط می‌گذاریم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "That sounds mutually beneficial. Let's draft it.",
-            "translation": "این به نفع دو طرف است. بیایید پیش‌نویسش کنیم."
-        }
-    ]
+  "title": "16 - Negotiating a High-Stakes Deal",
+  "description": "دو طرف در یک مذاکره حساس برای ادغام دو شرکت بر سر شرایط چانه می‌زنند.",
+  "words": [
+    "merger",
+    "valuation",
+    "due diligence",
+    "stipulate",
+    "contingent",
+    "synergy",
+    "deadlock",
+    "counteroffer",
+    "mutually",
+    "ratify"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Frankly, your valuation seems inflated.",
+      "translation": "رک بگویم، ارزش‌گذاری شما متورم به نظر می‌رسد."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "It reflects our market share and growth.",
+      "translation": "نشان‌دهنده سهم بازار و رشد ماست."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "We'd need due diligence before agreeing.",
+      "translation": "قبل از توافق به بررسی دقیق نیاز داریم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "That's entirely reasonable.",
+      "translation": "این کاملاً منطقی است."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Our offer is contingent on those figures.",
+      "translation": "پیشنهاد ما منوط به همان ارقام است."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Understood, but we won't accept a low valuation.",
+      "translation": "متوجه‌ام، اما ارزش‌گذاری پایین را نمی‌پذیریم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Then we may reach a deadlock.",
+      "translation": "پس ممکن است به بن‌بست برسیم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Let's not. What concession would help?",
+      "translation": "بیایید نرسیم. چه امتیازی کمک می‌کند؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Retain your leadership through the transition.",
+      "translation": "رهبری شما در طول گذار حفظ شود."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "That safeguards our team. I'm listening.",
+      "translation": "این از تیم ما محافظت می‌کند. گوش می‌دهم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "In return, we'd stipulate performance targets.",
+      "translation": "در عوض، اهداف عملکردی را شرط می‌گذاریم."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "That sounds mutually beneficial. Let's draft it.",
+      "translation": "این به نفع دو طرف است. بیایید پیش‌نویسش کنیم."
+    }
+  ]
 }

@@ -1,91 +1,89 @@
-﻿{
-    "title":  "35 - Talking About Urban Development",
-    "description":  "Ø¯Ùˆ Ø³Ø§Ú©Ù† Ø´Ù‡Ø± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø³Ø§Ø®Øªâ€ŒÙˆØ³Ø§Ø²Ù‡Ø§ÛŒ Ø¬Ø¯ÛŒØ¯ Ùˆ ØªØ£Ø«ÛŒØ± Ø¢Ù† Ø¨Ø± Ù…Ø­Ù„Ù‡ Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
-    "words":  [
-                  "development",
-                  "construction",
-                  "infrastructure",
-                  "affordable",
-                  "displace",
-                  "green space",
-                  "density",
-                  "regeneration",
-                  "preserve",
-                  "thrive"
-              ],
-    "estimatedDuration":  1,
-    "sentences":  [
-                      {
-                          "order":  0,
-                          "person":  1,
-                          "text":  "Have you seen all the new construction downtown?",
-                          "translation":  "Ù‡Ù…Ù‡ Ø³Ø§Ø®Øªâ€ŒÙˆØ³Ø§Ø²Ù‡Ø§ÛŒ Ø¬Ø¯ÛŒØ¯ Ù…Ø±Ú©Ø² Ø´Ù‡Ø± Ø±Ø§ Ø¯ÛŒØ¯Ù‡â€ŒØ§ÛŒØŸ"
-                      },
-                      {
-                          "order":  1,
-                          "person":  2,
-                          "text":  "Yes, the area is changing fast.",
-                          "translation":  "Ø¨Ù„Ù‡ØŒ Ù…Ù†Ø·Ù‚Ù‡ Ø³Ø±ÛŒØ¹ Ø¯Ø± Ø­Ø§Ù„ ØªØºÛŒÛŒØ± Ø§Ø³Øª."
-                      },
-                      {
-                          "order":  2,
-                          "person":  1,
-                          "text":  "Some say it brings much-needed investment.",
-                          "translation":  "Ø¨Ø¹Ø¶ÛŒâ€ŒÙ‡Ø§ Ù…ÛŒâ€ŒÚ¯ÙˆÛŒÙ†Ø¯ Ø³Ø±Ù…Ø§ÛŒÙ‡â€ŒÚ¯Ø°Ø§Ø±ÛŒ Ù„Ø§Ø²Ù… Ø±Ø§ Ù…ÛŒâ€ŒØ¢ÙˆØ±Ø¯."
-                      },
-                      {
-                          "order":  3,
-                          "person":  2,
-                          "text":  "But it\u0027s pushing out long-time residents.",
-                          "translation":  "Ø§Ù…Ø§ Ø³Ø§Ú©Ù†Ø§Ù† Ù‚Ø¯ÛŒÙ…ÛŒ Ø±Ø§ Ø¨ÛŒØ±ÙˆÙ† Ù…ÛŒâ€ŒØ±Ø§Ù†Ø¯."
-                      },
-                      {
-                          "order":  4,
-                          "person":  1,
-                          "text":  "That\u0027s the downside of regeneration.",
-                          "translation":  "Ø§ÛŒÙ† Ø¬Ù†Ø¨Ù‡ Ù…Ù†ÙÛŒ Ù†ÙˆØ³Ø§Ø²ÛŒ Ø§Ø³Øª."
-                      },
-                      {
-                          "order":  5,
-                          "person":  2,
-                          "text":  "We\u0027re losing affordable housing too.",
-                          "translation":  "Ù…Ø³Ú©Ù† Ø§Ø±Ø²Ø§Ù†â€ŒÙ‚ÛŒÙ…Øª Ø±Ø§ Ù‡Ù… Ø§Ø² Ø¯Ø³Øª Ù…ÛŒâ€ŒØ¯Ù‡ÛŒÙ…."
-                      },
-                      {
-                          "order":  6,
-                          "person":  1,
-                          "text":  "And there\u0027s hardly any green space left.",
-                          "translation":  "Ùˆ ØªÙ‚Ø±ÛŒØ¨Ø§Ù‹ Ù‡ÛŒÚ† ÙØ¶Ø§ÛŒ Ø³Ø¨Ø²ÛŒ Ø¨Ø§Ù‚ÛŒ Ù†Ù…Ø§Ù†Ø¯Ù‡."
-                      },
-                      {
-                          "order":  7,
-                          "person":  2,
-                          "text":  "Good planning should balance both.",
-                          "translation":  "Ø¨Ø±Ù†Ø§Ù…Ù‡â€ŒØ±ÛŒØ²ÛŒ Ø®ÙˆØ¨ Ø¨Ø§ÛŒØ¯ Ù‡Ø± Ø¯Ùˆ Ø±Ø§ Ù…ØªØ¹Ø§Ø¯Ù„ Ú©Ù†Ø¯."
-                      },
-                      {
-                          "order":  8,
-                          "person":  1,
-                          "text":  "The infrastructure can\u0027t cope with the density.",
-                          "translation":  "Ø²ÛŒØ±Ø³Ø§Ø®Øª Ù†Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ Ø¨Ø§ Ø§ÛŒÙ† ØªØ±Ø§Ú©Ù… Ú©Ù†Ø§Ø± Ø¨ÛŒØ§ÛŒØ¯."
-                      },
-                      {
-                          "order":  9,
-                          "person":  2,
-                          "text":  "Exactly. Growth must be sustainable.",
-                          "translation":  "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. Ø±Ø´Ø¯ Ø¨Ø§ÛŒØ¯ Ù¾Ø§ÛŒØ¯Ø§Ø± Ø¨Ø§Ø´Ø¯."
-                      },
-                      {
-                          "order":  10,
-                          "person":  1,
-                          "text":  "We should preserve the community\u0027s character.",
-                          "translation":  "Ø¨Ø§ÛŒØ¯ Ù‡ÙˆÛŒØª Ù…Ø­Ù„Ù‡ Ø±Ø§ Ø­ÙØ¸ Ú©Ù†ÛŒÙ…."
-                      },
-                      {
-                          "order":  11,
-                          "person":  2,
-                          "text":  "Only then can the neighborhood truly thrive.",
-                          "translation":  "ØªÙ†Ù‡Ø§ Ø¯Ø± Ø§ÛŒÙ† ØµÙˆØ±Øª Ù…Ø­Ù„Ù‡ ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ø´Ú©ÙˆÙØ§ Ù…ÛŒâ€ŒØ´ÙˆØ¯."
-                      }
-                  ]
+{
+  "title": "35 - Talking About Urban Development",
+  "description": "Ø¯Ùˆ Ø³Ø§Ú©Ù† Ø´Ù‡Ø± Ø¯Ø±Ø¨Ø§Ø±Ù‡ Ø³Ø§Ø®Øªâ€ŒÙˆØ³Ø§Ø²Ù‡Ø§ÛŒ Ø¬Ø¯ÛŒØ¯ Ùˆ ØªØ£Ø«ÛŒØ± Ø¢Ù† Ø¨Ø± Ù…Ø­Ù„Ù‡ Ø¨Ø­Ø« Ù…ÛŒâ€ŒÚ©Ù†Ù†Ø¯.",
+  "words": [
+    "development",
+    "construction",
+    "infrastructure",
+    "affordable",
+    "green space",
+    "density",
+    "regeneration",
+    "preserve"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Have you seen all the new construction downtown?",
+      "translation": "Ù‡Ù…Ù‡ Ø³Ø§Ø®Øªâ€ŒÙˆØ³Ø§Ø²Ù‡Ø§ÛŒ Ø¬Ø¯ÛŒØ¯ Ù…Ø±Ú©Ø² Ø´Ù‡Ø± Ø±Ø§ Ø¯ÛŒØ¯Ù‡â€ŒØ§ÛŒØŸ"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Yes, the area is changing fast.",
+      "translation": "Ø¨Ù„Ù‡ØŒ Ù…Ù†Ø·Ù‚Ù‡ Ø³Ø±ÛŒØ¹ Ø¯Ø± Ø­Ø§Ù„ ØªØºÛŒÛŒØ± Ø§Ø³Øª."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Some say it brings much-needed investment.",
+      "translation": "Ø¨Ø¹Ø¶ÛŒâ€ŒÙ‡Ø§ Ù…ÛŒâ€ŒÚ¯ÙˆÛŒÙ†Ø¯ Ø³Ø±Ù…Ø§ÛŒÙ‡â€ŒÚ¯Ø°Ø§Ø±ÛŒ Ù„Ø§Ø²Ù… Ø±Ø§ Ù…ÛŒâ€ŒØ¢ÙˆØ±Ø¯."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "But it's pushing out long-time residents.",
+      "translation": "Ø§Ù…Ø§ Ø³Ø§Ú©Ù†Ø§Ù† Ù‚Ø¯ÛŒÙ…ÛŒ Ø±Ø§ Ø¨ÛŒØ±ÙˆÙ† Ù…ÛŒâ€ŒØ±Ø§Ù†Ø¯."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "That's the downside of regeneration.",
+      "translation": "Ø§ÛŒÙ† Ø¬Ù†Ø¨Ù‡ Ù…Ù†ÙÛŒ Ù†ÙˆØ³Ø§Ø²ÛŒ Ø§Ø³Øª."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "We're losing affordable housing too.",
+      "translation": "Ù…Ø³Ú©Ù† Ø§Ø±Ø²Ø§Ù†â€ŒÙ‚ÛŒÙ…Øª Ø±Ø§ Ù‡Ù… Ø§Ø² Ø¯Ø³Øª Ù…ÛŒâ€ŒØ¯Ù‡ÛŒÙ…."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "And there's hardly any green space left.",
+      "translation": "Ùˆ ØªÙ‚Ø±ÛŒØ¨Ø§Ù‹ Ù‡ÛŒÚ† ÙØ¶Ø§ÛŒ Ø³Ø¨Ø²ÛŒ Ø¨Ø§Ù‚ÛŒ Ù†Ù…Ø§Ù†Ø¯Ù‡."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Good planning should balance both.",
+      "translation": "Ø¨Ø±Ù†Ø§Ù…Ù‡â€ŒØ±ÛŒØ²ÛŒ Ø®ÙˆØ¨ Ø¨Ø§ÛŒØ¯ Ù‡Ø± Ø¯Ùˆ Ø±Ø§ Ù…ØªØ¹Ø§Ø¯Ù„ Ú©Ù†Ø¯."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "The infrastructure can't cope with the density.",
+      "translation": "Ø²ÛŒØ±Ø³Ø§Ø®Øª Ù†Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ Ø¨Ø§ Ø§ÛŒÙ† ØªØ±Ø§Ú©Ù… Ú©Ù†Ø§Ø± Ø¨ÛŒØ§ÛŒØ¯."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Exactly. Growth must be sustainable.",
+      "translation": "Ø¯Ù‚ÛŒÙ‚Ø§Ù‹. Ø±Ø´Ø¯ Ø¨Ø§ÛŒØ¯ Ù¾Ø§ÛŒØ¯Ø§Ø± Ø¨Ø§Ø´Ø¯."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "We should preserve the community's character.",
+      "translation": "Ø¨Ø§ÛŒØ¯ Ù‡ÙˆÛŒØª Ù…Ø­Ù„Ù‡ Ø±Ø§ Ø­ÙØ¸ Ú©Ù†ÛŒÙ…."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Only then can the neighborhood truly thrive.",
+      "translation": "ØªÙ†Ù‡Ø§ Ø¯Ø± Ø§ÛŒÙ† ØµÙˆØ±Øª Ù…Ø­Ù„Ù‡ ÙˆØ§Ù‚Ø¹Ø§Ù‹ Ø´Ú©ÙˆÙØ§ Ù…ÛŒâ€ŒØ´ÙˆØ¯."
+    }
+  ]
 }
