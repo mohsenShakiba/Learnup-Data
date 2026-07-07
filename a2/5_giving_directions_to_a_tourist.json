@@ -3,15 +3,9 @@
     "description": "کمک به یک گردشگر برای پیدا کردن موزه در شهر.",
     "words": [
         "museum",
-        "straight",
-        "corner",
-        "left",
-        "right",
         "cross",
         "lights",
-        "far",
-        "lost",
-        "walk"
+        "lost"
     ],
     "estimatedDuration": 1,
     "sentences": [
