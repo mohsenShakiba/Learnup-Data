@@ -1,25 +1,26 @@
 Shopping for Clothes
 shirt, size, wear, color, blue, medium, try, fits, price, buy, cash, coat, thick, pocket, hat, pair, shoe, cotton, belt, scarf, sock, dress
-Hello! Can I help you?
-Yes. I want to buy a shirt.
-What size do you wear?
+Hi there! Need any help?
+Yeah, I'm looking to buy a shirt.
+Sure! What size do you wear?
 Medium, I think.
-What color do you like?
-I like blue.
-Here is a blue shirt in a medium. It is soft cotton.
-Can I try it on?
-Yes. You can try it on over there.
-It fits great. How much is it?
-It's twenty dollars.
-That's a good price. I'll take it.
-Great. Anything else? The winter coats are right over here.
-Maybe. Is that thick coat warm?
-Yes, and it has big pockets.
-Nice. I'll also take a hat, a belt, and a pair of shoes.
-We also have warm scarves and socks.
-Good idea. Add a scarf and some socks, please. Do you also sell dresses?
-Yes, the dresses are next to the coats.
-Maybe next time. That's all for today.
-How do you want to pay?
-With cash, please.
-Thank you. Have a great day!
+And what color are you after?
+Blue, if you've got it.
+Here you go — blue, medium, nice soft cotton.
+Ooh, can I try it on?
+Of course, the changing room's right over there.
+It fits great! How much is it?
+Twenty dollars.
+Oh, that's a good price. I'll take it.
+Great! Anything else? The winter coats are right over here.
+Hmm, maybe. Is that thick one warm?
+Really warm, yeah — and it's got big pockets.
+Nice. I'll grab that, plus a hat, a belt, and a pair of shoes.
+We've got warm scarves and socks too, if you want.
+Oh, good idea. Throw in a scarf and some socks.
+Sure! Do you sell dresses, by the way?
+We do — they're right next to the coats.
+Maybe next time. That's it for today.
+No problem. How would you like to pay?
+Cash, please.
+Perfect. Have a great day!

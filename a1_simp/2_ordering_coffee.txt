@@ -1,20 +1,20 @@
 Ordering Coffee
 coffee, tea, milk, sugar, hot, cold, small, large, drink, ready, dollar, card, pay, morning, cafe, cup, thirsty, spoon, snack, muffin, cookie, juice, taste
-Good morning! What can I get for you?
-Hi. Can I get a cup of coffee, please?
-Sure. Small or large?
-Large, please. I'm really thirsty this morning.
-Do you want milk and sugar?
-Just milk, please. No sugar.
+Morning! What can I get you?
+Hi, can I get a cup of coffee, please?
+Sure, small or large?
+Large, please. I'm so thirsty this morning.
+Milk and sugar?
+Just milk, thanks. No sugar.
 Hot or cold?
-Hot, please. Can I have a spoon too?
-Of course. Would you like a snack?
-Yes, a muffin and a cookie, please.
-Good choice. Anything else to drink?
-Yes, a tea and an orange juice. How much is it?
+Hot, please. Oh, and could I grab a spoon?
+Of course. Want a snack with that?
+Ooh, yeah, a muffin and a cookie, please.
+Nice choice. Anything else to drink?
+Um, a tea and an orange juice too. How much is all that?
 That's ten dollars.
 Can I pay by card?
-Yes, of course.
-Thank you. I really like this cafe.
-Your drinks are ready. Enjoy, and taste that muffin!
-Thank you! Have a great day.
+Yep, no problem.
+Thanks. I really love this cafe, by the way.
+Aw, thanks! Here you go, drinks are ready. Enjoy, and taste that muffin while it's warm!
+Ha, will do. Thanks, have a good one!
