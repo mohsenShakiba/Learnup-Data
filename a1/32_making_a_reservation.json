@@ -1,89 +1,85 @@
 {
-    "title": "32 - Making a Reservation",
-    "description": "رزرو تلفنی میز در رستوران برای شام.",
-    "words": [
-        "table",
-        "tonight",
-        "evening",
-        "outside",
-        "time",
-        "check",
-        "see"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Good evening, Bella Restaurant. How can I help you?",
-            "translation": "عصر بخیر، رستوران بلا. چطور می‌توانم کمکتان کنم؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Hello. I'd like to book a table for tonight.",
-            "translation": "سلام. می‌خواهم یک میز برای امشب رزرو کنم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Sure. For how many people?",
-            "translation": "حتماً. برای چند نفر؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "For four people, please.",
-            "translation": "برای چهار نفر، لطفاً."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "What time would you like?",
-            "translation": "چه ساعتی می‌خواهید؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "At eight in the evening.",
-            "translation": "ساعت هشت عصر."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "We have a free table at eight.",
-            "translation": "ساعت هشت یک میز خالی داریم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Can we have a table near the window or outside?",
-            "translation": "می‌توانیم یک میز کنار پنجره یا بیرون داشته باشیم؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Of course. What name is the table under?",
-            "translation": "البته. میز به چه نامی باشد؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Under the name David.",
-            "translation": "به نام دیوید."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Perfect. Let me check: four people at eight.",
-            "translation": "عالی. بگذارید چک کنم: چهار نفر، ساعت هشت."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "That's right. See you tonight.",
-            "translation": "درست است. امشب می‌بینمتان."
-        }
-    ]
+  "title": "32 - Making a Reservation",
+  "description": "رزرو تلفنی میز در رستوران برای شام.",
+  "words": [
+    "tonight",
+    "check",
+    "see"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Good evening, Bella Restaurant. How can I help you?",
+      "translation": "عصر بخیر، رستوران بلا. چطور می‌توانم کمکتان کنم؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Hello. I'd like to book a table for tonight.",
+      "translation": "سلام. می‌خواهم یک میز برای امشب رزرو کنم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Sure. For how many people?",
+      "translation": "حتماً. برای چند نفر؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "For four people, please.",
+      "translation": "برای چهار نفر، لطفاً."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "What time would you like?",
+      "translation": "چه ساعتی می‌خواهید؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "At eight in the evening.",
+      "translation": "ساعت هشت عصر."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "We have a free table at eight.",
+      "translation": "ساعت هشت یک میز خالی داریم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Can we have a table near the window or outside?",
+      "translation": "می‌توانیم یک میز کنار پنجره یا بیرون داشته باشیم؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Of course. What name is the table under?",
+      "translation": "البته. میز به چه نامی باشد؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Under the name David.",
+      "translation": "به نام دیوید."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Perfect. Let me check: four people at eight.",
+      "translation": "عالی. بگذارید چک کنم: چهار نفر، ساعت هشت."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "That's right. See you tonight.",
+      "translation": "درست است. امشب می‌بینمتان."
+    }
+  ]
 }

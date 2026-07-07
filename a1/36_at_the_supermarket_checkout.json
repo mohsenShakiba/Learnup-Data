@@ -1,87 +1,85 @@
 {
-    "title": "36 - At the Supermarket Checkout",
-    "description": "پرداخت خرید در صندوق سوپرمارکت.",
-    "words": [
-        "check",
-        "cheap",
-        "thanks",
-        "supermarket",
-        "thirty"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi. Welcome to the supermarket. Did you find everything okay?",
-            "translation": "سلام. به سوپرمارکت خوش آمدید. همه چیز را به‌راحتی پیدا کردید؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Yes, thank you.",
-            "translation": "بله، ممنون."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Do you need a bag?",
-            "translation": "کیسه می‌خواهید؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Yes, two bags, please. They are heavy.",
-            "translation": "بله، دو کیسه لطفاً. سنگین هستند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Let me check the price. I can help with the heavy bags.",
-            "translation": "بگذارید قیمت را چک کنم. می‌توانم برای کیسه‌های سنگین کمک کنم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Is the milk cheaper today?",
-            "translation": "امروز شیر ارزان‌تر است؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Yes, it's two for one today.",
-            "translation": "بله، امروز دوتا به قیمت یکی است."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Great. What is the total?",
-            "translation": "عالی. جمع کل چقدر می‌شود؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Twenty-five dollars. How do you want to pay, cash or card?",
-            "translation": "بیست و پنج دلار. چطور می‌خواهید پرداخت کنید، نقد یا کارت؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Cash. Here is thirty.",
-            "translation": "نقد. این هم سی دلار."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Here is your change and your receipt.",
-            "translation": "این هم بقیه پولتان و رسید."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Thanks. Have a nice day.",
-            "translation": "ممنون. روز خوبی داشته باشید."
-        }
-    ]
+  "title": "36 - At the Supermarket Checkout",
+  "description": "پرداخت خرید در صندوق سوپرمارکت.",
+  "words": [
+    "cheap",
+    "supermarket",
+    "thirty"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi. Welcome to the supermarket. Did you find everything okay?",
+      "translation": "سلام. به سوپرمارکت خوش آمدید. همه چیز را به‌راحتی پیدا کردید؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Yes, thank you.",
+      "translation": "بله، ممنون."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Do you need a bag?",
+      "translation": "کیسه می‌خواهید؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Yes, two bags, please. They are heavy.",
+      "translation": "بله، دو کیسه لطفاً. سنگین هستند."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Let me check the price. I can help with the heavy bags.",
+      "translation": "بگذارید قیمت را چک کنم. می‌توانم برای کیسه‌های سنگین کمک کنم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Is the milk cheaper today?",
+      "translation": "امروز شیر ارزان‌تر است؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Yes, it's two for one today.",
+      "translation": "بله، امروز دوتا به قیمت یکی است."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Great. What is the total?",
+      "translation": "عالی. جمع کل چقدر می‌شود؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Twenty-five dollars. How do you want to pay, cash or card?",
+      "translation": "بیست و پنج دلار. چطور می‌خواهید پرداخت کنید، نقد یا کارت؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Cash. Here is thirty.",
+      "translation": "نقد. این هم سی دلار."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Here is your change and your receipt.",
+      "translation": "این هم بقیه پولتان و رسید."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Thanks. Have a nice day.",
+      "translation": "ممنون. روز خوبی داشته باشید."
+    }
+  ]
 }

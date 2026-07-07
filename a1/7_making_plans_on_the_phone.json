@@ -1,94 +1,93 @@
 {
-    "title": "7 - Making Plans on the Phone",
-    "description": "هماهنگی پشت تلفن برای دیدن فیلم در آخر هفته.",
-    "words": [
-        "call",
-        "free",
-        "weekend",
-        "Saturday",
-        "movie",
-        "sounds",
-        "time",
-        "evening",
-        "cinema",
-        "late",
-        "Thursday",
-        "Friday"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi Jack, it's Nora.",
-            "translation": "سلام جک، نورا هستم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Hi Nora! I'm glad you called.",
-            "translation": "سلام نورا! خوشحالم که زنگ زدی."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Me too. Are you free this weekend?",
-            "translation": "من هم. این آخر هفته وقت داری؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "I'm busy on Thursday and Friday, but I'm free on Saturday.",
-            "translation": "پنجشنبه و جمعه سرم شلوغ است، اما شنبه آزادم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Do you want to see a movie?",
-            "translation": "می‌خواهی فیلم ببینیم؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "That sounds great. What time?",
-            "translation": "عالیه. چه ساعتی؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "How about seven in the evening?",
-            "translation": "هفت عصر چطوره؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Seven is good for me.",
-            "translation": "هفت برای من خوبه."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Let's meet at the cinema.",
-            "translation": "بیا جلوی سینما همدیگر را ببینیم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Sure. See you on Saturday.",
-            "translation": "حتماً. شنبه می‌بینمت."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Great. Don't be late!",
-            "translation": "عالی. دیر نکن!"
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "I won't. Bye, Nora.",
-            "translation": "دیر نمی‌کنم. خداحافظ، نورا."
-        }
-    ]
+  "title": "7 - Making Plans on the Phone",
+  "description": "هماهنگی پشت تلفن برای دیدن فیلم در آخر هفته.",
+  "words": [
+    "call",
+    "free",
+    "weekend",
+    "Saturday",
+    "movie",
+    "sounds",
+    "time",
+    "cinema",
+    "late",
+    "Thursday",
+    "Friday"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi Jack, it's Nora.",
+      "translation": "سلام جک، نورا هستم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Hi Nora! I'm glad you called.",
+      "translation": "سلام نورا! خوشحالم که زنگ زدی."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Me too. Are you free this weekend?",
+      "translation": "من هم. این آخر هفته وقت داری؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "I'm busy on Thursday and Friday, but I'm free on Saturday.",
+      "translation": "پنجشنبه و جمعه سرم شلوغ است، اما شنبه آزادم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Do you want to see a movie?",
+      "translation": "می‌خواهی فیلم ببینیم؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "That sounds great. What time?",
+      "translation": "عالیه. چه ساعتی؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "How about seven in the evening?",
+      "translation": "هفت عصر چطوره؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Seven is good for me.",
+      "translation": "هفت برای من خوبه."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Let's meet at the cinema.",
+      "translation": "بیا جلوی سینما همدیگر را ببینیم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Sure. See you on Saturday.",
+      "translation": "حتماً. شنبه می‌بینمت."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Great. Don't be late!",
+      "translation": "عالی. دیر نکن!"
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "I won't. Bye, Nora.",
+      "translation": "دیر نمی‌کنم. خداحافظ، نورا."
+    }
+  ]
 }

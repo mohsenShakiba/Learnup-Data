@@ -1,94 +1,93 @@
 {
-    "title": "32 - Talking About Music",
-    "description": "دو نفر درباره سلیقه موسیقی و کنسرت‌های مورد علاقه گفتگو می‌کنند.",
-    "words": [
-        "music",
-        "band",
-        "song",
-        "concert",
-        "instrument",
-        "sing",
-        "playlist",
-        "rock",
-        "relaxing",
-        "lyrics",
-        "discover",
-        "taste",
-        "favorite"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "What kind of music do you listen to?",
-            "translation": "چه نوع موسیقی‌ای گوش می‌دهی؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Mostly rock, but I like quiet songs too.",
-            "translation": "بیشتر راک، اما آهنگ‌های آرام را هم دوست دارم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Do you have a favorite band?",
-            "translation": "گروه مورد علاقه‌ای داری؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Yes, I've loved them since I was young.",
-            "translation": "بله، از وقتی جوان بودم عاشقشان هستم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Have you seen them live?",
-            "translation": "آن‌ها را زنده دیده‌ای؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Once. The concert was amazing.",
-            "translation": "یک بار. کنسرت فوق‌العاده بود."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Do you play any instrument?",
-            "translation": "سازی می‌زنی؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "I play a little piano. And you?",
-            "translation": "کمی پیانو می‌زنم. تو چطور؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "I can't play, but I love to sing.",
-            "translation": "نمی‌توانم بزنم، اما عاشق خواندن هستم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Music makes everything better.",
-            "translation": "موسیقی همه چیز را بهتر می‌کند."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Send me your playlist sometime.",
-            "translation": "یک وقتی فهرست پخشت را برایم بفرست."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Sure. You might discover some new songs.",
-            "translation": "حتماً. شاید چند آهنگ جدید کشف کنی."
-        }
-    ]
+  "title": "32 - Talking About Music",
+  "description": "دو نفر درباره سلیقه موسیقی و کنسرت‌های مورد علاقه گفتگو می‌کنند.",
+  "words": [
+    "band",
+    "song",
+    "concert",
+    "instrument",
+    "sing",
+    "playlist",
+    "rock",
+    "relaxing",
+    "lyrics",
+    "discover",
+    "taste",
+    "favorite"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "What kind of music do you listen to?",
+      "translation": "چه نوع موسیقی‌ای گوش می‌دهی؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Mostly rock, but I like quiet songs too.",
+      "translation": "بیشتر راک، اما آهنگ‌های آرام را هم دوست دارم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Do you have a favorite band?",
+      "translation": "گروه مورد علاقه‌ای داری؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Yes, I've loved them since I was young.",
+      "translation": "بله، از وقتی جوان بودم عاشقشان هستم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Have you seen them live?",
+      "translation": "آن‌ها را زنده دیده‌ای؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Once. The concert was amazing.",
+      "translation": "یک بار. کنسرت فوق‌العاده بود."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Do you play any instrument?",
+      "translation": "سازی می‌زنی؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "I play a little piano. And you?",
+      "translation": "کمی پیانو می‌زنم. تو چطور؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "I can't play, but I love to sing.",
+      "translation": "نمی‌توانم بزنم، اما عاشق خواندن هستم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Music makes everything better.",
+      "translation": "موسیقی همه چیز را بهتر می‌کند."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Send me your playlist sometime.",
+      "translation": "یک وقتی فهرست پخشت را برایم بفرست."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Sure. You might discover some new songs.",
+      "translation": "حتماً. شاید چند آهنگ جدید کشف کنی."
+    }
+  ]
 }

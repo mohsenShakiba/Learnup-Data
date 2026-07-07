@@ -1,91 +1,89 @@
 {
-    "title": "37 - Visiting a Friend's House",
-    "description": "رفتن به خانه یک دوست برای شام و خوش‌آمدگویی.",
-    "words": [
-        "come",
-        "in",
-        "house",
-        "sit",
-        "dinner",
-        "smell",
-        "good",
-        "thanks",
-        "lovely"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi! Come in, come in.",
-            "translation": "سلام! بیا تو، بیا تو."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Thank you. Your house is lovely.",
-            "translation": "ممنون. خانه‌ات دوست‌داشتنی است."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Thanks! I'm so glad you came to visit. Please sit down.",
-            "translation": "ممنون! خیلی خوشحالم که به دیدنم آمدی. لطفاً بنشین."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Something smells good.",
-            "translation": "بوی خوبی می‌آید."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "I'm cooking dinner in the kitchen.",
-            "translation": "دارم در آشپزخانه شام درست می‌کنم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "It smells delicious. I'm so hungry.",
-            "translation": "بویش خیلی خوب است. خیلی گرسنه‌ام."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Would you like something to drink?",
-            "translation": "چیزی برای نوشیدن می‌خواهی؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Yes, some water, please.",
-            "translation": "بله، کمی آب لطفاً."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Here you are. Dinner is almost ready.",
-            "translation": "بفرما. شام تقریباً آماده است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Can I help you with anything?",
-            "translation": "می‌توانم در کاری کمکت کنم؟"
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "No, thank you. Just relax.",
-            "translation": "نه، ممنون. فقط راحت باش."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Thank you for inviting me. This is so nice.",
-            "translation": "ممنون که دعوتم کردی. خیلی خوب است."
-        }
-    ]
+  "title": "37 - Visiting a Friend's House",
+  "description": "رفتن به خانه یک دوست برای شام و خوش‌آمدگویی.",
+  "words": [
+    "come",
+    "in",
+    "house",
+    "dinner",
+    "smell",
+    "good",
+    "lovely"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi! Come in, come in.",
+      "translation": "سلام! بیا تو، بیا تو."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Thank you. Your house is lovely.",
+      "translation": "ممنون. خانه‌ات دوست‌داشتنی است."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Thanks! I'm so glad you came to visit. Please sit down.",
+      "translation": "ممنون! خیلی خوشحالم که به دیدنم آمدی. لطفاً بنشین."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Something smells good.",
+      "translation": "بوی خوبی می‌آید."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "I'm cooking dinner in the kitchen.",
+      "translation": "دارم در آشپزخانه شام درست می‌کنم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "It smells delicious. I'm so hungry.",
+      "translation": "بویش خیلی خوب است. خیلی گرسنه‌ام."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Would you like something to drink?",
+      "translation": "چیزی برای نوشیدن می‌خواهی؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Yes, some water, please.",
+      "translation": "بله، کمی آب لطفاً."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Here you are. Dinner is almost ready.",
+      "translation": "بفرما. شام تقریباً آماده است."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Can I help you with anything?",
+      "translation": "می‌توانم در کاری کمکت کنم؟"
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "No, thank you. Just relax.",
+      "translation": "نه، ممنون. فقط راحت باش."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Thank you for inviting me. This is so nice.",
+      "translation": "ممنون که دعوتم کردی. خیلی خوب است."
+    }
+  ]
 }

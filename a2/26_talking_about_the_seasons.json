@@ -1,95 +1,93 @@
 {
-    "title": "26 - Talking About the Seasons",
-    "description": "گفتگو درباره فصل‌های مورد علاقه و کارهای هر فصل.",
-    "words": [
-        "season",
-        "spring",
-        "summer",
-        "autumn",
-        "winter",
-        "warm",
-        "cold",
-        "snow",
-        "leaves",
-        "holiday",
-        "prefer",
-        "weather",
-        "garden",
-        "favorite"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Which season do you like best?",
-            "translation": "کدام فصل را بیشتر دوست داری؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I prefer summer. I love warm weather.",
-            "translation": "تابستان را ترجیح می‌دهم. عاشق هوای گرم هستم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Really? I find summer too hot.",
-            "translation": "واقعاً؟ من تابستان را خیلی گرم می‌بینم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "What's your favorite, then?",
-            "translation": "پس مورد علاقه‌ات چیست؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Autumn. The leaves are so beautiful.",
-            "translation": "پاییز. برگ‌ها خیلی زیبا هستند."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "That's true. But the days get shorter.",
-            "translation": "درست است. اما روزها کوتاه‌تر می‌شوند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "I don't mind. I like cool weather.",
-            "translation": "اشکالی ندارد. هوای خنک را دوست دارم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Do you like winter and snow?",
-            "translation": "زمستان و برف را دوست داری؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Sometimes, but it's often too cold.",
-            "translation": "گاهی، اما اغلب خیلی سرد است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "In spring, I love working in the garden.",
-            "translation": "در بهار، عاشق کار کردن در باغچه هستم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Spring is nice too. Everything is fresh.",
-            "translation": "بهار هم خوب است. همه چیز تازه است."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Each season has something special.",
-            "translation": "هر فصل چیز خاصی دارد."
-        }
-    ]
+  "title": "26 - Talking About the Seasons",
+  "description": "گفتگو درباره فصل‌های مورد علاقه و کارهای هر فصل.",
+  "words": [
+    "season",
+    "spring",
+    "summer",
+    "autumn",
+    "winter",
+    "warm",
+    "snow",
+    "leaves",
+    "holiday",
+    "prefer",
+    "garden",
+    "favorite"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Which season do you like best?",
+      "translation": "کدام فصل را بیشتر دوست داری؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I prefer summer. I love warm weather.",
+      "translation": "تابستان را ترجیح می‌دهم. عاشق هوای گرم هستم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Really? I find summer too hot.",
+      "translation": "واقعاً؟ من تابستان را خیلی گرم می‌بینم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "What's your favorite, then?",
+      "translation": "پس مورد علاقه‌ات چیست؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Autumn. The leaves are so beautiful.",
+      "translation": "پاییز. برگ‌ها خیلی زیبا هستند."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "That's true. But the days get shorter.",
+      "translation": "درست است. اما روزها کوتاه‌تر می‌شوند."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "I don't mind. I like cool weather.",
+      "translation": "اشکالی ندارد. هوای خنک را دوست دارم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Do you like winter and snow?",
+      "translation": "زمستان و برف را دوست داری؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Sometimes, but it's often too cold.",
+      "translation": "گاهی، اما اغلب خیلی سرد است."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "In spring, I love working in the garden.",
+      "translation": "در بهار، عاشق کار کردن در باغچه هستم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Spring is nice too. Everything is fresh.",
+      "translation": "بهار هم خوب است. همه چیز تازه است."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Each season has something special.",
+      "translation": "هر فصل چیز خاصی دارد."
+    }
+  ]
 }

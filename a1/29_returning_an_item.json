@@ -1,90 +1,85 @@
 {
-    "title": "29 - Returning an Item",
-    "description": "پس دادن یک کالای خریداری‌شده و گرفتن پول یا تعویض آن.",
-    "words": [
-        "buy",
-        "small",
-        "shirt",
-        "fit",
-        "color",
-        "different",
-        "back",
-        "problem"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hello, I'd like to return this shirt. I bought it yesterday.",
-            "translation": "سلام، می‌خواهم این پیراهن را پس بدهم. دیروز خریدمش."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Okay. Is there a problem with it?",
-            "translation": "باشه. مشکلی دارد؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Yes, the size is too small. It doesn't fit.",
-            "translation": "بله، سایزش خیلی کوچک است. اندازه نیست."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Do you have the receipt?",
-            "translation": "رسید دارید؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Yes, here it is.",
-            "translation": "بله، بفرمایید."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Would you like your money back, or would you like another shirt?",
-            "translation": "پولتان را پس می‌خواهید، یا یک پیراهن دیگر می‌خواهید؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Can I get a bigger size?",
-            "translation": "می‌توانم سایز بزرگ‌تر بگیرم؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Of course. We have it in large.",
-            "translation": "البته. سایز بزرگ آن را داریم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Do you have it in a different color too?",
-            "translation": "رنگ دیگری هم از آن دارید؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Yes, in blue and black.",
-            "translation": "بله، آبی و مشکی."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "I'll take the blue one, thank you.",
-            "translation": "آبی را برمی‌دارم، ممنون."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "No problem. Here is your new shirt.",
-            "translation": "مشکلی نیست. این هم پیراهن جدیدتان."
-        }
-    ]
+  "title": "29 - Returning an Item",
+  "description": "پس دادن یک کالای خریداری‌شده و گرفتن پول یا تعویض آن.",
+  "words": [
+    "fit",
+    "different",
+    "problem"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hello, I'd like to return this shirt. I bought it yesterday.",
+      "translation": "سلام، می‌خواهم این پیراهن را پس بدهم. دیروز خریدمش."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Okay. Is there a problem with it?",
+      "translation": "باشه. مشکلی دارد؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Yes, the size is too small. It doesn't fit.",
+      "translation": "بله، سایزش خیلی کوچک است. اندازه نیست."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Do you have the receipt?",
+      "translation": "رسید دارید؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Yes, here it is.",
+      "translation": "بله، بفرمایید."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Would you like your money back, or would you like another shirt?",
+      "translation": "پولتان را پس می‌خواهید، یا یک پیراهن دیگر می‌خواهید؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Can I get a bigger size?",
+      "translation": "می‌توانم سایز بزرگ‌تر بگیرم؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Of course. We have it in large.",
+      "translation": "البته. سایز بزرگ آن را داریم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Do you have it in a different color too?",
+      "translation": "رنگ دیگری هم از آن دارید؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Yes, in blue and black.",
+      "translation": "بله، آبی و مشکی."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "I'll take the blue one, thank you.",
+      "translation": "آبی را برمی‌دارم، ممنون."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "No problem. Here is your new shirt.",
+      "translation": "مشکلی نیست. این هم پیراهن جدیدتان."
+    }
+  ]
 }

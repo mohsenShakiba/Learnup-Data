@@ -1,93 +1,91 @@
 {
-    "title": "24 - Joining a Sports Club",
-    "description": "ثبت‌نام در یک باشگاه ورزشی و پرسیدن درباره برنامه‌ها.",
-    "words": [
-        "club",
-        "member",
-        "training",
-        "coach",
-        "schedule",
-        "team",
-        "beginner",
-        "fee",
-        "equipment",
-        "match",
-        "fitness",
-        "improve"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi, I'd like to join the tennis club.",
-            "translation": "سلام، می‌خواهم به باشگاه تنیس بپیوندم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Welcome! Have you played before?",
-            "translation": "خوش آمدید! قبلاً بازی کرده‌اید؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "No, I'm a complete beginner.",
-            "translation": "نه، کاملاً مبتدی هستم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "No problem. We have a coach for beginners.",
-            "translation": "مشکلی نیست. برای مبتدی‌ها مربی داریم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Great. When is the training?",
-            "translation": "عالی. تمرین کی است؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Twice a week, on Monday and Thursday.",
-            "translation": "هفته‌ای دو بار، دوشنبه و پنجشنبه."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "How much is the membership fee?",
-            "translation": "هزینه عضویت چقدر است؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Forty dollars a month.",
-            "translation": "ماهی چهل دلار."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Do I need my own equipment?",
-            "translation": "به وسایل خودم نیاز دارم؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "We can lend you a racket at first.",
-            "translation": "اولش می‌توانیم یک راکت به شما قرض دهیم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Perfect. I really want to improve my fitness.",
-            "translation": "عالی. واقعاً می‌خواهم آمادگی جسمانی‌ام را بهتر کنم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "You'll love it. See you on Monday!",
-            "translation": "عاشقش می‌شوید. دوشنبه می‌بینمتان!"
-        }
-    ]
+  "title": "24 - Joining a Sports Club",
+  "description": "ثبت‌نام در یک باشگاه ورزشی و پرسیدن درباره برنامه‌ها.",
+  "words": [
+    "training",
+    "coach",
+    "schedule",
+    "team",
+    "beginner",
+    "fee",
+    "equipment",
+    "match",
+    "fitness",
+    "improve"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi, I'd like to join the tennis club.",
+      "translation": "سلام، می‌خواهم به باشگاه تنیس بپیوندم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Welcome! Have you played before?",
+      "translation": "خوش آمدید! قبلاً بازی کرده‌اید؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "No, I'm a complete beginner.",
+      "translation": "نه، کاملاً مبتدی هستم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "No problem. We have a coach for beginners.",
+      "translation": "مشکلی نیست. برای مبتدی‌ها مربی داریم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Great. When is the training?",
+      "translation": "عالی. تمرین کی است؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Twice a week, on Monday and Thursday.",
+      "translation": "هفته‌ای دو بار، دوشنبه و پنجشنبه."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "How much is the membership fee?",
+      "translation": "هزینه عضویت چقدر است؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Forty dollars a month.",
+      "translation": "ماهی چهل دلار."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Do I need my own equipment?",
+      "translation": "به وسایل خودم نیاز دارم؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "We can lend you a racket at first.",
+      "translation": "اولش می‌توانیم یک راکت به شما قرض دهیم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Perfect. I really want to improve my fitness.",
+      "translation": "عالی. واقعاً می‌خواهم آمادگی جسمانی‌ام را بهتر کنم."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "You'll love it. See you on Monday!",
+      "translation": "عاشقش می‌شوید. دوشنبه می‌بینمتان!"
+    }
+  ]
 }

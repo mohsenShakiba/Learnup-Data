@@ -1,97 +1,93 @@
 {
-    "title": "35 - Planning a Trip",
-    "description": "دو دوست درباره برنامه‌ریزی یک سفر آخر هفته صحبت می‌کنند.",
-    "words": [
-        "beach",
-        "pack",
-        "weather",
-        "sunny",
-        "drive",
-        "early",
-        "map",
-        "ready",
-        "excited",
-        "travel",
-        "world",
-        "sea",
-        "vacation",
-        "sun",
-        "clothes"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Let's plan a trip for the weekend. I love to travel and see the world.",
-            "translation": "بیا برای آخر هفته یک سفر برنامه‌ریزی کنیم. عاشق سفر کردن و دیدن دنیا هستم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Good idea! Where do you want to go?",
-            "translation": "فکر خوبی است! کجا می‌خواهی بروی؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "How about the beach?",
-            "translation": "ساحل چطور است؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Perfect. The weather will be sunny.",
-            "translation": "عالی. هوا آفتابی خواهد بود."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Should we book a hotel?",
-            "translation": "هتل رزرو کنیم؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Yes, I'll book one near the sea.",
-            "translation": "بله، یکی نزدیک دریا رزرو می‌کنم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Great. We can drive there early.",
-            "translation": "عالی. می‌توانیم صبح زود با ماشین برویم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "I'll bring a map for the road.",
-            "translation": "یک نقشه برای راه می‌آورم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "What should we pack?",
-            "translation": "چه چیزهایی باید ببندیم؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Just clothes, towels, and sunglasses.",
-            "translation": "فقط لباس، حوله و عینک آفتابی."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "I'm so excited! It will be a great vacation in the sun.",
-            "translation": "خیلی هیجان‌زده‌ام! تعطیلات فوق‌العاده‌ای زیر آفتاب خواهد بود."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Me too. Let's get ready.",
-            "translation": "من هم همینطور. بیا آماده شویم."
-        }
-    ]
+  "title": "35 - Planning a Trip",
+  "description": "دو دوست درباره برنامه‌ریزی یک سفر آخر هفته صحبت می‌کنند.",
+  "words": [
+    "beach",
+    "pack",
+    "drive",
+    "map",
+    "excited",
+    "travel",
+    "world",
+    "sea",
+    "vacation",
+    "sun",
+    "clothes"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Let's plan a trip for the weekend. I love to travel and see the world.",
+      "translation": "بیا برای آخر هفته یک سفر برنامه‌ریزی کنیم. عاشق سفر کردن و دیدن دنیا هستم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Good idea! Where do you want to go?",
+      "translation": "فکر خوبی است! کجا می‌خواهی بروی؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "How about the beach?",
+      "translation": "ساحل چطور است؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Perfect. The weather will be sunny.",
+      "translation": "عالی. هوا آفتابی خواهد بود."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Should we book a hotel?",
+      "translation": "هتل رزرو کنیم؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Yes, I'll book one near the sea.",
+      "translation": "بله، یکی نزدیک دریا رزرو می‌کنم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Great. We can drive there early.",
+      "translation": "عالی. می‌توانیم صبح زود با ماشین برویم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "I'll bring a map for the road.",
+      "translation": "یک نقشه برای راه می‌آورم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "What should we pack?",
+      "translation": "چه چیزهایی باید ببندیم؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Just clothes, towels, and sunglasses.",
+      "translation": "فقط لباس، حوله و عینک آفتابی."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "I'm so excited! It will be a great vacation in the sun.",
+      "translation": "خیلی هیجان‌زده‌ام! تعطیلات فوق‌العاده‌ای زیر آفتاب خواهد بود."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Me too. Let's get ready.",
+      "translation": "من هم همینطور. بیا آماده شویم."
+    }
+  ]
 }

@@ -1,112 +1,111 @@
 {
-    "title": "8 - At the Doctor",
-    "description": "گفتگو با دکتر درباره علائم سرماخوردگی.",
-    "words": [
-        "sick",
-        "feel",
-        "head",
-        "hurt",
-        "fever",
-        "throat",
-        "tired",
-        "cold",
-        "rest",
-        "medicine",
-        "better",
-        "sleep",
-        "doctor",
-        "eye",
-        "ear",
-        "nose",
-        "health",
-        "care"
-    ],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hello. What's wrong?",
-            "translation": "سلام. مشکلتان چیست؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I feel sick. My head and nose hurt.",
-            "translation": "حالم بد است. سر و بینی‌ام درد می‌کند."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Do you have a fever?",
-            "translation": "تب دارید؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Yes, since yesterday.",
-            "translation": "بله، از دیروز دارم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Do your throat and ears hurt too?",
-            "translation": "گلو و گوش‌هایتان هم درد می‌کند؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "A little. My eyes feel tired too.",
-            "translation": "کمی. چشم‌هایم هم خسته‌اند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "It sounds like you have a cold.",
-            "translation": "به نظر می‌رسد سرما خورده‌اید."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "What should I do?",
-            "translation": "چه کار باید بکنم؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Drink a lot of water and get some rest.",
-            "translation": "آب زیاد بنوشید و کمی استراحت کنید."
-        },
-        {
-            "order": 9,
-            "person": 1,
-            "text": "Take this medicine two times a day.",
-            "translation": "این دارو را روزی دو بار مصرف کنید."
-        },
-        {
-            "order": 10,
-            "person": 2,
-            "text": "How many days?",
-            "translation": "چند روز؟"
-        },
-        {
-            "order": 11,
-            "person": 1,
-            "text": "For five days. You will feel better soon.",
-            "translation": "پنج روز. به‌زودی بهتر می‌شوید."
-        },
-        {
-            "order": 12,
-            "person": 2,
-            "text": "Thank you, doctor.",
-            "translation": "ممنون، دکتر."
-        },
-        {
-            "order": 13,
-            "person": 1,
-            "text": "Take care of your health and sleep well.",
-            "translation": "مراقب سلامتی‌ات باش و خوب بخواب."
-        }
-    ]
+  "title": "8 - At the Doctor",
+  "description": "گفتگو با دکتر درباره علائم سرماخوردگی.",
+  "words": [
+    "sick",
+    "feel",
+    "head",
+    "hurt",
+    "fever",
+    "throat",
+    "tired",
+    "rest",
+    "medicine",
+    "better",
+    "sleep",
+    "doctor",
+    "eye",
+    "ear",
+    "nose",
+    "health",
+    "care"
+  ],
+  "Level": "A1",
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hello. What's wrong?",
+      "translation": "سلام. مشکلتان چیست؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I feel sick. My head and nose hurt.",
+      "translation": "حالم بد است. سر و بینی‌ام درد می‌کند."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Do you have a fever?",
+      "translation": "تب دارید؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Yes, since yesterday.",
+      "translation": "بله، از دیروز دارم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Do your throat and ears hurt too?",
+      "translation": "گلو و گوش‌هایتان هم درد می‌کند؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "A little. My eyes feel tired too.",
+      "translation": "کمی. چشم‌هایم هم خسته‌اند."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "It sounds like you have a cold.",
+      "translation": "به نظر می‌رسد سرما خورده‌اید."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "What should I do?",
+      "translation": "چه کار باید بکنم؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Drink a lot of water and get some rest.",
+      "translation": "آب زیاد بنوشید و کمی استراحت کنید."
+    },
+    {
+      "order": 9,
+      "person": 1,
+      "text": "Take this medicine two times a day.",
+      "translation": "این دارو را روزی دو بار مصرف کنید."
+    },
+    {
+      "order": 10,
+      "person": 2,
+      "text": "How many days?",
+      "translation": "چند روز؟"
+    },
+    {
+      "order": 11,
+      "person": 1,
+      "text": "For five days. You will feel better soon.",
+      "translation": "پنج روز. به‌زودی بهتر می‌شوید."
+    },
+    {
+      "order": 12,
+      "person": 2,
+      "text": "Thank you, doctor.",
+      "translation": "ممنون، دکتر."
+    },
+    {
+      "order": 13,
+      "person": 1,
+      "text": "Take care of your health and sleep well.",
+      "translation": "مراقب سلامتی‌ات باش و خوب بخواب."
+    }
+  ]
 }

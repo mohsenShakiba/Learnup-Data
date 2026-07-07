@@ -1,92 +1,89 @@
 {
-    "title": "27 - A Visit to the Vet",
-    "description": "بردن یک سگ بیمار به دامپزشک و توضیح علائم.",
-    "words": [
-        "vet",
-        "dog",
-        "sick",
-        "eat",
-        "tired",
-        "check",
-        "temperature",
-        "appetite",
-        "vaccine",
-        "advice",
-        "soon"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hello, what's wrong with your dog?",
-            "translation": "سلام، سگتان چه مشکلی دارد؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "He hasn't eaten since yesterday.",
-            "translation": "از دیروز چیزی نخورده."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Is he more tired than usual?",
-            "translation": "بیشتر از معمول خسته است؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Yes, he sleeps all day.",
-            "translation": "بله، تمام روز می‌خوابد."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Let me check his temperature.",
-            "translation": "بگذارید دمای بدنش را چک کنم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Is it serious?",
-            "translation": "جدی است؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "No, it's a small infection.",
-            "translation": "نه، یک عفونت کوچک است."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "What should I do?",
-            "translation": "چه کار باید بکنم؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Give him this medicine twice a day.",
-            "translation": "این دارو را روزی دو بار به او بدهید."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "When will his appetite come back?",
-            "translation": "اشتهایش کی برمی‌گردد؟"
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "In a few days. He'll be healthy soon.",
-            "translation": "چند روز دیگر. به‌زودی سالم می‌شود."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Thank you, doctor. That's a relief.",
-            "translation": "ممنون، دکتر. خیالم راحت شد."
-        }
-    ]
+  "title": "27 - A Visit to the Vet",
+  "description": "بردن یک سگ بیمار به دامپزشک و توضیح علائم.",
+  "words": [
+    "vet",
+    "dog",
+    "sick",
+    "eat",
+    "temperature",
+    "appetite",
+    "vaccine",
+    "advice"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hello, what's wrong with your dog?",
+      "translation": "سلام، سگتان چه مشکلی دارد؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "He hasn't eaten since yesterday.",
+      "translation": "از دیروز چیزی نخورده."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Is he more tired than usual?",
+      "translation": "بیشتر از معمول خسته است؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Yes, he sleeps all day.",
+      "translation": "بله، تمام روز می‌خوابد."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Let me check his temperature.",
+      "translation": "بگذارید دمای بدنش را چک کنم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Is it serious?",
+      "translation": "جدی است؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "No, it's a small infection.",
+      "translation": "نه، یک عفونت کوچک است."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "What should I do?",
+      "translation": "چه کار باید بکنم؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Give him this medicine twice a day.",
+      "translation": "این دارو را روزی دو بار به او بدهید."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "When will his appetite come back?",
+      "translation": "اشتهایش کی برمی‌گردد؟"
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "In a few days. He'll be healthy soon.",
+      "translation": "چند روز دیگر. به‌زودی سالم می‌شود."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Thank you, doctor. That's a relief.",
+      "translation": "ممنون، دکتر. خیالم راحت شد."
+    }
+  ]
 }

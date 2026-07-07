@@ -1,95 +1,93 @@
 {
-    "title": "10 - Work-Life Balance",
-    "description": "دو همکار درباره فشار کاری و تعادل بین کار و زندگی صحبت می‌کنند.",
-    "words": [
-        "balance",
-        "stress",
-        "overtime",
-        "exhausted",
-        "priority",
-        "deadline",
-        "relax",
-        "burnout",
-        "manage",
-        "schedule",
-        "personal",
-        "hobby",
-        "improve",
-        "healthier"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "You look exhausted these days.",
-            "translation": "این روزها خیلی خسته به نظر می‌رسی."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "I am. I've been working a lot of overtime.",
-            "translation": "همینطور است. خیلی اضافه‌کاری کرده‌ام."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "That's not healthy. You need a balance.",
-            "translation": "این سالم نیست. به تعادل نیاز داری."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "I know, but the deadlines keep coming.",
-            "translation": "می‌دانم، اما مهلت‌ها یکی پس از دیگری می‌آیند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Have you talked to your manager?",
-            "translation": "با مدیرت صحبت کرده‌ای؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Not yet. I'm afraid of saying no.",
-            "translation": "هنوز نه. می‌ترسم نه بگویم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "You should set clear priorities.",
-            "translation": "باید اولویت‌های روشنی تعیین کنی."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "You're right. I never make time for myself.",
-            "translation": "حق با توست. هیچ‌وقت برای خودم وقت نمی‌گذارم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "If you don't rest, you'll burn out.",
-            "translation": "اگر استراحت نکنی، فرسوده می‌شوی."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Maybe I should start a hobby again.",
-            "translation": "شاید باید دوباره یک سرگرمی شروع کنم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "That's a great idea for your health.",
-            "translation": "این ایده عالی‌ای برای سلامتی‌ات است."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Thanks. I'll try to manage my time better.",
-            "translation": "ممنون. سعی می‌کنم زمانم را بهتر مدیریت کنم."
-        }
-    ]
+  "title": "10 - Work-Life Balance",
+  "description": "دو همکار درباره فشار کاری و تعادل بین کار و زندگی صحبت می‌کنند.",
+  "words": [
+    "balance",
+    "stress",
+    "overtime",
+    "exhausted",
+    "priority",
+    "deadline",
+    "burnout",
+    "manage",
+    "schedule",
+    "personal",
+    "improve",
+    "healthier"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "You look exhausted these days.",
+      "translation": "این روزها خیلی خسته به نظر می‌رسی."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I am. I've been working a lot of overtime.",
+      "translation": "همینطور است. خیلی اضافه‌کاری کرده‌ام."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "That's not healthy. You need a balance.",
+      "translation": "این سالم نیست. به تعادل نیاز داری."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "I know, but the deadlines keep coming.",
+      "translation": "می‌دانم، اما مهلت‌ها یکی پس از دیگری می‌آیند."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Have you talked to your manager?",
+      "translation": "با مدیرت صحبت کرده‌ای؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Not yet. I'm afraid of saying no.",
+      "translation": "هنوز نه. می‌ترسم نه بگویم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "You should set clear priorities.",
+      "translation": "باید اولویت‌های روشنی تعیین کنی."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "You're right. I never make time for myself.",
+      "translation": "حق با توست. هیچ‌وقت برای خودم وقت نمی‌گذارم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "If you don't rest, you'll burn out.",
+      "translation": "اگر استراحت نکنی، فرسوده می‌شوی."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Maybe I should start a hobby again.",
+      "translation": "شاید باید دوباره یک سرگرمی شروع کنم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "That's a great idea for your health.",
+      "translation": "این ایده عالی‌ای برای سلامتی‌ات است."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Thanks. I'll try to manage my time better.",
+      "translation": "ممنون. سعی می‌کنم زمانم را بهتر مدیریت کنم."
+    }
+  ]
 }
