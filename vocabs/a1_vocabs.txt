@@ -47,10 +47,12 @@ better
 bike
 bill
 birthday
+blanket
 blue
 body
 book
 bookstore
+boring
 borrow
 boss
 bottle
@@ -123,9 +125,11 @@ copy
 corner
 correct
 cost
+couch
 cough
 country
 cousin
+cozy
 credit card
 cry
 cup
@@ -147,6 +151,7 @@ difficult
 dining room
 dinner
 dirty
+dishes
 doctor
 dollar
 draw
@@ -233,6 +238,7 @@ glass
 gold
 good
 goodbye
+goodnight
 grade
 grandfather
 grandmother
@@ -272,6 +278,7 @@ hotel
 hour
 hours
 house
+hug
 hungry
 hurry
 hurt
@@ -294,6 +301,7 @@ june
 keep
 key
 kind
+kiss
 kitchen
 lady
 large
@@ -359,12 +367,14 @@ movie
 museum
 music
 name
+nap
 nature
 near
 neck
 need
 neighbor
 new
+news
 newspaper
 next
 nice
@@ -415,9 +425,11 @@ picnic
 picture
 piece
 pill
+pillow
 pizza
 plan
 plane
+plate
 platform
 play
 player
