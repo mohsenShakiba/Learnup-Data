@@ -1,21 +1,20 @@
 At the Bank
 account, open, form, put, money, ATM, teller, savings, save, wallet, amount, coin, debit, credit, pin, safe, withdraw, branch, balance, transfer, loan
-Good morning. Welcome to the bank. I am the teller. How can I help you?
-I'd like to open a savings account to save some money.
-Sure. Do you have your ID?
-Yes, it's here in my wallet.
-Please fill out this form.
-Okay. All done.
-How much do you want to put in? What amount?
-One hundred dollars and some coins.
-Thank you. Do you want a debit or a credit card?
+Good morning! Come on over, I'm the teller. How can I help?
+Hi, I'd like to open a savings account, just to save a bit of money.
+Sure thing. Do you have your ID on you?
+Yeah, it's here in my wallet.
+Perfect. Just fill out this form for me.
+Okay... all done.
+Great. How much would you like to put in? What amount?
+A hundred dollars, and some coins too.
+Got it. Would you like a debit or a credit card?
 A debit card, please.
-Here is your card. Your PIN is on this paper. Keep it safe.
-Can I get money with this card?
-Yes. You can withdraw cash at any ATM or branch.
-Can I check my balance there too?
-Yes, and you can transfer money to friends.
-Great. Later I may ask about a loan for a car.
-Of course. Your money is safe with us.
-Thank you for your help.
-You're welcome. Have a good day!
+Here you go. Your PIN's on this paper, keep it safe.
+Thanks. Can I get cash with this?
+Yep, you can withdraw at any ATM or branch.
+Oh, nice. Can I check my balance there too?
+You can, and you can transfer money to friends as well.
+Great. I might ask about a loan for a car later, actually.
+Of course, just let us know. Have a good one!
+Thanks so much for your help.

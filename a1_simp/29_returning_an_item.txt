@@ -1,16 +1,16 @@
 Returning an Item
 fit, different, problem, reason, wrong, tag, worn, label, customer, refund, exchange, policy, swap, counter, stain, sleeve, broken, zip, damaged, faulty, defect
-Hello, I'd like to return this shirt. I bought it yesterday.
-Okay. Is there a problem with it? What is the reason?
-Yes, it's the wrong size and it doesn't fit.
-Do you have the receipt? Is the tag still on?
-Yes, here it is. I haven't worn it, and the label is still on.
-Good. As a customer, you can get a refund or an exchange.
-What is your return policy?
-You can swap it within thirty days.
-Can I get a bigger size?
-Of course. We have it in large. Let me check this one at the counter. Wait, this shirt has a stain on the sleeve and a broken zip.
-Oh, that one is damaged. It's faulty. Do you have it in a different color too?
-Yes, in blue and black. These have no defect.
-I'll take the blue one, thank you.
-No problem. Here is your new shirt.
+Hi, I'd like to return this shirt. I bought it yesterday.
+Okay. Is there a problem? What's the reason?
+Yeah, it's the wrong size. It just doesn't fit.
+Do you have the receipt? And is the tag still on?
+Here you go. I haven't worn it, and yeah, the label's still on.
+Great. So you can get a refund, or an exchange, whatever you like.
+What's your return policy, actually?
+You can swap it any time within thirty days.
+Oh, could I just get a bigger size then?
+Sure, we've got it in large. Let me grab one from the counter... wait, this one has a stain on the sleeve and the zip's broken.
+Ha, that one's damaged for sure. Faulty. Do you maybe have a different color?
+We do, blue and black. And these ones have no defect.
+I'll take the blue one, thanks.
+No problem at all. Here's your new shirt.

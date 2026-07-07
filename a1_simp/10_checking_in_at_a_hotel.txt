@@ -1,20 +1,20 @@
 Checking In at a Hotel
 hotel, book, room, night, sign, breakfast, wifi, password, key, floor, elevator, stay, shower, reservation, towel, view, comfortable, guest, reception, lobby
-Good evening. Welcome to the hotel.
-Thank you. I booked a room.
-May I have your name?
-It's David Clark.
-Yes, I see your reservation for two nights.
-That's right.
-Please sign here.
-Is breakfast free?
-Yes, breakfast is from seven to ten.
-Great. Does the room have a shower and Wi-Fi?
-Yes. The password is on this card. The room also has fresh towels and a nice view of the city.
-Is the bed comfortable?
-Very comfortable. Our guests love it. Here is your key. Room 204, second floor.
-Thank you. Can someone help with my bags?
-Yes, a worker will bring it up. The reception is here in the lobby if you need anything.
-Where is the elevator?
-It's on your left. Enjoy your stay!
-Thank you very much.
+Good evening! Welcome to the hotel.
+Thanks. I booked a room online.
+Sure, what's the name?
+David Clark.
+Got it. I see your reservation, two nights, right?
+Yep, that's right.
+Great. Just sign here for me.
+No problem. Oh, is breakfast included?
+It is, yeah. Seven to ten in the morning.
+Nice. And does the room have a shower and Wi-Fi?
+Both. The password's on this card. You'll also find fresh towels and a nice view of the city.
+Oh, lovely. Is the bed comfortable?
+Very. Our guests always say so. Here's your key, room 204, second floor.
+Thanks. Can someone help with my bags?
+Of course, someone will bring them up. Reception's right here in the lobby if you need anything.
+Perfect. Where's the elevator?
+Just to your left. Enjoy your stay!
+Thanks a lot.

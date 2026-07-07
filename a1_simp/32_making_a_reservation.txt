@@ -1,20 +1,20 @@
 Making a Reservation
 tonight, check, see, reserve, special, date, occasion, anniversary, romantic, booth, private, starter, main, course, vegetarian, allergy, highchair, host, notice, cancel, confirm
-Good evening, Bella Restaurant. How can I help you?
-Hello. I'd like to reserve a table for tonight.
-Sure. For how many people?
-For four people, please. It's a special date.
-What is the occasion?
-Our wedding anniversary. We want a romantic table.
-How lovely! What time would you like?
-At eight in the evening.
-We have a free table at eight. Would you like a booth or a private corner?
-A quiet booth, please. Can we start with a starter?
-Of course. Our main courses are excellent too.
-One of us is vegetarian and has a nut allergy.
-No problem. Do you need a highchair for a child?
-Yes, one highchair, please.
-The host will greet you at the door. What name is the table under?
-Under the name David.
-Perfect. Let me check: four people at eight. Please give notice if you cancel.
-That's right. I confirm. See you tonight.
+Good evening, Bella Restaurant. How can I help?
+Hi there. I'd like to reserve a table for tonight.
+Sure. For how many?
+Four people. It's kind of a special date.
+Oh nice, what's the occasion?
+Our wedding anniversary, actually. We'd love a romantic table.
+Aw, how lovely! What time were you thinking?
+Around eight in the evening?
+We've got a free table at eight. Would you prefer a booth, or a private corner?
+A quiet booth sounds perfect. Oh, can we start with a starter?
+Of course. And our main courses are really good too.
+Great. One of us is vegetarian, and has a nut allergy.
+No problem at all. Do you need a highchair for a little one?
+Yes please, just one.
+The host will meet you at the door. What name should I put the table under?
+Under David.
+Perfect. So let me check: four people, eight o'clock. Just give us notice if you need to cancel.
+That's right. I confirm. See you tonight!

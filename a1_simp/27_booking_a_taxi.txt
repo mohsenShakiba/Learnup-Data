@@ -1,19 +1,20 @@
 Booking a Taxi
 taxi, airport, pick, early, outside, driver, hurry, traffic, pickup, cab, car, highway, lane, roundabout, meter, seatbelt, honk, brake, fuel, booking
-Hello, I'd like to book a taxi, please.
-Sure. Where do you want to go?
-To the airport. My flight is at nine.
-What time should we pick you up?
-Early, please. At six in the morning.
-Okay. What is your address for the pickup?
-12 Park Road. I have two bags.
-No problem. Your cab will be a blue car waiting outside.
-Good. There can be a lot of traffic.
-Don't worry, six is early. There's no need to hurry.
-Which way will the driver go?
-The driver takes the highway, then the fast lane past the roundabout.
-Does the meter start at pickup?
-Yes. Please put on your seatbelt in the car.
-Sure. I hope there is no traffic jam.
-If a car honks, the driver will brake safely. We have plenty of fuel.
-Great. I confirmed the booking. I'll be ready.
+Hi, I need to book a taxi, please.
+Sure, where are you headed?
+The airport. My flight's at nine.
+Okay, and what time should we pick you up?
+Pretty early, I think. Six in the morning?
+No problem. What's the address for the pickup?
+12 Park Road. Oh, and I've got two bags.
+That's fine. Your cab will be a blue car, waiting right outside.
+Great. I'm a bit worried about traffic, actually.
+Don't be. Six is early, so there's no need to hurry.
+Which way does the driver usually go?
+He'll take the highway, then the fast lane past the roundabout.
+And the meter starts at pickup, yeah?
+Yep. Just remember your seatbelt once you're in the car.
+Will do. I really hope it's not busy out there.
+Even if someone honks, the driver will brake nice and safe. And we've got plenty of fuel, so relax.
+Okay, that's a relief. So the booking's all set?
+All set. See you at six.

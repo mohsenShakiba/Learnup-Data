@@ -1,18 +1,18 @@
 Ordering Food Delivery
 pizza, deliver, minutes, total, extra, cheese, wait, crust, topping, mushroom, pepper, garlic, spicy, sauce, combo, cola, soda, oven, slice, knock
 Hello, Tony's Pizza. Can I take your order?
-Yes, I'd like a pizza, please.
-Sure. What size would you like?
+Yeah, I'd like a pizza, please.
+Sure, what size?
 Large, with extra cheese and a thin crust.
-What toppings do you want?
+Nice. What toppings?
 Mushrooms, peppers, and garlic, please.
-Do you want it spicy? We have a hot sauce.
-Yes, a little spicy. Can I get the combo with a drink?
-Sure. A cola or another soda?
-One cola, please. I'm very hungry.
-What is your address?
-It's 25 Green Street. How long will it take?
-The pizza is in the oven now. We will deliver it in thirty minutes.
-Great. Please cut it into eight slices.
-Of course. The total is eighteen dollars. Cash or card?
-Cash, please. I'll wait at the door, so just knock.
+Want it spicy? We've got a hot sauce.
+Ooh, yeah, a little spicy. Oh, and can I get the combo with a drink?
+Of course. Cola, or another soda?
+One cola, thanks. I'm starving.
+Ha, no problem. What's your address?
+25 Green Street. How long will it take?
+It's going in the oven now, so we'll deliver in about thirty minutes.
+Great. Can you cut it into eight slices?
+You got it. Total's eighteen dollars. Cash or card?
+Cash. I'll wait by the door, so just knock.

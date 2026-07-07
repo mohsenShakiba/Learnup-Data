@@ -1,19 +1,20 @@
 The Weather Forecast
 cool, rainy, dry, snowy, weather, warm, cold, sunny, afternoon, coat, thunder, lightning, forecast, breeze, windy, foggy, degree, freeze, boot, gloves, rainbow
 What's the weather like today?
-It is cool and cloudy.
-Will it be rainy?
-Yes, rainy in the afternoon, with thunder and lightning.
-And tomorrow? What is the forecast?
-Tomorrow will be dry and sunny, with a light breeze.
-Good. I want to walk outside.
-It may be windy and foggy in the morning.
-How many degrees will it be?
-About five degrees. It will freeze at night.
+Cool and cloudy right now.
+Is it going to be rainy?
+Yeah, rainy this afternoon, with some thunder and lightning.
+Ugh. What's the forecast for tomorrow?
+Tomorrow's better, dry and sunny, with a light breeze.
+Oh good, I want to walk outside.
+It might be windy and foggy in the morning though.
+How many degrees are we talking?
+About five. It'll freeze at night.
 So cold! Should I wear boots and gloves?
-Yes, and a warm coat.
-But next week it will be snowy.
-Snow already? It's early.
-Maybe we will see a rainbow after the rain.
-Okay. I don't like the cold.
-Stay warm and dry!
+Yeah, and a warm coat too.
+And next week?
+Snowy, apparently.
+Snow already? That's early!
+Ha, maybe we'll get a rainbow after all this rain.
+I hope so. I really don't like the cold.
+Then stay warm and dry out there!

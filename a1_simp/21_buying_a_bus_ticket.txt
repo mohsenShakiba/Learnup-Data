@@ -1,18 +1,18 @@
 Buying a Bus Ticket
 bus, next, leave, station, single, return, cost, platform, arrive, stop, coach, depart, schedule, timetable, fare, journey, route, backpack, passenger, engine
-Hi. I need a ticket to London, please.
+Hi, one ticket to London, please.
 Single or return?
-Single, please. When does the next coach depart from the station?
-It leaves at ten. The full schedule is on this timetable.
-How much does it cost? What is the fare?
-It is twelve dollars.
+Single, thanks. When's the next coach depart from the station?
+Ten o'clock. The full schedule's on that timetable over there.
+Okay. How much does it cost? What's the fare?
+Twelve dollars.
 Can I pay by card?
-Sorry, we only take cash today.
-Okay. Here is twenty dollars. Which platform is it?
-Platform three. Here is your change, and your seat is number eight.
+Sorry, just cash today.
+No worries. Here's twenty. Which platform?
+Platform three. Here's your change, and you're in seat eight.
 Is it a long journey?
-About three hours. The route goes through two towns.
+About three hours. The route goes through a couple of towns.
 Can I bring my backpack on board?
-Yes, every passenger can bring one bag. The coach has a big engine, so it's fast.
-Great. When does it arrive?
-At one o'clock. The bus stops once on the way.
+Sure, every passenger gets one bag. And the coach has a big engine, so it moves fast.
+Nice. When does it arrive?
+One o'clock. The bus only stops once on the way.

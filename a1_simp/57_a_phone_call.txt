@@ -1,20 +1,20 @@
 A Phone Call
 hear, speak, ask, note, closed, bad, office, open, call, tomorrow, speaker, reply, missed, dial, voicemail, reach, hang, mute, ringtone, caller
 Hello, Green Street office.
-Hi, can you hear me?
-Yes, but please speak louder. You are on speaker.
-Is that better? I called before but got no reply.
-Sorry, we had many missed calls today. Go ahead, let me take a note.
-I had to dial three times. I want to ask something.
-Sorry about that. What is your question?
-Is your shop open today?
-No, sorry, we're closed today.
-Oh, that's too bad. Can I leave a voicemail?
-Yes, or the manager can reach you tomorrow.
-Please don't hang up yet.
-I won't. Let me turn off mute.
-The ringtone was very loud when you called back.
-We open again tomorrow morning.
-Okay. Thank you for your help.
-You're welcome, caller. Thanks for your call. Have a good day.
-You too. Goodbye.
+Hi, can you hear me okay?
+Sort of, could you speak a bit louder? You're on speaker.
+Is that better? I called earlier but got no reply.
+Sorry about that, we had so many missed calls today. Go ahead, let me grab a note.
+I had to dial three times! Anyway, I wanted to ask something.
+Of course. What's your question?
+Are you guys open today?
+Oh, no, sorry, we're closed today.
+Ah, that's too bad. Can I leave a voicemail?
+You can, or the manager can reach you tomorrow.
+Wait, don't hang up yet.
+I won't, hang on, let me turn off mute.
+Ha, your ringtone was super loud when you called me back.
+Sorry! We open again tomorrow morning.
+Okay, thanks for your help.
+No problem, caller. Thanks for calling. Have a good one.
+You too. Bye.

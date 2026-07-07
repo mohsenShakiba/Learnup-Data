@@ -1,17 +1,17 @@
 Calling Tech Support
 internet, working, fix, box, green, red, again, connect, works, moment, information, signal, device, router, cable, plug, restart, screen, click, network
-Hello, this is tech support. How can I help you?
-My internet is not working. There is no signal on my device.
-I'm sorry. Let me check your information and fix it.
-Thank you.
-Is the light on the box green? That box is your router.
-No, it is red.
-First, make sure the cable is in the plug at the back.
-Okay, it is in.
-Now turn the box off and on again to restart it.
-Okay, one moment... Done.
-Now wait one minute and watch the screen.
-The light is green now!
+Hi, tech support. How can I help?
+My internet isn't working. There's no signal on any device.
+Oh no, sorry about that. Let me pull up your information and we'll fix it.
+Thanks.
+Okay, that box by your TV, the router. Is the light green?
+No, it's red actually.
+Alright. First, check the cable at the back is in the plug properly.
+Yeah, it's in.
+Good. Now turn the box off, then on again, to restart it.
+One moment... okay, done.
+Now give it a minute and watch the screen.
+Oh, the light's green now!
 Great. Open your computer and click connect to the network.
-Yes, it works! Thank you so much.
-You're welcome. Have a good day!
+Yes! It works. Thank you so much.
+No problem at all. Have a good one!
