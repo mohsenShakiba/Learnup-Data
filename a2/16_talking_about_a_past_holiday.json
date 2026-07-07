@@ -1,91 +1,89 @@
 {
-  "title": "16 - Talking About a Past Holiday",
-  "description": "گفتگو درباره خاطرات یک سفر تعطیلات گذشته.",
-  "words": [
-    "holiday",
-    "stayed",
-    "swim",
-    "delicious",
-    "photos",
-    "relaxing",
-    "explored",
-    "local",
-    "memorable",
-    "amazing"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "How was your holiday last month?",
-      "translation": "تعطیلات ماه گذشته‌ات چطور بود؟"
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "It was amazing. We went to the beach.",
-      "translation": "فوق‌العاده بود. به ساحل رفتیم."
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "Where did you stay?",
-      "translation": "کجا اقامت داشتید؟"
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "In a small hotel near the sea.",
-      "translation": "در یک هتل کوچک نزدیک دریا."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "How was the weather?",
-      "translation": "هوا چطور بود؟"
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "Sunny every day. We swam a lot.",
-      "translation": "هر روز آفتابی. خیلی شنا کردیم."
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "Did you try the local food?",
-      "translation": "غذای محلی را امتحان کردید؟"
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "Yes, the fish was delicious.",
-      "translation": "بله، ماهی خیلی خوشمزه بود."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "Did you explore the area?",
-      "translation": "اطراف را گشتید؟"
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "We explored some small villages.",
-      "translation": "چند روستای کوچک را گشتیم."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "It sounds so relaxing.",
-      "translation": "خیلی آرامش‌بخش به نظر می‌رسد."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "It was. I'll show you the photos later.",
-      "translation": "همینطور بود. بعداً عکس‌ها را نشانت می‌دهم."
-    }
-  ]
+    "title": "16 - Talking About a Past Holiday",
+    "description": "گفتگو درباره خاطرات یک سفر تعطیلات گذشته.",
+    "words": [
+        "stayed",
+        "swim",
+        "photos",
+        "relaxing",
+        "explored",
+        "local",
+        "memorable",
+        "amazing"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "How was your holiday last month?",
+            "translation": "تعطیلات ماه گذشته‌ات چطور بود؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "It was amazing. We went to the beach.",
+            "translation": "فوق‌العاده بود. به ساحل رفتیم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Where did you stay?",
+            "translation": "کجا اقامت داشتید؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "In a small hotel near the sea.",
+            "translation": "در یک هتل کوچک نزدیک دریا."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "How was the weather?",
+            "translation": "هوا چطور بود؟"
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "Sunny every day. We swam a lot.",
+            "translation": "هر روز آفتابی. خیلی شنا کردیم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Did you try the local food?",
+            "translation": "غذای محلی را امتحان کردید؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, the fish was delicious.",
+            "translation": "بله، ماهی خیلی خوشمزه بود."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Did you explore the area?",
+            "translation": "اطراف را گشتید؟"
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "We explored some small villages.",
+            "translation": "چند روستای کوچک را گشتیم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "It sounds so relaxing.",
+            "translation": "خیلی آرامش‌بخش به نظر می‌رسد."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "It was. I'll show you the photos later.",
+            "translation": "همینطور بود. بعداً عکس‌ها را نشانت می‌دهم."
+        }
+    ]
 }

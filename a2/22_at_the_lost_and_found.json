@@ -1,89 +1,88 @@
-﻿{
-    "title":  "22 - At the Lost and Found",
-    "description":  "Ú¯Ù… Ø´Ø¯Ù† ÛŒÚ© Ú©ÛŒÙ Ùˆ Ù…Ø±Ø§Ø¬Ø¹Ù‡ Ø¨Ù‡ Ø¨Ø®Ø´ Ø§Ø´ÛŒØ§ÛŒ Ú¯Ù…Ø´Ø¯Ù‡.",
-    "words":  [
-                  "lost",
-                  "found",
-                  "describe",
-                  "inside",
-                  "wallet",
-                  "keys",
-                  "yesterday",
-                  "lucky"
-              ],
-    "estimatedDuration":  1,
-    "sentences":  [
-                      {
-                          "order":  0,
-                          "person":  1,
-                          "text":  "Hi, I think I lost my bag here yesterday.",
-                          "translation":  "Ø³Ù„Ø§Ù…ØŒ ÙÚ©Ø± Ú©Ù†Ù… Ø¯ÛŒØ±ÙˆØ² Ú©ÛŒÙÙ… Ø±Ø§ Ø§ÛŒÙ†Ø¬Ø§ Ú¯Ù… Ú©Ø±Ø¯Ù…."
-                      },
-                      {
-                          "order":  1,
-                          "person":  2,
-                          "text":  "I\u0027m sorry to hear that. Can you describe it?",
-                          "translation":  "Ù…ØªØ£Ø³ÙÙ… Ú©Ù‡ Ø§ÛŒÙ† Ø±Ø§ Ù…ÛŒâ€ŒØ´Ù†ÙˆÙ…. Ù…ÛŒâ€ŒØªÙˆØ§Ù†ÛŒØ¯ ØªÙˆØµÛŒÙØ´ Ú©Ù†ÛŒØ¯ØŸ"
-                      },
-                      {
-                          "order":  2,
-                          "person":  1,
-                          "text":  "It\u0027s a small black bag.",
-                          "translation":  "ÛŒÚ© Ú©ÛŒÙ Ú©ÙˆÚ†Ú© Ù…Ø´Ú©ÛŒ Ø§Ø³Øª."
-                      },
-                      {
-                          "order":  3,
-                          "person":  2,
-                          "text":  "What was inside it?",
-                          "translation":  "Ø¯Ø§Ø®Ù„Ø´ Ú†Ù‡ Ø¨ÙˆØ¯ØŸ"
-                      },
-                      {
-                          "order":  4,
-                          "person":  1,
-                          "text":  "My wallet, some keys, and a book.",
-                          "translation":  "Ú©ÛŒÙ Ù¾ÙˆÙ„Ù…ØŒ Ú†Ù†Ø¯ Ú©Ù„ÛŒØ¯ Ùˆ ÛŒÚ© Ú©ØªØ§Ø¨."
-                      },
-                      {
-                          "order":  5,
-                          "person":  2,
-                          "text":  "Where did you leave it?",
-                          "translation":  "Ú©Ø¬Ø§ Ø¬Ø§ÛŒØ´ Ú¯Ø°Ø§Ø´ØªÛŒØ¯ØŸ"
-                      },
-                      {
-                          "order":  6,
-                          "person":  1,
-                          "text":  "I think near the main entrance.",
-                          "translation":  "ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†Ù… Ù†Ø²Ø¯ÛŒÚ© ÙˆØ±ÙˆØ¯ÛŒ Ø§ØµÙ„ÛŒ."
-                      },
-                      {
-                          "order":  7,
-                          "person":  2,
-                          "text":  "Let me check. We found a black bag this morning.",
-                          "translation":  "Ø¨Ú¯Ø°Ø§Ø±ÛŒØ¯ Ú†Ú© Ú©Ù†Ù…. Ø§Ù…Ø±ÙˆØ² ØµØ¨Ø­ ÛŒÚ© Ú©ÛŒÙ Ù…Ø´Ú©ÛŒ Ù¾ÛŒØ¯Ø§ Ú©Ø±Ø¯ÛŒÙ…."
-                      },
-                      {
-                          "order":  8,
-                          "person":  1,
-                          "text":  "Really? That might be mine!",
-                          "translation":  "ÙˆØ§Ù‚Ø¹Ø§Ù‹ØŸ Ø´Ø§ÛŒØ¯ Ù…Ø§Ù„ Ù…Ù† Ø¨Ø§Ø´Ø¯!"
-                      },
-                      {
-                          "order":  9,
-                          "person":  2,
-                          "text":  "Is this it?",
-                          "translation":  "Ù‡Ù…ÛŒÙ† Ø§Ø³ØªØŸ"
-                      },
-                      {
-                          "order":  10,
-                          "person":  1,
-                          "text":  "Yes! Thank you so much. I\u0027m so lucky.",
-                          "translation":  "Ø¨Ù„Ù‡! Ø®ÛŒÙ„ÛŒ Ù…Ù…Ù†ÙˆÙ†. Ø®ÛŒÙ„ÛŒ Ø®ÙˆØ´â€ŒØ´Ø§Ù†Ø³Ù…."
-                      },
-                      {
-                          "order":  11,
-                          "person":  2,
-                          "text":  "You\u0027re welcome. Please fill in this form.",
-                          "translation":  "Ø®ÙˆØ§Ù‡Ø´ Ù…ÛŒâ€ŒÚ©Ù†Ù…. Ù„Ø·ÙØ§Ù‹ Ø§ÛŒÙ† ÙØ±Ù… Ø±Ø§ Ù¾Ø± Ú©Ù†ÛŒØ¯."
-                      }
-                  ]
+{
+  "title": "22 - At the Lost and Found",
+  "description": "Ú¯Ù… Ø´Ø¯Ù† ÛŒÚ© Ú©ÛŒÙ Ùˆ Ù…Ø±Ø§Ø¬Ø¹Ù‡ Ø¨Ù‡ Ø¨Ø®Ø´ Ø§Ø´ÛŒØ§ÛŒ Ú¯Ù…Ø´Ø¯Ù‡.",
+  "words": [
+    "found",
+    "describe",
+    "inside",
+    "wallet",
+    "keys",
+    "yesterday",
+    "lucky"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi, I think I lost my bag here yesterday.",
+      "translation": "Ø³Ù„Ø§Ù…ØŒ ÙÚ©Ø± Ú©Ù†Ù… Ø¯ÛŒØ±ÙˆØ² Ú©ÛŒÙÙ… Ø±Ø§ Ø§ÛŒÙ†Ø¬Ø§ Ú¯Ù… Ú©Ø±Ø¯Ù…."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "I'm sorry to hear that. Can you describe it?",
+      "translation": "Ù…ØªØ£Ø³ÙÙ… Ú©Ù‡ Ø§ÛŒÙ† Ø±Ø§ Ù…ÛŒâ€ŒØ´Ù†ÙˆÙ…. Ù…ÛŒâ€ŒØªÙˆØ§Ù†ÛŒØ¯ ØªÙˆØµÛŒÙØ´ Ú©Ù†ÛŒØ¯ØŸ"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "It's a small black bag.",
+      "translation": "ÛŒÚ© Ú©ÛŒÙ Ú©ÙˆÚ†Ú© Ù…Ø´Ú©ÛŒ Ø§Ø³Øª."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "What was inside it?",
+      "translation": "Ø¯Ø§Ø®Ù„Ø´ Ú†Ù‡ Ø¨ÙˆØ¯ØŸ"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "My wallet, some keys, and a book.",
+      "translation": "Ú©ÛŒÙ Ù¾ÙˆÙ„Ù…ØŒ Ú†Ù†Ø¯ Ú©Ù„ÛŒØ¯ Ùˆ ÛŒÚ© Ú©ØªØ§Ø¨."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Where did you leave it?",
+      "translation": "Ú©Ø¬Ø§ Ø¬Ø§ÛŒØ´ Ú¯Ø°Ø§Ø´ØªÛŒØ¯ØŸ"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "I think near the main entrance.",
+      "translation": "ÙÚ©Ø± Ù…ÛŒâ€ŒÚ©Ù†Ù… Ù†Ø²Ø¯ÛŒÚ© ÙˆØ±ÙˆØ¯ÛŒ Ø§ØµÙ„ÛŒ."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Let me check. We found a black bag this morning.",
+      "translation": "Ø¨Ú¯Ø°Ø§Ø±ÛŒØ¯ Ú†Ú© Ú©Ù†Ù…. Ø§Ù…Ø±ÙˆØ² ØµØ¨Ø­ ÛŒÚ© Ú©ÛŒÙ Ù…Ø´Ú©ÛŒ Ù¾ÛŒØ¯Ø§ Ú©Ø±Ø¯ÛŒÙ…."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Really? That might be mine!",
+      "translation": "ÙˆØ§Ù‚Ø¹Ø§Ù‹ØŸ Ø´Ø§ÛŒØ¯ Ù…Ø§Ù„ Ù…Ù† Ø¨Ø§Ø´Ø¯!"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Is this it?",
+      "translation": "Ù‡Ù…ÛŒÙ† Ø§Ø³ØªØŸ"
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Yes! Thank you so much. I'm so lucky.",
+      "translation": "Ø¨Ù„Ù‡! Ø®ÛŒÙ„ÛŒ Ù…Ù…Ù†ÙˆÙ†. Ø®ÛŒÙ„ÛŒ Ø®ÙˆØ´â€ŒØ´Ø§Ù†Ø³Ù…."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "You're welcome. Please fill in this form.",
+      "translation": "Ø®ÙˆØ§Ù‡Ø´ Ù…ÛŒâ€ŒÚ©Ù†Ù…. Ù„Ø·ÙØ§Ù‹ Ø§ÛŒÙ† ÙØ±Ù… Ø±Ø§ Ù¾Ø± Ú©Ù†ÛŒØ¯."
+    }
+  ]
 }

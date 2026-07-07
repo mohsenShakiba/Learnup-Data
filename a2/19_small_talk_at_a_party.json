@@ -1,91 +1,90 @@
 {
-    "title": "19 - Small Talk at a Party",
-    "description": "آشنایی و گفتگوی کوتاه با یک مهمان جدید در مهمانی.",
-    "words": [
-        "party",
-        "know",
-        "host",
-        "guest",
-        "recently",
-        "interesting",
-        "common",
-        "enjoy",
-        "chat",
-        "introduce"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Hi, I don't think we've met. I'm Sam.",
-            "translation": "سلام، فکر نکنم آشنا شده باشیم. من سم هستم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Nice to meet you, Sam. I'm Julia.",
-            "translation": "از آشنایی‌ات خوشحالم سم. من جولیا هستم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "How do you know the host?",
-            "translation": "میزبان را از کجا می‌شناسی؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "We work together. And you?",
-            "translation": "با هم کار می‌کنیم. تو چطور؟"
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "We're old friends from university.",
-            "translation": "دوستان قدیمی از دوران دانشگاه هستیم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "That's nice. Do you live near here?",
-            "translation": "چه خوب. این نزدیکی‌ها زندگی می‌کنی؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Yes, I moved here recently.",
-            "translation": "بله، اخیراً به اینجا آمدم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "What do you do for work?",
-            "translation": "کارت چیست؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "I'm a teacher. It's very interesting.",
-            "translation": "معلم هستم. خیلی جالب است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Oh, my sister is a teacher too!",
-            "translation": "اوه، خواهر من هم معلم است!"
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "We have a lot in common, then.",
-            "translation": "پس خیلی نقطه مشترک داریم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Let's get a drink and chat more.",
-            "translation": "بیا یک نوشیدنی بگیریم و بیشتر گپ بزنیم."
-        }
-    ]
+  "title": "19 - Small Talk at a Party",
+  "description": "آشنایی و گفتگوی کوتاه با یک مهمان جدید در مهمانی.",
+  "words": [
+    "know",
+    "host",
+    "guest",
+    "recently",
+    "interesting",
+    "common",
+    "enjoy",
+    "chat",
+    "introduce"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Hi, I don't think we've met. I'm Sam.",
+      "translation": "سلام، فکر نکنم آشنا شده باشیم. من سم هستم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Nice to meet you, Sam. I'm Julia.",
+      "translation": "از آشنایی‌ات خوشحالم سم. من جولیا هستم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "How do you know the host?",
+      "translation": "میزبان را از کجا می‌شناسی؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "We work together. And you?",
+      "translation": "با هم کار می‌کنیم. تو چطور؟"
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "We're old friends from university.",
+      "translation": "دوستان قدیمی از دوران دانشگاه هستیم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "That's nice. Do you live near here?",
+      "translation": "چه خوب. این نزدیکی‌ها زندگی می‌کنی؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Yes, I moved here recently.",
+      "translation": "بله، اخیراً به اینجا آمدم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "What do you do for work?",
+      "translation": "کارت چیست؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "I'm a teacher. It's very interesting.",
+      "translation": "معلم هستم. خیلی جالب است."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Oh, my sister is a teacher too!",
+      "translation": "اوه، خواهر من هم معلم است!"
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "We have a lot in common, then.",
+      "translation": "پس خیلی نقطه مشترک داریم."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Let's get a drink and chat more.",
+      "translation": "بیا یک نوشیدنی بگیریم و بیشتر گپ بزنیم."
+    }
+  ]
 }

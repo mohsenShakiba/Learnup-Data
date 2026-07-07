@@ -1,89 +1,88 @@
 {
-  "title": "12 - Talking About Healthy Habits",
-  "description": "دو دوست درباره عادت‌های سالم و ورزش صحبت می‌کنند.",
-  "words": [
-    "habit",
-    "exercise",
-    "should",
-    "sleep",
-    "diet",
-    "vegetables",
-    "energy",
-    "advice"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "You look great! What's your secret?",
-      "translation": "خیلی خوب به نظر می‌رسی! رازت چیست؟"
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "I started some healthy habits this year.",
-      "translation": "امسال چند عادت سالم را شروع کردم."
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "Like what?",
-      "translation": "مثل چه؟"
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "I exercise three times a week.",
-      "translation": "هفته‌ای سه بار ورزش می‌کنم."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "I should do that too.",
-      "translation": "من هم باید همین کار را بکنم."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "I also eat more vegetables and less sugar.",
-      "translation": "همچنین سبزیجات بیشتر و شکر کمتری می‌خورم."
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "Do you sleep well now?",
-      "translation": "حالا خوب می‌خوابی؟"
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "Yes, I sleep eight hours every night.",
-      "translation": "بله، هر شب هشت ساعت می‌خوابم."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "That's why you have so much energy.",
-      "translation": "برای همین این‌قدر انرژی داری."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "You should drink more water too.",
-      "translation": "تو هم باید آب بیشتری بنوشی."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "Good advice. I'll start tomorrow.",
-      "translation": "توصیه خوبی است. از فردا شروع می‌کنم."
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "We can walk to the gym together.",
-      "translation": "می‌توانیم با هم تا باشگاه پیاده برویم."
-    }
-  ]
+    "title": "12 - Talking About Healthy Habits",
+    "description": "دو دوست درباره عادت‌های سالم و ورزش صحبت می‌کنند.",
+    "words": [
+        "habit",
+        "exercise",
+        "should",
+        "diet",
+        "vegetables",
+        "energy",
+        "advice"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "You look great! What's your secret?",
+            "translation": "خیلی خوب به نظر می‌رسی! رازت چیست؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "I started some healthy habits this year.",
+            "translation": "امسال چند عادت سالم را شروع کردم."
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "Like what?",
+            "translation": "مثل چه؟"
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I exercise three times a week.",
+            "translation": "هفته‌ای سه بار ورزش می‌کنم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "I should do that too.",
+            "translation": "من هم باید همین کار را بکنم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "I also eat more vegetables and less sugar.",
+            "translation": "همچنین سبزیجات بیشتر و شکر کمتری می‌خورم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Do you sleep well now?",
+            "translation": "حالا خوب می‌خوابی؟"
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "Yes, I sleep eight hours every night.",
+            "translation": "بله، هر شب هشت ساعت می‌خوابم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "That's why you have so much energy.",
+            "translation": "برای همین این‌قدر انرژی داری."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "You should drink more water too.",
+            "translation": "تو هم باید آب بیشتری بنوشی."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Good advice. I'll start tomorrow.",
+            "translation": "توصیه خوبی است. از فردا شروع می‌کنم."
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "We can walk to the gym together.",
+            "translation": "می‌توانیم با هم تا باشگاه پیاده برویم."
+        }
+    ]
 }

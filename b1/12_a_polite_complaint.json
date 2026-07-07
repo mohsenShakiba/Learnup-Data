@@ -1,106 +1,105 @@
 {
-  "title": "12 - A Polite Restaurant Complaint",
-  "description": "مطرح کردن مؤدبانه یک مشکل با غذا و سرویس در رستوران.",
-  "words": [
-    "complaint",
-    "polite",
-    "afraid",
-    "ordered",
-    "wrong",
-    "apologize",
-    "replace",
-    "manager",
-    "expect",
-    "service",
-    "disappointed",
-    "fresh",
-    "compensate"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "Excuse me, could I have a word?",
-      "translation": "ببخشید، می‌توانم چند کلمه صحبت کنم؟"
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Of course. Is everything all right?",
-      "translation": "البته. همه چیز خوب است؟"
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "I'm afraid my soup is cold.",
-      "translation": "متأسفانه سوپم سرد است."
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "I'm so sorry about that.",
-      "translation": "بابت این موضوع واقعاً متأسفم."
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "Also, this isn't what I ordered.",
-      "translation": "همچنین، این آن چیزی نیست که سفارش دادم."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "You're right. I'll replace it immediately.",
-      "translation": "حق با شماست. فوراً عوضش می‌کنم."
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "Thank you. I'd appreciate that.",
-      "translation": "ممنون. قدردانی می‌کنم."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "I'll bring you a fresh, hot dish.",
-      "translation": "یک غذای تازه و گرم برایتان می‌آورم."
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "I expected better from this restaurant.",
-      "translation": "از این رستوران انتظار بهتری داشتم."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "I understand. Let me call the manager.",
-      "translation": "درک می‌کنم. اجازه دهید مدیر را صدا کنم."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "That would be helpful, thank you.",
-      "translation": "این کمک‌کننده است، ممنون."
-    },
-    {
-      "order": 11,
-      "person": 1,
-      "text": "The waiter said that the kitchen was busy.",
-      "translation": "پیشخدمت گفت که آشپزخانه شلوغ است."
-    },
-    {
-      "order": 12,
-      "person": 1,
-      "text": "He told me that they would bring a new dish.",
-      "translation": "او به من گفت که یک غذای جدید می‌آورند."
-    },
-    {
-      "order": 13,
-      "person": 2,
-      "text": "To make up for it, your meal is free tonight.",
-      "translation": "برای جبران، غذای شما امشب رایگان است."
-    }
-  ]
+    "title": "12 - A Polite Restaurant Complaint",
+    "description": "مطرح کردن مؤدبانه یک مشکل با غذا و سرویس در رستوران.",
+    "words": [
+        "complaint",
+        "polite",
+        "afraid",
+        "ordered",
+        "wrong",
+        "apologize",
+        "replace",
+        "manager",
+        "expect",
+        "service",
+        "disappointed",
+        "compensate"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Excuse me, could I have a word?",
+            "translation": "ببخشید، می‌توانم چند کلمه صحبت کنم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. Is everything all right?",
+            "translation": "البته. همه چیز خوب است؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'm afraid my soup is cold.",
+            "translation": "متأسفانه سوپم سرد است."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "I'm so sorry about that.",
+            "translation": "بابت این موضوع واقعاً متأسفم."
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Also, this isn't what I ordered.",
+            "translation": "همچنین، این آن چیزی نیست که سفارش دادم."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "You're right. I'll replace it immediately.",
+            "translation": "حق با شماست. فوراً عوضش می‌کنم."
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "Thank you. I'd appreciate that.",
+            "translation": "ممنون. قدردانی می‌کنم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I'll bring you a fresh, hot dish.",
+            "translation": "یک غذای تازه و گرم برایتان می‌آورم."
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "I expected better from this restaurant.",
+            "translation": "از این رستوران انتظار بهتری داشتم."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "I understand. Let me call the manager.",
+            "translation": "درک می‌کنم. اجازه دهید مدیر را صدا کنم."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "That would be helpful, thank you.",
+            "translation": "این کمک‌کننده است، ممنون."
+        },
+        {
+            "order": 11,
+            "person": 1,
+            "text": "The waiter said that the kitchen was busy.",
+            "translation": "پیشخدمت گفت که آشپزخانه شلوغ است."
+        },
+        {
+            "order": 12,
+            "person": 1,
+            "text": "He told me that they would bring a new dish.",
+            "translation": "او به من گفت که یک غذای جدید می‌آورند."
+        },
+        {
+            "order": 13,
+            "person": 2,
+            "text": "To make up for it, your meal is free tonight.",
+            "translation": "برای جبران، غذای شما امشب رایگان است."
+        }
+    ]
 }

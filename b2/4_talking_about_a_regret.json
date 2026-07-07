@@ -1,113 +1,112 @@
 {
-    "title": "4 - Talking About a Regret",
-    "description": "دوستی درباره تصمیمی در گذشته که از آن پشیمان است صحبت می‌کند.",
-    "words": [
-        "regret",
-        "wish",
-        "decision",
-        "opportunity",
-        "turned",
-        "differently",
-        "hindsight",
-        "mistake",
-        "lesson",
-        "realize",
-        "stubborn",
-        "advice",
-        "moved",
-        "accept"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Sometimes I wish I'd taken that job abroad.",
-            "translation": "گاهی آرزو می‌کنم آن شغل خارج از کشور را قبول کرده بودم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Why didn't you, in the end?",
-            "translation": "آخرش چرا قبول نکردی؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I was afraid of leaving my comfort zone.",
-            "translation": "از ترک منطقه امن خودم می‌ترسیدم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "That's understandable. It was a big risk.",
-            "translation": "قابل درک است. ریسک بزرگی بود."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "If I'd accepted it, my life would be different now.",
-            "translation": "اگر قبولش کرده بودم، زندگی‌ام حالا فرق می‌کرد."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Maybe, but you can't know that for sure.",
-            "translation": "شاید، اما نمی‌توانی مطمئن باشی."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "In hindsight, I was too stubborn.",
-            "translation": "حالا که فکر می‌کنم، خیلی یک‌دنده بودم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "We all make decisions we later question.",
-            "translation": "همه ما تصمیماتی می‌گیریم که بعداً به آن‌ها شک می‌کنیم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "I should have listened to your advice.",
-            "translation": "باید به توصیه‌ات گوش می‌دادم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Don't be too hard on yourself.",
-            "translation": "زیاد به خودت سخت نگیر."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "You're right. At least I learned a lesson.",
-            "translation": "حق با توست. لااقل یک درس گرفتم."
-        },
-        {
-            "order": 11,
-            "person": 1,
-            "text": "By the time I applied, they had already filled the position.",
-            "translation": "تا وقتی درخواست دادم، آن‌ها قبلاً آن موقعیت را پر کرده بودند."
-        },
-        {
-            "order": 12,
-            "person": 1,
-            "text": "If I had known earlier, I would have made a different choice.",
-            "translation": "اگر زودتر می‌دانستم، تصمیم دیگری می‌گرفتم."
-        },
-        {
-            "order": 13,
-            "person": 1,
-            "text": "Next time I will have my application checked before I send it.",
-            "translation": "دفعه بعد قبل از فرستادن، درخواستم را می‌دهم بررسی کنند."
-        },
-        {
-            "order": 14,
-            "person": 2,
-            "text": "Exactly. The next opportunity will come.",
-            "translation": "دقیقاً. فرصت بعدی خواهد آمد."
-        }
-    ]
+  "title": "4 - Talking About a Regret",
+  "description": "دوستی درباره تصمیمی در گذشته که از آن پشیمان است صحبت می‌کند.",
+  "words": [
+    "regret",
+    "decision",
+    "opportunity",
+    "turned",
+    "differently",
+    "hindsight",
+    "mistake",
+    "lesson",
+    "realize",
+    "stubborn",
+    "advice",
+    "moved",
+    "accept"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Sometimes I wish I'd taken that job abroad.",
+      "translation": "گاهی آرزو می‌کنم آن شغل خارج از کشور را قبول کرده بودم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Why didn't you, in the end?",
+      "translation": "آخرش چرا قبول نکردی؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I was afraid of leaving my comfort zone.",
+      "translation": "از ترک منطقه امن خودم می‌ترسیدم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "That's understandable. It was a big risk.",
+      "translation": "قابل درک است. ریسک بزرگی بود."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "If I'd accepted it, my life would be different now.",
+      "translation": "اگر قبولش کرده بودم، زندگی‌ام حالا فرق می‌کرد."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Maybe, but you can't know that for sure.",
+      "translation": "شاید، اما نمی‌توانی مطمئن باشی."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "In hindsight, I was too stubborn.",
+      "translation": "حالا که فکر می‌کنم، خیلی یک‌دنده بودم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "We all make decisions we later question.",
+      "translation": "همه ما تصمیماتی می‌گیریم که بعداً به آن‌ها شک می‌کنیم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "I should have listened to your advice.",
+      "translation": "باید به توصیه‌ات گوش می‌دادم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Don't be too hard on yourself.",
+      "translation": "زیاد به خودت سخت نگیر."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "You're right. At least I learned a lesson.",
+      "translation": "حق با توست. لااقل یک درس گرفتم."
+    },
+    {
+      "order": 11,
+      "person": 1,
+      "text": "By the time I applied, they had already filled the position.",
+      "translation": "تا وقتی درخواست دادم، آن‌ها قبلاً آن موقعیت را پر کرده بودند."
+    },
+    {
+      "order": 12,
+      "person": 1,
+      "text": "If I had known earlier, I would have made a different choice.",
+      "translation": "اگر زودتر می‌دانستم، تصمیم دیگری می‌گرفتم."
+    },
+    {
+      "order": 13,
+      "person": 1,
+      "text": "Next time I will have my application checked before I send it.",
+      "translation": "دفعه بعد قبل از فرستادن، درخواستم را می‌دهم بررسی کنند."
+    },
+    {
+      "order": 14,
+      "person": 2,
+      "text": "Exactly. The next opportunity will come.",
+      "translation": "دقیقاً. فرصت بعدی خواهد آمد."
+    }
+  ]
 }

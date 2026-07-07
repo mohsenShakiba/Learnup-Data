@@ -1,89 +1,87 @@
 {
-  "title": "10 - Asking for Time Off",
-  "description": "درخواست مرخصی از مدیر برای چند روز.",
-  "words": [
-    "off",
-    "holiday",
-    "request",
-    "days",
-    "cover",
-    "approve",
-    "reason",
-    "agree"
-  ],
-  "estimatedDuration": 1,
-  "sentences": [
-    {
-      "order": 0,
-      "person": 1,
-      "text": "Excuse me, can I talk to you for a minute?",
-      "translation": "ببخشید، می‌توانم یک دقیقه با شما صحبت کنم؟"
-    },
-    {
-      "order": 1,
-      "person": 2,
-      "text": "Of course. What is it?",
-      "translation": "البته. چه شده؟"
-    },
-    {
-      "order": 2,
-      "person": 1,
-      "text": "I'd like to ask for some time off.",
-      "translation": "می‌خواهم درخواست مرخصی بدهم."
-    },
-    {
-      "order": 3,
-      "person": 2,
-      "text": "How many days do you need?",
-      "translation": "چند روز نیاز دارید؟"
-    },
-    {
-      "order": 4,
-      "person": 1,
-      "text": "Three days next week.",
-      "translation": "سه روز هفته آینده."
-    },
-    {
-      "order": 5,
-      "person": 2,
-      "text": "May I ask the reason?",
-      "translation": "می‌توانم دلیلش را بپرسم؟"
-    },
-    {
-      "order": 6,
-      "person": 1,
-      "text": "I have a family event in another city.",
-      "translation": "یک مراسم خانوادگی در شهر دیگری دارم."
-    },
-    {
-      "order": 7,
-      "person": 2,
-      "text": "I see. Who will cover your work?",
-      "translation": "که اینطور. چه کسی کارهایتان را انجام می‌دهد؟"
-    },
-    {
-      "order": 8,
-      "person": 1,
-      "text": "Maria said she can help.",
-      "translation": "ماریا گفت می‌تواند کمک کند."
-    },
-    {
-      "order": 9,
-      "person": 2,
-      "text": "Good. Please fill in this form.",
-      "translation": "خوب است. لطفاً این فرم را پر کنید."
-    },
-    {
-      "order": 10,
-      "person": 1,
-      "text": "Thank you. So you agree?",
-      "translation": "ممنون. پس موافقت می‌کنید؟"
-    },
-    {
-      "order": 11,
-      "person": 2,
-      "text": "Yes, I'll approve it. Enjoy your time.",
-      "translation": "بله، تأییدش می‌کنم. اوقات خوشی داشته باشید."
-    }
-  ]
+    "title": "10 - Asking for Time Off",
+    "description": "درخواست مرخصی از مدیر برای چند روز.",
+    "words": [
+        "off",
+        "request",
+        "days",
+        "cover",
+        "approve",
+        "reason"
+    ],
+    "estimatedDuration": 1,
+    "sentences": [
+        {
+            "order": 0,
+            "person": 1,
+            "text": "Excuse me, can I talk to you for a minute?",
+            "translation": "ببخشید، می‌توانم یک دقیقه با شما صحبت کنم؟"
+        },
+        {
+            "order": 1,
+            "person": 2,
+            "text": "Of course. What is it?",
+            "translation": "البته. چه شده؟"
+        },
+        {
+            "order": 2,
+            "person": 1,
+            "text": "I'd like to ask for some time off.",
+            "translation": "می‌خواهم درخواست مرخصی بدهم."
+        },
+        {
+            "order": 3,
+            "person": 2,
+            "text": "How many days do you need?",
+            "translation": "چند روز نیاز دارید؟"
+        },
+        {
+            "order": 4,
+            "person": 1,
+            "text": "Three days next week.",
+            "translation": "سه روز هفته آینده."
+        },
+        {
+            "order": 5,
+            "person": 2,
+            "text": "May I ask the reason?",
+            "translation": "می‌توانم دلیلش را بپرسم؟"
+        },
+        {
+            "order": 6,
+            "person": 1,
+            "text": "I have a family event in another city.",
+            "translation": "یک مراسم خانوادگی در شهر دیگری دارم."
+        },
+        {
+            "order": 7,
+            "person": 2,
+            "text": "I see. Who will cover your work?",
+            "translation": "که اینطور. چه کسی کارهایتان را انجام می‌دهد؟"
+        },
+        {
+            "order": 8,
+            "person": 1,
+            "text": "Maria said she can help.",
+            "translation": "ماریا گفت می‌تواند کمک کند."
+        },
+        {
+            "order": 9,
+            "person": 2,
+            "text": "Good. Please fill in this form.",
+            "translation": "خوب است. لطفاً این فرم را پر کنید."
+        },
+        {
+            "order": 10,
+            "person": 1,
+            "text": "Thank you. So you agree?",
+            "translation": "ممنون. پس موافقت می‌کنید؟"
+        },
+        {
+            "order": 11,
+            "person": 2,
+            "text": "Yes, I'll approve it. Enjoy your time.",
+            "translation": "بله، تأییدش می‌کنم. اوقات خوشی داشته باشید."
+        }
+    ]
 }
