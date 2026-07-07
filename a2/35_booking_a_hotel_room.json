@@ -1,87 +1,86 @@
 {
-    "title": "35 - Booking a Hotel Room",
-    "description": "رزرو تلفنی اتاق هتل و پرسیدن درباره امکانات.",
-    "words": [
-        "nights",
-        "double",
-        "view",
-        "parking",
-        "checkout",
-        "guest"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Good morning, Sunrise Hotel.",
-            "translation": "صبح بخیر، هتل سان‌رایز."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Hello. I'd like to book a room.",
-            "translation": "سلام. می‌خواهم یک اتاق رزرو کنم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "For how many nights?",
-            "translation": "برای چند شب؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Three nights, a double room please.",
-            "translation": "سه شب، یک اتاق دونفره لطفاً."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "We have one available with a sea view.",
-            "translation": "یک اتاق با منظره دریا داریم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Lovely. Does the price include breakfast?",
-            "translation": "دوست‌داشتنی است. قیمت شامل صبحانه می‌شود؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Yes, breakfast is included.",
-            "translation": "بله، صبحانه شامل می‌شود."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Is there free parking?",
-            "translation": "پارکینگ رایگان هست؟"
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Yes, parking is free for guests.",
-            "translation": "بله، پارکینگ برای مهمان‌ها رایگان است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Great. What time is checkout?",
-            "translation": "عالی. ساعت تخلیه اتاق کی است؟"
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Checkout is at eleven. Can I have your name?",
-            "translation": "تخلیه ساعت یازده است. می‌توانم نامتان را بپرسم؟"
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "It's Daniel Roberts. Thank you for confirming.",
-            "translation": "دنیل رابرتس. ممنون که تأیید کردید."
-        }
-    ]
+  "title": "35 - Booking a Hotel Room",
+  "description": "رزرو تلفنی اتاق هتل و پرسیدن درباره امکانات.",
+  "words": [
+    "nights",
+    "double",
+    "view",
+    "parking",
+    "checkout"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Good morning, Sunrise Hotel.",
+      "translation": "صبح بخیر، هتل سان‌رایز."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Hello. I'd like to book a room.",
+      "translation": "سلام. می‌خواهم یک اتاق رزرو کنم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "For how many nights?",
+      "translation": "برای چند شب؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Three nights, a double room please.",
+      "translation": "سه شب، یک اتاق دونفره لطفاً."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "We have one available with a sea view.",
+      "translation": "یک اتاق با منظره دریا داریم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Lovely. Does the price include breakfast?",
+      "translation": "دوست‌داشتنی است. قیمت شامل صبحانه می‌شود؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Yes, breakfast is included.",
+      "translation": "بله، صبحانه شامل می‌شود."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Is there free parking?",
+      "translation": "پارکینگ رایگان هست؟"
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Yes, parking is free for guests.",
+      "translation": "بله، پارکینگ برای مهمان‌ها رایگان است."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Great. What time is checkout?",
+      "translation": "عالی. ساعت تخلیه اتاق کی است؟"
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Checkout is at eleven. Can I have your name?",
+      "translation": "تخلیه ساعت یازده است. می‌توانم نامتان را بپرسم؟"
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "It's Daniel Roberts. Thank you for confirming.",
+      "translation": "دنیل رابرتس. ممنون که تأیید کردید."
+    }
+  ]
 }

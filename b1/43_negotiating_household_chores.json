@@ -1,92 +1,90 @@
 {
-    "title": "43 - Sharing Household Chores",
-    "description": "هم‌خانه‌ای‌ها درباره تقسیم عادلانه کارهای خانه مذاکره می‌کنند.",
-    "words": [
-        "fair",
-        "share",
-        "schedule",
-        "responsible",
-        "rota",
-        "tidy",
-        "complain",
-        "effort",
-        "remind",
-        "balance",
-        "cooperate"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Can we talk about the housework?",
-            "translation": "می‌توانیم درباره کارهای خانه صحبت کنیم؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Sure. Is something wrong?",
-            "translation": "حتماً. چیزی اشتباه است؟"
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "I feel I'm doing most of the chores.",
-            "translation": "احساس می‌کنم بیشتر کارها را من انجام می‌دهم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "I didn't realize. I'm sorry.",
-            "translation": "متوجه نشده بودم. متأسفم."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "I think we should share them fairly.",
-            "translation": "فکر می‌کنم باید عادلانه تقسیمشان کنیم."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "That's reasonable. What do you suggest?",
-            "translation": "منطقی است. چه پیشنهادی داری؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Maybe we make a weekly rota.",
-            "translation": "شاید یک جدول هفتگی بسازیم."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "Good idea. I'll take the cooking.",
-            "translation": "فکر خوبی است. من آشپزی را برمی‌دارم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "And I'll do the cleaning, then.",
-            "translation": "و پس من نظافت را انجام می‌دهم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "We can take turns with the rubbish.",
-            "translation": "می‌توانیم برای زباله نوبتی عمل کنیم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Perfect. That feels much fairer.",
-            "translation": "عالی. این خیلی عادلانه‌تر به نظر می‌رسد."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Agreed. Thanks for bringing it up.",
-            "translation": "موافقم. ممنون که مطرحش کردی."
-        }
-    ]
+  "title": "43 - Sharing Household Chores",
+  "description": "هم‌خانه‌ای‌ها درباره تقسیم عادلانه کارهای خانه مذاکره می‌کنند.",
+  "words": [
+    "fair",
+    "schedule",
+    "responsible",
+    "rota",
+    "complain",
+    "effort",
+    "remind",
+    "balance",
+    "cooperate"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Can we talk about the housework?",
+      "translation": "می‌توانیم درباره کارهای خانه صحبت کنیم؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Sure. Is something wrong?",
+      "translation": "حتماً. چیزی اشتباه است؟"
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "I feel I'm doing most of the chores.",
+      "translation": "احساس می‌کنم بیشتر کارها را من انجام می‌دهم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "I didn't realize. I'm sorry.",
+      "translation": "متوجه نشده بودم. متأسفم."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "I think we should share them fairly.",
+      "translation": "فکر می‌کنم باید عادلانه تقسیمشان کنیم."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "That's reasonable. What do you suggest?",
+      "translation": "منطقی است. چه پیشنهادی داری؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Maybe we make a weekly rota.",
+      "translation": "شاید یک جدول هفتگی بسازیم."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "Good idea. I'll take the cooking.",
+      "translation": "فکر خوبی است. من آشپزی را برمی‌دارم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "And I'll do the cleaning, then.",
+      "translation": "و پس من نظافت را انجام می‌دهم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "We can take turns with the rubbish.",
+      "translation": "می‌توانیم برای زباله نوبتی عمل کنیم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Perfect. That feels much fairer.",
+      "translation": "عالی. این خیلی عادلانه‌تر به نظر می‌رسد."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Agreed. Thanks for bringing it up.",
+      "translation": "موافقم. ممنون که مطرحش کردی."
+    }
+  ]
 }

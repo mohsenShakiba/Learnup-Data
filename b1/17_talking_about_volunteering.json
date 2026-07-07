@@ -1,95 +1,94 @@
 {
-    "title": "17 - Talking About Volunteering",
-    "description": "دو نفر درباره تجربه داوطلبی و کمک به جامعه گفتگو می‌کنند.",
-    "words": [
-        "volunteer",
-        "charity",
-        "community",
-        "spare",
-        "rewarding",
-        "shelter",
-        "donate",
-        "organize",
-        "cause",
-        "involved",
-        "difference",
-        "experience",
-        "grateful",
-        "encourage"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I heard you volunteer at the weekend.",
-            "translation": "شنیدم آخر هفته‌ها داوطلبانه کار می‌کنی."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Yes, I help at a homeless shelter.",
-            "translation": "بله، در یک پناهگاه بی‌خانمان‌ها کمک می‌کنم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "That's admirable. How did you get involved?",
-            "translation": "تحسین‌برانگیز است. چطور وارد آن شدی؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "A friend invited me a year ago.",
-            "translation": "یک سال پیش یک دوست دعوتم کرد."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "What exactly do you do there?",
-            "translation": "آنجا دقیقاً چه کار می‌کنی؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "We cook meals and organize donations.",
-            "translation": "غذا می‌پزیم و کمک‌های اهدایی را سامان می‌دهیم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Isn't it hard to find the time?",
-            "translation": "پیدا کردن وقتش سخت نیست؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "A little, but it's so rewarding.",
-            "translation": "کمی، اما خیلی رضایت‌بخش است."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "I'd like to do something for a good cause.",
-            "translation": "دوست دارم برای یک هدف خوب کاری انجام دهم."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "Even a few spare hours can make a difference.",
-            "translation": "حتی چند ساعت اضافه هم می‌تواند تغییری ایجاد کند."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "You've really encouraged me.",
-            "translation": "واقعاً مرا تشویق کردی."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Come with me next Saturday and try it.",
-            "translation": "شنبه آینده با من بیا و امتحانش کن."
-        }
-    ]
+  "title": "17 - Talking About Volunteering",
+  "description": "دو نفر درباره تجربه داوطلبی و کمک به جامعه گفتگو می‌کنند.",
+  "words": [
+    "volunteer",
+    "charity",
+    "community",
+    "spare",
+    "rewarding",
+    "shelter",
+    "donate",
+    "cause",
+    "involved",
+    "difference",
+    "experience",
+    "grateful",
+    "encourage"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "I heard you volunteer at the weekend.",
+      "translation": "شنیدم آخر هفته‌ها داوطلبانه کار می‌کنی."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Yes, I help at a homeless shelter.",
+      "translation": "بله، در یک پناهگاه بی‌خانمان‌ها کمک می‌کنم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "That's admirable. How did you get involved?",
+      "translation": "تحسین‌برانگیز است. چطور وارد آن شدی؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "A friend invited me a year ago.",
+      "translation": "یک سال پیش یک دوست دعوتم کرد."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "What exactly do you do there?",
+      "translation": "آنجا دقیقاً چه کار می‌کنی؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "We cook meals and organize donations.",
+      "translation": "غذا می‌پزیم و کمک‌های اهدایی را سامان می‌دهیم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Isn't it hard to find the time?",
+      "translation": "پیدا کردن وقتش سخت نیست؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "A little, but it's so rewarding.",
+      "translation": "کمی، اما خیلی رضایت‌بخش است."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "I'd like to do something for a good cause.",
+      "translation": "دوست دارم برای یک هدف خوب کاری انجام دهم."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "Even a few spare hours can make a difference.",
+      "translation": "حتی چند ساعت اضافه هم می‌تواند تغییری ایجاد کند."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "You've really encouraged me.",
+      "translation": "واقعاً مرا تشویق کردی."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Come with me next Saturday and try it.",
+      "translation": "شنبه آینده با من بیا و امتحانش کن."
+    }
+  ]
 }
