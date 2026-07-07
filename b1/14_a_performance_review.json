@@ -1,94 +1,92 @@
 {
-    "title": "14 - A Performance Review",
-    "description": "جلسه ارزیابی عملکرد کارمند با مدیر و دریافت بازخورد.",
-    "words": [
-        "performance",
-        "review",
-        "feedback",
-        "progress",
-        "improve",
-        "target",
-        "achieve",
-        "responsibility",
-        "goal",
-        "develop",
-        "honest",
-        "appreciate",
-        "support"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "Thanks for coming. Let's review your year.",
-            "translation": "ممنون که آمدی. بیا سال کاری‌ات را مرور کنیم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "Sure. I'm interested in your feedback.",
-            "translation": "حتماً. به بازخورد شما علاقه‌مندم."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "Overall, you've made great progress.",
-            "translation": "در کل، پیشرفت خوبی داشته‌ای."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Thank you. I've worked hard this year.",
-            "translation": "ممنون. امسال سخت کار کرده‌ام."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Your main strength is teamwork.",
-            "translation": "نقطه قوت اصلی‌ات کار تیمی است."
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Is there anything I should improve?",
-            "translation": "چیزی هست که باید بهترش کنم؟"
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "You could be more confident in meetings.",
-            "translation": "می‌توانی در جلسات بااعتمادبه‌نفس‌تر باشی."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "That's fair. I'll work on it.",
-            "translation": "منصفانه است. روی آن کار می‌کنم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "What are your goals for next year?",
-            "translation": "اهدافت برای سال آینده چیست؟"
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "I'd like to take on more responsibility.",
-            "translation": "دوست دارم مسئولیت بیشتری بپذیرم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "Great. We'll support you to develop.",
-            "translation": "عالی. از تو حمایت می‌کنیم تا پیشرفت کنی."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "I really appreciate the honest feedback.",
-            "translation": "واقعاً از بازخورد صادقانه‌تان قدردانی می‌کنم."
-        }
-    ]
+  "title": "14 - A Performance Review",
+  "description": "جلسه ارزیابی عملکرد کارمند با مدیر و دریافت بازخورد.",
+  "words": [
+    "performance",
+    "review",
+    "feedback",
+    "progress",
+    "target",
+    "achieve",
+    "responsibility",
+    "develop",
+    "honest",
+    "appreciate",
+    "support"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "Thanks for coming. Let's review your year.",
+      "translation": "ممنون که آمدی. بیا سال کاری‌ات را مرور کنیم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "Sure. I'm interested in your feedback.",
+      "translation": "حتماً. به بازخورد شما علاقه‌مندم."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "Overall, you've made great progress.",
+      "translation": "در کل، پیشرفت خوبی داشته‌ای."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Thank you. I've worked hard this year.",
+      "translation": "ممنون. امسال سخت کار کرده‌ام."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Your main strength is teamwork.",
+      "translation": "نقطه قوت اصلی‌ات کار تیمی است."
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Is there anything I should improve?",
+      "translation": "چیزی هست که باید بهترش کنم؟"
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "You could be more confident in meetings.",
+      "translation": "می‌توانی در جلسات بااعتمادبه‌نفس‌تر باشی."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "That's fair. I'll work on it.",
+      "translation": "منصفانه است. روی آن کار می‌کنم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "What are your goals for next year?",
+      "translation": "اهدافت برای سال آینده چیست؟"
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "I'd like to take on more responsibility.",
+      "translation": "دوست دارم مسئولیت بیشتری بپذیرم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "Great. We'll support you to develop.",
+      "translation": "عالی. از تو حمایت می‌کنیم تا پیشرفت کنی."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "I really appreciate the honest feedback.",
+      "translation": "واقعاً از بازخورد صادقانه‌تان قدردانی می‌کنم."
+    }
+  ]
 }

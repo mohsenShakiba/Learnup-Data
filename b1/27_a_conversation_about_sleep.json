@@ -1,92 +1,90 @@
 {
-    "title": "27 - A Conversation About Sleep",
-    "description": "دو همکار درباره مشکلات خواب و راه‌های بهبود آن صحبت می‌کنند.",
-    "words": [
-        "insomnia",
-        "exhausted",
-        "routine",
-        "screen",
-        "caffeine",
-        "quality",
-        "wake",
-        "stress",
-        "regular",
-        "improve",
-        "deep"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "You look tired. Didn't you sleep well?",
-            "translation": "خسته به نظر می‌رسی. خوب نخوابیدی؟"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "No, I've had insomnia all week.",
-            "translation": "نه، تمام هفته بی‌خوابی داشته‌ام."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "That sounds exhausting. What's keeping you up?",
-            "translation": "خسته‌کننده به نظر می‌رسد. چه چیزی بیدار نگهت می‌دارد؟"
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Stress, mostly. My mind won't switch off.",
-            "translation": "بیشتر استرس. ذهنم خاموش نمی‌شود."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "Do you use your phone before bed?",
-            "translation": "قبل از خواب از تلفنت استفاده می‌کنی؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Yes, I scroll for ages.",
-            "translation": "بله، مدت‌ها می‌چرخم."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "The screen light can really affect sleep.",
-            "translation": "نور صفحه واقعاً می‌تواند روی خواب اثر بگذارد."
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "I didn't realize it was that serious.",
-            "translation": "نمی‌دانستم این‌قدر جدی است."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "Try avoiding caffeine in the afternoon too.",
-            "translation": "سعی کن بعدازظهرها هم از کافئین پرهیز کنی."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "I should build a proper bedtime routine.",
-            "translation": "باید یک برنامه خواب درست بسازم."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "A regular routine improves sleep quality.",
-            "translation": "یک برنامه منظم کیفیت خواب را بهتر می‌کند."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "Thanks for the advice. I'll try tonight.",
-            "translation": "ممنون از توصیه. امشب امتحان می‌کنم."
-        }
-    ]
+  "title": "27 - A Conversation About Sleep",
+  "description": "دو همکار درباره مشکلات خواب و راه‌های بهبود آن صحبت می‌کنند.",
+  "words": [
+    "insomnia",
+    "exhausted",
+    "routine",
+    "caffeine",
+    "quality",
+    "wake",
+    "stress",
+    "regular",
+    "deep"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "You look tired. Didn't you sleep well?",
+      "translation": "خسته به نظر می‌رسی. خوب نخوابیدی؟"
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "No, I've had insomnia all week.",
+      "translation": "نه، تمام هفته بی‌خوابی داشته‌ام."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "That sounds exhausting. What's keeping you up?",
+      "translation": "خسته‌کننده به نظر می‌رسد. چه چیزی بیدار نگهت می‌دارد؟"
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Stress, mostly. My mind won't switch off.",
+      "translation": "بیشتر استرس. ذهنم خاموش نمی‌شود."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "Do you use your phone before bed?",
+      "translation": "قبل از خواب از تلفنت استفاده می‌کنی؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Yes, I scroll for ages.",
+      "translation": "بله، مدت‌ها می‌چرخم."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "The screen light can really affect sleep.",
+      "translation": "نور صفحه واقعاً می‌تواند روی خواب اثر بگذارد."
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "I didn't realize it was that serious.",
+      "translation": "نمی‌دانستم این‌قدر جدی است."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "Try avoiding caffeine in the afternoon too.",
+      "translation": "سعی کن بعدازظهرها هم از کافئین پرهیز کنی."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "I should build a proper bedtime routine.",
+      "translation": "باید یک برنامه خواب درست بسازم."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "A regular routine improves sleep quality.",
+      "translation": "یک برنامه منظم کیفیت خواب را بهتر می‌کند."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "Thanks for the advice. I'll try tonight.",
+      "translation": "ممنون از توصیه. امشب امتحان می‌کنم."
+    }
+  ]
 }

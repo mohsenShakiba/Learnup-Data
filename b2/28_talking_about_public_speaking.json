@@ -1,94 +1,93 @@
 {
-    "title": "28 - Talking About Public Speaking",
-    "description": "دو همکار درباره غلبه بر ترس از سخنرانی در جمع گفتگو می‌کنند.",
-    "words": [
-        "nervous",
-        "audience",
-        "rehearse",
-        "confident",
-        "gestures",
-        "pause",
-        "engage",
-        "overcome",
-        "preparation",
-        "anxiety",
-        "feedback",
-        "improve",
-        "presence"
-    ],
-    "estimatedDuration": 1,
-    "sentences": [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "I'm terrified of speaking in public.",
-            "translation": "از سخنرانی در جمع وحشت دارم."
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "You're not alone. Almost everyone is.",
-            "translation": "تنها نیستی. تقریباً همه همینطورند."
-        },
-        {
-            "order": 2,
-            "person": 1,
-            "text": "My hands shake and I forget my words.",
-            "translation": "دست‌هایم می‌لرزند و حرف‌هایم را فراموش می‌کنم."
-        },
-        {
-            "order": 3,
-            "person": 2,
-            "text": "Preparation really reduces that anxiety.",
-            "translation": "آماده‌سازی واقعاً آن اضطراب را کم می‌کند."
-        },
-        {
-            "order": 4,
-            "person": 1,
-            "text": "How much do you rehearse?",
-            "translation": "چقدر تمرین می‌کنی؟"
-        },
-        {
-            "order": 5,
-            "person": 2,
-            "text": "Several times, out loud.",
-            "translation": "چند بار، با صدای بلند."
-        },
-        {
-            "order": 6,
-            "person": 1,
-            "text": "Does that make you confident?",
-            "translation": "این بهت اعتمادبه‌نفس می‌دهد؟"
-        },
-        {
-            "order": 7,
-            "person": 2,
-            "text": "It does. I also focus on a few friendly faces.",
-            "translation": "بله. روی چند چهره دوستانه هم تمرکز می‌کنم."
-        },
-        {
-            "order": 8,
-            "person": 1,
-            "text": "That's a clever trick.",
-            "translation": "ترفند هوشمندانه‌ای است."
-        },
-        {
-            "order": 9,
-            "person": 2,
-            "text": "And remember to pause and breathe.",
-            "translation": "و یادت باشد مکث کنی و نفس بکشی."
-        },
-        {
-            "order": 10,
-            "person": 1,
-            "text": "I'll try that in my next presentation.",
-            "translation": "در ارائه بعدی‌ام امتحانش می‌کنم."
-        },
-        {
-            "order": 11,
-            "person": 2,
-            "text": "You'll improve with every talk, I promise.",
-            "translation": "با هر سخنرانی بهتر می‌شوی، قول می‌دهم."
-        }
-    ]
+  "title": "28 - Talking About Public Speaking",
+  "description": "دو همکار درباره غلبه بر ترس از سخنرانی در جمع گفتگو می‌کنند.",
+  "words": [
+    "nervous",
+    "audience",
+    "rehearse",
+    "confident",
+    "gestures",
+    "pause",
+    "engage",
+    "overcome",
+    "preparation",
+    "anxiety",
+    "feedback",
+    "presence"
+  ],
+  "estimatedDuration": 1,
+  "sentences": [
+    {
+      "order": 0,
+      "person": 1,
+      "text": "I'm terrified of speaking in public.",
+      "translation": "از سخنرانی در جمع وحشت دارم."
+    },
+    {
+      "order": 1,
+      "person": 2,
+      "text": "You're not alone. Almost everyone is.",
+      "translation": "تنها نیستی. تقریباً همه همینطورند."
+    },
+    {
+      "order": 2,
+      "person": 1,
+      "text": "My hands shake and I forget my words.",
+      "translation": "دست‌هایم می‌لرزند و حرف‌هایم را فراموش می‌کنم."
+    },
+    {
+      "order": 3,
+      "person": 2,
+      "text": "Preparation really reduces that anxiety.",
+      "translation": "آماده‌سازی واقعاً آن اضطراب را کم می‌کند."
+    },
+    {
+      "order": 4,
+      "person": 1,
+      "text": "How much do you rehearse?",
+      "translation": "چقدر تمرین می‌کنی؟"
+    },
+    {
+      "order": 5,
+      "person": 2,
+      "text": "Several times, out loud.",
+      "translation": "چند بار، با صدای بلند."
+    },
+    {
+      "order": 6,
+      "person": 1,
+      "text": "Does that make you confident?",
+      "translation": "این بهت اعتمادبه‌نفس می‌دهد؟"
+    },
+    {
+      "order": 7,
+      "person": 2,
+      "text": "It does. I also focus on a few friendly faces.",
+      "translation": "بله. روی چند چهره دوستانه هم تمرکز می‌کنم."
+    },
+    {
+      "order": 8,
+      "person": 1,
+      "text": "That's a clever trick.",
+      "translation": "ترفند هوشمندانه‌ای است."
+    },
+    {
+      "order": 9,
+      "person": 2,
+      "text": "And remember to pause and breathe.",
+      "translation": "و یادت باشد مکث کنی و نفس بکشی."
+    },
+    {
+      "order": 10,
+      "person": 1,
+      "text": "I'll try that in my next presentation.",
+      "translation": "در ارائه بعدی‌ام امتحانش می‌کنم."
+    },
+    {
+      "order": 11,
+      "person": 2,
+      "text": "You'll improve with every talk, I promise.",
+      "translation": "با هر سخنرانی بهتر می‌شوی، قول می‌دهم."
+    }
+  ]
 }
