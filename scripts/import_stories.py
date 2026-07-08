@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 import argparse
-import json
+import mimetypes
 import sys
+import uuid
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin
@@ -11,14 +12,16 @@ from urllib.request import Request, urlopen
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
-            "Import all JSON story files in a directory through the Learnup API. "
-            "Each file name must start with the lesson order, like 1_meeting_someone.json."
+            "Import all story .txt files in a directory through the Learnup API. "
+            "Each file name must start with the lesson order, like 1_meeting_someone.txt. "
+            "The file format is: line 1 title, line 2 comma separated words, "
+            "then one sentence per line."
         )
     )
     parser.add_argument(
         "directory",
         type=Path,
-        help="Directory containing story .json files.",
+        help="Directory containing story .txt files.",
     )
     parser.add_argument(
         "--course-id",
@@ -38,7 +41,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--recursive",
         action="store_true",
-        help="Read .json files recursively.",
+        help="Read .txt files recursively.",
     )
     return parser.parse_args()
 
@@ -59,24 +62,31 @@ def get_lesson_order(path: Path) -> int:
     return lesson_order
 
 
-def load_payload(path: Path) -> dict:
-    with path.open("r", encoding="utf-8-sig") as file:
-        data = json.load(file)
+def build_multipart(path: Path) -> tuple[bytes, str]:
+    boundary = uuid.uuid4().hex
+    content_type = mimetypes.guess_type(path.name)[0] or "text/plain"
+    file_bytes = path.read_bytes()
 
-    if not isinstance(data, dict):
-        raise ValueError("top-level JSON value must be an object")
+    lines = [
+        f"--{boundary}".encode("utf-8"),
+        (
+            f'Content-Disposition: form-data; name="File"; filename="{path.name}"'
+        ).encode("utf-8"),
+        f"Content-Type: {content_type}".encode("utf-8"),
+        b"",
+        file_bytes,
+        f"--{boundary}--".encode("utf-8"),
+        b"",
+    ]
 
-    story = data.get("story")
-    if isinstance(story, dict):
-        return story
-
-    return data
+    body = b"\r\n".join(lines)
+    return body, boundary
 
 
-def post_json(url: str, payload: dict, token: str | None) -> str:
-    body = json.dumps(payload).encode("utf-8")
+def post_file(url: str, path: Path, token: str | None) -> str:
+    body, boundary = build_multipart(path)
     headers = {
-        "Content-Type": "application/json",
+        "Content-Type": f"multipart/form-data; boundary={boundary}",
         "Accept": "application/json",
     }
 
@@ -97,11 +107,11 @@ def main() -> int:
         print(f"Directory not found: {directory}", file=sys.stderr)
         return 1
 
-    pattern = "**/*.json" if args.recursive else "*.json"
+    pattern = "**/*.txt" if args.recursive else "*.txt"
     files = sorted(directory.glob(pattern))
 
     if not files:
-        print(f"No JSON files found in {directory}", file=sys.stderr)
+        print(f"No txt files found in {directory}", file=sys.stderr)
         return 1
 
     failed = 0
@@ -113,15 +123,11 @@ def main() -> int:
                 args.base_url.rstrip("/") + "/",
                 f"Admin/Import/stories/{args.course_id}/{lesson_order}",
             )
-            payload = load_payload(path)
-            response = post_json(endpoint, payload, args.token)
+            response = post_file(endpoint, path, args.token)
             print(
                 f"OK     {path.name}: course id {args.course_id}, "
                 f"lesson order {lesson_order}, story id {response}"
             )
-        except json.JSONDecodeError as exception:
-            failed += 1
-            print(f"FAILED {path.name}: invalid JSON: {exception}", file=sys.stderr)
         except ValueError as exception:
             failed += 1
             print(f"FAILED {path.name}: {exception}", file=sys.stderr)
