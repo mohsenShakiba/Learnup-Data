@@ -1,14 +1,4 @@
 Word,Code,Order
-museum,A1,42
-beautiful,A1,42
-picture,A1,42
-photo,A1,42
-guide,A1,42
-frame,A1,42
-interesting,A1,43
-true,A1,43
-career,A1,43
-smart,A1,43
 useful,A1,43
 earn,A1,43
 teacher,A1,44
@@ -19,10 +9,8 @@ test,A1,44
 homework,A1,44
 exam,A1,44
 school,A1,44
-beautiful,A1,45
 nature,A1,45
 river,A1,45
-photo,A1,46
 teacher,A1,46
 tall,A1,46
 kind,A1,46
@@ -61,7 +49,6 @@ afraid,A1,52
 calm,A1,52
 share,A1,52
 comfort,A1,52
-picture,A1,53
 shape,A1,53
 edge,A1,53
 story,A1,54
@@ -90,7 +77,6 @@ track,A1,61
 dream,A1,62
 hide,A1,62
 deep,A1,62
-true,A1,63
 class,A1,63
 attention,A1,63
 respect,A1,63
@@ -104,7 +90,6 @@ charity,A1,64
 collect,A1,64
 volunteer,A1,64
 donate,A1,64
-museum,A2,5
 river,A2,6
 test,A2,7
 story,A2,8
@@ -116,13 +101,10 @@ afternoon,A2,11
 share,A2,14
 tidy,A2,14
 hide,A2,15
-interesting,A2,19
 introduce,A2,19
-career,A2,20
 hard,A2,20
 goal,A2,20
 dream,A2,20
-frame,A2,23
 glasses,A2,23
 eyes,A2,23
 office,A2,25
@@ -137,7 +119,6 @@ tall,A2,37
 polite,A2,37
 missed,A2,38
 collect,A2,38
-smart,A2,40
 useful,A2,40
 raise,B1,1
 calm,B1,3
@@ -148,7 +129,6 @@ charity,B1,17
 volunteer,B1,17
 donate,B1,17
 fair,B1,18
-guide,B1,26
 deep,B1,27
 spend,B1,28
 track,B1,28

@@ -1,5 +1,5 @@
 Classroom Rules
-rule, sentence, rude, fight, smoking, class, true, allowed, attention, respect, shout, permission, raise, eat, behave, strict, fair, absent, reward
+rule, sentence, rude, fight, smoking, class, allowed, attention, respect, shout, permission, raise, eat, behave, strict, fair, absent, reward
 Okay everyone, here are our class rules. Write each sentence down and pay attention, please. Don't be rude to each other, respect everyone, and no fighting or shouting.
 Is smoking allowed here?
 No, smoking's not allowed at all.
