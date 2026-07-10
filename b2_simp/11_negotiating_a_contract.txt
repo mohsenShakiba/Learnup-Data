@@ -1,5 +1,5 @@
 Negotiating a Contract
-contract, terms, clause, penalty, commitment, obligation, amend, mutual, guarantee, renew, finalize
+contract, terms, clause, penalty, commitment, obligation, amend, mutual, guarantee, finalize
 Thank you for sending over the draft contract.
 You're welcome. Do you have any concerns?
 A few. The delivery deadline seems tight.

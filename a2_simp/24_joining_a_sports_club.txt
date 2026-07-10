@@ -1,5 +1,5 @@
 Joining a Sports Club
-beginner, fee, equipment, match, fitness
+beginner, equipment, match, fitness
 Hi, I'd like to join the tennis club.
 Welcome! Have you played before?
 No, I'm a complete beginner.

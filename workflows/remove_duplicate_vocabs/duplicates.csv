@@ -1,14 +1,4 @@
 Word,Code,Order
-car,A1,27
-brake,A1,27
-fuel,A1,27
-find,A1,28
-fee,A1,28
-novel,A1,28
-author,A1,28
-study,A1,28
-renew,A1,28
-cover,A1,28
 chapter,A1,28
 different,A1,29
 reason,A1,29
@@ -156,7 +146,6 @@ missed,A1,57
 reach,A1,57
 clean,A1,58
 tidy,A1,58
-find,A1,59
 hard,A1,59
 expensive,A1,59
 market,A1,59
@@ -204,7 +193,6 @@ actor,A2,8
 scene,A2,8
 end,A2,8
 expensive,A2,9
-cover,A2,10
 reason,A2,10
 cancel,A2,11
 confirm,A2,11
@@ -224,7 +212,6 @@ host,A2,19
 enjoy,A2,19
 interesting,A2,19
 introduce,A2,19
-study,A2,20
 course,A2,20
 career,A2,20
 hard,A2,20
@@ -234,7 +221,6 @@ watch,A2,21
 frame,A2,23
 glasses,A2,23
 eyes,A2,23
-fee,A2,24
 wake,A2,25
 office,A2,25
 commute,A2,25
@@ -257,7 +243,6 @@ polite,A2,37
 counter,A2,38
 missed,A2,38
 collect,A2,38
-car,A2,40
 smart,A2,40
 useful,A2,40
 offer,B1,1
@@ -265,18 +250,14 @@ raise,B1,1
 news,B1,2
 calm,B1,3
 respect,B1,3
-fuel,B1,5
 policy,B1,5
 worried,B1,6
 message,B1,7
 notice,B1,8
 limit,B1,8
-brake,B1,9
 wrong,B1,12
 afraid,B1,12
 plastic,B1,13
-novel,B1,16
-author,B1,16
 chapter,B1,16
 charity,B1,17
 volunteer,B1,17
@@ -301,7 +282,6 @@ forecast,B2,1
 direct,B2,7
 audience,B2,9
 reach,B2,10
-renew,B2,11
 contract,B2,11
 edge,B2,13
 exchange,B2,17
