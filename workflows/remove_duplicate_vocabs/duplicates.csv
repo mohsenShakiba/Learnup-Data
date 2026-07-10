@@ -1,14 +1,4 @@
 Word,Code,Order
-pet,A1,25
-dog,A1,25
-cat,A1,25
-spare,A1,25
-meeting,A1,26
-deadline,A1,26
-client,A1,26
-presentation,A1,26
-colleague,A1,26
-overtime,A1,26
 car,A1,27
 brake,A1,27
 fuel,A1,27
@@ -112,7 +102,6 @@ kind,A1,46
 glasses,A1,46
 eyes,A1,46
 polite,A1,46
-meeting,A1,47
 birthday,A1,48
 December,A1,48
 February,A1,48
@@ -201,7 +190,6 @@ collect,A1,64
 volunteer,A1,64
 donate,A1,64
 holiday,A2,2
-colleague,A2,3
 desk,A2,3
 refund,A2,4
 broken,A2,4
@@ -250,7 +238,6 @@ fee,A2,24
 wake,A2,25
 office,A2,25
 commute,A2,25
-dog,A2,27
 eat,A2,27
 date,A2,28
 download,A2,28
@@ -264,8 +251,6 @@ teacher,A2,34
 homework,A2,34
 attention,A2,34
 double,A2,35
-pet,A2,36
-cat,A2,36
 smile,A2,37
 tall,A2,37
 polite,A2,37
@@ -287,15 +272,12 @@ message,B1,7
 notice,B1,8
 limit,B1,8
 brake,B1,9
-deadline,B1,10
-overtime,B1,10
 wrong,B1,12
 afraid,B1,12
 plastic,B1,13
 novel,B1,16
 author,B1,16
 chapter,B1,16
-spare,B1,17
 charity,B1,17
 volunteer,B1,17
 donate,B1,17
@@ -317,7 +299,6 @@ income,B1,41
 switch,B1,45
 forecast,B2,1
 direct,B2,7
-presentation,B2,9
 audience,B2,9
 reach,B2,10
 renew,B2,11
@@ -325,7 +306,6 @@ contract,B2,11
 edge,B2,13
 exchange,B2,17
 contact,B2,17
-client,B2,23
 data,B2,24
 permission,B2,24
 market,B2,25
