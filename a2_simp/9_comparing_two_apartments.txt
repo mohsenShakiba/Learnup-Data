@@ -1,14 +1,20 @@
 Comparing Two Apartments
-cheaper, closer, noisy, bright
+cheaper, closer, noisy, bright, apartments, nicer, noisier, quieter, spacious, furnished, tenant, ceiling, storage, wardrobe, heating, basement, rooftop, utilities, cosy, draughty
 We saw two apartments today. Which do you prefer?
-The first one is bigger.
-Yes, but it's more expensive.
-The second one is cheaper and brighter.
-True. The kitchen is also nicer.
-But the street is noisier.
-The first apartment is quieter.
-And it's closer to my office.
-That's important. But the rent is high.
-The second one has a better view too.
-It's hard to decide.
-Let's choose the cheaper one. It's better for us.
+The first one is more spacious.
+Yes, but it's expensive. The second is cheaper.
+The second one is bright and cosy.
+True, but the street is noisy.
+The first one is quieter, and closer to my office.
+Does either come furnished?
+The first has a wardrobe and lots of storage.
+What about heating?
+The second has better heating, but a low ceiling.
+Is there a basement?
+No, but there's a nice rooftop terrace.
+Are the utilities included?
+In the first one, yes. That's nicer for a tenant.
+But the second is on a noisier street.
+Hmm, the first is a bit draughty though.
+It's hard to choose.
+Let's take the cheaper one. It's better for us.

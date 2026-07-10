@@ -1,14 +1,19 @@
 A Doctor's Follow-up
-finished, result, advice, checkup
+finished, result, advice, checkup, recovery, antibiotics, dosage, tablets, sample, results, relief, normal, symptoms, swelling, painful, inflammation, bruise, prescribe, ointment, slowly
 Hello again. How are you feeling now?
-Much better, thank you.
-Did you finish all the medicine?
-Yes, but I still have a small cough.
-That's normal. Your test results are good.
-That's a relief.
-You are healthy now. Just get more rest.
-Can I exercise again?
-Yes, but start slowly.
-Thank you for the advice.
-Come back for a checkup in one month.
-I will. See you soon, doctor.
+Much better, thank you. My recovery is going well.
+Did you finish all the antibiotics?
+Yes, I finished the whole dosage of tablets.
+Good. The result of your blood test is back.
+And the sample I gave last week?
+All your results look normal. That's a relief.
+Do you still have any symptoms?
+A little swelling, and my arm feels painful.
+Is there any inflammation?
+A small bruise, but nothing serious.
+Okay. I'll prescribe an ointment for it.
+Should I use it every day?
+Yes, but rub it in slowly.
+When is my next checkup?
+Come back in one month. Follow my advice and rest.
+Thank you, doctor.

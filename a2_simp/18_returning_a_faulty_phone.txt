@@ -1,14 +1,20 @@
 Returning a Faulty Phone
-battery, repair, charge
+battery, repair, charge, cracked, touchscreen, technician, unresponsive, overheating, flickering, waterproof, handset, glitch, reboot, casing, sluggish, scratched, lagging, buttons, earpiece, vibrate
 Hi, there's a problem with my phone.
 What seems to be the problem?
-The battery doesn't charge, and it's very slow.
+The battery won't charge, and it's very sluggish.
+Is the screen okay?
+The touchscreen is cracked and keeps flickering.
+Anything else?
+It's lagging, and the apps are unresponsive.
+Does it get hot?
+Yes, it keeps overheating. The buttons stick too.
 When did you buy it?
-Two months ago. It's still under warranty.
-Let me check it.
-The screen has a problem too.
-I see. We can repair it for free.
-How long will the repair take?
-About one week.
-Can you replace it instead?
-If we can't fix it, we'll replace it.
+Two months ago, still under warranty.
+Let me reboot the handset.
+There's a glitch, and the casing is scratched.
+Can a technician look at it?
+Yes. He'll check the earpiece as well.
+Will it still vibrate and repair fully?
+If not, we'll replace it. Is the new one waterproof?
+It should be. Water got inside this one.

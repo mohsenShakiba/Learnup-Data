@@ -1,14 +1,20 @@
 Asking for a Recommendation
-restaurant, worth, definitely
+restaurant, worth, definitely, center, place, varied, atmosphere, speciality, portions, ambience, buffet, takeaway, flavour, dining, courses, appetiser, bistro, mains, gourmet, homemade
 Can you recommend a good restaurant?
 Sure. What kind of food do you like?
-Something Italian, near the center.
-There's a great place called Roma.
+Something in the town center.
+There's a lovely bistro called Roma.
 Is it expensive?
-Not really, and the food is delicious.
-Do they have vegetarian options?
-Yes, their menu is quite varied.
-Is the service good?
-Very friendly. It's quite popular, though.
+No, the portions are big and the flavour is great.
+Do they cook fresh food?
+Yes, everything is homemade and quite gourmet.
+Do they have vegetarian dishes?
+Their menu is varied, with a nice speciality.
+What about the atmosphere?
+The ambience is warm. It's a calm place for dining.
+Do they do takeaway?
+Yes, or a buffet on Sundays.
+How many courses?
+Three, with a tasty appetiser to start.
 Then I should book a table.
-Definitely. It's worth a try.
+Definitely. It's worth a try for the mains alone.

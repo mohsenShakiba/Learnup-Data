@@ -1,14 +1,20 @@
 Talking About Pets
-feed, playful, fur, responsibility, rescue, company, adopt, love
+feed, playful, fur, responsibility, rescue, company, adopt, love, kitten, hamster, goldfish, cage, litter, obedient, affectionate, feeding, cuddle, purr, wag, fetch
 Do you have any pets?
-Yes, I have a cat and a dog.
+Yes, a cat, a dog, and a hamster.
 That's lovely. Are they playful?
-The dog is, but the cat is quiet.
-Do you walk the dog every day?
-Yes, twice a day. It's a big responsibility.
+The dog loves to fetch, but the cat likes to purr.
+Do you feed them yourself?
+Yes, feeding them is a big responsibility.
+Is the cat affectionate?
+Very. She cuddles me and I stroke her fur.
+Do you clean up after them?
+I change the litter and the cage every day.
+Are they well trained?
+The dog is obedient. He learns to wag on command.
+Any other animals?
+A goldfish and a kitten, full of love.
 Where did you get them?
-I adopted them from a rescue center.
-That's wonderful. They must be happy.
-They are. They give me great company.
-Maybe I should adopt a pet too.
-You should! They bring so much love.
+From a rescue center. They give me company.
+Should I get one?
+Yes, adopt one! Pets bring joy.

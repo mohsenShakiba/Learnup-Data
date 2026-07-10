@@ -1,14 +1,18 @@
 Making a Complaint
-complaint, bought, replace, fault, warranty, solve
-Hello, I have a problem with this radio.
-I'm sorry to hear that. What's wrong?
-I bought it yesterday, but it doesn't work.
-Do you have the receipt?
+complaint, radio, fault, bought, defective, purchase, model, charger, overheat, malfunction, appliance, scratch, faded, dissatisfied, replace, replacement, reimburse, voucher, manufacturer, courier, warranty, solve
+Hello, I'd like to make a complaint about this radio.
+I'm sorry. What is the fault?
+I bought it last week, but it's defective.
+Can I see your receipt of purchase?
 Yes, here it is.
-Thank you. This was our fault.
-Can I get a refund?
-Of course. Or we can replace it for free.
-I'd prefer a new one, please.
-No problem. It's still under warranty.
-How long do I have to wait?
-Just a moment. I'll solve this right now.
+Thank you. This model has a fault sometimes.
+It gets hot. The charger seems to overheat.
+That sounds like a malfunction of the appliance.
+The case has a scratch and the colour has faded.
+I understand you're dissatisfied. We can replace it.
+I'd like a replacement or my money back.
+Of course. We can reimburse you or offer a voucher.
+Why did it break?
+The manufacturer sent a bad batch. A courier will bring a new one.
+Is it under warranty?
+Yes. I'll solve this for you today.

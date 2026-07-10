@@ -1,14 +1,18 @@
 Shopping for a Gift
-suggest, perfume, wrap, perfect
+suggest, perfume, wrap, perfect, giftcard, bracelet, jewellery, boutique, fragrance, elegant, wrapping, thoughtful, necklace, earrings, chocolates, keepsake, stylish, unwrap, giftbox, recipient
 Hi, I'm looking for a gift for my sister.
 Sure! Is it for a special occasion?
-Yes, it's her birthday.
-Can I suggest a scarf or some perfume?
-A scarf is a nice idea.
-This blue one is very popular.
-It's beautiful. What's the price?
-It's thirty dollars.
-Perfect. I'll take it.
-Would you like me to wrap it?
-Yes, please. That would be great.
-Here you are. I'm sure she'll love it.
+Yes, it's her birthday. Any thoughtful ideas?
+Can I suggest some jewellery from our boutique?
+Maybe a necklace or a bracelet?
+The earrings are elegant and very stylish.
+They're beautiful. What about perfume?
+This fragrance is popular. It's a lovely keepsake.
+It's perfect. She'll love it.
+Would you like chocolates too?
+Yes, and please add a giftcard.
+Shall I put it in a giftbox?
+Yes, with nice wrapping paper.
+Of course. I'll wrap it now.
+Who is the recipient again?
+My sister. She'll unwrap it on her birthday.

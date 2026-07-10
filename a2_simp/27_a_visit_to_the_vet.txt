@@ -1,14 +1,20 @@
 A Visit to the Vet
-vet, appetite, vaccine
+vet, appetite, vaccine, infection, puppy, paw, claws, vaccination, dehydrated, kennel, collar, leash, breed, fluffy, unwell, microchip, bark, tail, whiskers, limping
 Hello, what's wrong with your dog?
-He hasn't eaten since yesterday.
-Is he more tired than usual?
-Yes, he sleeps all day.
-Let me check his temperature.
+He hasn't eaten and seems unwell.
+Is he limping at all?
+Yes, and he keeps licking his paw.
+Let me check his claws and his tail.
 Is it serious?
-No, it's a small infection.
+It's a small infection, and he's a little dehydrated.
 What should I do?
-Give him this medicine twice a day.
-When will his appetite come back?
-In a few days. He'll be healthy soon.
-Thank you, doctor. That's a relief.
+Give him this medicine and keep his appetite up.
+Does he need a vaccine?
+Yes, a booster vaccination today.
+Is his microchip working?
+Yes. What breed of puppy is he?
+A fluffy one. He sleeps in his kennel.
+Does he wear a collar and leash?
+Yes, on every walk. He loves to bark.
+Thank you. You're a great vet.
+Bring him back if his whiskers or nose stay dry.

@@ -1,14 +1,20 @@
 Talking About the Seasons
-leaves, prefer
+leaves, prefer, shorter, sunshine, frost, blossom, harvest, chilly, humid, mild, springtime, wintry, drizzle, sleet, seasonal, daylight, overcast, breezy, crisp, scorching
 Which season do you like best?
-I prefer summer. I love warm weather.
-Really? I find summer too hot.
-What's your favorite, then?
-Autumn. The leaves are so beautiful.
-That's true. But the days get shorter.
-I don't mind. I like cool weather.
-Do you like winter and snow?
-Sometimes, but it's often too cold.
-In spring, I love working in the garden.
-Spring is nice too. Everything is fresh.
-Each season has something special.
+I prefer summer and its warm sunshine.
+Really? I find summer too scorching.
+What's your favourite, then?
+Autumn. The leaves and the harvest are lovely.
+True, but the days grow shorter.
+I don't mind the crisp, breezy air.
+Do you like winter?
+It's often wintry and chilly, with frost and sleet.
+And spring?
+In springtime the blossom is beautiful.
+What about the rain?
+A light drizzle is fine, but I hate a grey, overcast sky.
+Is the weather mild where you live?
+Yes, quite mild and humid in summer.
+Do you enjoy the long daylight?
+Yes, these seasonal changes are special.
+Each season has its own charm.

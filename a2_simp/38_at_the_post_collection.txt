@@ -1,14 +1,19 @@
 Collecting a Parcel
-delivery, identity
+delivery, identity, tracking, postage, signature, dispatch, doorstep, redelivery, depot, addressee, proof, warehouse, collection, postcode, bulky, consignment, slip, counterfoil, undelivered, packaging
 Hi, I'm here to collect a parcel.
-Do you have the delivery card?
-Yes, here it is. I missed the delivery.
-No problem. May I see some identity?
-Of course. Here's my ID card.
-Thank you. Let me check the shelf.
-Is it a big box?
-Medium size. Here it is.
-Great. Do I need to sign?
-Yes, please sign at the counter.
-Done. Thank you for your help.
-You're welcome. Have a good day.
+Do you have the delivery slip?
+Yes, the courier left an undelivered card at my doorstep.
+No problem. May I see some proof of identity?
+Of course. Here's my ID and postcode.
+Thank you. Let me find your consignment.
+Do you have a tracking number?
+Yes, from the dispatch email.
+It's here in the warehouse depot.
+Is it bulky?
+A little. The packaging is thick cardboard.
+Was the postage paid?
+Yes. Please add your signature.
+Where do I sign?
+On this counterfoil, and I'll book a redelivery if needed.
+Am I the right addressee?
+Yes. Collection is complete. Thank you!

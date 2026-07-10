@@ -1,14 +1,20 @@
 A Parent and Teacher Talk
-progress, behavior, subject, reading, effort, encourage
+progress, behavior, subject, reading, effort, encourage, maths, grades, marks, concentrate, participate, distracted, tutor, spelling, handwriting, praise, motivate, attentive, revision, classmates
 Thank you for meeting me about my son.
 Of course. He's making good progress.
 I'm glad. How is his reading?
-It's improving. He works hard.
-Does he do his homework on time?
-Usually, yes. His effort is great.
-Is there a subject he finds difficult?
-Maths is a bit hard for him.
-How can I support him at home?
-Practice with him a little each day.
-I will. Thank you for your help.
+It's improving, and his spelling is better.
+Does his behavior in class worry you?
+No, he's attentive and works with his classmates.
+Does he participate in lessons?
+Yes, though maths can make him distracted.
+How are his grades?
+His marks and effort in that subject are good.
+Does he concentrate on homework?
+Usually. I praise him to motivate him.
+Should he get a tutor?
+Maybe, for extra revision.
+How can I help at home?
+Encourage his handwriting a little each day.
+I will. Thank you.
 You should be proud of him.

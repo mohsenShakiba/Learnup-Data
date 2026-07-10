@@ -1,14 +1,19 @@
 At the Optician
-blurry, lens, suit
+blurry, lens, suit, headaches, frames, eyesight, optician, shortsighted, longsighted, blurred, magnify, tint, examine, pupil, spectacles, astigmatism, strain, lightweight, nearsighted, squint
 Good afternoon. How can I help you?
-I think I need new glasses.
+I think I need new glasses. My eyesight is poor.
 What's the problem exactly?
-Everything looks blurry from a distance.
+Everything looks blurry and blurred from a distance.
+So you may be shortsighted?
+Or nearsighted. I squint to see far away.
 Do you get headaches when you read?
-Yes, sometimes.
-Let's do an eye test first.
-Okay. Can you read the prescription after?
-Of course. Now try these frames.
-I like this one. Does it suit me?
-It looks great on you.
-Perfect. When will the glasses be ready?
+Yes, and a lot of eye strain.
+Let the optician examine you first.
+Okay. Can you check my pupil too?
+Of course. You have mild astigmatism.
+Will I be longsighted when I'm older?
+Perhaps. These lightweight spectacles and frames will suit you.
+Can the lens magnify small print?
+Yes, and we can add a tint.
+Great. Does this pair suit me?
+It looks lovely on you.

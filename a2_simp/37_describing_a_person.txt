@@ -1,14 +1,20 @@
 Describing a Person
-wearing, recognize
+wearing, recognize, appearance, moustache, bald, slim, freckles, wrinkles, ponytail, fringe, complexion, stocky, scruffy, resemble, dimples, chubby, tanned, muscular, eyebrows, sideburns
 Do you remember my friend Mark?
-I'm not sure. Can you describe him?
-He's tall with short dark hair.
-Does he wear glasses?
-Yes, and he has a short beard.
-What is he like?
-He's very friendly and polite.
-Is he the one who is a bit shy?
-Yes, but he has a big smile.
+I'm not sure. Can you describe his appearance?
+He's tall and slim, not chubby at all.
+Does he have much hair?
+No, he's nearly bald, with thick eyebrows.
+Any beard?
+A small moustache and short sideburns.
+What about his face?
+He has freckles, dimples, and high cheekbones.
+Hmm, does he resemble anyone?
+A bit. He has a tanned complexion.
+Is he the muscular type?
+Yes, quite stocky and strong.
+What was he wearing last time?
+A scruffy coat, with his hair in a fringe.
 Now I remember him!
-He'll be at the party tonight.
-Great. I'll recognize him now.
+The one with a few wrinkles and a ponytail?
+That's him. You'll recognize him tonight.

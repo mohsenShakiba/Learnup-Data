@@ -1,14 +1,20 @@
 Giving Directions to a Tourist
-lights
-Excuse me, I think I'm lost.
-Where do you want to go?
-I'm looking for the city museum.
-It's not far. Go straight down this street.
+lights, directions, cathedral, ahead, towards, crossroads, pedestrian, pavement, landmark, fountain, between, further, roughly, underpass, junction, footbridge, signpost, kiosk, beside, distant, alley, opposite
+Excuse me, I think I'm lost. Can you give me directions?
+Sure. Where do you want to go?
+I'm looking for the city cathedral.
+It's not far. Walk straight ahead towards the river.
 Okay, straight ahead.
-Then turn left at the traffic lights.
+At the crossroads, turn left at the traffic lights.
 Left at the lights. And then?
-Cross the road and turn right at the corner.
-Is it near there?
-Yes, the museum is on your left.
-How long does it take to walk?
-About five minutes. You can't miss it.
+Cross at the pedestrian crossing and stay on the pavement.
+Is there a landmark I can follow?
+Yes, there's a big fountain between two shops.
+How much further is it?
+Roughly five minutes. Go under the underpass.
+The underpass near the junction?
+That's right. Then take the footbridge over the road.
+Anything else?
+There's a signpost by the kiosk, opposite the bank. The cathedral is just beside it.
+Is it a distant walk?
+No, the alley on your left leads straight to it.

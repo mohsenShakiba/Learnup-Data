@@ -1,14 +1,19 @@
 At the Lost and Found
-found, describe, inside, keys, lucky
-Hi, I think I lost my bag here yesterday.
+found, describe, inside, keys, lucky, misplaced, handbag, purse, valuables, contents, identify, mislaid, retrieve, cloakroom, zipped, strap, buckle, lining, possessions, briefcase
+Hi, I think I misplaced my handbag here yesterday.
 I'm sorry to hear that. Can you describe it?
-It's a small black bag.
-What was inside it?
-My wallet, some keys, and a book.
-Where did you leave it?
-I think near the main entrance.
-Let me check. We found a black bag this morning.
-Really? That might be mine!
-Is this it?
-Yes! Thank you so much. I'm so lucky.
-You're welcome. Please fill in this form.
+It's a small black bag with a leather strap.
+Can you identify what was inside?
+My purse, some keys, and other valuables.
+Anything to help us retrieve it?
+It has a broken buckle and a torn lining.
+So you mislaid it near the entrance?
+Yes, by the cloakroom.
+Let me check our lost possessions.
+Was it zipped up?
+Yes, and it had a briefcase feel to it.
+We found a black bag this morning.
+Please list the contents to confirm.
+A wallet, keys, and a small notebook.
+That matches. You're very lucky.
+Thank you! I'm so glad you found it.

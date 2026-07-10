@@ -1,14 +1,20 @@
 Buying Tickets Online
-online, website, concert
+online, website, concert, payment, browser, username, digital, transaction, invoice, webpage, refresh, loading, seating, stalls, sold, promo, confirmation, eticket, reload, dropdown
 Can you help me buy concert tickets online?
-Sure. Open the website first.
+Sure. Open the website in your browser.
+The webpage is still loading.
+Try to refresh or reload it.
 Okay. Which date should I choose?
-Saturday is still available.
-How much are the seats?
-The good ones are fifty dollars.
+Use the dropdown menu to pick Saturday.
+How much is the seating?
+The stalls are fifty dollars, if not sold out.
 Do I need an account?
-Yes, enter your email and a password.
-Done. Now how do I pay?
-Add your card and click confirm.
-It says the payment was successful!
-Great. Check your email and download the tickets.
+Yes, enter a username and password.
+Is there a promo code?
+Yes, it gives a small digital discount.
+Now how do I pay?
+Add your card to complete the payment.
+It says the transaction was successful!
+Great. We'll email your invoice and confirmation.
+Do I get a paper ticket?
+No, just an eticket to download.

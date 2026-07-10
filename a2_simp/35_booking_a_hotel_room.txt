@@ -1,14 +1,19 @@
 Booking a Hotel Room
-nights, parking
+nights, parking, suite, ensuite, concierge, amenities, minibar, upgrade, twin, keycard, checkin, doorman, housekeeping, bellboy, porter, seaview, refundable, towels, complimentary, overnight
 Good morning, Sunrise Hotel.
-Hello. I'd like to book a room.
-For how many nights?
-Three nights, a double room please.
-We have one available with a sea view.
-Lovely. Does the price include breakfast?
-Yes, breakfast is included.
+Hello. I'd like to book a room for three nights.
+A double or a twin room?
+A twin suite, please, for an overnight stay.
+We have one with an ensuite and a seaview.
+Lovely. Are breakfast and wifi complimentary?
+Yes, and housekeeping brings fresh towels daily.
+What amenities are in the room?
+A minibar, and the porter will carry your bags.
 Is there free parking?
-Yes, parking is free for guests.
-Great. What time is checkout?
-Checkout is at eleven. Can I have your name?
-It's Daniel Roberts. Thank you for confirming.
+Yes, parking is free, and a doorman at the entrance.
+Can I get an upgrade?
+Maybe. The concierge will help you.
+Is the booking refundable?
+Yes, and the bellboy can store your luggage.
+Great. How do I get in?
+Collect your keycard at checkin.

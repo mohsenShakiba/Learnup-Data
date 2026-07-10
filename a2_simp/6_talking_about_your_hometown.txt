@@ -1,14 +1,19 @@
 Talking About Your Hometown
-hometown, grew, changed, bigger, factory, memories, moved, still
+hometown, grew, changed, bigger, factory, memories, moved, still, village, population, neighbourhood, childhood, outskirts, industrial, harbour, castle, riverside, surroundings, lively, traditional, residents, cottages
 Where did you grow up?
-I grew up in a small town by a river.
-That sounds peaceful. Was it quiet?
-Yes, very quiet. But it has changed a lot.
-How is it different now?
-It's much bigger, and there is a new factory.
-Do you still have family there?
-Yes, my parents still live there.
-Do you visit often?
-A few times a year. I miss it sometimes.
-I'm sure you have good memories there.
-I do. It will always be my home.
+I grew up in a small village by a harbour.
+Is it your hometown?
+Yes. I have happy childhood memories there.
+Has it changed much?
+A lot. The population is much bigger now.
+How is the neighbourhood today?
+It's lively, with new shops on the outskirts.
+Did the old industrial area change too?
+Yes, the factory closed, but the riverside is beautiful.
+There's also an old castle above the town.
+Do people still live in the old cottages?
+Some residents do. It still feels traditional.
+Why did you leave?
+My family moved for work, but I love the surroundings.
+Would you go back?
+Maybe one day. It will always be my home.

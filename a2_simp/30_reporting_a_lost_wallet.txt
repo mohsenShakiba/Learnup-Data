@@ -1,14 +1,21 @@
 Reporting a Lost Wallet
-police, stolen, happened, cards, leather, officer, details
-Hello, I'd like to report a lost wallet.
+police, stolen, happened, cards, leather, officer, details, theft, robbery, pickpocket, victim, description, suspect, crime, incident, missing, identification, fraud, blocked, emergency
+Hello, officer. I'd like to report a missing wallet.
 I see. When did it happen?
-About an hour ago, on the bus.
-Can you describe the wallet?
+It happened about an hour ago, on the bus.
+So it may be theft?
+Maybe a pickpocket. It could be a robbery.
+Can you give a description?
 It's brown leather, quite small.
 What was inside?
 Some cash and two bank cards.
-You should cancel the cards quickly.
-Good idea. I'll call the bank now.
-Please write your phone number here.
-Will you contact me if you find it?
-Of course. We'll let you know.
+You should get the cards blocked to stop fraud.
+Good idea. I've cancelled them already.
+Do the police need more details?
+Yes, please describe the suspect.
+I didn't see who had stolen it.
+This is a common crime. I'll log the incident.
+Am I the only victim?
+No. We take every theft seriously.
+Do you need my identification?
+Yes, for the report. It's a police emergency line.

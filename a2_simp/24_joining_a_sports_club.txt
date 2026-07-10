@@ -1,14 +1,22 @@
 Joining a Sports Club
-beginner, equipment, match, fitness
+beginner, equipment, match, fitness, tennis, membership, racket, session, tournament, warmup, opponent, court, athletic, instructor, sporty, fixture, teammates, referee, league, trainers
 Hi, I'd like to join the tennis club.
 Welcome! Have you played before?
 No, I'm a complete beginner.
-No problem. We have a coach for beginners.
-Great. When is the training?
-Twice a week, on Monday and Thursday.
-How much is the membership fee?
-Forty dollars a month.
+No problem. Our instructor coaches beginners.
+Great. When is the training session?
+Twice a week. We warmup first, then practise.
+How much is the membership?
+Forty dollars a month, trainers not included.
 Do I need my own equipment?
 We can lend you a racket at first.
-Perfect. I really want to improve my fitness.
-You'll love it. See you on Monday!
+When is my first match?
+There's a friendly fixture next Sunday.
+Will I have teammates?
+Yes, teammates beside you and an opponent across the net.
+Who controls the match?
+A referee for every game.
+Is there a league?
+Yes, and a summer tournament on our best court.
+I want to feel athletic and fit.
+You'll improve your fitness. See you soon, future sporty star!
