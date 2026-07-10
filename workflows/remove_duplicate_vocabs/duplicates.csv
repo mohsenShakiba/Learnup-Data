@@ -1,14 +1,4 @@
 Word,Code,Order
-schedule,A1,21
-fare,A1,21
-journey,A1,21
-route,A1,21
-fast,A1,22
-country,A1,22
-weigh,A1,22
-parcel,A1,22
-wash,A1,24
-beard,A1,24
 pet,A1,25
 dog,A1,25
 cat,A1,25
@@ -175,7 +165,6 @@ forecast,A1,55
 office,A1,57
 missed,A1,57
 reach,A1,57
-wash,A1,58
 clean,A1,58
 tidy,A1,58
 find,A1,59
@@ -186,10 +175,8 @@ invest,A1,59
 spend,A1,59
 goal,A1,59
 income,A1,59
-country,A1,60
 kind,A1,60
 introduce,A1,60
-fast,A1,61
 commute,A1,61
 crowded,A1,61
 track,A1,61
@@ -214,7 +201,6 @@ collect,A1,64
 volunteer,A1,64
 donate,A1,64
 holiday,A2,2
-schedule,A2,3
 colleague,A2,3
 desk,A2,3
 refund,A2,4
@@ -280,11 +266,9 @@ attention,A2,34
 double,A2,35
 pet,A2,36
 cat,A2,36
-beard,A2,37
 smile,A2,37
 tall,A2,37
 polite,A2,37
-parcel,A2,38
 counter,A2,38
 missed,A2,38
 collect,A2,38
@@ -317,8 +301,6 @@ volunteer,B1,17
 donate,B1,17
 fair,B1,18
 practice,B1,24
-weigh,B1,25
-journey,B1,26
 guide,B1,26
 deep,B1,27
 discount,B1,28
@@ -328,8 +310,6 @@ nature,B1,29
 crowded,B1,29
 lesson,B1,30
 example,B1,30
-fare,B1,31
-route,B1,31
 invest,B1,31
 reward,B1,33
 monthly,B1,38
