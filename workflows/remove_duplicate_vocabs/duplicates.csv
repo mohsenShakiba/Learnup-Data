@@ -1,14 +1,4 @@
 Word,Code,Order
-play,A1,30
-cook,A1,30
-draw,A1,30
-practice,A1,30
-sing,A1,30
-swim,A1,30
-local,A1,31
-direct,A1,31
-date,A1,32
-occasion,A1,32
 course,A1,32
 vegetarian,A1,32
 host,A1,32
@@ -116,11 +106,9 @@ afraid,A1,52
 calm,A1,52
 share,A1,52
 comfort,A1,52
-draw,A1,53
 picture,A1,53
 shape,A1,53
 edge,A1,53
-play,A1,54
 show,A1,54
 story,A1,54
 actor,A1,54
@@ -159,7 +147,6 @@ raise,A1,63
 eat,A1,63
 fair,A1,63
 reward,A1,63
-cook,A1,64
 clothes,A1,64
 kind,A1,64
 charity,A1,64
@@ -182,7 +169,6 @@ expensive,A2,9
 cancel,A2,11
 confirm,A2,11
 afternoon,A2,11
-occasion,A2,13
 popular,A2,13
 dishes,A2,14
 share,A2,14
@@ -190,8 +176,6 @@ tidy,A2,14
 balloon,A2,15
 decorate,A2,15
 hide,A2,15
-swim,A2,16
-local,A2,16
 service,A2,18
 host,A2,19
 enjoy,A2,19
@@ -210,12 +194,10 @@ wake,A2,25
 office,A2,25
 commute,A2,25
 eat,A2,27
-date,A2,28
 download,A2,28
 close,A2,29
 school,A2,29
 blanket,A2,31
-sing,A2,32
 song,A2,32
 vegetarian,A2,33
 teacher,A2,34
@@ -244,7 +226,6 @@ charity,B1,17
 volunteer,B1,17
 donate,B1,17
 fair,B1,18
-practice,B1,24
 guide,B1,26
 deep,B1,27
 discount,B1,28
@@ -260,7 +241,6 @@ monthly,B1,38
 income,B1,41
 switch,B1,45
 forecast,B2,1
-direct,B2,7
 audience,B2,9
 reach,B2,10
 contract,B2,11

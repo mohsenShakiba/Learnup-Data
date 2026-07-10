@@ -1,5 +1,5 @@
 Drawing Shapes
-paper, circle, middle, line, side, carefully, bottom, copy, activity, draw, picture, big, round, shape, square, triangle, point, dot, edge, oval, erase
+paper, circle, middle, line, side, carefully, bottom, copy, activity, picture, big, round, shape, square, triangle, point, dot, edge, oval, erase
 Hey, let's draw a little picture on this paper.
 Sure. What do I draw first?
 Start with a big circle right in the middle.
