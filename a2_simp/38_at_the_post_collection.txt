@@ -1,5 +1,5 @@
 Collecting a Parcel
-collect, delivery, identity
+delivery, identity
 Hi, I'm here to collect a parcel.
 Do you have the delivery card?
 Yes, here it is. I missed the delivery.
