@@ -1,5 +1,5 @@
 A Visit to the Vet
-vet, dog, eat, temperature, appetite, vaccine
+vet, dog, eat, appetite, vaccine
 Hello, what's wrong with your dog?
 He hasn't eaten since yesterday.
 Is he more tired than usual?

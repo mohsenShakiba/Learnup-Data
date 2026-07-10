@@ -1,5 +1,5 @@
 At the Pharmacy
-cough, fever, pill, twice, sore, sneeze, headache, runny, syrup, painkiller, dose, prescription, vitamin, tablet, tissue, mask, cream, bandage, drops, pharmacy
+cough, pill, twice, sore, sneeze, headache, runny, syrup, painkiller, dose, prescription, vitamin, tablet, tissue, mask, cream, bandage, drops, pharmacy
 Hi, I've got a bad cough and a really sore throat.
 Oh no, sorry to hear that. How long's it been?
 About three days. I sneeze a lot and I've got a headache too.

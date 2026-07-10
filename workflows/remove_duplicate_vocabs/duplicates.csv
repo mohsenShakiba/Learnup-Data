@@ -1,14 +1,4 @@
 Word,Code,Order
-funny,A1,7
-agree,A1,7
-fever,A1,8
-temperature,A1,8
-weather,A1,9
-sunny,A1,9
-warm,A1,9
-summer,A1,9
-season,A1,9
-winter,A1,9
 snow,A1,9
 autumn,A1,9
 book,A1,10
@@ -48,7 +38,6 @@ balance,A1,14
 transfer,A1,14
 plan,A1,15
 park,A1,15
-fever,A1,16
 headache,A1,16
 prescription,A1,16
 family,A1,17
@@ -226,7 +215,6 @@ phone,A1,50
 number,A1,50
 double,A1,50
 contact,A1,50
-summer,A1,51
 music,A1,51
 December,A1,51
 February,A1,51
@@ -260,9 +248,6 @@ actor,A1,54
 audience,A1,54
 scene,A1,54
 end,A1,54
-weather,A1,55
-sunny,A1,55
-warm,A1,55
 afternoon,A1,55
 forecast,A1,55
 park,A1,56
@@ -331,7 +316,6 @@ museum,A2,5
 river,A2,6
 exercise,A2,7
 test,A2,7
-agree,A2,8
 boring,A2,8
 favorite,A2,8
 story,A2,8
@@ -376,7 +360,6 @@ career,A2,20
 hard,A2,20
 goal,A2,20
 dream,A2,20
-season,A2,21
 watch,A2,21
 headache,A2,23
 prescription,A2,23
@@ -389,15 +372,12 @@ fee,A2,24
 wake,A2,25
 office,A2,25
 commute,A2,25
-winter,A2,26
 snow,A2,26
 autumn,A2,26
-temperature,A2,27
 dog,A2,27
 eat,A2,27
 date,A2,28
 download,A2,28
-funny,A2,29
 memory,A2,29
 close,A2,29
 school,A2,29
