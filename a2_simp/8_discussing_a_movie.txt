@@ -1,5 +1,5 @@
 Discussing a Movie
-end, scene, recommend, review, ending
+recommend, review, ending
 Did you watch the new movie last night?
 Yes, I did. I really enjoyed it.
 Me too. The story was exciting.

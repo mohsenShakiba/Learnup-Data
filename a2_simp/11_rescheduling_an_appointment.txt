@@ -1,5 +1,5 @@
 Rescheduling an Appointment
-appointment, another, afternoon, instead, reschedule, earlier, fine
+appointment, another, instead, reschedule, earlier, fine
 Hello, this is Dr. Lee's office.
 Hi, I have an appointment tomorrow at ten.
 Yes, I can see it here.
