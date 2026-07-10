@@ -1,5 +1,5 @@
 At the Bookstore
-bookstore, dictionary, top, magazine, notebook, pen, pencil, popular, favorite, writer, wonderful, book, newspaper, credit card, title, comic, poster, calendar, marker, eraser, ruler
+bookstore, dictionary, top, magazine, notebook, pen, pencil, popular, favorite, writer, wonderful, newspaper, credit card, title, comic, poster, calendar, marker, eraser, ruler
 Hi, I'm looking for an English dictionary.
 Welcome! They're on the top shelf, over there.
 Oh, thanks. Do you have magazines too?

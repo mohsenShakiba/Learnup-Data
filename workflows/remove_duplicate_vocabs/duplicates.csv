@@ -1,14 +1,4 @@
 Word,Code,Order
-snow,A1,9
-autumn,A1,9
-book,A1,10
-room,A1,10
-night,A1,10
-breakfast,A1,10
-view,A1,10
-guest,A1,10
-reception,A1,10
-delay,A1,11
 available,A1,12
 month,A1,12
 kitchen,A1,12
@@ -148,11 +138,8 @@ birthday,A1,40
 balloon,A1,40
 song,A1,40
 decorate,A1,40
-book,A1,41
 popular,A1,41
 favorite,A1,41
-book,A1,42
-room,A1,42
 favorite,A1,42
 museum,A1,42
 beautiful,A1,42
@@ -170,7 +157,6 @@ career,A1,43
 smart,A1,43
 useful,A1,43
 earn,A1,43
-book,A1,44
 question,A1,44
 favorite,A1,44
 teacher,A1,44
@@ -209,8 +195,6 @@ August,A1,48
 September,A1,48
 October,A1,48
 November,A1,48
-room,A1,50
-breakfast,A1,50
 phone,A1,50
 number,A1,50
 double,A1,50
@@ -228,7 +212,6 @@ August,A1,51
 September,A1,51
 October,A1,51
 November,A1,51
-night,A1,52
 miss,A1,52
 friend,A1,52
 kind,A1,52
@@ -322,7 +305,6 @@ story,A2,8
 actor,A2,8
 scene,A2,8
 end,A2,8
-view,A2,9
 expensive,A2,9
 cover,A2,10
 reason,A2,10
@@ -338,7 +320,6 @@ garden,A2,14
 dishes,A2,14
 share,A2,14
 tidy,A2,14
-guest,A2,15
 balloon,A2,15
 decorate,A2,15
 hide,A2,15
@@ -372,8 +353,6 @@ fee,A2,24
 wake,A2,25
 office,A2,25
 commute,A2,25
-snow,A2,26
-autumn,A2,26
 dog,A2,27
 eat,A2,27
 date,A2,28
@@ -448,12 +427,10 @@ nature,B1,29
 crowded,B1,29
 lesson,B1,30
 example,B1,30
-delay,B1,31
 fare,B1,31
 route,B1,31
 invest,B1,31
 reward,B1,33
-reception,B1,37
 monthly,B1,38
 friendship,B1,40
 income,B1,41

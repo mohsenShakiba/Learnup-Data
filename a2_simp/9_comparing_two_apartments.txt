@@ -1,5 +1,5 @@
 Comparing Two Apartments
-cheaper, expensive, closer, noisy, bright, view
+cheaper, expensive, closer, noisy, bright
 We saw two apartments today. Which do you prefer?
 The first one is bigger.
 Yes, but it's more expensive.
