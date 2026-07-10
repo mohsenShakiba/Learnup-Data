@@ -1,5 +1,5 @@
 The Weather Forecast
-cool, rainy, dry, snowy, weather, warm, cold, sunny, afternoon, coat, thunder, lightning, forecast, breeze, windy, foggy, degree, freeze, boot, gloves, rainbow
+cool, rainy, dry, snowy, weather, warm, sunny, afternoon, coat, thunder, lightning, forecast, breeze, windy, foggy, degree, freeze, boot, gloves, rainbow
 What's the weather like today?
 Cool and cloudy right now.
 Is it going to be rainy?
