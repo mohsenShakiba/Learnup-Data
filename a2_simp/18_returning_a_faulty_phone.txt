@@ -1,5 +1,5 @@
 Returning a Faulty Phone
-screen, battery, repair, charge, service
+battery, repair, charge, service
 Hi, there's a problem with my phone.
 What seems to be the problem?
 The battery doesn't charge, and it's very slow.

@@ -1,14 +1,4 @@
 Word,Code,Order
-prescription,A1,16
-family,A1,17
-city,A1,17
-exercise,A1,18
-screen,A1,19
-network,A1,19
-miss,A1,20
-friend,A1,20
-nervous,A1,20
-friendship,A1,20
 future,A1,20
 proud,A1,20
 distance,A1,20
@@ -116,7 +106,6 @@ picture,A1,42
 photo,A1,42
 guide,A1,42
 frame,A1,42
-family,A1,43
 different,A1,43
 interesting,A1,43
 true,A1,43
@@ -136,7 +125,6 @@ school,A1,44
 beautiful,A1,45
 nature,A1,45
 river,A1,45
-friend,A1,46
 photo,A1,46
 teacher,A1,46
 tall,A1,46
@@ -175,8 +163,6 @@ August,A1,51
 September,A1,51
 October,A1,51
 November,A1,51
-miss,A1,52
-friend,A1,52
 kind,A1,52
 worried,A1,52
 afraid,A1,52
@@ -213,7 +199,6 @@ income,A1,59
 country,A1,60
 kind,A1,60
 introduce,A1,60
-city,A1,61
 station,A1,61
 fast,A1,61
 commute,A1,61
@@ -232,7 +217,6 @@ raise,A1,63
 eat,A1,63
 fair,A1,63
 reward,A1,63
-family,A1,64
 cook,A1,64
 clothes,A1,64
 kind,A1,64
@@ -249,7 +233,6 @@ broken,A2,4
 yesterday,A2,4
 museum,A2,5
 river,A2,6
-exercise,A2,7
 test,A2,7
 boring,A2,8
 favorite,A2,8
@@ -274,7 +257,6 @@ decorate,A2,15
 hide,A2,15
 swim,A2,16
 local,A2,16
-screen,A2,18
 service,A2,18
 host,A2,19
 enjoy,A2,19
@@ -289,7 +271,6 @@ hard,A2,20
 goal,A2,20
 dream,A2,20
 watch,A2,21
-prescription,A2,23
 distance,A2,23
 frame,A2,23
 glasses,A2,23
@@ -372,9 +353,7 @@ route,B1,31
 invest,B1,31
 reward,B1,33
 monthly,B1,38
-friendship,B1,40
 income,B1,41
-network,B1,45
 switch,B1,45
 forecast,B2,1
 direct,B2,7
@@ -390,7 +369,6 @@ client,B2,23
 data,B2,24
 permission,B2,24
 market,B2,25
-nervous,B2,28
 exam,B2,33
 earn,C1,4
 comfort,C1,8

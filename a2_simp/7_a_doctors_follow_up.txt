@@ -1,5 +1,5 @@
 A Doctor's Follow-up
-finished, result, test, exercise, advice, checkup
+finished, result, test, advice, checkup
 Hello again. How are you feeling now?
 Much better, thank you.
 Did you finish all the medicine?

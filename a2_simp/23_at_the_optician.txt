@@ -1,5 +1,5 @@
 At the Optician
-glasses, eyes, blurry, frame, lens, prescription, suit, distance
+glasses, eyes, blurry, frame, lens, suit, distance
 Good afternoon. How can I help you?
 I think I need new glasses.
 What's the problem exactly?
