@@ -1,14 +1,4 @@
 Word,Code,Order
-chapter,A1,28
-different,A1,29
-reason,A1,29
-wrong,A1,29
-refund,A1,29
-exchange,A1,29
-policy,A1,29
-counter,A1,29
-broken,A1,29
-music,A1,30
 play,A1,30
 cook,A1,30
 draw,A1,30
@@ -66,7 +56,6 @@ picture,A1,42
 photo,A1,42
 guide,A1,42
 frame,A1,42
-different,A1,43
 interesting,A1,43
 true,A1,43
 career,A1,43
@@ -109,7 +98,6 @@ phone,A1,50
 number,A1,50
 double,A1,50
 contact,A1,50
-music,A1,51
 December,A1,51
 February,A1,51
 May,A1,51
@@ -180,8 +168,6 @@ volunteer,A1,64
 donate,A1,64
 holiday,A2,2
 desk,A2,3
-refund,A2,4
-broken,A2,4
 yesterday,A2,4
 museum,A2,5
 river,A2,6
@@ -193,7 +179,6 @@ actor,A2,8
 scene,A2,8
 end,A2,8
 expensive,A2,9
-reason,A2,10
 cancel,A2,11
 confirm,A2,11
 afternoon,A2,11
@@ -240,7 +225,6 @@ double,A2,35
 smile,A2,37
 tall,A2,37
 polite,A2,37
-counter,A2,38
 missed,A2,38
 collect,A2,38
 smart,A2,40
@@ -250,15 +234,12 @@ raise,B1,1
 news,B1,2
 calm,B1,3
 respect,B1,3
-policy,B1,5
 worried,B1,6
 message,B1,7
 notice,B1,8
 limit,B1,8
-wrong,B1,12
 afraid,B1,12
 plastic,B1,13
-chapter,B1,16
 charity,B1,17
 volunteer,B1,17
 donate,B1,17
@@ -284,7 +265,6 @@ audience,B2,9
 reach,B2,10
 contract,B2,11
 edge,B2,13
-exchange,B2,17
 contact,B2,17
 data,B2,24
 permission,B2,24

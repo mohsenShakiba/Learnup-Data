@@ -1,5 +1,5 @@
 Asking for Time Off
-off, request, days, approve, reason
+off, request, days, approve
 Excuse me, can I talk to you for a minute?
 Of course. What is it?
 I'd like to ask for some time off.
