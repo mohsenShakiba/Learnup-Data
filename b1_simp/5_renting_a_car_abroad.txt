@@ -1,5 +1,5 @@
 Renting a Car Abroad
-license, insurance, deposit, automatic, manual, mileage, fuel, damage, additional, policy, condition
+license, insurance, automatic, manual, mileage, fuel, damage, additional, policy, condition
 Hello, I'd like to rent a car for a week.
 Certainly. May I see your driving license?
 Here it is. Do you have an automatic car?

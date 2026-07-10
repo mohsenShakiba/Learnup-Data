@@ -1,14 +1,4 @@
 Word,Code,Order
-available,A1,12
-month,A1,12
-kitchen,A1,12
-quiet,A1,12
-deposit,A1,12
-tomorrow,A1,12
-garden,A1,12
-job,A1,13
-work,A1,13
-shop,A1,13
 question,A1,13
 start,A1,13
 week,A1,13
@@ -147,8 +137,6 @@ picture,A1,42
 photo,A1,42
 guide,A1,42
 frame,A1,42
-job,A1,43
-work,A1,43
 family,A1,43
 different,A1,43
 interesting,A1,43
@@ -181,7 +169,6 @@ polite,A1,46
 week,A1,47
 plan,A1,47
 meeting,A1,47
-month,A1,48
 birthday,A1,48
 December,A1,48
 February,A1,48
@@ -234,7 +221,6 @@ end,A1,54
 afternoon,A1,55
 forecast,A1,55
 park,A1,56
-tomorrow,A1,57
 open,A1,57
 office,A1,57
 missed,A1,57
@@ -242,7 +228,6 @@ reach,A1,57
 wash,A1,58
 clean,A1,58
 tidy,A1,58
-shop,A1,59
 start,A1,59
 find,A1,59
 hard,A1,59
@@ -255,7 +240,6 @@ income,A1,59
 country,A1,60
 kind,A1,60
 introduce,A1,60
-work,A1,61
 city,A1,61
 station,A1,61
 fast,A1,61
@@ -265,7 +249,6 @@ track,A1,61
 dream,A1,62
 hide,A1,62
 deep,A1,62
-quiet,A1,63
 phone,A1,63
 true,A1,63
 class,A1,63
@@ -276,7 +259,6 @@ raise,A1,63
 eat,A1,63
 fair,A1,63
 reward,A1,63
-kitchen,A1,64
 family,A1,64
 cook,A1,64
 clothes,A1,64
@@ -308,7 +290,6 @@ end,A2,8
 expensive,A2,9
 cover,A2,10
 reason,A2,10
-available,A2,11
 cancel,A2,11
 confirm,A2,11
 afternoon,A2,11
@@ -316,7 +297,6 @@ wallet,A2,13
 present,A2,13
 occasion,A2,13
 popular,A2,13
-garden,A2,14
 dishes,A2,14
 share,A2,14
 tidy,A2,14
@@ -388,7 +368,6 @@ raise,B1,1
 news,B1,2
 calm,B1,3
 respect,B1,3
-deposit,B1,5
 fuel,B1,5
 policy,B1,5
 worried,B1,6
