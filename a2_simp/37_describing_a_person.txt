@@ -1,5 +1,5 @@
 Describing a Person
-tall, wearing, recognize, polite, smile
+tall, wearing, recognize, polite
 Do you remember my friend Mark?
 I'm not sure. Can you describe him?
 He's tall with short dark hair.

@@ -1,5 +1,5 @@
 Discussing a News Story
-news, headline, believe, opinion, according, government, decision, affect, concerned, article, source, discuss
+headline, believe, opinion, according, government, decision, affect, concerned, article, source, discuss
 Have you seen the news this morning?
 Not yet. What happened?
 The government has made a new decision about taxes.
