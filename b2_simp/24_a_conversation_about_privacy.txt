@@ -1,5 +1,5 @@
 A Conversation About Privacy
-privacy, consent, surveillance, permission, anonymous, leak, convenience, regulation, tradeoff
+privacy, consent, surveillance, anonymous, leak, convenience, regulation, tradeoff
 Does it bother you how apps track us?
 It does, actually. It feels intrusive.
 They collect so much of our data.
