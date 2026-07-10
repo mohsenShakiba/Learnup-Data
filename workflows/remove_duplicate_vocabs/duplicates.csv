@@ -1,14 +1,4 @@
 Word,Code,Order
-save,A1,14
-wallet,A1,14
-credit,A1,14
-withdraw,A1,14
-branch,A1,14
-balance,A1,14
-transfer,A1,14
-plan,A1,15
-park,A1,15
-headache,A1,16
 prescription,A1,16
 family,A1,17
 city,A1,17
@@ -154,7 +144,6 @@ kind,A1,46
 glasses,A1,46
 eyes,A1,46
 polite,A1,46
-plan,A1,47
 meeting,A1,47
 birthday,A1,48
 December,A1,48
@@ -207,7 +196,6 @@ scene,A1,54
 end,A1,54
 afternoon,A1,55
 forecast,A1,55
-park,A1,56
 office,A1,57
 missed,A1,57
 reach,A1,57
@@ -252,7 +240,6 @@ charity,A1,64
 collect,A1,64
 volunteer,A1,64
 donate,A1,64
-save,A2,2
 holiday,A2,2
 schedule,A2,3
 colleague,A2,3
@@ -276,7 +263,6 @@ reason,A2,10
 cancel,A2,11
 confirm,A2,11
 afternoon,A2,11
-wallet,A2,13
 present,A2,13
 occasion,A2,13
 popular,A2,13
@@ -303,7 +289,6 @@ hard,A2,20
 goal,A2,20
 dream,A2,20
 watch,A2,21
-headache,A2,23
 prescription,A2,23
 distance,A2,23
 frame,A2,23
@@ -354,7 +339,6 @@ policy,B1,5
 worried,B1,6
 promise,B1,7
 message,B1,7
-balance,B1,8
 notice,B1,8
 limit,B1,8
 brake,B1,9
@@ -363,9 +347,6 @@ overtime,B1,10
 wrong,B1,12
 afraid,B1,12
 plastic,B1,13
-withdraw,B1,15
-branch,B1,15
-transfer,B1,15
 novel,B1,16
 author,B1,16
 chapter,B1,16
@@ -412,6 +393,5 @@ market,B2,25
 nervous,B2,28
 exam,B2,33
 earn,C1,4
-credit,C1,5
 comfort,C1,8
 shape,C1,13
