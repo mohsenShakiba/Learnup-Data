@@ -1,14 +1,4 @@
 Word,Code,Order
-course,A1,32
-vegetarian,A1,32
-host,A1,32
-notice,A1,32
-cancel,A1,32
-confirm,A1,32
-clean,A1,33
-show,A1,34
-download,A1,34
-close,A1,34
 clothes,A1,35
 holiday,A1,35
 discount,A1,36
@@ -109,7 +99,6 @@ comfort,A1,52
 picture,A1,53
 shape,A1,53
 edge,A1,53
-show,A1,54
 story,A1,54
 actor,A1,54
 audience,A1,54
@@ -120,7 +109,6 @@ forecast,A1,55
 office,A1,57
 missed,A1,57
 reach,A1,57
-clean,A1,58
 tidy,A1,58
 hard,A1,59
 expensive,A1,59
@@ -166,8 +154,6 @@ actor,A2,8
 scene,A2,8
 end,A2,8
 expensive,A2,9
-cancel,A2,11
-confirm,A2,11
 afternoon,A2,11
 popular,A2,13
 dishes,A2,14
@@ -177,11 +163,9 @@ balloon,A2,15
 decorate,A2,15
 hide,A2,15
 service,A2,18
-host,A2,19
 enjoy,A2,19
 interesting,A2,19
 introduce,A2,19
-course,A2,20
 career,A2,20
 hard,A2,20
 goal,A2,20
@@ -194,12 +178,9 @@ wake,A2,25
 office,A2,25
 commute,A2,25
 eat,A2,27
-download,A2,28
-close,A2,29
 school,A2,29
 blanket,A2,31
 song,A2,32
-vegetarian,A2,33
 teacher,A2,34
 homework,A2,34
 attention,A2,34
@@ -218,7 +199,6 @@ calm,B1,3
 respect,B1,3
 worried,B1,6
 message,B1,7
-notice,B1,8
 limit,B1,8
 afraid,B1,12
 plastic,B1,13

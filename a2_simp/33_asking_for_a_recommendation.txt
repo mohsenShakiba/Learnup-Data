@@ -1,5 +1,5 @@
 Asking for a Recommendation
-restaurant, vegetarian, worth, definitely
+restaurant, worth, definitely
 Can you recommend a good restaurant?
 Sure. What kind of food do you like?
 Something Italian, near the center.
