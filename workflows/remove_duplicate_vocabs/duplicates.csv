@@ -1,14 +1,4 @@
 Word,Code,Order
-cafe,A1,2
-cup,A1,2
-taste,A1,2
-help,A1,3
-walk,A1,3
-sorry,A1,3
-follow,A1,3
-cross,A1,3
-food,A1,4
-color,A1,5
 coat,A1,5
 scarf,A1,5
 shelf,A1,6
@@ -101,7 +91,6 @@ weigh,A1,22
 parcel,A1,22
 wash,A1,24
 beard,A1,24
-cup,A1,25
 pet,A1,25
 dog,A1,25
 cat,A1,25
@@ -181,11 +170,9 @@ birthday,A1,40
 balloon,A1,40
 song,A1,40
 decorate,A1,40
-help,A1,41
 book,A1,41
 popular,A1,41
 favorite,A1,41
-color,A1,42
 book,A1,42
 room,A1,42
 favorite,A1,42
@@ -195,7 +182,6 @@ picture,A1,42
 photo,A1,42
 guide,A1,42
 frame,A1,42
-cafe,A1,43
 job,A1,43
 work,A1,43
 family,A1,43
@@ -217,7 +203,6 @@ test,A1,44
 homework,A1,44
 exam,A1,44
 school,A1,44
-walk,A1,45
 beautiful,A1,45
 nature,A1,45
 river,A1,45
@@ -339,8 +324,6 @@ raise,A1,63
 eat,A1,63
 fair,A1,63
 reward,A1,63
-help,A1,64
-food,A1,64
 Sunday,A1,64
 kitchen,A1,64
 family,A1,64
@@ -358,14 +341,11 @@ manager,A2,3
 schedule,A2,3
 colleague,A2,3
 desk,A2,3
-sorry,A2,4
 refund,A2,4
 broken,A2,4
 yesterday,A2,4
-cross,A2,5
 museum,A2,5
 river,A2,6
-follow,A2,7
 exercise,A2,7
 test,A2,7
 agree,A2,8
@@ -441,7 +421,6 @@ close,A2,29
 school,A2,29
 fruit,A2,31
 blanket,A2,31
-taste,A2,32
 sing,A2,32
 song,A2,32
 vegetarian,A2,33
