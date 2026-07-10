@@ -1,5 +1,5 @@
 Booking a Hotel Room
-nights, double, parking, checkout
+nights, double, parking
 Good morning, Sunrise Hotel.
 Hello. I'd like to book a room.
 For how many nights?

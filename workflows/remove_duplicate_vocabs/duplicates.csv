@@ -1,14 +1,4 @@
 Word,Code,Order
-coat,A1,5
-scarf,A1,5
-shelf,A1,6
-fruit,A1,6
-checkout,A1,6
-call,A1,7
-Saturday,A1,7
-Thursday,A1,7
-Friday,A1,7
-Sunday,A1,7
 funny,A1,7
 agree,A1,7
 fever,A1,8
@@ -56,7 +46,6 @@ withdraw,A1,14
 branch,A1,14
 balance,A1,14
 transfer,A1,14
-Sunday,A1,15
 plan,A1,15
 park,A1,15
 fever,A1,16
@@ -214,9 +203,6 @@ kind,A1,46
 glasses,A1,46
 eyes,A1,46
 polite,A1,46
-Saturday,A1,47
-Thursday,A1,47
-Friday,A1,47
 week,A1,47
 plan,A1,47
 meeting,A1,47
@@ -274,14 +260,12 @@ actor,A1,54
 audience,A1,54
 scene,A1,54
 end,A1,54
-coat,A1,55
 weather,A1,55
 sunny,A1,55
 warm,A1,55
 afternoon,A1,55
 forecast,A1,55
 park,A1,56
-call,A1,57
 tomorrow,A1,57
 open,A1,57
 office,A1,57
@@ -324,7 +308,6 @@ raise,A1,63
 eat,A1,63
 fair,A1,63
 reward,A1,63
-Sunday,A1,64
 kitchen,A1,64
 family,A1,64
 cook,A1,64
@@ -363,7 +346,6 @@ available,A2,11
 cancel,A2,11
 confirm,A2,11
 afternoon,A2,11
-scarf,A2,13
 wallet,A2,13
 present,A2,13
 occasion,A2,13
@@ -419,7 +401,6 @@ funny,A2,29
 memory,A2,29
 close,A2,29
 school,A2,29
-fruit,A2,31
 blanket,A2,31
 sing,A2,32
 song,A2,32
@@ -428,7 +409,6 @@ proud,A2,34
 teacher,A2,34
 homework,A2,34
 attention,A2,34
-checkout,A2,35
 double,A2,35
 pet,A2,36
 cat,A2,36
@@ -437,7 +417,6 @@ beard,A2,37
 smile,A2,37
 tall,A2,37
 polite,A2,37
-shelf,A2,38
 parcel,A2,38
 counter,A2,38
 missed,A2,38
