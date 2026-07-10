@@ -1,14 +1,4 @@
 Word,Code,Order
-question,A1,13
-start,A1,13
-week,A1,13
-email,A1,13
-experience,A1,13
-task,A1,13
-salary,A1,13
-manager,A1,13
-open,A1,14
-savings,A1,14
 save,A1,14
 wallet,A1,14
 credit,A1,14
@@ -96,7 +86,6 @@ notice,A1,32
 cancel,A1,32
 confirm,A1,32
 clean,A1,33
-email,A1,34
 show,A1,34
 download,A1,34
 close,A1,34
@@ -145,7 +134,6 @@ career,A1,43
 smart,A1,43
 useful,A1,43
 earn,A1,43
-question,A1,44
 favorite,A1,44
 teacher,A1,44
 class,A1,44
@@ -166,7 +154,6 @@ kind,A1,46
 glasses,A1,46
 eyes,A1,46
 polite,A1,46
-week,A1,47
 plan,A1,47
 meeting,A1,47
 birthday,A1,48
@@ -221,14 +208,12 @@ end,A1,54
 afternoon,A1,55
 forecast,A1,55
 park,A1,56
-open,A1,57
 office,A1,57
 missed,A1,57
 reach,A1,57
 wash,A1,58
 clean,A1,58
 tidy,A1,58
-start,A1,59
 find,A1,59
 hard,A1,59
 expensive,A1,59
@@ -269,8 +254,6 @@ volunteer,A1,64
 donate,A1,64
 save,A2,2
 holiday,A2,2
-task,A2,3
-manager,A2,3
 schedule,A2,3
 colleague,A2,3
 desk,A2,3
@@ -305,8 +288,6 @@ decorate,A2,15
 hide,A2,15
 swim,A2,16
 local,A2,16
-experience,A2,17
-salary,A2,17
 screen,A2,18
 service,A2,18
 host,A2,19
@@ -382,7 +363,6 @@ overtime,B1,10
 wrong,B1,12
 afraid,B1,12
 plastic,B1,13
-savings,B1,15
 withdraw,B1,15
 branch,B1,15
 transfer,B1,15

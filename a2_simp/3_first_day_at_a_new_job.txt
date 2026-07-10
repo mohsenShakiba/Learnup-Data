@@ -1,5 +1,5 @@
 First Day at a New Job
-manager, desk, task, explain, training, colleague, schedule
+desk, explain, training, colleague, schedule
 Good morning. Welcome to the team!
 Thank you. I'm a little nervous.
 Don't worry. I'll show you everything.

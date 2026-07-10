@@ -1,5 +1,5 @@
 Opening a Bank Account
-savings, current, interest, documents, withdraw, transfer, branch, statement, apply
+current, interest, documents, withdraw, transfer, branch, statement, apply
 Good morning. I'd like to open an account.
 Of course. A savings or current account?
 What's the difference between them?
