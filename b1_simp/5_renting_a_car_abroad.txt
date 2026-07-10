@@ -1,0 +1,14 @@
+Renting a Car Abroad
+license, insurance, deposit, automatic, manual, mileage, fuel, damage, additional, policy, condition
+Hello, I'd like to rent a car for a week.
+Certainly. May I see your driving license?
+Here it is. Do you have an automatic car?
+Yes, we do. Does the price include insurance?
+Basic insurance is included.
+Is there an additional charge for full cover?
+Yes, full cover costs ten dollars a day.
+I'll take it. Is there a deposit?
+Yes, and we'll return it if there's no damage.
+Should I return the car with a full tank?
+Yes, please. Otherwise we charge for fuel.
+Understood. Let's sign the agreement.

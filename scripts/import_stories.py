@@ -108,7 +108,16 @@ def main() -> int:
         return 1
 
     pattern = "**/*.txt" if args.recursive else "*.txt"
-    files = sorted(directory.glob(pattern))
+
+    def sort_key(path: Path) -> tuple[int, int, str]:
+        # Files are ordered by their leading numeric id (1_, 2_, ... 10_).
+        # Files without a valid numeric id are pushed to the end but still imported.
+        try:
+            return (0, get_lesson_order(path), path.name)
+        except ValueError:
+            return (1, 0, path.name)
+
+    files = sorted(directory.glob(pattern), key=sort_key)
 
     if not files:
         print(f"No txt files found in {directory}", file=sys.stderr)

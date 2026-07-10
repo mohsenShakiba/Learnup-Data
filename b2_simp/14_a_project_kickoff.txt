@@ -1,0 +1,14 @@
+A Project Kickoff Meeting
+kickoff, objective, milestone, deliverable, scope, timeline, allocate, dependency, align, accountable, resource
+Thanks for joining this kickoff meeting.
+Glad to be here. What's our main objective?
+To launch the new platform by autumn.
+That's ambitious. What's the timeline?
+We have three milestones over six months.
+How will we allocate the resources?
+Each team will own specific deliverables.
+Are there any major dependencies?
+Yes, design must finish before development.
+We should keep everyone aligned, then.
+Agreed. We'll track progress every week.
+Sounds clear. Let's get started.

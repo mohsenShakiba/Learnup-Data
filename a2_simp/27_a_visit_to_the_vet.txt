@@ -1,0 +1,14 @@
+A Visit to the Vet
+vet, dog, eat, temperature, appetite, vaccine
+Hello, what's wrong with your dog?
+He hasn't eaten since yesterday.
+Is he more tired than usual?
+Yes, he sleeps all day.
+Let me check his temperature.
+Is it serious?
+No, it's a small infection.
+What should I do?
+Give him this medicine twice a day.
+When will his appetite come back?
+In a few days. He'll be healthy soon.
+Thank you, doctor. That's a relief.

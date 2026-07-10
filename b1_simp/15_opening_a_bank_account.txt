@@ -1,0 +1,14 @@
+Opening a Bank Account
+savings, current, interest, documents, withdraw, transfer, branch, statement, apply
+Good morning. I'd like to open an account.
+Of course. A savings or current account?
+What's the difference between them?
+A savings account pays interest.
+Are there any monthly fees?
+No, this account is free.
+Can I manage it online?
+Yes, you can transfer money anytime.
+What documents do I need?
+Your identity card and proof of address.
+Here they are. How long will it take?
+Just a few minutes. Then you can deposit money.

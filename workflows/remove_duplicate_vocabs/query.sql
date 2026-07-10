@@ -1,4 +1,3 @@
-
 select v."Word", c."Code", l."Order"
 from "LessonVocab"
          left join "Vocab" V on "LessonVocab"."VocabId" = V."Id"

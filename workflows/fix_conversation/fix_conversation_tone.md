@@ -1,5 +1,5 @@
 
-Rewrite one conversation in `a1_simp/*.txt` so it sounds like real, everyday speech,
+Rewrite one conversation in `a2_simp/*.txt` so it sounds like real, everyday speech,
 using simple A1 words.
 
 Rewrite this stiff, textbook-style dialogue to sound like two real people talking, while keeping the vocabulary simple (A2–B1 level). Specifically:

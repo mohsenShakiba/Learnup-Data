@@ -1,0 +1,14 @@
+A Doctor's Follow-up
+finished, result, test, exercise, advice, checkup, follow
+Hello again. How are you feeling now?
+Much better, thank you.
+Did you finish all the medicine?
+Yes, but I still have a small cough.
+That's normal. Your test results are good.
+That's a relief.
+You are healthy now. Just get more rest.
+Can I exercise again?
+Yes, but start slowly.
+Thank you for the advice.
+Come back for a checkup in one month.
+I will. See you soon, doctor.

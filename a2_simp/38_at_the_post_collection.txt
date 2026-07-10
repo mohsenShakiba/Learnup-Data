@@ -1,0 +1,14 @@
+Collecting a Parcel
+parcel, collect, delivery, missed, identity, shelf, counter
+Hi, I'm here to collect a parcel.
+Do you have the delivery card?
+Yes, here it is. I missed the delivery.
+No problem. May I see some identity?
+Of course. Here's my ID card.
+Thank you. Let me check the shelf.
+Is it a big box?
+Medium size. Here it is.
+Great. Do I need to sign?
+Yes, please sign at the counter.
+Done. Thank you for your help.
+You're welcome. Have a good day.

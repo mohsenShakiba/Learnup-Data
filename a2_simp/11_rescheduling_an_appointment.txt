@@ -1,0 +1,14 @@
+Rescheduling an Appointment
+appointment, cancel, another, available, afternoon, instead, confirm, reschedule, earlier, fine
+Hello, this is Dr. Lee's office.
+Hi, I have an appointment tomorrow at ten.
+Yes, I can see it here.
+I'm sorry, but I need to change it.
+No problem. When are you available?
+Can I come in the afternoon instead?
+We have a free time at three o'clock.
+Is there anything earlier?
+Sorry, the morning is fully busy.
+That's fine. Three o'clock works for me.
+Great. I'll reschedule it now.
+Thank you for confirming.

@@ -1,0 +1,14 @@
+Booking a Hotel Room
+nights, double, parking, checkout
+Good morning, Sunrise Hotel.
+Hello. I'd like to book a room.
+For how many nights?
+Three nights, a double room please.
+We have one available with a sea view.
+Lovely. Does the price include breakfast?
+Yes, breakfast is included.
+Is there free parking?
+Yes, parking is free for guests.
+Great. What time is checkout?
+Checkout is at eleven. Can I have your name?
+It's Daniel Roberts. Thank you for confirming.

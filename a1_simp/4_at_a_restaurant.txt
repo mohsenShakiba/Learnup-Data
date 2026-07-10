@@ -1,6 +1,6 @@
 At a Restaurant
-table, menu, water, order, chicken, rice, salad, food, hungry, delicious, bill, evening, glass, meal, waiter, soup, fish, meat, fork, knife, napkin, dessert
-Hi there, good evening! I'll be your waiter tonight. Table for two?
+table, menu, water, order, chicken, rice, salad, food, hungry, delicious, bill, evening, glass, meal, waitress, soup, fish, meat, fork, knife, napkin, dessert
+Hi there, good evening! I'll be your waitress tonight. Table for two?
 Yes, please.
 Great, right this way. Here are your menus — the soup and fish are really good tonight.
 Oh, thanks. Could we get two glasses of water first?

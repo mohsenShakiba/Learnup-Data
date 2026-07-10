@@ -1,0 +1,14 @@
+Joining a Sports Club
+coach, beginner, fee, equipment, match, fitness
+Hi, I'd like to join the tennis club.
+Welcome! Have you played before?
+No, I'm a complete beginner.
+No problem. We have a coach for beginners.
+Great. When is the training?
+Twice a week, on Monday and Thursday.
+How much is the membership fee?
+Forty dollars a month.
+Do I need my own equipment?
+We can lend you a racket at first.
+Perfect. I really want to improve my fitness.
+You'll love it. See you on Monday!
