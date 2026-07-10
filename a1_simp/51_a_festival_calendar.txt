@@ -1,5 +1,5 @@
 A Festival Calendar
-town, festival, March, June, August, September, October, program, November, dancing, January, February, April, May, July, December, crowd, parade, fireworks
+town, festival, March, June, August, September, October, program, November, dancing, January, April, July, crowd, parade, fireworks
 You know, our town has a festival almost every month.
 Really? When do they start?
 The music festival kicks it off in March.

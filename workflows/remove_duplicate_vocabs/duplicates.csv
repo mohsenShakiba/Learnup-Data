@@ -1,14 +1,4 @@
 Word,Code,Order
-nature,A1,45
-river,A1,45
-tall,A1,46
-kind,A1,46
-glasses,A1,46
-eyes,A1,46
-polite,A1,46
-December,A1,48
-February,A1,48
-May,A1,48
 July,A1,48
 April,A1,48
 January,A1,48
@@ -20,9 +10,6 @@ October,A1,48
 November,A1,48
 double,A1,50
 contact,A1,50
-December,A1,51
-February,A1,51
-May,A1,51
 July,A1,51
 April,A1,51
 January,A1,51
@@ -32,7 +19,6 @@ August,A1,51
 September,A1,51
 October,A1,51
 November,A1,51
-kind,A1,52
 worried,A1,52
 afraid,A1,52
 calm,A1,52
@@ -58,7 +44,6 @@ invest,A1,59
 spend,A1,59
 goal,A1,59
 income,A1,59
-kind,A1,60
 introduce,A1,60
 commute,A1,61
 crowded,A1,61
@@ -73,12 +58,10 @@ raise,A1,63
 eat,A1,63
 fair,A1,63
 reward,A1,63
-kind,A1,64
 charity,A1,64
 collect,A1,64
 volunteer,A1,64
 donate,A1,64
-river,A2,6
 story,A2,8
 actor,A2,8
 scene,A2,8
@@ -92,15 +75,11 @@ introduce,A2,19
 hard,A2,20
 goal,A2,20
 dream,A2,20
-glasses,A2,23
-eyes,A2,23
 office,A2,25
 commute,A2,25
 eat,A2,27
 attention,A2,34
 double,A2,35
-tall,A2,37
-polite,A2,37
 missed,A2,38
 collect,A2,38
 raise,B1,1
@@ -115,7 +94,6 @@ fair,B1,18
 deep,B1,27
 spend,B1,28
 track,B1,28
-nature,B1,29
 crowded,B1,29
 invest,B1,31
 reward,B1,33
