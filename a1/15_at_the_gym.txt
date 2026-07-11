@@ -1,7 +1,7 @@
 At the Gym
 gym, healthy, idea, exercise, run, machine, lift, weight, strong, slow, arm, leg, body, neck, heart, breathe, stretch, shoulder, knee, muscle, sweat
 Hey, welcome! First time at the gym?
-Yeah. I just want to be a bit healthier.
+Yes. I just want to be a bit healthier.
 Good idea. So what kind of exercise are you into?
 I like to run, mostly.
 Nice, we've got machines for that. Anything else?
@@ -11,5 +11,5 @@ Okay. How many times a week should I come?
 Three's a good start. You want to build muscle, not hurt your body.
 Got it.
 And drink water, breathe steady. You'll sweat a lot, but it's great for your heart.
-Ha, I'm ready. Thanks!
+I'm ready. Thanks!
 You've got this!

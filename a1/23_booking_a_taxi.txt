@@ -4,7 +4,7 @@ Hi, I need to book a taxi, please.
 Sure, where are you headed?
 The airport. My flight's at nine.
 Okay, and what time should we pick you up?
-Pretty early, I think. Six in the morning?
+Early, I think. Six in the morning?
 No problem. What's the address for the pickup?
 12 Park Road. Oh, and I've got two bags.
 That's fine. Your cab will be a blue car, waiting right outside.
@@ -12,9 +12,9 @@ Great. I'm a bit worried about traffic, actually.
 Don't be. Six is early, so there's no need to hurry.
 Which way does the driver usually go?
 He'll take the highway, then the fast lane past the roundabout.
-And the meter starts at pickup, yeah?
-Yep. Just remember your seatbelt once you're in the car.
+And the meter starts at pickup, right?
+Yes. Just remember your seatbelt once you're in the car.
 Will do. I really hope it's not busy out there.
-Even if someone honks, the driver will brake nice and safe. And we've got plenty of fuel, so relax.
+The driver will be careful, and we have plenty of fuel.
 Okay, that's a relief. So the booking's all set?
 All set. See you at six.

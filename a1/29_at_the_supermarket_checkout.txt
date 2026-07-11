@@ -1,10 +1,10 @@
 At the Supermarket Checkout
 supermarket, queue, item, dozen, egg, yogurt, barcode, count, orange, chocolate, biscuit, ripe, frozen, cheap, discount, bargain, coupon, points, plastic, chips, jar, thirty, till
 Hi there, welcome. Did you find everything okay?
-Yeah, thanks. The queue was so long today, though.
+Yes, thanks. The queue was very long today.
 Sorry about that. Let me scan your items.
 Sure. I've got a dozen eggs and some yogurt here.
-Hmm, this barcode won't scan. Let me just count it by hand.
+This barcode won't scan. Let me enter it by hand.
 Oh, and I grabbed some oranges, chocolate, and biscuits.
 These oranges look nice and ripe, actually.
 They are. Is the frozen pizza cheap today, do you know?

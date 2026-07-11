@@ -1,13 +1,13 @@
 At the Post Office
 package, send, letter, stamp, heavy, address, fast, country, receipt, add, mail, write, weigh, sender, postcard, envelope, tape, mailbox, postman, parcel
 Morning! I'd like to send this package.
-Sure. Let me pop it in a box and weigh it. Ooh, it's a little heavy. Where's it headed?
+Sure. Let me put it in a box and weigh it. It's a little heavy. Where is it going?
 Another country, actually. Spain.
 Okay. Fast or slow delivery?
 Fast, please. How many days does that take?
 About four. Just write the address here, and your name as the sender too.
 Done. Oh, I've also got this letter and a postcard. Do they need stamps?
-Yeah, I'll add a stamp. Let me tuck the letter in an envelope and seal it with tape.
+Yes, I'll add a stamp. Let me put the letter in an envelope and seal it with tape.
 Here you go. Can I get a receipt? And where do I drop letters next time to mail them?
 There's a mailbox right outside, the postman clears it every day. Your parcel and letter will both go out soon.
 Perfect, thanks so much.

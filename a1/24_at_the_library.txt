@@ -3,17 +3,17 @@ library, member, find, history, fee, novel, poem, section, librarian, fiction, b
 Hi, can I borrow some books here?
 Sure. Are you a member?
 Not yet, actually. How do I join?
-Oh, it's free. I just need your name and address.
+It's free. I just need your name and address.
 Here you go. So where do I find the history books?
 That section, over by the window. Any librarian can help you too.
 Thanks. I'm also after a novel and maybe a book of poems.
 The fiction section has the novels. Do you like biography, or more poems?
-Biography, I think. Any author you'd recommend?
+Biography, I think. Can you recommend an author?
 This one's really good. Check the catalog for more titles.
 Nice. Can I grab a textbook to study as well?
 Of course. With this card you can borrow five books.
 When do I bring them back? Can I renew?
 In three weeks. You can renew once, so don't be late.
 And if I am late?
-Just a small fee, nothing big. Oh, and please keep silence in here, only whisper.
-Got it. Ha, this novel has a lovely cover, and so many chapters.
+Just a small fee. Please be quiet in here and only whisper.
+Got it. This novel has a lovely cover and many chapters.

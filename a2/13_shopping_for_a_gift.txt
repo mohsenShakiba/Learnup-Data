@@ -1,5 +1,5 @@
 Shopping for a Gift
-suggest, perfume, wrap, perfect, giftcard, bracelet, jewellery, boutique, fragrance, elegant, wrapping, thoughtful, necklace, earrings, chocolates, keepsake, stylish, unwrap, giftbox, recipient
+suggest, perfume, wrap, perfect, gift card, bracelet, jewellery, boutique, fragrance, elegant, wrapping, thoughtful, necklace, earrings, chocolates, keepsake, stylish, unwrap, gift box, recipient
 Hi, I'm looking for a gift for my sister.
 Sure! Is it for a special occasion?
 Yes, it's her birthday. Any thoughtful ideas?
@@ -10,8 +10,8 @@ They're beautiful. What about perfume?
 This fragrance is popular. It's a lovely keepsake.
 It's perfect. She'll love it.
 Would you like chocolates too?
-Yes, and please add a giftcard.
-Shall I put it in a giftbox?
+Yes, and please add a gift card.
+Shall I put it in a gift box?
 Yes, with nice wrapping paper.
 Of course. I'll wrap it now.
 Who is the recipient again?

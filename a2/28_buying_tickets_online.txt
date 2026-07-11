@@ -1,5 +1,5 @@
 Buying Tickets Online
-online, website, concert, payment, browser, username, digital, transaction, invoice, webpage, refresh, loading, seating, stalls, sold, promo, confirmation, eticket, reload, dropdown
+online, website, concert, payment, browser, username, digital, transaction, invoice, webpage, refresh, loading, seating, stalls, sold, promo, confirmation, e-ticket, reload, dropdown
 Can you help me buy concert tickets online?
 Sure. Open the website in your browser.
 The webpage is still loading.
@@ -17,4 +17,4 @@ Add your card to complete the payment.
 It says the transaction was successful!
 Great. We'll email your invoice and confirmation.
 Do I get a paper ticket?
-No, just an eticket to download.
+No, just an e-ticket to download.

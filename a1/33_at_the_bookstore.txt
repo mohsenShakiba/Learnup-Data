@@ -3,9 +3,9 @@ bookstore, dictionary, top, magazine, notebook, pen, pencil, popular, favorite, 
 Hi, I'm looking for an English dictionary.
 Welcome! They're on the top shelf, over there.
 Oh, thanks. Do you have magazines too?
-Yeah, the magazines are right by the door.
+Yes, the magazines are right by the door.
 Great. I also need a notebook, a pen, a pencil, an eraser, a ruler, and a marker.
-Ha, big list! The notebooks are here. This one's really popular.
+That's a big list! The notebooks are here. This one's really popular.
 Nice. Do you sell comics?
 We do, on that shelf, next to the posters and calendars.
 Cool. Can you show me something by your favorite writer?
