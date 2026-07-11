@@ -44,8 +44,12 @@ def build_used() -> set[str]:
                 if row:
                     used.add(norm(row[0]))
 
-    # words already taught on line 2 of every conversation, all levels
-    for path in glob.glob(os.path.join(ROOT, "*_simp", "*.txt")):
+    # words already taught on line 2 of every conversation, all levels.
+    # Level dirs are named a1/a2/b1/b2/c1 (formerly *_simp); match both.
+    paths = glob.glob(os.path.join(ROOT, "*_simp", "*.txt"))
+    for lvl in ("a1", "a2", "b1", "b2", "c1"):
+        paths.extend(glob.glob(os.path.join(ROOT, lvl, "*.txt")))
+    for path in paths:
         with open(path, encoding="utf-8") as f:
             lines = f.read().splitlines()
         if len(lines) >= 2:
