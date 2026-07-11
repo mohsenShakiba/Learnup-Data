@@ -1,24 +1,17 @@
 level,title,author,year,word_count,file
-A1,The Hare and the Tortoise,"Aesop (trans. V. S. Vernon Jones, 1912)",c. 600 BCE,150,stories/a1-a2/the-hare-and-the-tortoise.txt
-A1,The Ant and the Grasshopper,"Aesop (trans. V. S. Vernon Jones, 1912)",c. 600 BCE,150,stories/a1-a2/the-ant-and-the-grasshopper.txt
-A1,The Lion and the Mouse,"Aesop (trans. V. S. Vernon Jones, 1912)",c. 600 BCE,184,stories/a1-a2/the-lion-and-the-mouse.txt
-A2,The Tale of Peter Rabbit,Beatrix Potter,1902,997,stories/a1-a2/the-tale-of-peter-rabbit.txt
-A2,The Little Match Girl,Hans Christian Andersen,1845,1014,stories/a1-a2/the-little-match-girl.txt
-A2,How the Camel Got His Hump,Rudyard Kipling,1902,1071,stories/a1-a2/how-the-camel-got-his-hump.txt
-A2,The Emperor's New Clothes,Hans Christian Andersen,1837,1869,stories/a1-a2/the-emperors-new-clothes.txt
-A2,The Fisherman and His Wife,Brothers Grimm (trans. Margaret Hunt),1812,2115,stories/a1-a2/the-fisherman-and-his-wife.txt
-B1,The Open Window,Saki (H. H. Munro),1914,1208,stories/b1/the-open-window.txt
-B1,After Twenty Years,O. Henry,1906,1261,stories/b1/after-twenty-years.txt
-B1,The Three Questions,Leo Tolstoy (trans. L. & A. Maude),1885,1562,stories/b1/the-three-questions.txt
-B1,The Selfish Giant,Oscar Wilde,1888,1652,stories/b1/the-selfish-giant.txt
-B1,A Pair of Silk Stockings,Kate Chopin,1897,1884,stories/b1/a-pair-of-silk-stockings.txt
-B1,The Gift of the Magi,O. Henry,1905,2061,stories/b1/the-gift-of-the-magi.txt
-B1,The Last Leaf,O. Henry,1907,2346,stories/b1/the-last-leaf.txt
-B1,"The Lady, or the Tiger?",Frank R. Stockton,1882,2703,stories/b1/the-lady-or-the-tiger.txt
-B1,The Happy Prince,Oscar Wilde,1888,3490,stories/b1/the-happy-prince.txt
-B1,How Much Land Does a Man Need?,Leo Tolstoy (trans. L. & A. Maude),1886,6217,stories/b1/how-much-land-does-a-man-need.txt
-B2,The Tell-Tale Heart,Edgar Allan Poe,1843,2078,stories/b2/the-tell-tale-heart.txt
-B2,The Notorious Jumping Frog of Calaveras County,Mark Twain,1865,2554,stories/b2/the-jumping-frog.txt
-B2,The Bet,Anton Chekhov (trans. Constance Garnett),1889,2689,stories/b2/the-bet.txt
-B2,The Necklace (The Diamond Necklace),Guy de Maupassant,1884,2836,stories/b2/the-necklace.txt
-B2,To Build a Fire,Jack London,1908,7081,stories/b2/to-build-a-fire.txt
+B1,A Respectable Woman,Kate Chopin,1894,1446,modern-stories/b1/a-respectable-woman.txt
+B1,Misery,Anton Chekhov (trans. Constance Garnett),1886,2090,modern-stories/b1/misery.txt
+B1,The Cop and the Anthem,O. Henry,1904,2264,modern-stories/b1/the-cop-and-the-anthem.txt
+B1,Mammon and the Archer,O. Henry,1906,2294,modern-stories/b1/mammon-and-the-archer.txt
+B1,A Retrieved Reformation,O. Henry,1903,2804,modern-stories/b1/a-retrieved-reformation.txt
+B1,The Umbrella,Guy de Maupassant,1884,3046,modern-stories/b1/the-umbrella.txt
+B1,The Ransom of Red Chief,O. Henry,1910,4153,modern-stories/b1/the-ransom-of-red-chief.txt
+B2,Eveline,James Joyce,1914,1819,modern-stories/b2/eveline.txt
+B2,Miss Brill,Katherine Mansfield,1920,1929,modern-stories/b2/miss-brill.txt
+B2,Désirée's Baby,Kate Chopin,1893,2143,modern-stories/b2/desirees-baby.txt
+B2,The Piece of String,Guy de Maupassant,1883,2324,modern-stories/b2/the-piece-of-string.txt
+B2,Araby,James Joyce,1914,2329,modern-stories/b2/araby.txt
+B2,The Beauties,Anton Chekhov (trans. Constance Garnett),1888,3311,modern-stories/b2/the-beauties.txt
+B2,The Schoolmistress,Anton Chekhov (trans. Constance Garnett),1897,3430,modern-stories/b2/the-schoolmistress.txt
+B2,The Garden Party,Katherine Mansfield,1922,5305,modern-stories/b2/the-garden-party.txt
+B2,Paul's Case,Willa Cather,1905,8406,modern-stories/b2/pauls-case.txt
