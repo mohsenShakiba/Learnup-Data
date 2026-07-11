@@ -1,16 +1,16 @@
 The Ethics of Artificial Intelligence
-black-box, automation-risk, autonomous, deepfake, dataset, existential-risk, job-displacement, ethical-guardrails, sentient, unintended-consequences, machine-learning, opacity, guardrail, safeguards, decision-making, bias-in-data, regulation-lag, accountability-void, algorithmic, surveillance-creep
-My biggest worry with AI is the black-box problem.
+black box, automation risk, autonomous, deepfake, dataset, existential risk, job displacement, ethical guardrails, sentient, unintended consequences, machine learning, opacity, guardrail, safeguards, decision making, bias in data, regulation lag, accountability void, algorithmic, surveillance creep
+My biggest worry with AI is the black box problem.
 The opacity, you mean? We can't see how the model reasons.
-Right. Every machine-learning system is only as fair as its dataset.
-Which is why bias-in-data leads to biased, algorithmic decision-making.
-And if no one's responsible, you get a real accountability-void.
-That, plus regulation-lag — the law never keeps up with the tech.
-Some fear an existential-risk from truly autonomous systems.
-I'm less worried about a sentient machine than about job-displacement today.
-Fair. The near-term automation-risk is concrete.
-As is surveillance-creep, and deepfake content eroding trust.
+Right. Every machine learning system is only as fair as its dataset.
+Which is why bias in data leads to biased, algorithmic decision making.
+And if no one's responsible, you get a real accountability void.
+That, plus regulation lag — the law never keeps up with the tech.
+Some fear an existential risk from truly autonomous systems.
+I'm less worried about a sentient machine than about job displacement today.
+Fair. The near-term automation risk is concrete.
+As is surveillance creep, and deepfake content eroding trust.
 So what's the answer — more oversight?
-Strong ethical-guardrails, a human guardrail, and technical safeguards.
-Otherwise the unintended-consequences could be enormous.
+Strong ethical guardrails, a human guardrail, and technical safeguards.
+Otherwise the unintended consequences could be enormous.
 Exactly. Build the brakes before you build the engine.
