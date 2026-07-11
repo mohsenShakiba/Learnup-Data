@@ -1,5 +1,5 @@
 Reporting a Local Problem
-council, streetlight, dangerous, resident, urgent, follow up, pothole, graffiti, vandalism, hazard, drainage, flooding, overgrown, fly-tipping, maintenance, petition, inspect, neglected, eyesore, reference-number
+council, streetlight, dangerous, resident, urgent, follow up, pothole, graffiti, vandalism, hazard, drainage, flooding, overgrown, fly-tipping, maintenance, petition, inspect, neglected, eyesore, reference number
 Hello, I'd like to report a problem to the council.
 Of course. What seems to be the issue?
 The streetlight on my road is broken.
@@ -18,5 +18,5 @@ This all sounds urgent.
 The maintenance has been ignored for years.
 Many residents want to sign a petition.
 I'll send someone to inspect it.
-Please give me a reference-number.
+Please give me a reference number.
 Certainly. We'll follow up with you soon.

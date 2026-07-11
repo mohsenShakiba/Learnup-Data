@@ -1,5 +1,5 @@
 Opening a Bank Account
-current, interest, documents, statement, apply, fees, overdraft, minimum, banking, cheque, chequebook, withdrawal, eligible, joint, contactless, notify, charges, funds, cashpoint, sortcode
+current, interest, documents, statement, apply, fees, overdraft, minimum, banking, cheque, chequebook, withdrawal, eligible, joint, contactless, notify, charges, funds, cashpoint, sort code
 Good morning. I'd like to apply for an account.
 Of course. A savings or current account?
 What's the difference between them?
@@ -9,7 +9,7 @@ No, but keep a minimum balance to avoid an overdraft.
 Can I manage it with online banking?
 Yes, and you get a contactless card too.
 What documents do I need?
-Your identity card, proof of address, and your sortcode.
+Your identity card, proof of address, and your sort code.
 Can we open a joint account together?
 Certainly, if you are both eligible.
 Do I get a chequebook?

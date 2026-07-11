@@ -1,5 +1,5 @@
 Discussing Public Transport
-transport, reliable, frequent, alternative, congestion, rely, overcrowded, season-ticket, tram, tube, connection, strike, detour, turnstile, validate, top-up, standing, subsidised, cyclist, gridlock
+transport, reliable, frequent, alternative, congestion, rely, overcrowded, season ticket, tram, tube, connection, strike, detour, turnstile, validate, top up, standing, subsidised, cyclist, gridlock
 Do you usually take the bus to work?
 I do, but it's not always reliable.
 Are the buses ever overcrowded?
@@ -8,8 +8,8 @@ Why not take the tube or a tram?
 The connection between them is awkward.
 Trains are more frequent, though.
 True, but I hate a badly timed detour.
-Do you have a season-ticket?
-Yes, but I still have to top-up my card.
+Do you have a season ticket?
+Yes, but I still have to top up my card.
 And validate it at the turnstile each time.
 Was there a strike last week?
 Yes, the whole city was in gridlock.

@@ -4,13 +4,13 @@ Hi, tech support. How can I help?
 My internet isn't working. There's no signal on any device.
 Oh no, sorry about that. Let me pull up your information and we'll fix it.
 Thanks.
-Okay, that box by your TV, the router. Is the light green?
+Okay, check the router by your TV. Is the light green?
 No, it's red actually.
 Alright. First, check the cable at the back is in the plug properly.
 Yeah, it's in.
 Good. Now turn the box off, then on again, to restart it.
 One moment... okay, done.
-Now give it a minute and watch the screen.
+Now give it a minute and watch the light.
 Oh, the light's green now!
 Great. Open your computer and click connect to the network.
 Yes! It works. Thank you so much.
