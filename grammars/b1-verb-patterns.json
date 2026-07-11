@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "بعد از هر فعل، الگوی بعدی را جدا یاد بگیرید: verb + to-infinitive، verb + gerund، یا verb + object + infinitive.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: plan + to-infinitive",
         "htmlTag": 2,
         "content": "کاربرد 1: plan + to-infinitive",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: plan + to-infinitive",
         "htmlTag": 0,
         "content": "We plan to travel in August.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: plan + to-infinitive",
         "htmlTag": 0,
         "content": "فعل plan معمولا با to-infinitive می‌آید، چون درباره نیت یا برنامه آینده صحبت می‌کند. بنابراین to travel ادامه طبیعی این فعل است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: decide + to-infinitive",
         "htmlTag": 2,
         "content": "کاربرد 2: decide + to-infinitive",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: decide + to-infinitive",
         "htmlTag": 0,
         "content": "She decided to leave early.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: decide + to-infinitive",
         "htmlTag": 0,
         "content": "اینجا بعد از decide از to leave استفاده شده، چون تصمیم درباره انجام یک عمل است. این یکی از الگوهای بسیار رایج در انگلیسی است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "فعل‌هایی مانند want، hope، need و agree هم اغلب با to-infinitive می‌آیند. یاد گرفتن این گروه به صورت دسته‌ای کمک می‌کند هنگام جمله‌سازی انتخاب سریع‌تر و درست‌تری داشته باشیم.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I hope to see you soon.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال hope با to-infinitive آمده است، چون گوینده درباره یک انتظار یا آرزو نسبت به آینده حرف می‌زند.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "They agreed to help us.",
+        "content": "I hope to see you soon.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا to help ادامه درست فعل agreed است و نشان می‌دهد کمک کردن چیزی است که بر سر آن توافق شده است.",
+        "content": "در این مثال hope با to-infinitive آمده است، چون گوینده درباره یک انتظار یا آرزو نسبت به آینده حرف می‌زند.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They agreed to help us.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا to help ادامه درست فعل agreed است و نشان می‌دهد کمک کردن چیزی است که بر سر آن توافق شده است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "فعل‌هایی که با gerund می‌آیند",
         "htmlTag": 1,
         "content": "فعل‌هایی که با gerund می‌آیند",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "فعل‌هایی که با gerund می‌آیند",
         "htmlTag": 0,
         "content": "بعضی فعل‌ها به‌جای to-infinitive با فعل ingدار می‌آیند. این ساختار بیشتر در فعل‌هایی دیده می‌شود که به احساس، ادامه دادن، متوقف کردن یا فعالیت‌های ذهنی و عادتی مربوط‌اند.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: enjoy + gerund",
         "htmlTag": 2,
         "content": "کاربرد 1: enjoy + gerund",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: enjoy + gerund",
         "htmlTag": 0,
         "content": "I enjoy reading before bed.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: enjoy + gerund",
         "htmlTag": 0,
         "content": "بعد از enjoy معمولا gerund می‌آید، چون صحبت درباره لذت بردن از یک فعالیت است. بنابراین reading شکل طبیعی و درست این جمله است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: avoid + gerund",
         "htmlTag": 2,
         "content": "کاربرد 2: avoid + gerund",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: avoid + gerund",
         "htmlTag": 0,
         "content": "He avoids talking about money.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: avoid + gerund",
         "htmlTag": 0,
         "content": "اینجا talking بعد از avoids آمده، چون فعل avoid معمولا با gerund ساخته می‌شود. جمله نشان می‌دهد او از انجام آن گفتگو دوری می‌کند.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "فعل‌هایی مثل finish، consider، suggest و keep نیز اغلب با gerund همراه می‌شوند. اگر به‌جای gerund بعد از آن‌ها to-infinitive بگذاریم، جمله برای بسیاری از گویشوران نادرست یا عجیب خواهد بود.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "They finished cleaning the kitchen.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال cleaning فعالیتی است که کامل شده است و after finish به شکل gerund می‌آید.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "She suggested going by train.",
+        "content": "They finished cleaning the kitchen.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا after suggested از gerund استفاده شده، چون فعل suggest معمولا به این الگو نیاز دارد.",
+        "content": "در این مثال cleaning فعالیتی است که کامل شده است و after finish به شکل gerund می‌آید.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She suggested going by train.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا after suggested از gerund استفاده شده، چون فعل suggest معمولا به این الگو نیاز دارد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "فعل‌هایی که هر دو الگو را می‌پذیرند",
         "htmlTag": 1,
         "content": "فعل‌هایی که هر دو الگو را می‌پذیرند",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "فعل‌هایی که هر دو الگو را می‌پذیرند",
         "htmlTag": 0,
         "content": "بعضی فعل‌ها می‌توانند هم با gerund و هم با infinitive بیایند، اما همیشه معنی یا تاکیدشان یکسان نیست. شناخت این تفاوت‌ها کمک می‌کند جمله دقیق‌تر و طبیعی‌تری بسازیم.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: like + gerund / infinitive",
         "htmlTag": 2,
         "content": "کاربرد 1: like + gerund / infinitive",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: like + gerund / infinitive",
         "htmlTag": 0,
         "content": "I like swimming. / I like to swim in the morning.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: like + gerund / infinitive",
         "htmlTag": 0,
         "content": "هر دو جمله درست هستند، اما جمله اول بیشتر علاقه عمومی به فعالیت را نشان می‌دهد و جمله دوم می‌تواند عادت یا ترجیح در یک موقعیت مشخص‌تر را برجسته کند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: remember + infinitive / gerund",
         "htmlTag": 2,
         "content": "کاربرد 2: remember + infinitive / gerund",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: remember + infinitive / gerund",
         "htmlTag": 0,
         "content": "Remember to lock the door. / I remember locking the door.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: remember + infinitive / gerund",
         "htmlTag": 0,
         "content": "در جمله اول remember به خاطر سپردن کاری برای آینده است، اما در جمله دوم به یاد داشتن کاری است که قبلا انجام شده است. این تفاوت معنایی بسیار مهم است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "فعل‌هایی مانند stop، try و forget هم از همین نوع هستند و با تغییر الگو، معنی‌شان عوض می‌شود. برای این گروه‌ها حفظ کردن فقط شکل کافی نیست؛ باید فرق معنایی را هم تمرین کنیم.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "He stopped smoking last year.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "اینجا smoking فعالیتی است که او آن را ترک کرده است. stop + gerund یعنی پایان دادن به یک کار.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He stopped to smoke.",
+        "content": "He stopped smoking last year.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "در این جمله stop + infinitive یعنی او کار دیگری را متوقف کرد تا سیگار بکشد. بنابراین معنی با مثال قبلی یکسان نیست.",
+        "content": "اینجا smoking فعالیتی است که او آن را ترک کرده است. stop + gerund یعنی پایان دادن به یک کار.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He stopped to smoke.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این جمله stop + infinitive یعنی او کار دیگری را متوقف کرد تا سیگار بکشد. بنابراین معنی با مثال قبلی یکسان نیست.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

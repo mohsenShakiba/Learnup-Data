@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "اول رابطه بین دو ایده را تشخیص دهید: اضافه کردن، تضاد، دلیل، نتیجه یا ترتیب. بعد linker مناسب را انتخاب کنید.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: بیان دلیل با because",
         "htmlTag": 2,
         "content": "کاربرد 1: بیان دلیل با because",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: بیان دلیل با because",
         "htmlTag": 0,
         "content": "I stayed home because I felt sick.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: بیان دلیل با because",
         "htmlTag": 0,
         "content": "در این جمله because دلیل انجام کار را معرفی می‌کند. بخش بعد از because توضیح می‌دهد چرا گوینده در خانه مانده است، پس مخاطب فقط نتیجه را نمی‌بیند و علت را هم می‌فهمد.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: بیان نتیجه با so",
         "htmlTag": 2,
         "content": "کاربرد 2: بیان نتیجه با so",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: بیان نتیجه با so",
         "htmlTag": 0,
         "content": "The bus was late, so we took a taxi.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: بیان نتیجه با so",
         "htmlTag": 0,
         "content": "اینجا so نتیجه طبیعی موقعیت اول را نشان می‌دهد. تاخیر اتوبوس علت اصلی است و گرفتن تاکسی نتیجه‌ای است که بعد از آن رخ داده است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "because معمولا ما را به سمت دلیل می‌برد، اما so نتیجه را معرفی می‌کند. اگر این دو را جابه‌جا کنیم، منطق جمله به هم می‌ریزد یا دست‌کم برای یادگیرنده مبهم می‌شود.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She was tired, so she went to bed early.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال tired بودن علت موقعیت است و زود خوابیدن نتیجه آن است. so رابطه علت و نتیجه را روشن می‌کند.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "We left early because the weather was getting worse.",
+        "content": "She was tired, so she went to bed early.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا because توضیح می‌دهد چرا تصمیم به زود رفتن گرفته شد. این linker برای پاسخ به سوال «چرا؟» بسیار رایج است.",
+        "content": "در این مثال tired بودن علت موقعیت است و زود خوابیدن نتیجه آن است. so رابطه علت و نتیجه را روشن می‌کند.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We left early because the weather was getting worse.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا because توضیح می‌دهد چرا تصمیم به زود رفتن گرفته شد. این linker برای پاسخ به سوال «چرا؟» بسیار رایج است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "رابط‌ها برای تضاد و مقایسه ایده‌ها",
         "htmlTag": 1,
         "content": "رابط‌ها برای تضاد و مقایسه ایده‌ها",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "رابط‌ها برای تضاد و مقایسه ایده‌ها",
         "htmlTag": 0,
         "content": "وقتی دو بخش جمله در یک جهت حرکت نمی‌کنند، به linkerهای تضاد نیاز داریم. این کلمه‌ها کمک می‌کنند تفاوت، غافلگیری یا مخالفت بین دو ایده را واضح نشان دهیم و متن ما طبیعی‌تر و تحلیلی‌تر به نظر برسد.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: تضاد با but",
         "htmlTag": 2,
         "content": "کاربرد 1: تضاد با but",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: تضاد با but",
         "htmlTag": 0,
         "content": "I like the city, but I do not want to live there.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: تضاد با but",
         "htmlTag": 0,
         "content": "در این جمله but دو ایده متفاوت را کنار هم قرار می‌دهد. گوینده یک نکته مثبت را می‌گوید، اما بلافاصله نظر متفاوت خودش را هم اضافه می‌کند.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: تضاد رسمی‌تر با however",
         "htmlTag": 2,
         "content": "کاربرد 2: تضاد رسمی‌تر با however",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: تضاد رسمی‌تر با however",
         "htmlTag": 0,
         "content": "The plan looked simple; however, it was difficult to finish.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: تضاد رسمی‌تر با however",
         "htmlTag": 0,
         "content": "اینجا however نشان می‌دهد انتظار اولیه با نتیجه واقعی فرق داشته است. این linker کمی رسمی‌تر از but است و در نوشتار زیاد دیده می‌شود.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "although هم برای تضاد استفاده می‌شود، اما معمولا یک clause وابسته را معرفی می‌کند. در مقابل however بیشتر بین دو جمله یا دو بخش مستقل قرار می‌گیرد و لحن رسمی‌تری دارد.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Although he was nervous, he gave a clear presentation.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال although شرایط دشوار را معرفی می‌کند، اما نتیجه خلاف انتظار بعد از آن می‌آید. این ساختار برای نشان دادن غافلگیری بسیار مفید است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "I studied a lot. However, the test was still hard.",
+        "content": "Although he was nervous, he gave a clear presentation.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا however تضاد بین تلاش زیاد و دشوار بودن آزمون را نشان می‌دهد. این linker کمک می‌کند دو جمله مستقل را منطقی به هم وصل کنیم.",
+        "content": "در این مثال although شرایط دشوار را معرفی می‌کند، اما نتیجه خلاف انتظار بعد از آن می‌آید. این ساختار برای نشان دادن غافلگیری بسیار مفید است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I studied a lot. However, the test was still hard.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا however تضاد بین تلاش زیاد و دشوار بودن آزمون را نشان می‌دهد. این linker کمک می‌کند دو جمله مستقل را منطقی به هم وصل کنیم.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "رابط‌ها برای مثال، ترتیب و انسجام متن",
         "htmlTag": 1,
         "content": "رابط‌ها برای مثال، ترتیب و انسجام متن",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "رابط‌ها برای مثال، ترتیب و انسجام متن",
         "htmlTag": 0,
         "content": "فقط دانستن دلیل و تضاد کافی نیست. در سطح B1 باید بتوانیم مثال بزنیم، نکته تازه اضافه کنیم و شنونده یا خواننده را مرحله به مرحله در مسیر متن جلو ببریم. این مهارت برای پاراگراف‌نویسی و صحبت منظم خیلی مهم است.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: مثال زدن با for example",
         "htmlTag": 2,
         "content": "کاربرد 1: مثال زدن با for example",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: مثال زدن با for example",
         "htmlTag": 0,
         "content": "Many activities are free in this city. For example, you can visit the museum on Fridays.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: مثال زدن با for example",
         "htmlTag": 0,
         "content": "در اینجا for example ادعای کلی جمله اول را با یک نمونه واقعی روشن می‌کند. این کار باعث می‌شود ایده فقط کلی و مبهم نماند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: افزودن نکته تازه با also",
         "htmlTag": 2,
         "content": "کاربرد 2: افزودن نکته تازه با also",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: افزودن نکته تازه با also",
         "htmlTag": 0,
         "content": "She speaks English, and she also understands Spanish.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: افزودن نکته تازه با also",
         "htmlTag": 0,
         "content": "اینجا also یک توانایی دیگر را به اطلاعات قبلی اضافه می‌کند. این linker برای بزرگ‌تر کردن دامنه اطلاعات بدون شروع یک جمله کاملا جدا مفید است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "وقتی چند linker را در یک متن به کار می‌بریم، باید هر کدام نقش مشخصی داشته باشد. استفاده زیاد و بی‌هدف از آن‌ها متن را طبیعی‌تر نمی‌کند؛ برعکس، اگر رابطه‌ها دقیق نباشند، متن مصنوعی به نظر می‌رسد.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "First, read the question carefully. Then, choose the best answer.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال linkerهای ترتیبی به مخاطب کمک می‌کنند مراحل کار را به ترتیب درست دنبال کند. این نوع رابطه در توضیح فرایندها مهم است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The hotel was cheap, and it was also close to the station.",
+        "content": "First, read the question carefully. Then, choose the best answer.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا also مزیت دوم را به مزیت اول اضافه می‌کند و متن را منسجم‌تر می‌سازد. این کاربرد در توصیف و مقایسه بسیار رایج است.",
+        "content": "در این مثال linkerهای ترتیبی به مخاطب کمک می‌کنند مراحل کار را به ترتیب درست دنبال کند. این نوع رابطه در توضیح فرایندها مهم است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The hotel was cheap, and it was also close to the station.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا also مزیت دوم را به مزیت اول اضافه می‌کند و متن را منسجم‌تر می‌سازد. این کاربرد در توصیف و مقایسه بسیار رایج است.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

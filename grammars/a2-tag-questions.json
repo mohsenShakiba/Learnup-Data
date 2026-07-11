@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: جمله مثبت، ضمیمه منفی",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: جمله مثبت، ضمیمه منفی",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: جمله مثبت، ضمیمه منفی",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "You are a student, aren't you?",
+        "content": "tag question با فعل کمکی جمله ساخته می‌شود. اگر جمله مثبت است، tag معمولاً منفی می‌آید؛ اگر جمله منفی است، tag مثبت می‌آید.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: جمله مثبت، ضمیمه منفی",
-        "htmlTag": 0,
-        "content": "چون جمله اصلی مثبت است، سوال ضمیمه منفی می‌شود. از همان فعل کمکی جمله استفاده می‌کنیم.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: جمله مثبت، ضمیمه منفی",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: جمله مثبت، ضمیمه منفی",
         "htmlTag": 0,
-        "content": "She likes tea, doesn't she?",
+        "content": "You are a student, aren't you?",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: جمله مثبت، ضمیمه منفی",
         "htmlTag": 0,
-        "content": "جمله با حال ساده ساخته شده، پس در ضمیمه از doesn't کمک می‌گیریم.",
+        "content": "چون جمله اصلی مثبت است، سوال ضمیمه منفی می‌شود. از همان فعل کمکی جمله استفاده می‌کنیم.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جمله مثبت، ضمیمه منفی",
+        "htmlTag": 0,
+        "content": "She likes tea, doesn't she?",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جمله مثبت، ضمیمه منفی",
+        "htmlTag": 0,
+        "content": "جمله با حال ساده ساخته شده، پس در ضمیمه از doesn't کمک می‌گیریم.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: جمله منفی، ضمیمه مثبت",
         "htmlTag": 2,
         "content": "کاربرد 2: جمله منفی، ضمیمه مثبت",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: جمله منفی، ضمیمه مثبت",
-        "htmlTag": 0,
-        "content": "He isn't here, is he?",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: جمله منفی، ضمیمه مثبت",
-        "htmlTag": 0,
-        "content": "چون جمله اصلی منفی است، سوال ضمیمه مثبت می‌شود. این تعادل قانون اصلی سوال‌های ضمیمه است.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: جمله منفی، ضمیمه مثبت",
         "htmlTag": 0,
-        "content": "They didn't call, did they?",
+        "content": "He isn't here, is he?",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: جمله منفی، ضمیمه مثبت",
         "htmlTag": 0,
-        "content": "جمله منفی با گذشته ساده است، پس ضمیمه مثبت با did ساخته شده است.",
+        "content": "چون جمله اصلی منفی است، سوال ضمیمه مثبت می‌شود. این تعادل قانون اصلی سوال‌های ضمیمه است.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جمله منفی، ضمیمه مثبت",
+        "htmlTag": 0,
+        "content": "They didn't call, did they?",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جمله منفی، ضمیمه مثبت",
+        "htmlTag": 0,
+        "content": "جمله منفی با گذشته ساده است، پس ضمیمه مثبت با did ساخته شده است.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر جمله مثبت باشد ضمیمه منفی است و برعکس. ضمیر ضمیمه باید با فاعل جمله اصلی هماهنگ باشد.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "It's cold today, isn't it?",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "جمله مثبت با is آمده، پس ضمیمه isn't it می‌شود.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "You can swim, can't you?",
+        "content": "It's cold today, isn't it?",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "فعل کمکی can در جمله است، پس در ضمیمه هم از can't استفاده می‌کنیم.",
+        "content": "جمله مثبت با is آمده، پس ضمیمه isn't it می‌شود.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "You can swim, can't you?",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "فعل کمکی can در جمله است، پس در ضمیمه هم از can't استفاده می‌کنیم.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

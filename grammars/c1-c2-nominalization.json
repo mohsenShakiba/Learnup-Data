@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "در nominalization، فعل یا صفت به اسم تبدیل می‌شود تا تمرکز از انجام‌دهنده به فرایند، نتیجه یا مفهوم منتقل شود.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: تمرکز بر فرایند به‌جای انجام‌دهنده",
         "htmlTag": 2,
         "content": "کاربرد 1: تمرکز بر فرایند به‌جای انجام‌دهنده",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,15 +51,15 @@
         "title": "کاربرد 1: تمرکز بر فرایند به‌جای انجام‌دهنده",
         "htmlTag": 0,
         "content": "The implementation of the policy took longer than expected.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: تمرکز بر فرایند به‌جای انجام‌دهنده",
         "htmlTag": 0,
-        "content": "به‌جای اینکه بگوییم They implemented the policy slowly، اینجا implementation به‌عنوان اسم آمده و توجه را از فاعل به خودِ فرایند اجرای policy منتقل کرده است.",
-        "order": 5,
+        "content": "به‌جای ساخت فعلی مثل They implemented the policy slowly، اینجا implementation به‌عنوان اسم آمده است. با این تغییر، توجه از انجام‌دهنده به خودِ فرایند اجرای policy منتقل می‌شود.",
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: بسته‌بندی اطلاعات در یک گروه اسمی",
         "htmlTag": 2,
         "content": "کاربرد 2: بسته‌بندی اطلاعات در یک گروه اسمی",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: بسته‌بندی اطلاعات در یک گروه اسمی",
         "htmlTag": 0,
         "content": "The expansion of the program created new challenges.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: بسته‌بندی اطلاعات در یک گروه اسمی",
         "htmlTag": 0,
         "content": "در این جمله expansion یک اسم است که عمل گسترش را به‌صورت فشرده درون یک عبارت اسمی قرار می‌دهد. این الگو برای ساخت متن تحلیلی و گزارشی بسیار مفید است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اسم‌سازی معمولاً با پسوندهایی مثل -tion، -ment، -ance و -al دیده می‌شود، اما نکته‌ی مهم فقط شکل کلمه نیست؛ مهم این است که جمله از یک عمل پویا به یک مفهوم اسمی تبدیل می‌شود.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The failure of the system caused significant delays.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "به‌جای تمرکز بر اینکه system failed، نویسنده failure را اسم کرده و آن را موضوع اصلی تحلیل قرار داده است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Their refusal to cooperate surprised the committee.",
+        "content": "The failure of the system caused significant delays.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "refusal یک اسم‌سازی از فعل refuse است و کمک می‌کند کنش به‌صورت یک رویداد قابل بحث و ارزیابی بیان شود.",
+        "content": "به‌جای تمرکز بر اینکه system failed، نویسنده failure را اسم کرده و آن را موضوع اصلی تحلیل قرار داده است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Their refusal to cooperate surprised the committee.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "refusal یک اسم‌سازی از فعل refuse است و کمک می‌کند کنش به‌صورت یک رویداد قابل بحث و ارزیابی بیان شود.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,15 +147,15 @@
         "title": "اسم‌سازی از صفت‌ها و ساخت لحن رسمی‌تر",
         "htmlTag": 1,
         "content": "اسم‌سازی از صفت‌ها و ساخت لحن رسمی‌تر",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "اسم‌سازی از صفت‌ها و ساخت لحن رسمی‌تر",
         "htmlTag": 0,
-        "content": "فقط فعل‌ها نیستند که nominalized می‌شوند؛ بسیاری از صفت‌ها هم می‌توانند به اسم تبدیل شوند تا کیفیت‌ها یا ارزیابی‌ها به‌صورت انتزاعی‌تر بیان شوند. این کار در زبان رسمی باعث می‌شود متن کمتر شخصی و بیشتر تحلیلی به نظر برسد.",
-        "order": 17,
+        "content": "اسم‌سازی فقط از فعل‌ها انجام نمی‌شود؛ بسیاری از صفت‌ها هم می‌توانند به اسم تبدیل شوند تا کیفیت‌ها یا ارزیابی‌ها به‌صورت انتزاعی‌تر بیان شوند. این کار در زبان رسمی باعث می‌شود متن کمتر شخصی و بیشتر تحلیلی به نظر برسد.",
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: تبدیل کیفیت به مفهوم انتزاعی",
         "htmlTag": 2,
         "content": "کاربرد 1: تبدیل کیفیت به مفهوم انتزاعی",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: تبدیل کیفیت به مفهوم انتزاعی",
         "htmlTag": 0,
         "content": "The accuracy of the data is still uncertain.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: تبدیل کیفیت به مفهوم انتزاعی",
         "htmlTag": 0,
         "content": "accuracy از accurate آمده و به‌جای اینکه مستقیم بگوییم The data is accurate، ویژگیِ دقیق بودن را به‌صورت یک مفهوم اسمی مطرح می‌کند.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: رسمی‌تر کردن داوری",
         "htmlTag": 2,
         "content": "کاربرد 2: رسمی‌تر کردن داوری",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: رسمی‌تر کردن داوری",
         "htmlTag": 0,
         "content": "There is growing concern about the stability of the market.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: رسمی‌تر کردن داوری",
         "htmlTag": 0,
         "content": "concern و stability هر دو لحن جمله را رسمی‌تر می‌کنند. به‌جای بیان مستقیم احساس یا صفت، نویسنده آن‌ها را به‌صورت مفاهیم قابل تحلیل ارائه می‌دهد.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "nominalization معمولاً متن را رسمی‌تر می‌کند، اما هم‌زمان می‌تواند فاصله‌ی معنایی ایجاد کند. بنابراین باید آگاهانه انتخاب شود، مخصوصاً وقتی می‌خواهیم بین لحن شخصی و لحن سازمانی جابه‌جا شویم.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The weakness of the argument became obvious during the debate.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "weakness از weak ساخته شده و کیفیتِ ضعیف بودن را به یک موضوع تحلیلی تبدیل کرده است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Its effectiveness depends on careful monitoring.",
+        "content": "The weakness of the argument became obvious during the debate.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "effectiveness و monitoring هر دو نشان می‌دهند جمله به سبک دانشگاهی و ارزیابانه نزدیک شده است.",
+        "content": "weakness از weak ساخته شده و کیفیتِ ضعیف بودن را به یک موضوع تحلیلی تبدیل کرده است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Its effectiveness depends on careful monitoring.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "effectiveness و monitoring هر دو نشان می‌دهند جمله به سبک دانشگاهی و ارزیابانه نزدیک شده است.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "تعادل بین فشردگی و وضوح",
         "htmlTag": 1,
         "content": "تعادل بین فشردگی و وضوح",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "تعادل بین فشردگی و وضوح",
         "htmlTag": 0,
         "content": "اگر از nominalization بیش از حد استفاده کنیم، متن سنگین، مبهم و بی‌فاعل می‌شود. در بسیاری از متون خوب، نویسنده بین ساختارهای فعلی و اسمی تعادل برقرار می‌کند: جایی که تحلیل و رسمی‌بودن مهم است از اسم‌سازی استفاده می‌کند، و جایی که وضوح و حرکت جمله مهم‌تر است به سراغ فعل‌های مستقیم می‌رود.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: وقتی اسم‌سازی مفید است",
         "htmlTag": 2,
         "content": "کاربرد 1: وقتی اسم‌سازی مفید است",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: وقتی اسم‌سازی مفید است",
         "htmlTag": 0,
         "content": "The rapid deterioration of trust damaged the negotiations.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: وقتی اسم‌سازی مفید است",
         "htmlTag": 0,
         "content": "اینجا deterioration کمک می‌کند فرایند افت اعتماد به‌صورت یک پدیده‌ی قابل بررسی بیان شود. این برای گزارش یا تحلیل مناسب است.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: وقتی ساختار فعلی شفاف‌تر است",
         "htmlTag": 2,
         "content": "کاربرد 2: وقتی ساختار فعلی شفاف‌تر است",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: وقتی ساختار فعلی شفاف‌تر است",
         "htmlTag": 0,
         "content": "Trust deteriorated rapidly, and the negotiations collapsed.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: وقتی ساختار فعلی شفاف‌تر است",
         "htmlTag": 0,
         "content": "این جمله مستقیم‌تر و پویاتر است. در بعضی بافت‌ها، همین صراحت از nominalization بهتر عمل می‌کند، چون فاعل و کنش روشن‌تر دیده می‌شوند.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اسم‌سازی ابزار مفیدی برای کنترل register است، اما نباید جایگزین همه‌ی فعل‌ها شود. معیار اصلی این است که آیا جمله با nominalization دقیق‌تر و مناسب‌تر شده یا فقط سنگین‌تر شده است.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The rejection of the offer led to further discussion.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "این ساختار برای گزارش رویدادها در سبک رسمی مناسب است، چون رویداد را به‌صورت یک واحد مفهومی ارائه می‌دهد.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "They rejected the offer and discussed other options.",
+        "content": "The rejection of the offer led to further discussion.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا فعل‌های مستقیم متن را زنده‌تر و روشن‌تر می‌کنند؛ پس از نظر سبکی انتخاب به هدف متن بستگی دارد.",
+        "content": "این ساختار برای گزارش رویدادها در سبک رسمی مناسب است، چون رویداد را به‌صورت یک واحد مفهومی ارائه می‌دهد.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They rejected the offer and discussed other options.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا فعل‌های مستقیم متن را زنده‌تر و روشن‌تر می‌کنند؛ پس از نظر سبکی انتخاب به هدف متن بستگی دارد.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

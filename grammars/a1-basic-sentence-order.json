@@ -23,10 +23,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "الگوی پایه را نگه دارید: فاعل + فعل + مفعول/تکمیل‌کننده. بیشتر خطاهای سطح پایه از جابه‌جایی همین سه بخش می‌آیند.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: الگوی فاعل + فعل",
         "htmlTag": 2,
         "content": "کاربرد 1: الگوی فاعل + فعل",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -34,7 +50,7 @@
         "title": "کاربرد 1: الگوی فاعل + فعل",
         "htmlTag": 0,
         "content": "Birds sing.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -42,7 +58,7 @@
         "title": "کاربرد 1: الگوی فاعل + فعل",
         "htmlTag": 0,
         "content": "در این جمله birds فاعل است و sing فعل. حتی در کوتاه‌ترین جمله هم معمولا اول فاعل و بعد فعل می‌آید.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -50,7 +66,7 @@
         "title": "کاربرد 2: الگوی فاعل + فعل + مفعول",
         "htmlTag": 2,
         "content": "کاربرد 2: الگوی فاعل + فعل + مفعول",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -58,7 +74,7 @@
         "title": "کاربرد 2: الگوی فاعل + فعل + مفعول",
         "htmlTag": 0,
         "content": "I drink tea.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -66,7 +82,7 @@
         "title": "کاربرد 2: الگوی فاعل + فعل + مفعول",
         "htmlTag": 0,
         "content": "اینجا I فاعل، drink فعل و tea مفعول است. این یکی از پایه‌ای‌ترین الگوهای جمله‌سازی در انگلیسی است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -74,7 +90,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -82,7 +98,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر ترتیب کلمات را بی‌دلیل عوض کنیم، جمله ممکن است نادرست یا غیرطبیعی شود. برخلاف فارسی، در انگلیسی جای کلمات آزادی کمتری دارد و معنی بیشتر به جای کلمات وابسته است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -90,22 +106,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She reads books.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "این مثال همان الگوی ساده فاعل، فعل و مفعول را نشان می‌دهد و برای جمله‌های خبری روزمره بسیار رایج است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -113,7 +113,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "They play football.",
+        "content": "She reads books.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -121,8 +121,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "در این جمله هم فاعل اول آمده، بعد فعل و سپس مفعول. این نظم به شنونده کمک می‌کند نقش هر کلمه را سریع بفهمد.",
+        "content": "این مثال همان الگوی ساده فاعل، فعل و مفعول را نشان می‌دهد و برای جمله‌های خبری روزمره بسیار رایج است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They play football.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این جمله هم فاعل اول آمده، بعد فعل و سپس مفعول. این نظم به شنونده کمک می‌کند نقش هر کلمه را سریع بفهمد.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -130,7 +146,7 @@
         "title": "جای صفت، مکان و زمان",
         "htmlTag": 1,
         "content": "جای صفت، مکان و زمان",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -138,7 +154,7 @@
         "title": "جای صفت، مکان و زمان",
         "htmlTag": 0,
         "content": "وقتی جمله فقط از فاعل و فعل تشکیل نمی‌شود، باید بدانیم اطلاعات اضافه کجا می‌آیند. صفت معمولا قبل از اسم می‌آید، و عبارت‌های مکان و زمان اغلب بعد از فعل یا بعد از مفعول قرار می‌گیرند.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -146,7 +162,7 @@
         "title": "کاربرد 1: صفت قبل از اسم",
         "htmlTag": 2,
         "content": "کاربرد 1: صفت قبل از اسم",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -154,7 +170,7 @@
         "title": "کاربرد 1: صفت قبل از اسم",
         "htmlTag": 0,
         "content": "She has a small bag.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -162,7 +178,7 @@
         "title": "کاربرد 1: صفت قبل از اسم",
         "htmlTag": 0,
         "content": "در این مثال small قبل از bag آمده است. در انگلیسی صفت معمولا پیش از اسمی می‌آید که آن را توصیف می‌کند.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -170,7 +186,7 @@
         "title": "کاربرد 2: مکان بعد از فعل یا مفعول",
         "htmlTag": 2,
         "content": "کاربرد 2: مکان بعد از فعل یا مفعول",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -178,7 +194,7 @@
         "title": "کاربرد 2: مکان بعد از فعل یا مفعول",
         "htmlTag": 0,
         "content": "We eat lunch at school.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -186,7 +202,7 @@
         "title": "کاربرد 2: مکان بعد از فعل یا مفعول",
         "htmlTag": 0,
         "content": "اینجا at school بعد از بخش اصلی جمله آمده و مکان را توضیح می‌دهد. این جایگاه برای عبارت‌های مکانی خیلی رایج است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -194,7 +210,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -202,7 +218,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "وقتی هم زمان و هم مکان داریم، معمولا مکان به فعل نزدیک‌تر می‌آید و زمان آخر جمله می‌آید. این ترتیب همیشه مطلق نیست، اما برای سطح پایه الگوی خوبی است.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -210,22 +226,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "My father works in a bank.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این جمله عبارت in a bank بعد از فعل آمده و محل کار را نشان می‌دهد. این ساختار برای توضیح مکان بسیار طبیعی است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -233,7 +233,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "They study English every day.",
+        "content": "My father works in a bank.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -241,8 +241,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا every day در پایان جمله آمده تا زمان یا تکرار کار را مشخص کند. این جایگاه برای عبارت‌های زمانی رایج است.",
+        "content": "در این جمله عبارت in a bank بعد از فعل آمده و محل کار را نشان می‌دهد. این ساختار برای توضیح مکان بسیار طبیعی است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They study English every day.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا every day در پایان جمله آمده تا زمان یا تکرار کار را مشخص کند. این جایگاه برای عبارت‌های زمانی رایج است.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -250,7 +266,7 @@
         "title": "جمله‌های کامل‌تر و مرور",
         "htmlTag": 1,
         "content": "جمله‌های کامل‌تر و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -258,7 +274,7 @@
         "title": "جمله‌های کامل‌تر و مرور",
         "htmlTag": 0,
         "content": "برای ساخت جمله کامل باید قطعات مختلف را به شکل منظم کنار هم بگذاریم. اگر اول فاعل، بعد فعل، سپس مفعول و در پایان اطلاعات اضافی را قرار دهیم، بیشتر جمله‌های پایه انگلیسی درست و روان خواهند بود.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -266,7 +282,7 @@
         "title": "کاربرد 1: ترتیب کامل با مفعول و مکان",
         "htmlTag": 2,
         "content": "کاربرد 1: ترتیب کامل با مفعول و مکان",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -274,7 +290,7 @@
         "title": "کاربرد 1: ترتیب کامل با مفعول و مکان",
         "htmlTag": 0,
         "content": "The children play games in the park.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -282,7 +298,7 @@
         "title": "کاربرد 1: ترتیب کامل با مفعول و مکان",
         "htmlTag": 0,
         "content": "در این جمله children فاعل، play فعل و games مفعول است و عبارت in the park در پایان مکان را اضافه می‌کند. این نمونه یک جمله کامل و طبیعی است.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -290,7 +306,7 @@
         "title": "کاربرد 2: فعل be با مکمل",
         "htmlTag": 2,
         "content": "کاربرد 2: فعل be با مکمل",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -298,7 +314,7 @@
         "title": "کاربرد 2: فعل be با مکمل",
         "htmlTag": 0,
         "content": "My room is very clean.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -306,7 +322,7 @@
         "title": "کاربرد 2: فعل be با مکمل",
         "htmlTag": 0,
         "content": "اینجا بعد از be یک عبارت توصیفی آمده است. وقتی فعل be داریم، معمولا به جای مفعول از صفت یا اسم برای کامل کردن معنا استفاده می‌کنیم.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -314,7 +330,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -322,7 +338,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر می‌خواهیم جمله را گسترش دهیم، بهتر است اول بخش اصلی را درست بسازیم و بعد اطلاعات اضافه را وارد کنیم. این روش جلوی اشتباه در ترتیب کلمات را می‌گیرد.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -330,22 +346,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I see my teacher on Mondays.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال بخش اصلی جمله اول آمده و عبارت on Mondays در آخر زمان را اضافه می‌کند. این ترتیب برای جمله‌های روزمره مناسب است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -353,7 +353,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Her cat sleeps on the sofa.",
+        "content": "I see my teacher on Mondays.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -361,8 +361,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا sleeps بعد از فاعل آمده و عبارت on the sofa مکان را در پایان جمله مشخص می‌کند. ساختار جمله روشن و منظم است.",
+        "content": "در این مثال بخش اصلی جمله اول آمده و عبارت on Mondays در آخر زمان را اضافه می‌کند. این ترتیب برای جمله‌های روزمره مناسب است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Her cat sleeps on the sofa.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا sleeps بعد از فاعل آمده و عبارت on the sofa مکان را در پایان جمله مشخص می‌کند. ساختار جمله روشن و منظم است.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

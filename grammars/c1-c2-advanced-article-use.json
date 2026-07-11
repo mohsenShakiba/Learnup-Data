@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "در سطح پیشرفته، article فقط به اولین/دومین اشاره بستگی ندارد؛ مشخص بودن، دانش مشترک، نوع اسم و معنای کلی یا خاص همه نقش دارند.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: اشاره به یک نمونه نامشخص",
         "htmlTag": 2,
         "content": "کاربرد 1: اشاره به یک نمونه نامشخص",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: اشاره به یک نمونه نامشخص",
         "htmlTag": 0,
         "content": "A teacher needs patience.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: اشاره به یک نمونه نامشخص",
         "htmlTag": 0,
         "content": "در این جمله a teacher به هر معلمی از این نوع اشاره می‌کند و یک نمونه نماینده از یک گروه را معرفی می‌کند. جمله درباره نقش معلم به‌صورت کلی حرف می‌زند، نه یک معلم خاص.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: اشاره به مرجع مشخص با the",
         "htmlTag": 2,
         "content": "کاربرد 2: اشاره به مرجع مشخص با the",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: اشاره به مرجع مشخص با the",
         "htmlTag": 0,
         "content": "The teacher who called yesterday wants to speak to you again.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: اشاره به مرجع مشخص با the",
         "htmlTag": 0,
         "content": "اینجا the نشان می‌دهد شنونده می‌تواند مرجع را شناسایی کند، چون clause بعدی آن را مشخص کرده است. بنابراین اسم دیگر کلی یا نامشخص نیست.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,15 +91,15 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "نکته مهم",
         "htmlTag": 0,
-        "content": "the همیشه به معنی «قبلا گفته شده» نیست؛ گاهی موقعیت، دانش مشترک یا یک clause توصیفی باعث می‌شود مرجع مشخص باشد. در مقابل zero article often برای بیان مفاهیم کلی، اسم‌های غیرقابل‌شمارش یا جمع‌های کلی به کار می‌رود.",
-        "order": 10,
+        "content": "the همیشه به معنی «قبلا گفته شده» نیست؛ گاهی موقعیت، دانش مشترک یا یک clause توصیفی باعث می‌شود مرجع مشخص باشد. در مقابل zero article اغلب برای بیان مفاهیم کلی، اسم‌های غیرقابل‌شمارش یا جمع‌های کلی به کار می‌رود.",
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Life can be unpredictable.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال zero article برای اشاره به مفهوم کلی life به کار رفته است. جمله درباره زندگی به‌طور عام حرف می‌زند.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The life he describes in the book is very different from ours.",
+        "content": "Life can be unpredictable.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا the به یک نوع زندگی مشخص اشاره می‌کند که از طریق clause بعدی تعریف شده است.",
+        "content": "در این مثال zero article برای اشاره به مفهوم کلی life به کار رفته است. جمله درباره زندگی به‌طور عام حرف می‌زند.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The life he describes in the book is very different from ours.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا the به یک نوع زندگی مشخص اشاره می‌کند که از طریق clause بعدی تعریف شده است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "the با ارجاع یکتا، فرهنگی و متنی",
         "htmlTag": 1,
         "content": "the با ارجاع یکتا، فرهنگی و متنی",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "the با ارجاع یکتا، فرهنگی و متنی",
         "htmlTag": 0,
         "content": "گاهی the به چیزهایی اشاره می‌کند که به‌نوعی یکتا یا در بافت مشترکِ فرهنگی و متنی قابل شناسایی‌اند. در این حالت حتی اگر قبلا اسم را نگفته باشیم، باز هم the طبیعی است، چون هویت مرجع از دانش مشترک فهمیده می‌شود.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: ارجاع یکتا",
         "htmlTag": 2,
         "content": "کاربرد 1: ارجاع یکتا",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: ارجاع یکتا",
         "htmlTag": 0,
         "content": "The sun was already setting when we arrived.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: ارجاع یکتا",
         "htmlTag": 0,
         "content": "در این جمله the sun به یک مرجع یکتا در جهان اشاره دارد. شنونده بدون نیاز به توضیح اضافی می‌داند منظور کدام sun است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: ارجاع متنی مشترک",
         "htmlTag": 2,
         "content": "کاربرد 2: ارجاع متنی مشترک",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: ارجاع متنی مشترک",
         "htmlTag": 0,
         "content": "Please close the door.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: ارجاع متنی مشترک",
         "htmlTag": 0,
         "content": "اینجا the door معمولا در بافت موقعیتی مشخص است، مثلا دری که هر دو طرف گفتگو آن را می‌بینند یا می‌شناسند. پس نیازی به معرفی با a وجود ندارد.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در متون پیشرفته‌تر، انتخاب article می‌تواند لحن و دقت متن را تغییر دهد. گاهی a یک چیز را به‌عنوان عضو یک دسته معرفی می‌کند، اما the همان چیز را در مقام مرجعی مشخص یا از پیش‌مفروض نشان می‌دهد.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She was appointed the director last year.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال نقش director در آن سازمان یک جایگاه مشخص است، بنابراین the طبیعی به نظر می‌رسد.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He wants to become a director one day.",
+        "content": "She was appointed the director last year.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا a director صرفا یکی از اعضای یک حرفه یا دسته را نشان می‌دهد و هنوز مرجع مشخصی وجود ندارد.",
+        "content": "در این مثال نقش director در آن سازمان یک جایگاه مشخص است، بنابراین the طبیعی به نظر می‌رسد.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He wants to become a director one day.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا a director صرفا یکی از اعضای یک حرفه یا دسته را نشان می‌دهد و هنوز مرجع مشخصی وجود ندارد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "ظرافت‌های پیشرفته و اشتباه‌های رایج",
         "htmlTag": 1,
         "content": "ظرافت‌های پیشرفته و اشتباه‌های رایج",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "ظرافت‌های پیشرفته و اشتباه‌های رایج",
         "htmlTag": 0,
         "content": "در سطح بالا، مهم این نیست که فقط قاعده‌ها را حفظ کنیم، بلکه باید از articleها برای هدایت نگاه خواننده استفاده کنیم. آن‌ها نشان می‌دهند مرجع تازه است یا شناخته‌شده، کلی است یا خاص، و آیا قرار است به‌عنوان مفهوم در نظر گرفته شود یا به‌عنوان موردی معین.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: zero article برای نهادها یا فعالیت‌ها در معنای نهادی",
         "htmlTag": 2,
         "content": "کاربرد 1: zero article برای نهادها یا فعالیت‌ها در معنای نهادی",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: zero article برای نهادها یا فعالیت‌ها در معنای نهادی",
         "htmlTag": 0,
         "content": "She is in prison for fraud.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: zero article برای نهادها یا فعالیت‌ها در معنای نهادی",
         "htmlTag": 0,
         "content": "اینجا prison بیشتر به نهاد و وضعیت اشاره می‌کند تا یک ساختمان مشخص. zero article این معنای نهادی را تقویت می‌کند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: the برای ساختمان یا محل مشخص",
         "htmlTag": 2,
         "content": "کاربرد 2: the برای ساختمان یا محل مشخص",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: the برای ساختمان یا محل مشخص",
         "htmlTag": 0,
         "content": "I went to the prison to visit a relative.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: the برای ساختمان یا محل مشخص",
         "htmlTag": 0,
         "content": "در این مثال منظور یک مکان مشخص است، نه مفهوم نهادی زندان. بنابراین the لازم است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بسیاری از تفاوت‌های advanced article use از همین نوع جابه‌جایی معنایی می‌آیند. به همین دلیل، بهترین راه یادگیری این نیست که فقط دنبال فهرست قواعد باشیم؛ باید ببینیم article چه نوع نگاهی به اسم ایجاد می‌کند.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Children need stability.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این جمله zero article با جمعِ کلی به کار رفته و درباره همه کودکان به‌طور عام صحبت می‌کند.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The children in this class need more support.",
+        "content": "Children need stability.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا the یک گروه مشخص از کودکان را که با clause بعدی محدود شده‌اند معرفی می‌کند.",
+        "content": "در این جمله zero article با جمعِ کلی به کار رفته و درباره همه کودکان به‌طور عام صحبت می‌کند.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The children in this class need more support.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا the یک گروه مشخص از کودکان را که با clause بعدی محدود شده‌اند معرفی می‌کند.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "از be going to برای قصد قبلی یا پیش‌بینی بر اساس نشانه‌های فعلی استفاده کنید: am/is/are + going to + فعل پایه.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: برنامه از قبل",
         "htmlTag": 2,
         "content": "کاربرد 1: برنامه از قبل",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: برنامه از قبل",
         "htmlTag": 0,
         "content": "I am going to visit my grandparents this weekend.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: برنامه از قبل",
         "htmlTag": 0,
         "content": "این جمله نشان می‌دهد دیدار از قبل برنامه‌ریزی شده است. عبارت this weekend هم به آینده نزدیک و مشخص اشاره می‌کند.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: نیت شخصی",
         "htmlTag": 2,
         "content": "کاربرد 2: نیت شخصی",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: نیت شخصی",
         "htmlTag": 0,
         "content": "She is going to learn Spanish.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: نیت شخصی",
         "htmlTag": 0,
         "content": "اینجا going to نیت و هدف شخصی او را نشان می‌دهد. گوینده می‌خواهد بگوید این تصمیم از قبل در ذهن او وجود دارد.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "going to بیشتر از will حس برنامه یا قصد قبلی می‌دهد. اگر تصمیم همان لحظه گرفته شود، اغلب will طبیعی‌تر است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We are going to move next month.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال جمله درباره برنامه‌ای آینده است که زمان تقریبی آن هم مشخص شده است. این برای going to بسیار مناسب است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He is going to start a new job soon.",
+        "content": "We are going to move next month.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا going to نشان می‌دهد شروع شغل جدید بخشی از یک برنامه یا تصمیم قبلی است.",
+        "content": "در این مثال جمله درباره برنامه‌ای آینده است که زمان تقریبی آن هم مشخص شده است. این برای going to بسیار مناسب است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He is going to start a new job soon.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا going to نشان می‌دهد شروع شغل جدید بخشی از یک برنامه یا تصمیم قبلی است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "پیش‌بینی با نشانه‌های حال",
         "htmlTag": 1,
         "content": "پیش‌بینی با نشانه‌های حال",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "پیش‌بینی با نشانه‌های حال",
         "htmlTag": 0,
         "content": "going to فقط برای برنامه نیست. وقتی در زمان حال نشانه‌ای می‌بینیم و از روی آن درباره آینده نتیجه می‌گیریم، این ساختار بسیار رایج است. در چنین جمله‌هایی پیش‌بینی ما بر اساس مشاهده مستقیم است.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: پیش‌بینی از روی شواهد",
         "htmlTag": 2,
         "content": "کاربرد 1: پیش‌بینی از روی شواهد",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: پیش‌بینی از روی شواهد",
         "htmlTag": 0,
         "content": "Look at those clouds. It is going to rain.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: پیش‌بینی از روی شواهد",
         "htmlTag": 0,
         "content": "در اینجا ابرها نشانه واضحی برای باران هستند. بنابراین پیش‌بینی بر اساس مدرک حال انجام شده و going to مناسب است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: نتیجه‌گیری از وضعیت موجود",
         "htmlTag": 2,
         "content": "کاربرد 2: نتیجه‌گیری از وضعیت موجود",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: نتیجه‌گیری از وضعیت موجود",
         "htmlTag": 0,
         "content": "Be careful. You are going to drop the glass.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: نتیجه‌گیری از وضعیت موجود",
         "htmlTag": 0,
         "content": "گوینده از وضعیت فعلی نتیجه می‌گیرد که افتادن لیوان نزدیک است. این مثال هم پیش‌بینی مبتنی بر شواهد را نشان می‌دهد.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر فقط نظر شخصی بدهیم، will هم ممکن است مناسب باشد. اما وقتی نشانه جلوی چشم ماست، going to معمولا طبیعی‌تر و دقیق‌تر به نظر می‌رسد.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The baby is going to cry.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال گوینده از روی حالت یا رفتار نوزاد پیش‌بینی می‌کند. پس جمله بر اساس مشاهده حال ساخته شده است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "This team is going to win.",
+        "content": "The baby is going to cry.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اگر گوینده از روی بازی فعلی یا امتیازها این نتیجه را بگیرد، going to انتخاب خوبی برای پیش‌بینی است.",
+        "content": "در این مثال گوینده از روی حالت یا رفتار نوزاد پیش‌بینی می‌کند. پس جمله بر اساس مشاهده حال ساخته شده است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "This team is going to win.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اگر گوینده از روی بازی فعلی یا امتیازها این نتیجه را بگیرد، going to انتخاب خوبی برای پیش‌بینی است.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "شکل جمله و مرور",
         "htmlTag": 1,
         "content": "شکل جمله و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "شکل جمله و مرور",
         "htmlTag": 0,
         "content": "ساخت going to با فعل be ساخته می‌شود، بنابراین باید am، is یا are را درست انتخاب کنیم و بعد از آن going to و شکل پایه فعل را بیاوریم. این ساختار هم می‌تواند منفی و هم پرسشی شود.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: منفی با be not going to",
         "htmlTag": 2,
         "content": "کاربرد 1: منفی با be not going to",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: منفی با be not going to",
         "htmlTag": 0,
         "content": "They are not going to stay here.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: منفی با be not going to",
         "htmlTag": 0,
         "content": "در این جمله are not برنامه یا نیت منفی را نشان می‌دهد و stay به صورت پایه آمده است. چون there is no change on main verb after going to.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: پرسشی با be",
         "htmlTag": 2,
         "content": "کاربرد 2: پرسشی با be",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: پرسشی با be",
         "htmlTag": 0,
         "content": "Are you going to cook dinner?",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: پرسشی با be",
         "htmlTag": 0,
         "content": "اینجا are به ابتدای جمله آمده و سوال ساخته است. فعل cook بعد از going to به شکل پایه مانده است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "چون going to با be ساخته می‌شود، در منفی و پرسشی کردن آن هم مانند be رفتار می‌کنیم. این تفاوت آن را از ساختارهای وابسته به do و does جدا می‌کند.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I am not going to buy it.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال گوینده می‌گوید قصد خریدن آن را ندارد. منفی شدن روی am not آمده است، نه روی فعل buy.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Is she going to join us later?",
+        "content": "I am not going to buy it.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا سوال درباره یک برنامه آینده است و فعل join بعد از going to به صورت پایه آمده است.",
+        "content": "در این مثال گوینده می‌گوید قصد خریدن آن را ندارد. منفی شدن روی am not آمده است، نه روی فعل buy.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Is she going to join us later?",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا سوال درباره یک برنامه آینده است و فعل join بعد از going to به صورت پایه آمده است.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

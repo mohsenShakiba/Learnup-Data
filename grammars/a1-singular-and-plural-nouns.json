@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "اول تعداد را مشخص کنید: یک چیز یا بیشتر از یکی. همین انتخاب روی شکل اسم، article و گاهی فعل اثر می‌گذارد.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: اسم مفرد برای یک مورد",
         "htmlTag": 2,
         "content": "کاربرد 1: اسم مفرد برای یک مورد",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: اسم مفرد برای یک مورد",
         "htmlTag": 0,
         "content": "I have a book.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: اسم مفرد برای یک مورد",
         "htmlTag": 0,
         "content": "در این جمله book مفرد است و به یک کتاب اشاره می‌کند. به همین دلیل قبل از آن از a استفاده شده است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: اسم جمع با افزودن s",
         "htmlTag": 2,
         "content": "کاربرد 2: اسم جمع با افزودن s",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: اسم جمع با افزودن s",
         "htmlTag": 0,
         "content": "I have two books.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: اسم جمع با افزودن s",
         "htmlTag": 0,
         "content": "اینجا books با افزودن s جمع شده است. عدد two هم به شنونده نشان می‌دهد که منظور بیش از یک کتاب است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بسیاری از اسم‌های انگلیسی با افزودن s جمع می‌شوند، اما همه اسم‌ها این الگو را ندارند. برای همین باید هم قانون اصلی را یاد بگیریم و هم چند شکل رایج متفاوت را بشناسیم.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The dog is friendly.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال dog مفرد است و فقط به یک حیوان اشاره می‌کند. به همین دلیل شکل ساده اسم به کار رفته است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The dogs are outside.",
+        "content": "The dog is friendly.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا dogs جمع است و هم شکل اسم و هم فعل are این جمع بودن را نشان می‌دهند.",
+        "content": "در این مثال dog مفرد است و فقط به یک حیوان اشاره می‌کند. به همین دلیل شکل ساده اسم به کار رفته است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The dogs are outside.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا dogs جمع است و هم شکل اسم و هم فعل are این جمع بودن را نشان می‌دهند.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "شکل‌های رایج جمع",
         "htmlTag": 1,
         "content": "شکل‌های رایج جمع",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "شکل‌های رایج جمع",
         "htmlTag": 0,
         "content": "بعضی اسم‌ها برای جمع شدن فقط s نمی‌گیرند. اسم‌هایی که به صداها یا پایان‌های خاصی ختم می‌شوند، ممکن است es بگیرند و چند اسم پرکاربرد هم شکل جمع نامنظم دارند. دانستن این تفاوت‌ها در نوشتن و خواندن مهم است.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: افزودن es",
         "htmlTag": 2,
         "content": "کاربرد 1: افزودن es",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: افزودن es",
         "htmlTag": 0,
         "content": "She washes the dishes.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: افزودن es",
         "htmlTag": 0,
         "content": "در اینجا dish در حالت جمع dishes شده است، چون اسم به صدای شبیه sh ختم می‌شود. در این گروه معمولا es اضافه می‌کنیم.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: جمع نامنظم",
         "htmlTag": 2,
         "content": "کاربرد 2: جمع نامنظم",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: جمع نامنظم",
         "htmlTag": 0,
         "content": "The children are in the garden.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: جمع نامنظم",
         "htmlTag": 0,
         "content": "کلمه children جمع child است و با قانون ساده s ساخته نشده است. این مثال نشان می‌دهد بعضی اسم‌ها را باید به صورت جداگانه یاد بگیریم.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در سطح پایه لازم نیست همه شکل‌های نامنظم را حفظ کنیم، اما اسم‌های پرکاربردی مثل children، men و women را بهتر است زودتر یاد بگیریم چون در مکالمه زیاد دیده می‌شوند.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "There are three boxes here.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال box با گرفتن es به boxes تبدیل شده است. این تغییر برای پایان‌های خاص بسیار رایج است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Two women work there.",
+        "content": "There are three boxes here.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا women شکل جمع woman است و نمونه دیگری از جمع نامنظم را نشان می‌دهد.",
+        "content": "در این مثال box با گرفتن es به boxes تبدیل شده است. این تغییر برای پایان‌های خاص بسیار رایج است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Two women work there.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا women شکل جمع woman است و نمونه دیگری از جمع نامنظم را نشان می‌دهد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "عدد، فعل و مرور",
         "htmlTag": 1,
         "content": "عدد، فعل و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "عدد، فعل و مرور",
         "htmlTag": 0,
         "content": "اسم مفرد و جمع فقط شکل ظاهری ندارند، بلکه روی بقیه جمله هم اثر می‌گذارند. با اسم جمع معمولا از اعداد بزرگ‌تر از یک، فعل‌های جمع و گاهی بدون article استفاده می‌کنیم.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: هماهنگی فعل با اسم جمع",
         "htmlTag": 2,
         "content": "کاربرد 1: هماهنگی فعل با اسم جمع",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: هماهنگی فعل با اسم جمع",
         "htmlTag": 0,
         "content": "My friends live nearby.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: هماهنگی فعل با اسم جمع",
         "htmlTag": 0,
         "content": "چون friends جمع است، فعل هم بدون s سوم شخص مفرد آمده است. این مثال هماهنگی اسم جمع با فعل را نشان می‌دهد.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: اسم جمع برای صحبت کلی",
         "htmlTag": 2,
         "content": "کاربرد 2: اسم جمع برای صحبت کلی",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: اسم جمع برای صحبت کلی",
         "htmlTag": 0,
         "content": "Dogs are loyal animals.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: اسم جمع برای صحبت کلی",
         "htmlTag": 0,
         "content": "اینجا dogs به صورت جمع برای صحبت کلی درباره این حیوان آمده است. در چنین جمله‌هایی article لازم نیست و اسم جمع معنای عمومی می‌دهد.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "وقتی درباره یک گروه به شکل کلی حرف می‌زنیم، استفاده از اسم جمع بدون article رایج است. اما وقتی یک مورد مشخص داریم، باید از اسم مفرد یا اسم مشخص با article مناسب استفاده کنیم.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "One apple is on the table.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال apple مفرد است و عدد one هم این موضوع را تاکید می‌کند. فعل is نیز با اسم مفرد هماهنگ شده است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Five apples are in the bag.",
+        "content": "One apple is on the table.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا apples جمع شده و فعل are آمده است. این جمله رابطه بین عدد، شکل اسم و فعل را به خوبی نشان می‌دهد.",
+        "content": "در این مثال apple مفرد است و عدد one هم این موضوع را تاکید می‌کند. فعل is نیز با اسم مفرد هماهنگ شده است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Five apples are in the bag.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا apples جمع شده و فعل are آمده است. این جمله رابطه بین عدد، شکل اسم و فعل را به خوبی نشان می‌دهد.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

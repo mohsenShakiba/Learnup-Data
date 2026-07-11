@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: مالکیت برای یک نفر",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: مالکیت برای یک نفر",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: مالکیت برای یک نفر",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "This is Sara's book.",
+        "content": "برای مالکیت با انسان‌ها و حیوانات معمولاً نام مالک + ’s + اسم می‌آید؛ برای اشیا، ساختار of اغلب طبیعی‌تر است.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: مالکیت برای یک نفر",
-        "htmlTag": 0,
-        "content": "با افزودن 's به Sara نشان داده‌ایم که کتاب به سارا تعلق دارد. این کوتاه‌تر از گفتن the book of Sara است.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: مالکیت برای یک نفر",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: مالکیت برای یک نفر",
         "htmlTag": 0,
-        "content": "My brother's car is new.",
+        "content": "This is Sara's book.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: مالکیت برای یک نفر",
         "htmlTag": 0,
-        "content": "اینجا 's روی brother آمده و مالکیت ماشین را مشخص می‌کند.",
+        "content": "با افزودن 's به Sara نشان داده‌ایم که کتاب به سارا تعلق دارد. این کوتاه‌تر از گفتن the book of Sara است.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مالکیت برای یک نفر",
+        "htmlTag": 0,
+        "content": "My brother's car is new.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: مالکیت برای یک نفر",
+        "htmlTag": 0,
+        "content": "اینجا 's روی brother آمده و مالکیت ماشین را مشخص می‌کند.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: مالکیت برای جمع",
         "htmlTag": 2,
         "content": "کاربرد 2: مالکیت برای جمع",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: مالکیت برای جمع",
-        "htmlTag": 0,
-        "content": "The students' room is upstairs.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: مالکیت برای جمع",
-        "htmlTag": 0,
-        "content": "وقتی اسم جمع به s ختم می‌شود، فقط یک آپاستروف بعد از s می‌گذاریم و دیگر s اضافه نمی‌کنیم.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: مالکیت برای جمع",
         "htmlTag": 0,
-        "content": "The children's toys are here.",
+        "content": "The students' room is upstairs.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: مالکیت برای جمع",
         "htmlTag": 0,
-        "content": "children جمع بی‌قاعده است و به s ختم نمی‌شود، پس مثل حالت مفرد 's می‌گیرد.",
+        "content": "وقتی اسم جمع به s ختم می‌شود، فقط یک آپاستروف بعد از s می‌گذاریم و دیگر s اضافه نمی‌کنیم.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مالکیت برای جمع",
+        "htmlTag": 0,
+        "content": "The children's toys are here.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مالکیت برای جمع",
+        "htmlTag": 0,
+        "content": "children جمع بی‌قاعده است و به s ختم نمی‌شود، پس مثل حالت مفرد 's می‌گیرد.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "برای اشخاص و موجودات زنده معمولا از 's استفاده می‌کنیم، اما برای اشیا بیشتر ساختار of طبیعی‌تر است، مثل the door of the car.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Tom's phone is on the desk.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "'s روی نام Tom مالکیت تلفن را نشان می‌دهد.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "It is my friend's idea.",
+        "content": "Tom's phone is on the desk.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا 's مشخص می‌کند که ایده متعلق به دوست گوینده است.",
+        "content": "'s روی نام Tom مالکیت تلفن را نشان می‌دهد.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It is my friend's idea.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا 's مشخص می‌کند که ایده متعلق به دوست گوینده است.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

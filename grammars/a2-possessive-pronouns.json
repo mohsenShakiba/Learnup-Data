@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: جای‌گزین اسم",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: جای‌گزین اسم",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: جای‌گزین اسم",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "This book is mine.",
+        "content": "ضمیر ملکی به‌تنهایی جای ترکیب صفت ملکی + اسم را می‌گیرد: my book -> mine، her bag -> hers.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: جای‌گزین اسم",
-        "htmlTag": 0,
-        "content": "به‌جای گفتن this is my book، از mine استفاده کرده‌ایم. ضمیر ملکی به‌تنهایی و بدون اسم می‌آید.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: جای‌گزین اسم",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: جای‌گزین اسم",
         "htmlTag": 0,
-        "content": "That seat is yours.",
+        "content": "This book is mine.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: جای‌گزین اسم",
         "htmlTag": 0,
-        "content": "yours جای your seat را گرفته است و مالکیت را بدون تکرار اسم نشان می‌دهد.",
+        "content": "به‌جای گفتن this is my book، از mine استفاده کرده‌ایم. ضمیر ملکی به‌تنهایی و بدون اسم می‌آید.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای‌گزین اسم",
+        "htmlTag": 0,
+        "content": "That seat is yours.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: جای‌گزین اسم",
+        "htmlTag": 0,
+        "content": "yours جای your seat را گرفته است و مالکیت را بدون تکرار اسم نشان می‌دهد.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: مقایسه مالکیت",
         "htmlTag": 2,
         "content": "کاربرد 2: مقایسه مالکیت",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: مقایسه مالکیت",
-        "htmlTag": 0,
-        "content": "My car is old, but hers is new.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: مقایسه مالکیت",
-        "htmlTag": 0,
-        "content": "hers جای her car را گرفته است تا اسم car دوباره تکرار نشود.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: مقایسه مالکیت",
         "htmlTag": 0,
-        "content": "Our house is bigger than theirs.",
+        "content": "My car is old, but hers is new.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: مقایسه مالکیت",
         "htmlTag": 0,
-        "content": "theirs به‌جای their house آمده و دو مالکیت را با هم مقایسه کرده است.",
+        "content": "hers جای her car را گرفته است تا اسم car دوباره تکرار نشود.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مقایسه مالکیت",
+        "htmlTag": 0,
+        "content": "Our house is bigger than theirs.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: مقایسه مالکیت",
+        "htmlTag": 0,
+        "content": "theirs به‌جای their house آمده و دو مالکیت را با هم مقایسه کرده است.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "تفاوت مهم این است که صفت ملکی (my، your) پیش از اسم می‌آید، اما ضمیر ملکی (mine، yours) جای اسم را می‌گیرد و تنها به کار می‌رود.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "These keys are his.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "his هم می‌تواند صفت و هم ضمیر ملکی باشد؛ اینجا به‌تنهایی آمده و ضمیر است.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The choice is ours.",
+        "content": "These keys are his.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "ours جای our choice را گرفته و مالکیت را به‌روشنی نشان می‌دهد.",
+        "content": "his هم می‌تواند صفت و هم ضمیر ملکی باشد؛ اینجا به‌تنهایی آمده و ضمیر است.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The choice is ours.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "ours جای our choice را گرفته و مالکیت را به‌روشنی نشان می‌دهد.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: معنای تازه و مستقل",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: معنای تازه و مستقل",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: معنای تازه و مستقل",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "Please turn off the light.",
+        "content": "معنای phrasal verb همیشه از فعل اصلی قابل حدس نیست. آن را به صورت یک واحد معنایی و همراه با مثال یاد بگیرید.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: معنای تازه و مستقل",
-        "htmlTag": 0,
-        "content": "turn off یعنی خاموش کردن. این معنی از ترکیب turn و off ساخته شده و باید آن را به‌صورت یک واحد یاد گرفت.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: معنای تازه و مستقل",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: معنای تازه و مستقل",
         "htmlTag": 0,
-        "content": "I get up at seven.",
+        "content": "Please turn off the light.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: معنای تازه و مستقل",
         "htmlTag": 0,
-        "content": "get up یعنی از خواب بیدار شدن یا بلند شدن. معنای آن مستقل از get و up است.",
+        "content": "turn off یعنی خاموش کردن. این معنی از ترکیب turn و off ساخته شده و باید آن را به‌صورت یک واحد یاد گرفت.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: معنای تازه و مستقل",
+        "htmlTag": 0,
+        "content": "I get up at seven.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: معنای تازه و مستقل",
+        "htmlTag": 0,
+        "content": "get up یعنی از خواب بیدار شدن یا بلند شدن. معنای آن مستقل از get و up است.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: جداشدنی و جدانشدنی",
         "htmlTag": 2,
         "content": "کاربرد 2: جداشدنی و جدانشدنی",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: جداشدنی و جدانشدنی",
-        "htmlTag": 0,
-        "content": "Turn the radio on.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: جداشدنی و جدانشدنی",
-        "htmlTag": 0,
-        "content": "بعضی افعال عبارتی جداشدنی هستند، یعنی مفعول می‌تواند میان دو بخش بیاید: turn it on.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: جداشدنی و جدانشدنی",
         "htmlTag": 0,
-        "content": "She looks after her brother.",
+        "content": "Turn the radio on.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: جداشدنی و جدانشدنی",
         "htmlTag": 0,
-        "content": "look after جدانشدنی است؛ مفعول همیشه بعد از کل عبارت می‌آید و نمی‌گوییم look her after.",
+        "content": "بعضی افعال عبارتی جداشدنی هستند، یعنی مفعول می‌تواند میان دو بخش بیاید: turn it on.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جداشدنی و جدانشدنی",
+        "htmlTag": 0,
+        "content": "She looks after her brother.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: جداشدنی و جدانشدنی",
+        "htmlTag": 0,
+        "content": "look after جدانشدنی است؛ مفعول همیشه بعد از کل عبارت می‌آید و نمی‌گوییم look her after.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر مفعول یک ضمیر باشد و فعل جداشدنی باشد، ضمیر باید میان دو بخش بیاید: turn it off، نه turn off it.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We ran out of milk.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "run out of یعنی تمام شدن چیزی. اینجا یعنی شیر تمام شد.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He gave up smoking.",
+        "content": "We ran out of milk.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "give up یعنی ترک کردن یا دست کشیدن. بعد از آن معمولا فعل ing-دار می‌آید.",
+        "content": "run out of یعنی تمام شدن چیزی. اینجا یعنی شیر تمام شد.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He gave up smoking.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "give up یعنی ترک کردن یا دست کشیدن. بعد از آن معمولا فعل ing-دار می‌آید.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

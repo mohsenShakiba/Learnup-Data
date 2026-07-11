@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "participle clause جمله را فشرده می‌کند، اما فاعلِ فهمیده‌شده باید با فاعل جمله اصلی هماهنگ باشد تا ابهام ایجاد نشود.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: بیان عمل هم‌زمان با present participle",
         "htmlTag": 2,
         "content": "کاربرد 1: بیان عمل هم‌زمان با present participle",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: بیان عمل هم‌زمان با present participle",
         "htmlTag": 0,
         "content": "Walking through the old district, she noticed how much the area had changed.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: بیان عمل هم‌زمان با present participle",
         "htmlTag": 0,
         "content": "Walking through the old district بندی کوتاه‌شده است که هم‌زمانی عمل را نشان می‌دهد. فاعل ضمنیِ آن she است، بنابراین جمله طبیعی و درست باقی می‌ماند.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: کاهش relative clause",
         "htmlTag": 2,
         "content": "کاربرد 2: کاهش relative clause",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: کاهش relative clause",
         "htmlTag": 0,
         "content": "Students applying for the scholarship must submit two references.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: کاهش relative clause",
         "htmlTag": 0,
         "content": "به‌جای students who are applying for the scholarship، اینجا applying for the scholarship بند وصفیِ کوتاه‌شده است و اسم students را توصیف می‌کند.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "وقتی participle clause فاعل مستقلی ندارد، خواننده آن را به فاعل جمله‌ی اصلی نسبت می‌دهد. به همین دلیل، هم‌مرجعیِ فاعل یکی از مهم‌ترین شرط‌های صحت این ساختار است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Standing at the entrance, the guide welcomed the visitors.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Standing نشان می‌دهد عمل ایستادن و خوش‌آمدگویی هم‌زمان‌اند و فاعل هر دو guide است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The documents submitted after the deadline were rejected.",
+        "content": "Standing at the entrance, the guide welcomed the visitors.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "submitted after the deadline نوعی reduced relative clause است که documents را توصیف می‌کند.",
+        "content": "Standing نشان می‌دهد عمل ایستادن و خوش‌آمدگویی هم‌زمان‌اند و فاعل هر دو guide است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The documents submitted after the deadline were rejected.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "submitted after the deadline نوعی reduced relative clause است که documents را توصیف می‌کند.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "بیان علت، زمان و شرط با participle clause",
         "htmlTag": 1,
         "content": "بیان علت، زمان و شرط با participle clause",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "بیان علت، زمان و شرط با participle clause",
         "htmlTag": 0,
         "content": "بندهای participle فقط برای توصیف نیستند؛ می‌توانند رابطه‌های معنایی مثل علت، زمان، شرط یا نتیجه را هم منتقل کنند. در این کاربرد، خواننده معنا را از بافت و ترتیب جمله می‌فهمد، بنابراین انتخاب participle clause باید روشن و سنجیده باشد.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: بیان علت",
         "htmlTag": 2,
         "content": "کاربرد 1: بیان علت",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: بیان علت",
         "htmlTag": 0,
         "content": "Knowing the risks, they decided to postpone the launch.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: بیان علت",
         "htmlTag": 0,
         "content": "Knowing the risks علت تصمیم را به‌صورت فشرده بیان می‌کند. به‌جای چون آن‌ها از خطرها آگاه بودند، علت در یک participle clause آمده است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: بیان زمان یا پیش‌بودگی با perfect participle",
         "htmlTag": 2,
         "content": "کاربرد 2: بیان زمان یا پیش‌بودگی با perfect participle",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: بیان زمان یا پیش‌بودگی با perfect participle",
         "htmlTag": 0,
         "content": "Having completed the review, the committee released its recommendations.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: بیان زمان یا پیش‌بودگی با perfect participle",
         "htmlTag": 0,
         "content": "Having completed نشان می‌دهد completion قبل از releasing اتفاق افتاده است. perfect participle برای تاکید بر تقدم زمانیِ روشن بسیار مفید است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "past participle clauseها نیز می‌توانند معنای شرطی یا پس‌زمینه‌ای بدهند، مخصوصاً در نوشتار رسمی. با این حال، اگر رابطه‌ی معنایی مبهم شود، بهتر است از clause کامل استفاده کنیم.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Given enough evidence, the board may reopen the case.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Given enough evidence در اینجا معنای شرطی دارد و می‌توان آن را تقریباً معادل if the board is given enough evidence دانست.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Born into a family of musicians, he developed an early interest in composition.",
+        "content": "Given enough evidence, the board may reopen the case.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Born into a family of musicians اطلاعات پس‌زمینه‌ای می‌دهد و جمله را بدون ساخت یک clause کامل فشرده می‌کند.",
+        "content": "Given enough evidence در اینجا معنای شرطی دارد و می‌توان آن را تقریباً معادل if the board is given enough evidence دانست.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Born into a family of musicians, he developed an early interest in composition.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Born into a family of musicians اطلاعات پس‌زمینه‌ای می‌دهد و جمله را بدون ساخت یک clause کامل فشرده می‌کند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "خطاهای رایج و dangling participles",
         "htmlTag": 1,
         "content": "خطاهای رایج و dangling participles",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "خطاهای رایج و dangling participles",
         "htmlTag": 0,
         "content": "رایج‌ترین مشکل در participle clauses زمانی پیش می‌آید که بند کوتاه‌شده به فاعل درست متصل نشود. در این حالت، dangling participle ایجاد می‌شود و جمله یا خنده‌دار می‌شود یا از نظر نگارشی نادرست به نظر می‌رسد. بنابراین فشرده‌سازی نباید به قیمت از دست رفتن مرجع روشن انجام شود.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: نمونه‌ی درست با مرجع روشن",
         "htmlTag": 2,
         "content": "کاربرد 1: نمونه‌ی درست با مرجع روشن",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: نمونه‌ی درست با مرجع روشن",
         "htmlTag": 0,
         "content": "Driving home, I realized I had left my phone at work.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: نمونه‌ی درست با مرجع روشن",
         "htmlTag": 0,
         "content": "فاعلِ driving و realized هر دو I هستند، بنابراین خواننده بند participle را بدون ابهام تفسیر می‌کند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: نمونه‌ی مشکل‌دار از نظر اتصال",
         "htmlTag": 2,
         "content": "کاربرد 2: نمونه‌ی مشکل‌دار از نظر اتصال",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: نمونه‌ی مشکل‌دار از نظر اتصال",
         "htmlTag": 0,
         "content": "Driving home, the rain started to fall heavily.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: نمونه‌ی مشکل‌دار از نظر اتصال",
         "htmlTag": 0,
         "content": "از نظر دستوری، این جمله طوری به نظر می‌رسد که انگار rain در حال رانندگی بوده است. مشکل اینجاست که فاعلِ implied در participle clause با فاعل جمله‌ی اصلی هماهنگ نیست.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر participle clause باعث ابهام مرجع، فشردگی افراطی یا دشواری پردازش شود، بهتر است آن را به یک clause کامل برگردانیم. طبیعی بودن از کوتاهی مهم‌تر است.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "While I was driving home, the rain started to fall heavily.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "این بازنویسی همان معنا را با مرجع روشن‌تر منتقل می‌کند و dangling participle را از بین می‌برد.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Having been warned several times, the contractor finally changed the design.",
+        "content": "While I was driving home, the rain started to fall heavily.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا مرجع روشن است و passive perfect participle به‌درستی نشان می‌دهد هشدارها قبل از تغییر design داده شده بودند.",
+        "content": "این بازنویسی همان معنا را با مرجع روشن‌تر منتقل می‌کند و dangling participle را از بین می‌برد.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Having been warned several times, the contractor finally changed the design.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا مرجع روشن است و passive perfect participle به‌درستی نشان می‌دهد هشدارها قبل از تغییر design داده شده بودند.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

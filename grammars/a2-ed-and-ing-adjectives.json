@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: شکل ed برای احساس",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: شکل ed برای احساس",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: شکل ed برای احساس",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "I am bored.",
+        "content": "صفت‌های -ed احساس شخص را نشان می‌دهند؛ صفت‌های -ing علت یا ویژگی چیزی را که آن احساس را ایجاد می‌کند توصیف می‌کنند.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: شکل ed برای احساس",
-        "htmlTag": 0,
-        "content": "bored احساس خود شخص را نشان می‌دهد، یعنی من حوصله‌ام سر رفته است. صفت ed-دار همیشه درباره فردی است که چیزی را حس می‌کند.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: شکل ed برای احساس",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: شکل ed برای احساس",
         "htmlTag": 0,
-        "content": "She was tired after work.",
+        "content": "I am bored.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: شکل ed برای احساس",
         "htmlTag": 0,
-        "content": "tired احساس او را بیان می‌کند. این شکل ed همیشه به یک موجود زنده با احساس برمی‌گردد.",
+        "content": "bored احساس خود شخص را نشان می‌دهد، یعنی من حوصله‌ام سر رفته است. صفت ed-دار همیشه درباره فردی است که چیزی را حس می‌کند.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شکل ed برای احساس",
+        "htmlTag": 0,
+        "content": "She was tired after work.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: شکل ed برای احساس",
+        "htmlTag": 0,
+        "content": "tired احساس او را بیان می‌کند. این شکل ed همیشه به یک موجود زنده با احساس برمی‌گردد.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: شکل ing برای علت",
         "htmlTag": 2,
         "content": "کاربرد 2: شکل ing برای علت",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: شکل ing برای علت",
-        "htmlTag": 0,
-        "content": "This book is boring.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: شکل ing برای علت",
-        "htmlTag": 0,
-        "content": "boring ویژگی کتاب را نشان می‌دهد، یعنی کتاب باعث بی‌حوصلگی می‌شود. شکل ing درباره چیزی است که احساس را ایجاد می‌کند.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: شکل ing برای علت",
         "htmlTag": 0,
-        "content": "The film was exciting.",
+        "content": "This book is boring.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: شکل ing برای علت",
         "htmlTag": 0,
-        "content": "exciting یعنی فیلم هیجان ایجاد می‌کند. اگر بگوییم I was excited یعنی خودمان هیجان‌زده شدیم.",
+        "content": "boring ویژگی کتاب را نشان می‌دهد، یعنی کتاب باعث بی‌حوصلگی می‌شود. شکل ing درباره چیزی است که احساس را ایجاد می‌کند.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شکل ing برای علت",
+        "htmlTag": 0,
+        "content": "The film was exciting.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: شکل ing برای علت",
+        "htmlTag": 0,
+        "content": "exciting یعنی فیلم هیجان ایجاد می‌کند. اگر بگوییم I was excited یعنی خودمان هیجان‌زده شدیم.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "یک قانون ساده: people are ed و things are ing. اگر بگویید I am boring یعنی شما برای دیگران خسته‌کننده هستید، نه اینکه حوصله‌تان سر رفته است.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I'm interested in history.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "interested احساس شخص را نشان می‌دهد.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The lesson was interesting.",
+        "content": "I'm interested in history.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "interesting ویژگی درس را بیان می‌کند که علاقه ایجاد می‌کند.",
+        "content": "interested احساس شخص را نشان می‌دهد.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The lesson was interesting.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "interesting ویژگی درس را بیان می‌کند که علاقه ایجاد می‌کند.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

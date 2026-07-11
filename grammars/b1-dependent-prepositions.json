@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: صفت + حرف اضافه",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: صفت + حرف اضافه",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: صفت + حرف اضافه",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "She is good at math.",
+        "content": "در dependent prepositions، حرف اضافه بخشی از ترکیب فعل، صفت یا اسم است. آن را همراه با واژه اصلی یاد بگیرید، نه جداگانه.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: صفت + حرف اضافه",
-        "htmlTag": 0,
-        "content": "صفت good همیشه با حرف اضافه at می‌آید. این ترکیب ثابت است و قابل تغییر نیست.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: صفت + حرف اضافه",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: صفت + حرف اضافه",
         "htmlTag": 0,
-        "content": "I'm afraid of spiders.",
+        "content": "She is good at math.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: صفت + حرف اضافه",
         "htmlTag": 0,
-        "content": "afraid همیشه با of می‌آید. این یک نمونه رایج از صفت و حرف اضافه وابسته است.",
+        "content": "صفت good همیشه با حرف اضافه at می‌آید. این ترکیب ثابت است و قابل تغییر نیست.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صفت + حرف اضافه",
+        "htmlTag": 0,
+        "content": "I'm afraid of spiders.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: صفت + حرف اضافه",
+        "htmlTag": 0,
+        "content": "afraid همیشه با of می‌آید. این یک نمونه رایج از صفت و حرف اضافه وابسته است.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: فعل + حرف اضافه",
         "htmlTag": 2,
         "content": "کاربرد 2: فعل + حرف اضافه",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: فعل + حرف اضافه",
-        "htmlTag": 0,
-        "content": "He depends on his parents.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: فعل + حرف اضافه",
-        "htmlTag": 0,
-        "content": "فعل depend همیشه با on می‌آید. تغییر حرف اضافه جمله را نادرست می‌کند.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: فعل + حرف اضافه",
         "htmlTag": 0,
-        "content": "We are waiting for the bus.",
+        "content": "He depends on his parents.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: فعل + حرف اضافه",
         "htmlTag": 0,
-        "content": "فعل wait با حرف اضافه for همراه است وقتی منتظر چیزی هستیم.",
+        "content": "فعل depend همیشه با on می‌آید. تغییر حرف اضافه جمله را نادرست می‌کند.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل + حرف اضافه",
+        "htmlTag": 0,
+        "content": "We are waiting for the bus.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل + حرف اضافه",
+        "htmlTag": 0,
+        "content": "فعل wait با حرف اضافه for همراه است وقتی منتظر چیزی هستیم.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعد از حرف اضافه همیشه اسم یا فعل ing-دار می‌آید، نه شکل ساده فعل: interested in learning، نه interested in learn.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She's interested in art.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "interested همیشه با in می‌آید.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Thank you for your help.",
+        "content": "She's interested in art.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "ترکیب ثابت thank someone for یعنی تشکر بابت چیزی.",
+        "content": "interested همیشه با in می‌آید.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Thank you for your help.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "ترکیب ثابت thank someone for یعنی تشکر بابت چیزی.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

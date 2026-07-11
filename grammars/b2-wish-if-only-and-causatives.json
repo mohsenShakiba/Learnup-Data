@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "wish و if only فاصله بین واقعیت و خواسته را نشان می‌دهند. causativeها نشان می‌دهند کاری را خودمان انجام نمی‌دهیم، بلکه باعث انجام آن می‌شویم.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: آرزو درباره حال",
         "htmlTag": 2,
         "content": "کاربرد 1: آرزو درباره حال",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: آرزو درباره حال",
         "htmlTag": 0,
         "content": "I wish I had more time.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: آرزو درباره حال",
         "htmlTag": 0,
         "content": "در این جمله گوینده در واقع وقت بیشتری ندارد و آرزو می‌کند وضعیت فعلی متفاوت باشد. had اینجا شکل گذشته دارد، اما معنی آن به حال مربوط است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: احساس قوی‌تر با if only",
         "htmlTag": 2,
         "content": "کاربرد 2: احساس قوی‌تر با if only",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: احساس قوی‌تر با if only",
         "htmlTag": 0,
         "content": "If only the weather were warmer.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: احساس قوی‌تر با if only",
         "htmlTag": 0,
         "content": "اینجا if only همان ایده wish را با احساس قوی‌تر یا احساسی‌تر بیان می‌کند. جمله بیشتر رنگ افسوس یا آرزوی شدید دارد.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعد از wish برای وضعیت حال معمولا از past simple استفاده می‌کنیم، چون ساختار از نظر معنایی فاصله با واقعیت را نشان می‌دهد. were در جمله‌های رسمی‌تر با همه فاعل‌ها رایج است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She wishes she lived closer to her parents.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال او نزدیک والدینش زندگی نمی‌کند و جمله نارضایتی از وضعیت فعلی را نشان می‌دهد.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "If only I were better at public speaking.",
+        "content": "She wishes she lived closer to her parents.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا گوینده آرزوی یک توانایی متفاوت در زمان حال را بیان می‌کند و if only شدت حس او را بیشتر می‌کند.",
+        "content": "در این مثال او نزدیک والدینش زندگی نمی‌کند و جمله نارضایتی از وضعیت فعلی را نشان می‌دهد.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If only I were better at public speaking.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا گوینده آرزوی یک توانایی متفاوت در زمان حال را بیان می‌کند و if only شدت حس او را بیشتر می‌کند.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "wish درباره گذشته و رفتارهای آزاردهنده",
         "htmlTag": 1,
         "content": "wish درباره گذشته و رفتارهای آزاردهنده",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "wish درباره گذشته و رفتارهای آزاردهنده",
         "htmlTag": 0,
         "content": "wish فقط درباره حال نیست. با past perfect می‌توانیم درباره گذشته‌ای حرف بزنیم که دوست داشتیم جور دیگری پیش می‌رفت. همچنین با would می‌توانیم از رفتار تکراری و آزاردهنده کسی یا چیزی شکایت کنیم.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: پشیمانی درباره گذشته",
         "htmlTag": 2,
         "content": "کاربرد 1: پشیمانی درباره گذشته",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: پشیمانی درباره گذشته",
         "htmlTag": 0,
         "content": "I wish I had studied harder.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: پشیمانی درباره گذشته",
         "htmlTag": 0,
         "content": "در این جمله گوینده به گذشته نگاه می‌کند و بابت کاری که انجام نداده احساس پشیمانی دارد. past perfect نشان می‌دهد دیگر امکان تغییر آن گذشته وجود ندارد.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: شکایت از رفتار تکراری با would",
         "htmlTag": 2,
         "content": "کاربرد 2: شکایت از رفتار تکراری با would",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: شکایت از رفتار تکراری با would",
         "htmlTag": 0,
         "content": "I wish my neighbors would stop making noise at night.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: شکایت از رفتار تکراری با would",
         "htmlTag": 0,
         "content": "اینجا wish + would درباره آینده دور نیست، بلکه شکایت از یک رفتار تکراری و آزاردهنده است. گوینده می‌خواهد آن رفتار تغییر کند.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,15 +211,15 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "نکته مهم",
         "htmlTag": 0,
-        "content": "نمی‌توانیم برای بیان پشیمانی از حال از would استفاده کنیم، چون would در این کاربرد بیشتر به رفتار یا تمایل به تغییر اشاره دارد. برای گذشته معمولا past perfect و برای شکایت از رفتارها often would مناسب‌تر است.",
-        "order": 25,
+        "content": "نمی‌توانیم برای بیان پشیمانی از حال از would استفاده کنیم، چون would در این کاربرد بیشتر به رفتار یا تمایل به تغییر اشاره دارد. برای گذشته معمولا past perfect و برای شکایت از رفتارها اغلب would مناسب‌تر است.",
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "If only we had left earlier.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "این مثال پشیمانی فشرده‌ای درباره گذشته را بیان می‌کند و if only آن را احساسی‌تر می‌سازد.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "She wishes her phone would work properly.",
+        "content": "If only we had left earlier.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا جمله نارضایتی از یک وضعیت تکراری یا آزاردهنده را بیان می‌کند و آرزو دارد این مشکل تغییر کند.",
+        "content": "این مثال پشیمانی فشرده‌ای درباره گذشته را بیان می‌کند و if only آن را احساسی‌تر می‌سازد.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She wishes her phone would work properly.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله نارضایتی از یک وضعیت تکراری یا آزاردهنده را بیان می‌کند و آرزو دارد این مشکل تغییر کند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "causatives با have و get",
         "htmlTag": 1,
         "content": "causatives با have و get",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "causatives با have و get",
         "htmlTag": 0,
         "content": "causative زمانی به کار می‌رود که کاری را شخص دیگری برای ما انجام می‌دهد یا ما باعث انجام شدن آن می‌شویم. در این ساختار تمرکز روی ترتیب دادن یا سپردن کار است، نه انجام مستقیم آن توسط خود فاعل.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: have something done",
         "htmlTag": 2,
         "content": "کاربرد 1: have something done",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: have something done",
         "htmlTag": 0,
         "content": "I had my hair cut yesterday.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: have something done",
         "htmlTag": 0,
         "content": "در این جمله معنی این نیست که خودم موهایم را کوتاه کردم. جمله می‌گوید این کار را برای من انجام دادند و من فقط ترتیباتش را فراهم کردم.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: get something done",
         "htmlTag": 2,
         "content": "کاربرد 2: get something done",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: get something done",
         "htmlTag": 0,
         "content": "We need to get the printer fixed.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: get something done",
         "htmlTag": 0,
         "content": "اینجا get something done نشان می‌دهد باید کاری کنیم که تعمیر چاپگر انجام شود. این ساختار کمی گفتاری‌تر و پویا‌تر از have something done به نظر می‌رسد.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "causative با have و get با ساخت‌های passive ساده فرق دارد، چون در اینجا فاعل نقش فعالی در ترتیب دادن کار دارد، حتی اگر خودِ عمل را انجام ندهد.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She had her car serviced last week.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال او ترتیبات سرویس ماشین را داده است و معنی جمله انجام مستقیم کار توسط خودش نیست.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "I finally got my laptop repaired.",
+        "content": "She had her car serviced last week.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا get something done حس تلاش یا موفق شدن در انجام دادنِ ترتیبات را هم می‌تواند منتقل کند.",
+        "content": "در این مثال او ترتیبات سرویس ماشین را داده است و معنی جمله انجام مستقیم کار توسط خودش نیست.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I finally got my laptop repaired.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا get something done حس تلاش یا موفق شدن در انجام دادنِ ترتیبات را هم می‌تواند منتقل کند.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

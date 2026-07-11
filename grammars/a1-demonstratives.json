@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "انتخاب this، that، these و those به دو چیز بستگی دارد: نزدیک یا دور بودن، و مفرد یا جمع بودن اسم.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: this برای یک چیز نزدیک",
         "htmlTag": 2,
         "content": "کاربرد 1: this برای یک چیز نزدیک",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: this برای یک چیز نزدیک",
         "htmlTag": 0,
         "content": "This book is new.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: this برای یک چیز نزدیک",
         "htmlTag": 0,
         "content": "در این جمله this به یک کتاب نزدیک اشاره می‌کند. چون اسم مفرد است، از this استفاده شده است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: that برای یک چیز دور",
         "htmlTag": 2,
         "content": "کاربرد 2: that برای یک چیز دور",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: that برای یک چیز دور",
         "htmlTag": 0,
         "content": "That car is fast.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: that برای یک چیز دور",
         "htmlTag": 0,
         "content": "اینجا that برای اشاره به یک ماشین دورتر به کار رفته است. تفاوت اصلی آن با this در حس فاصله است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "نزدیکی و دوری فقط فیزیکی نیست. گاهی در گفتگو this برای چیزی به کار می‌رود که از نظر ذهنی نزدیک‌تر یا در دسترس‌تر است و that برای چیزی که دورتر احساس می‌شود.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "This room is warm.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال گوینده به اتاقی اشاره می‌کند که نزدیک اوست یا داخل آن قرار دارد. به همین دلیل this طبیعی است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "That house is very old.",
+        "content": "This room is warm.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا that نشان می‌دهد خانه از گوینده فاصله دارد یا به آن از دور اشاره می‌شود.",
+        "content": "در این مثال گوینده به اتاقی اشاره می‌کند که نزدیک اوست یا داخل آن قرار دارد. به همین دلیل this طبیعی است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "That house is very old.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا that نشان می‌دهد خانه از گوینده فاصله دارد یا به آن از دور اشاره می‌شود.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "تفاوت مفرد و جمع",
         "htmlTag": 1,
         "content": "تفاوت مفرد و جمع",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "تفاوت مفرد و جمع",
         "htmlTag": 0,
         "content": "اسم‌های اشاره علاوه بر فاصله، باید با مفرد یا جمع بودن اسم هم هماهنگ باشند. this و that برای اسم مفرد هستند و these و those برای اسم جمع استفاده می‌شوند.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: these برای چند چیز نزدیک",
         "htmlTag": 2,
         "content": "کاربرد 1: these برای چند چیز نزدیک",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: these برای چند چیز نزدیک",
         "htmlTag": 0,
         "content": "These apples are fresh.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: these برای چند چیز نزدیک",
         "htmlTag": 0,
         "content": "چون apples جمع است و نزدیک گوینده فرض می‌شود، از these استفاده کرده‌ایم. فعل are هم جمع بودن را تایید می‌کند.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: those برای چند چیز دور",
         "htmlTag": 2,
         "content": "کاربرد 2: those برای چند چیز دور",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: those برای چند چیز دور",
         "htmlTag": 0,
         "content": "Those shoes are expensive.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: those برای چند چیز دور",
         "htmlTag": 0,
         "content": "در این جمله shoes جمع است و به چیزهایی دورتر اشاره می‌شود، پس those شکل درست است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر اسم جمع باشد، استفاده از this یا that اشتباه است. همیشه باید هم فاصله و هم تعداد را با هم در نظر بگیریم تا اسم اشاره درست را انتخاب کنیم.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "These students are quiet.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "اینجا these به گروهی از دانش‌آموزان نزدیک اشاره می‌کند. این مثال برای جمع نزدیک است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Those trees are tall.",
+        "content": "These students are quiet.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "در این مثال those برای چند درخت دور به کار رفته و جمع بودن اسم را هم نشان می‌دهد.",
+        "content": "اینجا these به گروهی از دانش‌آموزان نزدیک اشاره می‌کند. این مثال برای جمع نزدیک است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Those trees are tall.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "در این مثال those برای چند درخت دور به کار رفته و جمع بودن اسم را هم نشان می‌دهد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "اسم اشاره بدون تکرار اسم",
         "htmlTag": 1,
         "content": "اسم اشاره بدون تکرار اسم",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "اسم اشاره بدون تکرار اسم",
         "htmlTag": 0,
         "content": "گاهی اسم اشاره همراه اسم می‌آید و گاهی خودش به تنهایی نقش ضمیر می‌گیرد. وقتی مرجع از قبل روشن باشد، می‌توانیم اسم را حذف کنیم و فقط از this، that، these یا those استفاده کنیم.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: استفاده به جای اسم مفرد",
         "htmlTag": 2,
         "content": "کاربرد 1: استفاده به جای اسم مفرد",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: استفاده به جای اسم مفرد",
         "htmlTag": 0,
         "content": "This is my bag.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: استفاده به جای اسم مفرد",
         "htmlTag": 0,
         "content": "در این جمله بعد از this اسم نیامده، اما شنونده از موقعیت می‌فهمد منظور چیست. پس this خودش نقش اشاره و جانشینی را با هم دارد.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: استفاده به جای اسم جمع",
         "htmlTag": 2,
         "content": "کاربرد 2: استفاده به جای اسم جمع",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: استفاده به جای اسم جمع",
         "htmlTag": 0,
         "content": "Those are my keys.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: استفاده به جای اسم جمع",
         "htmlTag": 0,
         "content": "اینجا those بدون اسم آمده و به چند چیز مشخص اشاره می‌کند. این ساختار در معرفی یا پاسخ دادن بسیار رایج است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "وقتی اسم را حذف می‌کنیم، باید مطمئن باشیم شنونده مرجع را می‌فهمد. اگر مرجع روشن نباشد، بهتر است اسم را هم بیاوریم تا جمله مبهم نشود.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Who is that?",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این سوال that به یک شخص یا چیز دور اشاره می‌کند و اسم بعد از آن لازم نیست، چون اشاره در موقعیت گفتگو روشن است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "These are for you.",
+        "content": "Who is that?",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا these به چند چیز نزدیک اشاره دارد و بدون اسم آمده است. جمله در موقعیتی طبیعی است که اشیا قابل دیدن باشند.",
+        "content": "در این سوال that به یک شخص یا چیز دور اشاره می‌کند و اسم بعد از آن لازم نیست، چون اشاره در موقعیت گفتگو روشن است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "These are for you.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا these به چند چیز نزدیک اشاره دارد و بدون اسم آمده است. جمله در موقعیتی طبیعی است که اشیا قابل دیدن باشند.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

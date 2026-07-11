@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "برای مقایسه دو چیز از comparative + than استفاده کنید؛ برای یک چیز در میان یک گروه، از the + superlative استفاده کنید.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: صفت کوتاه با er",
         "htmlTag": 2,
         "content": "کاربرد 1: صفت کوتاه با er",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: صفت کوتاه با er",
         "htmlTag": 0,
         "content": "My bag is lighter than yours.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: صفت کوتاه با er",
         "htmlTag": 0,
         "content": "صفت light به lighter تبدیل شده و با than دو چیز را مقایسه می‌کند. این الگو برای بسیاری از صفت‌های کوتاه رایج است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: صفت بلند با more",
         "htmlTag": 2,
         "content": "کاربرد 2: صفت بلند با more",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: صفت بلند با more",
         "htmlTag": 0,
         "content": "This book is more interesting than that one.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: صفت بلند با more",
         "htmlTag": 0,
         "content": "اینجا interesting صفتی بلندتر است، بنابراین به جای er از more استفاده می‌کنیم. than هم بخش دوم مقایسه را معرفی می‌کند.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,15 +91,15 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "نکته مهم",
         "htmlTag": 0,
-        "content": "در comparative همیشه باید روشن باشد چه دو چیزی با هم مقایسه می‌شوند. sometimes بخش دوم بعد از than می‌آید و گاهی از بافت جمله فهمیده می‌شود.",
-        "order": 10,
+        "content": "در comparative همیشه باید روشن باشد چه دو چیزی با هم مقایسه می‌شوند. گاهی بخش دوم بعد از than می‌آید و گاهی از بافت جمله فهمیده می‌شود.",
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Today is colder than yesterday.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال دو روز با هم مقایسه شده‌اند و colder تفاوت دما را نشان می‌دهد.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Your room is cleaner than mine.",
+        "content": "Today is colder than yesterday.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا cleaner نشان می‌دهد وضعیت اتاق تو در مقایسه با اتاق من بهتر است. than مقایسه را کامل می‌کند.",
+        "content": "در این مثال دو روز با هم مقایسه شده‌اند و colder تفاوت دما را نشان می‌دهد.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Your room is cleaner than mine.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا cleaner نشان می‌دهد وضعیت اتاق تو در مقایسه با اتاق من بهتر است. than مقایسه را کامل می‌کند.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "بالاترین یا کمترین در گروه با superlative",
         "htmlTag": 1,
         "content": "بالاترین یا کمترین در گروه با superlative",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "بالاترین یا کمترین در گروه با superlative",
         "htmlTag": 0,
         "content": "از superlative زمانی استفاده می‌کنیم که بخواهیم یک چیز را در میان یک گروه در بالاترین، کمترین یا شدیدترین سطح نشان دهیم. این شکل معمولا با the می‌آید، چون مورد موردنظر در گروه مشخص است.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: صفت کوتاه با est",
         "htmlTag": 2,
         "content": "کاربرد 1: صفت کوتاه با est",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: صفت کوتاه با est",
         "htmlTag": 0,
         "content": "Ali is the tallest student in the class.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: صفت کوتاه با est",
         "htmlTag": 0,
         "content": "صفت tall به tallest تبدیل شده و the قبل از آن آمده است. جمله نشان می‌دهد علی در میان همه دانش‌آموزان از همه قدبلندتر است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: صفت بلند با most",
         "htmlTag": 2,
         "content": "کاربرد 2: صفت بلند با most",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: صفت بلند با most",
         "htmlTag": 0,
         "content": "This is the most useful app on my phone.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: صفت بلند با most",
         "htmlTag": 0,
         "content": "اینجا useful صفت بلند است، پس از the most استفاده می‌کنیم. جمله یک مورد را در کل گروه برجسته می‌کند.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در superlative معمولا باید گروه مقایسه را هم مشخص کنیم، مثلا in the class یا of all my friends. این بخش کمک می‌کند بدانیم آن بالاترین درجه در کدام مجموعه معنا دارد.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "It is the cheapest shop in town.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال cheapest نشان می‌دهد این مغازه در میان مغازه‌های شهر کمترین قیمت را دارد.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "She is the most careful driver here.",
+        "content": "It is the cheapest shop in town.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا the most careful یک نفر را در گروه به عنوان محتاط‌ترین راننده معرفی می‌کند.",
+        "content": "در این مثال cheapest نشان می‌دهد این مغازه در میان مغازه‌های شهر کمترین قیمت را دارد.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She is the most careful driver here.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا the most careful یک نفر را در گروه به عنوان محتاط‌ترین راننده معرفی می‌کند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "شکل‌های مهم و مرور",
         "htmlTag": 1,
         "content": "شکل‌های مهم و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "شکل‌های مهم و مرور",
         "htmlTag": 0,
         "content": "همه صفت‌ها به یک شکل comparative و superlative نمی‌سازند. بعضی صفت‌های کوتاه er و est می‌گیرند، بعضی more و most می‌گیرند، و چند صفت مهم هم شکل بی‌قاعده دارند که باید جداگانه یاد بگیریم.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: شکل بی‌قاعده good",
         "htmlTag": 2,
         "content": "کاربرد 1: شکل بی‌قاعده good",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: شکل بی‌قاعده good",
         "htmlTag": 0,
         "content": "This exercise is better than the last one.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: شکل بی‌قاعده good",
         "htmlTag": 0,
         "content": "صفت good به better تبدیل شده و از قانون er پیروی نمی‌کند. این یکی از مهم‌ترین شکل‌های بی‌قاعده است.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: شکل بی‌قاعده bad",
         "htmlTag": 2,
         "content": "کاربرد 2: شکل بی‌قاعده bad",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: شکل بی‌قاعده bad",
         "htmlTag": 0,
         "content": "Today is the worst day of the week for traffic.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: شکل بی‌قاعده bad",
         "htmlTag": 0,
         "content": "اینجا bad در حالت superlative به worst تبدیل شده است. این شکل را باید به صورت جداگانه حفظ کنیم.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "برای یادگیری بهتر، بهتر است comparative و superlative هر صفت را کنار هم تمرین کنیم. این کار کمک می‌کند سریع‌تر تشخیص دهیم کجا باید از than و کجا از the استفاده کنیم.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "My sister is younger than me.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال younger با صفت کوتاه ساخته شده و دو نفر را مقایسه می‌کند.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He is the best player on the team.",
+        "content": "My sister is younger than me.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا best شکل بی‌قاعده superlative برای good است و یک نفر را در کل تیم برجسته می‌کند.",
+        "content": "در این مثال younger با صفت کوتاه ساخته شده و دو نفر را مقایسه می‌کند.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He is the best player on the team.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا best شکل بی‌قاعده superlative برای good است و یک نفر را در کل تیم برجسته می‌کند.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

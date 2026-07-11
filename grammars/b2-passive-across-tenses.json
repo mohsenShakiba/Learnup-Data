@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "در همه زمان‌ها، مجهول با be + past participle ساخته می‌شود. فقط شکل be با زمان جمله تغییر می‌کند.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: حال ساده passive",
         "htmlTag": 2,
         "content": "کاربرد 1: حال ساده passive",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: حال ساده passive",
         "htmlTag": 0,
         "content": "The rooms are cleaned every day.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: حال ساده passive",
         "htmlTag": 0,
         "content": "اینجا are cleaned نشان می‌دهد عمل تمیز کردن به‌طور منظم انجام می‌شود. تمرکز روی خود اتاق‌ها و نتیجه عمل است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: گذشته ساده passive",
         "htmlTag": 2,
         "content": "کاربرد 2: گذشته ساده passive",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: گذشته ساده passive",
         "htmlTag": 0,
         "content": "The decision was made yesterday.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: گذشته ساده passive",
         "htmlTag": 0,
         "content": "در این مثال was made نشان می‌دهد تصمیم در گذشته گرفته شده است. جمله روی خود تصمیم تمرکز دارد، نه روی تصمیم‌گیرنده.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "وقتی زمان جمله را عوض می‌کنیم، باید شکل be را تغییر دهیم، اما past participle ثابت می‌ماند. این نکته ساده، کلید ساخت passive در زمان‌های مختلف است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "These products are sold online.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال passive برای توضیح روش عرضه کالاها استفاده شده و به فروشنده نیازی نیست اشاره شود.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The bridge was repaired last month.",
+        "content": "These products are sold online.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا passive خبر اصلی را روی تعمیر پل می‌گذارد و زمان انجام آن را با last month مشخص می‌کند.",
+        "content": "در این مثال passive برای توضیح روش عرضه کالاها استفاده شده و به فروشنده نیازی نیست اشاره شود.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The bridge was repaired last month.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا passive خبر اصلی را روی تعمیر پل می‌گذارد و زمان انجام آن را با last month مشخص می‌کند.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "passive در زمان‌های کامل و استمراری",
         "htmlTag": 1,
         "content": "passive در زمان‌های کامل و استمراری",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "passive در زمان‌های کامل و استمراری",
         "htmlTag": 0,
         "content": "در سطح B2 لازم است passive را فقط به حال و گذشته ساده محدود نکنیم. این ساختار در زمان‌های کامل و بعضی continuousها هم به کار می‌رود، هرچند در عمل بعضی شکل‌ها رسمی‌تر یا کمتر رایج‌اند.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: حال کامل passive",
         "htmlTag": 2,
         "content": "کاربرد 1: حال کامل passive",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: حال کامل passive",
         "htmlTag": 0,
         "content": "The documents have been sent.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: حال کامل passive",
         "htmlTag": 0,
         "content": "در این جمله have been sent نشان می‌دهد عمل در گذشته انجام شده، اما نتیجه آن تا حال حاضر مهم است. این ساختار برای تاکید بر نتیجه بسیار رایج است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: گذشته کامل passive",
         "htmlTag": 2,
         "content": "کاربرد 2: گذشته کامل passive",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: گذشته کامل passive",
         "htmlTag": 0,
         "content": "The room had been prepared before the guests arrived.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: گذشته کامل passive",
         "htmlTag": 0,
         "content": "اینجا مجهول در گذشته کامل آمده تا نشان دهد آماده‌سازی قبل از یک رویداد دیگر در گذشته کامل شده بود.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در ساخت‌های کامل، been بخش مهمی از passive است. اگر فقط have sent یا had prepared بگوییم، جمله به active برمی‌گردد و تمرکز از روی مفعول تغییر می‌کند.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The problem has been discussed many times.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال تمرکز روی خود مشکل و سابقه بررسی آن است، نه روی افرادی که درباره آن صحبت کرده‌اند.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The new road is being built near the station.",
+        "content": "The problem has been discussed many times.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا passive continuous نشان می‌دهد فرایند ساخت در حال حاضر در جریان است و تمرکز همچنان روی road باقی می‌ماند.",
+        "content": "در این مثال تمرکز روی خود مشکل و سابقه بررسی آن است، نه روی افرادی که درباره آن صحبت کرده‌اند.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The new road is being built near the station.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا passive continuous نشان می‌دهد فرایند ساخت در حال حاضر در جریان است و تمرکز همچنان روی road باقی می‌ماند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "انتخاب بین active و passive در زمان‌های مختلف",
         "htmlTag": 1,
         "content": "انتخاب بین active و passive در زمان‌های مختلف",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "انتخاب بین active و passive در زمان‌های مختلف",
         "htmlTag": 0,
         "content": "هر زمان passive از نظر دستوری ممکن باشد، لزوما بهترین انتخاب نیست. باید ببینیم آیا واقعا لازم است انجام‌دهنده را حذف کنیم یا نتیجه و موضوع جمله مهم‌تر از عامل آن است.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: تمرکز بر فرایند",
         "htmlTag": 2,
         "content": "کاربرد 1: تمرکز بر فرایند",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: تمرکز بر فرایند",
         "htmlTag": 0,
         "content": "A new policy is being introduced this month.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: تمرکز بر فرایند",
         "htmlTag": 0,
         "content": "در این مثال موضوع اصلی خود policy و فرایند اجرا شدن آن است. اگر بگوییم who is introducing it، تمرکز جمله تغییر می‌کند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: active وقتی انجام‌دهنده مهم است",
         "htmlTag": 2,
         "content": "کاربرد 2: active وقتی انجام‌دهنده مهم است",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: active وقتی انجام‌دهنده مهم است",
         "htmlTag": 0,
         "content": "The director has approved the budget.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: active وقتی انجام‌دهنده مهم است",
         "htmlTag": 0,
         "content": "اینجا active طبیعی‌تر است، چون director نقش مهمی در معنی دارد. حذف او با passive شاید اطلاعات اصلی جمله را ضعیف کند.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,15 +331,15 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "نکته مهم",
         "htmlTag": 0,
-        "content": "در نوشتار رسمی passive often useful است، اما استفاده بیش از حد از آن متن را سنگین می‌کند. انتخاب خوب یعنی passive را جایی به کار ببریم که واقعا به وضوح یا تمرکز جمله کمک کند.",
-        "order": 40,
+        "content": "در نوشتار رسمی passive اغلب مفید است، اما استفاده بیش از حد از آن متن را سنگین می‌کند. انتخاب خوب یعنی passive را جایی به کار ببریم که واقعا به وضوح یا تمرکز جمله کمک کند.",
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The final results will be announced tomorrow.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال passive برای یک اطلاع‌رسانی رسمی مناسب است و نتیجه برای مخاطب مهم‌تر از اعلام‌کننده است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The package had been delivered before noon.",
+        "content": "The final results will be announced tomorrow.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا passive گذشته کامل نشان می‌دهد delivery قبل از یک نقطه مرجع در گذشته تکمیل شده بود.",
+        "content": "در این مثال passive برای یک اطلاع‌رسانی رسمی مناسب است و نتیجه برای مخاطب مهم‌تر از اعلام‌کننده است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The package had been delivered before noon.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا passive گذشته کامل نشان می‌دهد delivery قبل از یک نقطه مرجع در گذشته تکمیل شده بود.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

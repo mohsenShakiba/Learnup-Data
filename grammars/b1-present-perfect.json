@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "الگوی present perfect این است: have/has + past participle. از آن وقتی استفاده کنید که نتیجه یا تجربه به زمان حال وصل است.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: نتیجه‌ای که هنوز مهم است",
         "htmlTag": 2,
         "content": "کاربرد 1: نتیجه‌ای که هنوز مهم است",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: نتیجه‌ای که هنوز مهم است",
         "htmlTag": 0,
         "content": "She has broken her glasses.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: نتیجه‌ای که هنوز مهم است",
         "htmlTag": 0,
         "content": "در این جمله شکستن عینک در گذشته اتفاق افتاده، اما نتیجه آن هنوز در زمان حال وجود دارد؛ یعنی عینک الان هم شکسته است یا مشکل هنوز حل نشده است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: تجربه در زندگی تا امروز",
         "htmlTag": 2,
         "content": "کاربرد 2: تجربه در زندگی تا امروز",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: تجربه در زندگی تا امروز",
         "htmlTag": 0,
         "content": "I have visited Turkey twice.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: تجربه در زندگی تا امروز",
         "htmlTag": 0,
         "content": "اینجا جمله درباره تجربه زندگی گوینده تا این لحظه است. زمان دقیق سفرها مهم نیست و تمرکز روی این است که چنین تجربه‌ای وجود دارد.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر زمان دقیق را به جمله اضافه کنیم، معمولا باید به past simple برویم. present perfect با yesterday، last year یا in 2020 معمولا طبیعی نیست، چون این زمان‌ها گذشته را بسته و مشخص می‌کنند.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We have lost the tickets.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال نتیجه گم شدن بلیت‌ها برای زمان حال مهم است، چون الان نمی‌دانیم بلیت‌ها کجا هستند.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He has started a new job.",
+        "content": "We have lost the tickets.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا خبر اصلی شروع شغل جدید است و اثر آن تا زمان حال ادامه دارد. زمان دقیق شروع برای معنی اصلی لازم نیست.",
+        "content": "در این مثال نتیجه گم شدن بلیت‌ها برای زمان حال مهم است، چون الان نمی‌دانیم بلیت‌ها کجا هستند.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He has started a new job.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا خبر اصلی شروع شغل جدید است و اثر آن تا زمان حال ادامه دارد. زمان دقیق شروع برای معنی اصلی لازم نیست.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "تجربه، تکرار و قیدهای رایج",
         "htmlTag": 1,
         "content": "تجربه، تکرار و قیدهای رایج",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "تجربه، تکرار و قیدهای رایج",
         "htmlTag": 0,
         "content": "present perfect فقط برای یک نتیجه فوری نیست. ما از آن برای تجربه‌هایی که تا امروز داشته‌ایم، رویدادهای تکراری و همچنین برای صحبت درباره چیزهایی که تازه رخ داده‌اند هم استفاده می‌کنیم.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: تجربه با ever و never",
         "htmlTag": 2,
         "content": "کاربرد 1: تجربه با ever و never",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: تجربه با ever و never",
         "htmlTag": 0,
         "content": "Have you ever eaten sushi?",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: تجربه با ever و never",
         "htmlTag": 0,
         "content": "در این سوال درباره تجربه کلی زندگی مخاطب تا امروز می‌پرسیم. ever نشان می‌دهد زمان مشخصی مهم نیست و فقط وجود یا نبود تجربه مطرح است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: تکرار با several times",
         "htmlTag": 2,
         "content": "کاربرد 2: تکرار با several times",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: تکرار با several times",
         "htmlTag": 0,
         "content": "They have called me three times today.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: تکرار با several times",
         "htmlTag": 0,
         "content": "اینجا جمله درباره چند بار تکرار یک عمل تا این لحظه از امروز است. چون today هنوز تمام نشده، ارتباط با حال حفظ می‌شود.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "قیدهایی مثل just، already و yet به ما کمک می‌کنند معنی جمله دقیق‌تر شود. just به تازگی، already به زودتر از انتظار و yet بیشتر به سوال و منفی درباره تا این لحظه اشاره دارد.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I have already done my homework.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال already نشان می‌دهد کار زودتر از انتظار کامل شده است و نتیجه آن الان هم برقرار است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "She has not replied yet.",
+        "content": "I have already done my homework.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا yet نشان می‌دهد تا این لحظه جواب نیامده است. جمله هنوز به زمان حال وصل است و انتظار ادامه دارد.",
+        "content": "در این مثال already نشان می‌دهد کار زودتر از انتظار کامل شده است و نتیجه آن الان هم برقرار است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She has not replied yet.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا yet نشان می‌دهد تا این لحظه جواب نیامده است. جمله هنوز به زمان حال وصل است و انتظار ادامه دارد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "present perfect با since و for",
         "htmlTag": 1,
         "content": "present perfect با since و for",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "present perfect با since و for",
         "htmlTag": 0,
         "content": "یکی از کاربردهای مهم این زمان، صحبت درباره وضعیتی است که در گذشته شروع شده و تا امروز ادامه دارد. در این حالت since نقطه شروع را نشان می‌دهد و for مدت زمان را.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: نقطه شروع با since",
         "htmlTag": 2,
         "content": "کاربرد 1: نقطه شروع با since",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: نقطه شروع با since",
         "htmlTag": 0,
         "content": "I have lived here since 2021.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: نقطه شروع با since",
         "htmlTag": 0,
         "content": "در این جمله since آغاز زندگی در این مکان را مشخص می‌کند. چون این وضعیت از آن زمان تا حال حاضر ادامه دارد، present perfect مناسب است.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: مدت زمان با for",
         "htmlTag": 2,
         "content": "کاربرد 2: مدت زمان با for",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: مدت زمان با for",
         "htmlTag": 0,
         "content": "She has worked at this company for five years.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: مدت زمان با for",
         "htmlTag": 0,
         "content": "اینجا for طول مدت را نشان می‌دهد. جمله تاکید می‌کند که این کار از گذشته شروع شده و هنوز ادامه دارد.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در این کاربرد، معمولا با فعل‌هایی سر و کار داریم که می‌توانند ادامه‌دار باشند، مثل live، work، know یا study. اگر وضعیت دیگر تمام شده باشد، past simple مناسب‌تر خواهد بود.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We have known each other for a long time.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "این مثال رابطه‌ای را توصیف می‌کند که در گذشته شروع شده و هنوز برقرار است. for مدت طولانی بودن آن را نشان می‌دهد.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He has been in the meeting since nine o'clock.",
+        "content": "We have known each other for a long time.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا since زمان شروع حضور او را مشخص می‌کند و جمله نشان می‌دهد آن وضعیت تا حال حاضر ادامه داشته است.",
+        "content": "این مثال رابطه‌ای را توصیف می‌کند که در گذشته شروع شده و هنوز برقرار است. for مدت طولانی بودن آن را نشان می‌دهد.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He has been in the meeting since nine o'clock.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا since زمان شروع حضور او را مشخص می‌کند و جمله نشان می‌دهد آن وضعیت تا حال حاضر ادامه داشته است.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

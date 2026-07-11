@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: کار به خود فاعل برمی‌گردد",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: کار به خود فاعل برمی‌گردد",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: کار به خود فاعل برمی‌گردد",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "I hurt myself.",
+        "content": "ضمیر انعکاسی وقتی می‌آید که فاعل و مفعول یک نفر یا یک چیز باشند: I hurt myself، She taught herself.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: کار به خود فاعل برمی‌گردد",
-        "htmlTag": 0,
-        "content": "چون فاعل و مفعول هر دو «من» هستند، از myself استفاده شده است. کار آسیب به خود گوینده برگشته است.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: کار به خود فاعل برمی‌گردد",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: کار به خود فاعل برمی‌گردد",
         "htmlTag": 0,
-        "content": "She taught herself English.",
+        "content": "I hurt myself.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: کار به خود فاعل برمی‌گردد",
         "htmlTag": 0,
-        "content": "herself نشان می‌دهد که او بدون کمک دیگران و به‌تنهایی یاد گرفته است.",
+        "content": "چون فاعل و مفعول هر دو «من» هستند، از myself استفاده شده است. کار آسیب به خود گوینده برگشته است.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار به خود فاعل برمی‌گردد",
+        "htmlTag": 0,
+        "content": "She taught herself English.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: کار به خود فاعل برمی‌گردد",
+        "htmlTag": 0,
+        "content": "herself نشان می‌دهد که او بدون کمک دیگران و به‌تنهایی یاد گرفته است.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: تاکید",
         "htmlTag": 2,
         "content": "کاربرد 2: تاکید",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: تاکید",
-        "htmlTag": 0,
-        "content": "I made this cake myself.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: تاکید",
-        "htmlTag": 0,
-        "content": "اینجا myself برای تاکید آمده و یعنی خودم و بدون کمک کسی این کار را کردم.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: تاکید",
         "htmlTag": 0,
-        "content": "The manager himself called me.",
+        "content": "I made this cake myself.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: تاکید",
         "htmlTag": 0,
-        "content": "himself روی اهمیت موضوع تاکید می‌کند: شخصا خود مدیر تماس گرفت.",
+        "content": "اینجا myself برای تاکید آمده و یعنی خودم و بدون کمک کسی این کار را کردم.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید",
+        "htmlTag": 0,
+        "content": "The manager himself called me.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: تاکید",
+        "htmlTag": 0,
+        "content": "himself روی اهمیت موضوع تاکید می‌کند: شخصا خود مدیر تماس گرفت.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "عبارت by myself یعنی «تنها» یا «بدون کمک». همه فعل‌ها ضمیر انعکاسی نمی‌گیرند؛ مثلا معمولا نمی‌گوییم I feel myself good.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "They enjoyed themselves at the party.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "فعل enjoy معمولا با ضمیر انعکاسی می‌آید و یعنی به آن‌ها خوش گذشت.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He lives by himself.",
+        "content": "They enjoyed themselves at the party.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "by himself یعنی او تنها زندگی می‌کند.",
+        "content": "فعل enjoy معمولا با ضمیر انعکاسی می‌آید و یعنی به آن‌ها خوش گذشت.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He lives by himself.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "by himself یعنی او تنها زندگی می‌کند.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

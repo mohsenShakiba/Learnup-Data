@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "I enjoy reading books.",
+        "content": "بعد از بعضی فعل‌ها gerund می‌آید و بعد از بعضی infinitive. فعل اول تعیین می‌کند شکل فعل دوم چه باشد.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
-        "htmlTag": 0,
-        "content": "بعد از enjoy همیشه شکل ing-دار می‌آید. فعل‌هایی مثل finish و avoid هم همین الگو را دارند.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
         "htmlTag": 0,
-        "content": "She finished doing her homework.",
+        "content": "I enjoy reading books.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
         "htmlTag": 0,
-        "content": "بعد از finish فعل به شکل doing آمده است، نه to do.",
+        "content": "بعد از enjoy همیشه شکل ing-دار می‌آید. فعل‌هایی مثل finish و avoid هم همین الگو را دارند.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
+        "htmlTag": 0,
+        "content": "She finished doing her homework.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: فعل‌هایی که ing می‌گیرند",
+        "htmlTag": 0,
+        "content": "بعد از finish فعل به شکل doing آمده است، نه to do.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: فعل‌هایی که to می‌گیرند",
         "htmlTag": 2,
         "content": "کاربرد 2: فعل‌هایی که to می‌گیرند",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: فعل‌هایی که to می‌گیرند",
-        "htmlTag": 0,
-        "content": "We decided to leave early.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: فعل‌هایی که to می‌گیرند",
-        "htmlTag": 0,
-        "content": "بعد از decide شکل to + فعل می‌آید. فعل‌هایی مثل want و hope هم همین قانون را دارند.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: فعل‌هایی که to می‌گیرند",
         "htmlTag": 0,
-        "content": "He wants to learn Spanish.",
+        "content": "We decided to leave early.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: فعل‌هایی که to می‌گیرند",
         "htmlTag": 0,
-        "content": "بعد از want از to learn استفاده شده است، نه learning.",
+        "content": "بعد از decide شکل to + فعل می‌آید. فعل‌هایی مثل want و hope هم همین قانون را دارند.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل‌هایی که to می‌گیرند",
+        "htmlTag": 0,
+        "content": "He wants to learn Spanish.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: فعل‌هایی که to می‌گیرند",
+        "htmlTag": 0,
+        "content": "بعد از want از to learn استفاده شده است، نه learning.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعضی فعل‌ها مثل like هر دو شکل را می‌پذیرند با تفاوت معنایی جزئی. همچنین بعد از حروف اضافه همیشه شکل ing-دار می‌آید: good at swimming.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "They avoided making noise.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "بعد از avoid شکل ing-دار می‌آید، پس making درست است.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "I hope to see you soon.",
+        "content": "They avoided making noise.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "بعد از hope از to + فعل استفاده می‌کنیم.",
+        "content": "بعد از avoid شکل ing-دار می‌آید، پس making درست است.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I hope to see you soon.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "بعد از hope از to + فعل استفاده می‌کنیم.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

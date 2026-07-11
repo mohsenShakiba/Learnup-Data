@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "past perfect کاری را نشان می‌دهد که قبل از یک زمان یا رویداد دیگر در گذشته کامل شده است: had + past participle.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: عملی که قبل از رویداد گذشته کامل شده",
         "htmlTag": 2,
         "content": "کاربرد 1: عملی که قبل از رویداد گذشته کامل شده",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: عملی که قبل از رویداد گذشته کامل شده",
         "htmlTag": 0,
         "content": "By the time we arrived, the film had started.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: عملی که قبل از رویداد گذشته کامل شده",
         "htmlTag": 0,
         "content": "در این جمله arriving رویداد مرجع در گذشته است و had started نشان می‌دهد شروع فیلم پیش از آن اتفاق افتاده بود. past perfect تقدم را روشن می‌کند.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: دلیل یک وضعیت در گذشته",
         "htmlTag": 2,
         "content": "کاربرد 2: دلیل یک وضعیت در گذشته",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: دلیل یک وضعیت در گذشته",
         "htmlTag": 0,
         "content": "She was tired because she had not slept well.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: دلیل یک وضعیت در گذشته",
         "htmlTag": 0,
         "content": "اینجا tired بودن نتیجه‌ای در گذشته است و نخوابیدن خوب علتِ پیش‌ترِ آن است. past perfect کمک می‌کند این رابطه زمانی و علّی واضح شود.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر ترتیب زمانی از بافت کاملا روشن باشد، همیشه past perfect ضروری نیست؛ اما وقتی احتمال ابهام وجود دارد، این زمان یکی از بهترین ابزارها برای دقیق کردن روایت است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I had finished dinner before he called.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال عمل finish کردن پیش از تماس کامل شده و past perfect این تقدم را مشخص می‌کند.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "They had left the office when the storm began.",
+        "content": "I had finished dinner before he called.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا جمله نشان می‌دهد ترک کردن دفتر زودتر از شروع طوفان رخ داده بود.",
+        "content": "در این مثال عمل finish کردن پیش از تماس کامل شده و past perfect این تقدم را مشخص می‌کند.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They had left the office when the storm began.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله نشان می‌دهد ترک کردن دفتر زودتر از شروع طوفان رخ داده بود.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "past perfect در روایت و داستان",
         "htmlTag": 1,
         "content": "past perfect در روایت و داستان",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "past perfect در روایت و داستان",
         "htmlTag": 0,
         "content": "در روایت‌ها past perfect معمولا برای عقب رفتن به یک رویداد قدیمی‌تر استفاده می‌شود. نویسنده یا گوینده اول صحنه اصلیِ گذشته را می‌سازد و بعد با past perfect به دلیل یا اتفاقی برمی‌گردد که پیش‌تر رخ داده بود.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: پس‌زمینه‌سازی برای داستان",
         "htmlTag": 2,
         "content": "کاربرد 1: پس‌زمینه‌سازی برای داستان",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: پس‌زمینه‌سازی برای داستان",
         "htmlTag": 0,
         "content": "He was nervous because he had never spoken in public before.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: پس‌زمینه‌سازی برای داستان",
         "htmlTag": 0,
         "content": "در این مثال nervous بودن بخشی از صحنه اصلی است و نداشتن تجربه قبلی علت قدیمی‌تر آن است. past perfect این لایه زمانی را مشخص می‌کند.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: توضیح پیشینه یک اتفاق",
         "htmlTag": 2,
         "content": "کاربرد 2: توضیح پیشینه یک اتفاق",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: توضیح پیشینه یک اتفاق",
         "htmlTag": 0,
         "content": "The match was canceled because it had rained all night.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: توضیح پیشینه یک اتفاق",
         "htmlTag": 0,
         "content": "اینجا cancel شدن رویداد اصلی است، اما باران شب قبل توضیح قبلی و علت آن است. past perfect این ارتباط را منظم‌تر می‌کند.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در داستان‌نویسی after that که زمان قدیمی‌تر روشن شد، نویسنده گاهی دوباره به past simple برمی‌گردد. بنابراین past perfect همیشه برای کل روایت ادامه پیدا نمی‌کند و بیشتر برای برجسته کردن عقب‌رفت زمانی به کار می‌رود.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She recognized the song because she had heard it before.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال شنیدن قبلی نسبت به شناختن در گذشته قدیمی‌تر است و past perfect این پیش‌زمینه را می‌سازد.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "We missed the bus because we had left home too late.",
+        "content": "She recognized the song because she had heard it before.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا دیر بیرون آمدن علتِ قبلیِ از دست دادن اتوبوس است، بنابراین past perfect رابطه زمانی را روشن می‌کند.",
+        "content": "در این مثال شنیدن قبلی نسبت به شناختن در گذشته قدیمی‌تر است و past perfect این پیش‌زمینه را می‌سازد.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We missed the bus because we had left home too late.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا دیر بیرون آمدن علتِ قبلیِ از دست دادن اتوبوس است، بنابراین past perfect رابطه زمانی را روشن می‌کند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "تفاوت با past simple و اشتباه‌های رایج",
         "htmlTag": 1,
         "content": "تفاوت با past simple و اشتباه‌های رایج",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "تفاوت با past simple و اشتباه‌های رایج",
         "htmlTag": 0,
         "content": "خطای رایج این است که در هر جمله‌ای با دو فعل گذشته، یکی را بی‌دلیل به past perfect تبدیل کنیم. این زمان زمانی ارزش دارد که بخواهیم تقدم یک رویداد را برجسته یا ابهام را رفع کنیم.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: وقتی past simple کافی است",
         "htmlTag": 2,
         "content": "کاربرد 1: وقتی past simple کافی است",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: وقتی past simple کافی است",
         "htmlTag": 0,
         "content": "I came home, opened the door, and sat down.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: وقتی past simple کافی است",
         "htmlTag": 0,
         "content": "در این جمله ترتیب رویدادها با منطق طبیعی و ترتیب بیان روشن است، پس past simple کافی است و نیازی به past perfect نیست.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: وقتی past perfect لازم می‌شود",
         "htmlTag": 2,
         "content": "کاربرد 2: وقتی past perfect لازم می‌شود",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: وقتی past perfect لازم می‌شود",
         "htmlTag": 0,
         "content": "I could not get in because I had lost my keys.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: وقتی past perfect لازم می‌شود",
         "htmlTag": 0,
         "content": "اینجا گم کردن کلیدها قبل از ناتوانی در ورود رخ داده و علت آن است. past perfect به جمله دقت زمانی و منطقی بیشتری می‌دهد.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر رویداد قدیمی‌تر را بدون past perfect بیان کنیم، گاهی هنوز جمله قابل فهم است، اما ممکن است معنی مبهم‌تر شود یا تاکید زمانی از بین برود. past perfect بیش از هر چیز ابزاری برای شفافیت است.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "After she had finished the exam, she went straight home.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال پایان امتحان واضحا قبل از رفتن به خانه است و past perfect این تقدم را برجسته می‌کند.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The shop had closed by the time we got there.",
+        "content": "After she had finished the exam, she went straight home.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا رسیدن ما نقطه مرجع است و بسته شدن مغازه قبل از آن کامل شده بود.",
+        "content": "در این مثال پایان امتحان واضحا قبل از رفتن به خانه است و past perfect این تقدم را برجسته می‌کند.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The shop had closed by the time we got there.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا رسیدن ما نقطه مرجع است و بسته شدن مغازه قبل از آن کامل شده بود.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

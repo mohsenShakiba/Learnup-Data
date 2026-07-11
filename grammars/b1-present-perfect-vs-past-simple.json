@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "اگر زمان گذشته مشخص و تمام‌شده مهم است، past simple بگیرید؛ اگر ارتباط با حال مهم‌تر است، present perfect مناسب‌تر است.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: گذشته تمام‌شده با زمان مشخص",
         "htmlTag": 2,
         "content": "کاربرد 1: گذشته تمام‌شده با زمان مشخص",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: گذشته تمام‌شده با زمان مشخص",
         "htmlTag": 0,
         "content": "I visited Shiraz last summer.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: گذشته تمام‌شده با زمان مشخص",
         "htmlTag": 0,
         "content": "در این جمله last summer زمان رویداد را مشخص می‌کند، پس از past simple استفاده می‌کنیم. رویداد در گذشته کامل شده و به‌صورت یک اتفاق بسته دیده می‌شود.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: تجربه یا نتیجه بدون زمان مشخص",
         "htmlTag": 2,
         "content": "کاربرد 2: تجربه یا نتیجه بدون زمان مشخص",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: تجربه یا نتیجه بدون زمان مشخص",
         "htmlTag": 0,
         "content": "I have visited Shiraz several times.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: تجربه یا نتیجه بدون زمان مشخص",
         "htmlTag": 0,
         "content": "اینجا زمان دقیق مهم نیست و جمله بیشتر درباره تجربه زندگی گوینده تا این لحظه است. present perfect این ارتباط با حال را نگه می‌دارد.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر در جمله زمان کاملا مشخصی مثل yesterday، in 2019 یا last week بیاید، معمولا باید past simple به کار ببریم. present perfect با این نوع زمان‌های بسته و تمام‌شده سازگار نیست.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She has lost her keys.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال نتیجه عمل تا زمان حال مهم است، چون کلیدها هنوز پیدا نشده‌اند. به همین دلیل present perfect طبیعی‌تر است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "She lost her keys yesterday.",
+        "content": "She has lost her keys.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا تمرکز روی زمان مشخصِ دیروز است، نه روی نتیجه فعلی. پس past simple درست است.",
+        "content": "در این مثال نتیجه عمل تا زمان حال مهم است، چون کلیدها هنوز پیدا نشده‌اند. به همین دلیل present perfect طبیعی‌تر است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She lost her keys yesterday.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا تمرکز روی زمان مشخصِ دیروز است، نه روی نتیجه فعلی. پس past simple درست است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "کلمات راهنما و ارتباط با حال",
         "htmlTag": 1,
         "content": "کلمات راهنما و ارتباط با حال",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "کلمات راهنما و ارتباط با حال",
         "htmlTag": 0,
         "content": "بعضی قیدها به ما کمک می‌کنند انتخاب بهتری داشته باشیم. already، just، yet، ever و never اغلب با present perfect می‌آیند، چون به تجربه یا نتیجه‌ای مرتبط با اکنون اشاره می‌کنند. در مقابل ago یا last night ما را به past simple می‌برند.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: نتیجه تازه با just",
         "htmlTag": 2,
         "content": "کاربرد 1: نتیجه تازه با just",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: نتیجه تازه با just",
         "htmlTag": 0,
         "content": "We have just finished lunch.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: نتیجه تازه با just",
         "htmlTag": 0,
         "content": "در اینجا just نشان می‌دهد عمل همین چند لحظه پیش کامل شده و نتیجه آن هنوز به زمان حال نزدیک است. به همین دلیل present perfect مناسب است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: گذشته بسته با ago",
         "htmlTag": 2,
         "content": "کاربرد 2: گذشته بسته با ago",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: گذشته بسته با ago",
         "htmlTag": 0,
         "content": "We finished lunch an hour ago.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: گذشته بسته با ago",
         "htmlTag": 0,
         "content": "اینجا an hour ago زمان رویداد را به‌وضوح می‌بندد و آن را در گذشته قرار می‌دهد. بنابراین past simple انتخاب درستی است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "برای تصمیم بهتر، از خودمان بپرسیم: آیا زمان رویداد برای جمله مهم است یا نتیجه و تجربه آن تا این لحظه؟ پاسخ این سوال معمولا ما را به زمان درست می‌رساند.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Have you ever tried Korean food?",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال سوال درباره تجربه زندگی تا امروز است، نه یک زمان خاص. ever یکی از نشانه‌های رایج present perfect است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Did you try Korean food when you were in Seoul?",
+        "content": "Have you ever tried Korean food?",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا تجربه به یک سفر مشخص در گذشته وصل شده است، پس past simple طبیعی‌تر است.",
+        "content": "در این مثال سوال درباره تجربه زندگی تا امروز است، نه یک زمان خاص. ever یکی از نشانه‌های رایج present perfect است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Did you try Korean food when you were in Seoul?",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا تجربه به یک سفر مشخص در گذشته وصل شده است، پس past simple طبیعی‌تر است.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "اشتباه‌های رایج و مرور",
         "htmlTag": 1,
         "content": "اشتباه‌های رایج و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "اشتباه‌های رایج و مرور",
         "htmlTag": 0,
         "content": "بزرگ‌ترین اشتباه این است که present perfect را فقط به خاطر مهم بودن عمل انتخاب کنیم، حتی وقتی زمان جمله کاملا مشخص است. برعکس، بعضی زبان‌آموزها برای تجربه‌های کلی زندگی past simple می‌گذارند، درحالی‌که زمان مشخصی در جمله وجود ندارد.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: تجربه زندگی تا امروز",
         "htmlTag": 2,
         "content": "کاربرد 1: تجربه زندگی تا امروز",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: تجربه زندگی تا امروز",
         "htmlTag": 0,
         "content": "He has never flown in a helicopter.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: تجربه زندگی تا امروز",
         "htmlTag": 0,
         "content": "این جمله درباره کل تجربه زندگی او تا این لحظه است. هیچ زمان مشخصی گفته نشده و never دامنه تجربه را تا حال حاضر تعریف می‌کند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: رویداد مشخص در گذشته",
         "htmlTag": 2,
         "content": "کاربرد 2: رویداد مشخص در گذشته",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: رویداد مشخص در گذشته",
         "htmlTag": 0,
         "content": "He flew in a helicopter on his birthday.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: رویداد مشخص در گذشته",
         "htmlTag": 0,
         "content": "در اینجا on his birthday زمان اتفاق را مشخص می‌کند، پس جمله باید با past simple ساخته شود.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر جمله را بتوانیم به سادگی با «چه زمانی؟» ادامه بدهیم و جواب روشنی برایش داشته باشیم، past simple محتمل‌تر است. اگر تمرکز روی نتیجه یا تجربه تا امروز باشد، present perfect انتخاب بهتری خواهد بود.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I have read that book, so we can talk about it now.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال نتیجه خواندن کتاب برای زمان حال مهم است، چون امکان گفت‌وگو را فراهم می‌کند. این ارتباط، present perfect را توجیه می‌کند.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "I read that book in high school.",
+        "content": "I have read that book, so we can talk about it now.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا زمان گذشته و بسته مشخص شده است. بنابراین جمله به یک دوره تمام‌شده اشاره می‌کند و past simple لازم است.",
+        "content": "در این مثال نتیجه خواندن کتاب برای زمان حال مهم است، چون امکان گفت‌وگو را فراهم می‌کند. این ارتباط، present perfect را توجیه می‌کند.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I read that book in high school.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا زمان گذشته و بسته مشخص شده است. بنابراین جمله به یک دوره تمام‌شده اشاره می‌کند و past simple لازم است.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

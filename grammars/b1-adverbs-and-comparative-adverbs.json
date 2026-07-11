@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: ساخت قید از صفت",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: ساخت قید از صفت",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: ساخت قید از صفت",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "She speaks clearly.",
+        "content": "قید، فعل یا کل جمله را توصیف می‌کند. برای مقایسه روش انجام کار، از comparative adverb مثل more carefully یا faster استفاده کنید.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: ساخت قید از صفت",
-        "htmlTag": 0,
-        "content": "قید clearly از صفت clear با افزودن ly ساخته شده و چگونگی صحبت کردن را نشان می‌دهد.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: ساخت قید از صفت",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: ساخت قید از صفت",
         "htmlTag": 0,
-        "content": "He drives carefully.",
+        "content": "She speaks clearly.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: ساخت قید از صفت",
         "htmlTag": 0,
-        "content": "carefully از careful ساخته شده است و روش رانندگی را توصیف می‌کند.",
+        "content": "قید clearly از صفت clear با افزودن ly ساخته شده و چگونگی صحبت کردن را نشان می‌دهد.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ساخت قید از صفت",
+        "htmlTag": 0,
+        "content": "He drives carefully.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: ساخت قید از صفت",
+        "htmlTag": 0,
+        "content": "carefully از careful ساخته شده است و روش رانندگی را توصیف می‌کند.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: قید مقایسه‌ای",
         "htmlTag": 2,
         "content": "کاربرد 2: قید مقایسه‌ای",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: قید مقایسه‌ای",
-        "htmlTag": 0,
-        "content": "She works more carefully than me.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: قید مقایسه‌ای",
-        "htmlTag": 0,
-        "content": "برای قیدهای بلند از more پیش از قید استفاده می‌کنیم، نه افزودن er.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: قید مقایسه‌ای",
         "htmlTag": 0,
-        "content": "He runs faster than his brother.",
+        "content": "She works more carefully than me.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: قید مقایسه‌ای",
         "htmlTag": 0,
-        "content": "fast قید کوتاه و بی‌قاعده است و مستقیم er می‌گیرد و به faster تبدیل می‌شود.",
+        "content": "برای قیدهای بلند از more پیش از قید استفاده می‌کنیم، نه افزودن er.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قید مقایسه‌ای",
+        "htmlTag": 0,
+        "content": "He runs faster than his brother.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: قید مقایسه‌ای",
+        "htmlTag": 0,
+        "content": "fast قید کوتاه و بی‌قاعده است و مستقیم er می‌گیرد و به faster تبدیل می‌شود.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعضی قیدها بی‌قاعده‌اند: good تبدیل به well می‌شود و well در حالت مقایسه‌ای better است. همه صفت‌های ly-دار قید نیستند، مثل friendly که صفت است.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Please speak more slowly.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "more slowly یعنی آهسته‌تر و برای قید بلند slowly درست است.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "She sings well.",
+        "content": "Please speak more slowly.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "well قید بی‌قاعده‌ای است که از good ساخته می‌شود.",
+        "content": "more slowly یعنی آهسته‌تر و برای قید بلند slowly درست است.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She sings well.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "well قید بی‌قاعده‌ای است که از good ساخته می‌شود.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

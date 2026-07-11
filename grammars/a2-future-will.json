@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "از will برای تصمیم لحظه‌ای، پیش‌بینی، قول یا پیشنهاد استفاده کنید. بعد از will همیشه شکل پایه فعل می‌آید.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: تصمیم در لحظه صحبت",
         "htmlTag": 2,
         "content": "کاربرد 1: تصمیم در لحظه صحبت",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: تصمیم در لحظه صحبت",
         "htmlTag": 0,
         "content": "I will answer the phone.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: تصمیم در لحظه صحبت",
         "htmlTag": 0,
         "content": "گوینده همین حالا تصمیم گرفته تلفن را جواب بدهد. چون تصمیم از قبل برنامه‌ریزی نشده است، will مناسب است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: پیشنهاد یا کمک",
         "htmlTag": 2,
         "content": "کاربرد 2: پیشنهاد یا کمک",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: پیشنهاد یا کمک",
         "htmlTag": 0,
         "content": "I will carry your bag.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: پیشنهاد یا کمک",
         "htmlTag": 0,
         "content": "اینجا will برای پیشنهاد کمک استفاده شده است. در مکالمه روزمره این کاربرد بسیار طبیعی و مودبانه است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "will معمولا برای برنامه‌های از قبل قطعی بهترین انتخاب نیست. اگر از قبل تصمیم گرفته باشیم، اغلب going to یا زمان‌های دیگر مناسب‌تر هستند.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I will call you tonight.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال گوینده قول یا تصمیمی برای آینده می‌دهد. تمرکز روی اراده یا تصمیم اوست.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Do not worry. We will help you.",
+        "content": "I will call you tonight.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا will برای اطمینان دادن و قول کمک به کار رفته است. این یکی از کاربردهای رایج آن در گفتگو است.",
+        "content": "در این مثال گوینده قول یا تصمیمی برای آینده می‌دهد. تمرکز روی اراده یا تصمیم اوست.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Do not worry. We will help you.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا will برای اطمینان دادن و قول کمک به کار رفته است. این یکی از کاربردهای رایج آن در گفتگو است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "پیش‌بینی با will",
         "htmlTag": 1,
         "content": "پیش‌بینی با will",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "پیش‌بینی با will",
         "htmlTag": 0,
         "content": "وقتی می‌خواهیم نظر، حدس یا پیش‌بینی خودمان را درباره آینده بگوییم، از will زیاد استفاده می‌کنیم. در این حالت معمولا به نظر شخصی، تجربه یا باور خود تکیه داریم، نه لزوما به یک نشانه واضح در زمان حال.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: پیش‌بینی شخصی",
         "htmlTag": 2,
         "content": "کاربرد 1: پیش‌بینی شخصی",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: پیش‌بینی شخصی",
         "htmlTag": 0,
         "content": "I think it will rain tomorrow.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: پیش‌بینی شخصی",
         "htmlTag": 0,
         "content": "عبارت I think نشان می‌دهد این جمله یک نظر یا پیش‌بینی است. will در اینجا آینده‌ای را بیان می‌کند که هنوز قطعی نیست.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: پیش‌بینی درباره نتیجه",
         "htmlTag": 2,
         "content": "کاربرد 2: پیش‌بینی درباره نتیجه",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: پیش‌بینی درباره نتیجه",
         "htmlTag": 0,
         "content": "This movie will be popular.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: پیش‌بینی درباره نتیجه",
         "htmlTag": 0,
         "content": "اینجا گوینده حدس می‌زند فیلم در آینده محبوب می‌شود. جمله بر پایه نظر یا انتظار او ساخته شده است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر پیش‌بینی ما بر اساس مدرک واضح و قابل مشاهده باشد، گاهی going to طبیعی‌تر است. will بیشتر حس پیش‌بینی ذهنی یا نظر را منتقل می‌کند.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "People will live longer in the future.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال گوینده درباره آینده به صورت کلی پیش‌بینی می‌کند. این کاربرد در بحث‌های عمومی و علمی ساده رایج است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "I am sure she will enjoy the trip.",
+        "content": "People will live longer in the future.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا will برای پیش‌بینی آینده با درجه‌ای از اطمینان به کار رفته است. عبارت I am sure فقط این اطمینان را تقویت می‌کند.",
+        "content": "در این مثال گوینده درباره آینده به صورت کلی پیش‌بینی می‌کند. این کاربرد در بحث‌های عمومی و علمی ساده رایج است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "I am sure she will enjoy the trip.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا will برای پیش‌بینی آینده با درجه‌ای از اطمینان به کار رفته است. عبارت I am sure فقط این اطمینان را تقویت می‌کند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "منفی، پرسشی و مرور",
         "htmlTag": 1,
         "content": "منفی، پرسشی و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "منفی، پرسشی و مرور",
         "htmlTag": 0,
         "content": "ساخت آینده با will ساده است: will بعد از فاعل می‌آید و فعل اصلی در شکل پایه باقی می‌ماند. برای منفی از will not و برای سوال از جابه‌جایی will به ابتدای جمله استفاده می‌کنیم.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: منفی با will not",
         "htmlTag": 2,
         "content": "کاربرد 1: منفی با will not",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: منفی با will not",
         "htmlTag": 0,
         "content": "He will not forget your name.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: منفی با will not",
         "htmlTag": 0,
         "content": "در این جمله will not آینده منفی را می‌سازد و فعل forget به شکل پایه می‌آید. این ساختار برای قول یا پیش‌بینی منفی رایج است.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: پرسشی با will",
         "htmlTag": 2,
         "content": "کاربرد 2: پرسشی با will",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: پرسشی با will",
         "htmlTag": 0,
         "content": "Will they come to the meeting?",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: پرسشی با will",
         "htmlTag": 0,
         "content": "اینجا will در ابتدای جمله آمده تا سوال ساخته شود. فعل come هم در شکل پایه باقی مانده است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعد از will همیشه شکل ساده فعل می‌آید و نباید آن را صرف کنیم. این سادگی یکی از دلیل‌های مهم رایج بودن این ساختار در مکالمه است.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Will you open the window?",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال will برای درخواست مودبانه هم به کار رفته است. شکل سوالی آن برای پیشنهاد و خواهش طبیعی است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "We will not stay long.",
+        "content": "Will you open the window?",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا جمله یک برنامه یا تصمیم آینده را به شکل منفی بیان می‌کند و stay به صورت پایه آمده است.",
+        "content": "در این مثال will برای درخواست مودبانه هم به کار رفته است. شکل سوالی آن برای پیشنهاد و خواهش طبیعی است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We will not stay long.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله یک برنامه یا تصمیم آینده را به شکل منفی بیان می‌کند و stay به صورت پایه آمده است.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

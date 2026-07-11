@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "اول بپرسید آیا می‌توان اسم را شمرد یا نه. همین پاسخ انتخاب a/an، plural -s، much، many، some و any را تعیین می‌کند.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: اسم قابل‌شمارش با عدد",
         "htmlTag": 2,
         "content": "کاربرد 1: اسم قابل‌شمارش با عدد",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: اسم قابل‌شمارش با عدد",
         "htmlTag": 0,
         "content": "I bought three apples.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: اسم قابل‌شمارش با عدد",
         "htmlTag": 0,
         "content": "چون apple قابل‌شمارش است، می‌توانیم قبل از آن عدد بیاوریم و شکل جمع آن را بسازیم. این ویژگی مهم اسم‌های countable است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: اسم غیرقابل‌شمارش بدون عدد مستقیم",
         "htmlTag": 2,
         "content": "کاربرد 2: اسم غیرقابل‌شمارش بدون عدد مستقیم",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: اسم غیرقابل‌شمارش بدون عدد مستقیم",
         "htmlTag": 0,
         "content": "We need more water.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: اسم غیرقابل‌شمارش بدون عدد مستقیم",
         "htmlTag": 0,
         "content": "اینجا water به صورت ماده یا مایع کلی دیده می‌شود و مستقیم با عدد نمی‌آید. به همین دلیل آن را غیرقابل‌شمارش در نظر می‌گیریم.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعضی اسم‌ها بسته به معنا می‌توانند قابل‌شمارش یا غیرقابل‌شمارش باشند، اما در سطح پایه بهتر است اول کاربرد رایج و روزمره آن‌ها را یاد بگیریم تا انتخاب article و quantifier ساده‌تر شود.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She has a few books in her bag.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال books قابل‌شمارش است و به چند واحد جداگانه اشاره می‌کند. به همین دلیل شکل جمع و مقدارش طبیعی است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "There is not much sugar left.",
+        "content": "She has a few books in her bag.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا sugar غیرقابل‌شمارش است و با much آمده است. جمله درباره مقدار کلی این ماده حرف می‌زند، نه تعداد آن.",
+        "content": "در این مثال books قابل‌شمارش است و به چند واحد جداگانه اشاره می‌کند. به همین دلیل شکل جمع و مقدارش طبیعی است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There is not much sugar left.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا sugar غیرقابل‌شمارش است و با much آمده است. جمله درباره مقدار کلی این ماده حرف می‌زند، نه تعداد آن.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "article و مقدار با دو نوع اسم",
         "htmlTag": 1,
         "content": "article و مقدار با دو نوع اسم",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "article و مقدار با دو نوع اسم",
         "htmlTag": 0,
         "content": "تفاوت countable و uncountable روی انتخاب article و عبارت‌های مقدار اثر می‌گذارد. اسم قابل‌شمارش مفرد می‌تواند a یا an بگیرد، اما اسم غیرقابل‌شمارش معمولا این articleها را نمی‌گیرد.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: a یا an با اسم مفرد قابل‌شمارش",
         "htmlTag": 2,
         "content": "کاربرد 1: a یا an با اسم مفرد قابل‌شمارش",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: a یا an با اسم مفرد قابل‌شمارش",
         "htmlTag": 0,
         "content": "She wants an orange.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: a یا an با اسم مفرد قابل‌شمارش",
         "htmlTag": 0,
         "content": "چون orange یک اسم مفرد قابل‌شمارش است، می‌توانیم از an استفاده کنیم. این ساختار برای یک واحد نامشخص به کار می‌رود.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: بدون a یا an با اسم غیرقابل‌شمارش",
         "htmlTag": 2,
         "content": "کاربرد 2: بدون a یا an با اسم غیرقابل‌شمارش",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: بدون a یا an با اسم غیرقابل‌شمارش",
         "htmlTag": 0,
         "content": "I need information.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: بدون a یا an با اسم غیرقابل‌شمارش",
         "htmlTag": 0,
         "content": "اینجا information غیرقابل‌شمارش است و به همین دلیل با a یا an نمی‌آید. جمله درباره مقدار کلی اطلاعات حرف می‌زند.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "برای اسم‌های غیرقابل‌شمارش معمولا از some، much، a little یا عبارت‌های ظرف و واحد استفاده می‌کنیم. این ابزارها کمک می‌کنند مقدار را بیان کنیم بدون آن که اسم را بشماریم.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We bought some rice.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال some مقدار نامشخصی از rice را نشان می‌دهد. چون rice غیرقابل‌شمارش است، شکل جمع هم ندارد.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He ate a sandwich and some soup.",
+        "content": "We bought some rice.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا sandwich قابل‌شمارش و soup غیرقابل‌شمارش است. جمله تفاوت رفتار این دو نوع اسم را کنار هم نشان می‌دهد.",
+        "content": "در این مثال some مقدار نامشخصی از rice را نشان می‌دهد. چون rice غیرقابل‌شمارش است، شکل جمع هم ندارد.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He ate a sandwich and some soup.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا sandwich قابل‌شمارش و soup غیرقابل‌شمارش است. جمله تفاوت رفتار این دو نوع اسم را کنار هم نشان می‌دهد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "واحد، ظرف و مرور",
         "htmlTag": 1,
         "content": "واحد، ظرف و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "واحد، ظرف و مرور",
         "htmlTag": 0,
         "content": "برای غیرقابل‌شمارش‌ها اگر بخواهیم مقدار دقیق‌تر بدهیم، معمولا از واحد یا ظرف استفاده می‌کنیم، مثل a bottle of water یا a piece of advice. این روش کمک می‌کند چیزی را که مستقیم شمرده نمی‌شود، به یک واحد قابل‌شمارش تبدیل کنیم.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: ظرف برای مایعات",
         "htmlTag": 2,
         "content": "کاربرد 1: ظرف برای مایعات",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: ظرف برای مایعات",
         "htmlTag": 0,
         "content": "She drank a glass of milk.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: ظرف برای مایعات",
         "htmlTag": 0,
         "content": "در این جمله milk هنوز غیرقابل‌شمارش است، اما a glass of یک واحد مشخص برای آن ساخته است. بنابراین می‌توانیم مقدار دقیق‌تری بدهیم.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: واحد برای ایده یا اطلاعات",
         "htmlTag": 2,
         "content": "کاربرد 2: واحد برای ایده یا اطلاعات",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: واحد برای ایده یا اطلاعات",
         "htmlTag": 0,
         "content": "He gave me a piece of advice.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: واحد برای ایده یا اطلاعات",
         "htmlTag": 0,
         "content": "اینجا advice غیرقابل‌شمارش است، اما با a piece of به یک واحد تبدیل شده است. این ساختار برای اسم‌های انتزاعی بسیار مفید است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر مطمئن نیستیم اسمی countable است یا uncountable، بهتر است به دیکشنری یا مثال‌های رایج توجه کنیم. این انتخاب روی article، جمع بستن و quantifier اثر مستقیم دارد.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Can I have a cup of tea?",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال tea غیرقابل‌شمارش است، اما a cup of یک واحد قابل‌شمارش برای آن ساخته است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "There is a lot of traffic today.",
+        "content": "Can I have a cup of tea?",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا traffic به صورت غیرقابل‌شمارش به کار رفته و a lot of مقدار زیادی از آن را نشان می‌دهد.",
+        "content": "در این مثال tea غیرقابل‌شمارش است، اما a cup of یک واحد قابل‌شمارش برای آن ساخته است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "There is a lot of traffic today.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا traffic به صورت غیرقابل‌شمارش به کار رفته و a lot of مقدار زیادی از آن را نشان می‌دهد.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

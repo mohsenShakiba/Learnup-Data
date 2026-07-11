@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "ضمیر مفعولی بعد از فعل یا حرف اضافه می‌آید و نشان می‌دهد عمل روی چه کسی یا چه چیزی انجام می‌شود: me، him، her، us، them.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: بعد از فعل",
         "htmlTag": 2,
         "content": "کاربرد 1: بعد از فعل",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: بعد از فعل",
         "htmlTag": 0,
         "content": "I know her.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: بعد از فعل",
         "htmlTag": 0,
         "content": "در این جمله her مفعول فعل know است و به جای نام یک زن یا دختر آمده است. این کاربرد اصلی ضمیر مفعولی است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: برای دریافت‌کننده عمل",
         "htmlTag": 2,
         "content": "کاربرد 2: برای دریافت‌کننده عمل",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: برای دریافت‌کننده عمل",
         "htmlTag": 0,
         "content": "They called us yesterday.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: برای دریافت‌کننده عمل",
         "htmlTag": 0,
         "content": "اینجا us نشان می‌دهد چه کسانی تماس را دریافت کرده‌اند. ضمیر مفعولی بعد از فعل آمده و نقش مفعول را گرفته است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "ضمیر مفعولی نمی‌تواند به جای فاعل در ابتدای جمله بیاید. اگر کلمه نقش انجام‌دهنده عمل را داشته باشد، باید از ضمیر فاعلی استفاده کنیم، نه ضمیر مفعولی.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Can you help me?",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال me کسی است که کمک را دریافت می‌کند، بنابراین ضمیر مفعولی لازم است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "She invited them to the party.",
+        "content": "Can you help me?",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا them بعد از invited آمده و جای اسم چند نفر را گرفته است. این ساختار در مکالمه بسیار رایج است.",
+        "content": "در این مثال me کسی است که کمک را دریافت می‌کند، بنابراین ضمیر مفعولی لازم است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "She invited them to the party.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا them بعد از invited آمده و جای اسم چند نفر را گرفته است. این ساختار در مکالمه بسیار رایج است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "بعد از حرف اضافه",
         "htmlTag": 1,
         "content": "بعد از حرف اضافه",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "بعد از حرف اضافه",
         "htmlTag": 0,
         "content": "ضمیرهای مفعولی فقط بعد از فعل نمی‌آیند. بعد از حرف‌های اضافه‌ای مثل to، for، with و about هم از همین شکل‌ها استفاده می‌کنیم، چون در اینجا هم ضمیر نقش مفعولی یا مکمل دارد.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: بعد از to",
         "htmlTag": 2,
         "content": "کاربرد 1: بعد از to",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: بعد از to",
         "htmlTag": 0,
         "content": "This letter is for him.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: بعد از to",
         "htmlTag": 0,
         "content": "در این جمله him بعد از حرف اضافه for آمده است. چون ضمیر بعد از حرف اضافه قرار گرفته، باید شکل مفعولی داشته باشد.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: بعد از with",
         "htmlTag": 2,
         "content": "کاربرد 2: بعد از with",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: بعد از with",
         "htmlTag": 0,
         "content": "She sits with us at lunch.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: بعد از with",
         "htmlTag": 0,
         "content": "اینجا us بعد از with آمده و نشان می‌دهد گوینده با چه کسانی می‌نشیند. استفاده از ضمیر مفعولی بعد از حرف اضافه ضروری است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "حتی اگر در فارسی گاهی شکل ضمیر فرق نکند، در انگلیسی بعد از حرف اضافه باید حتما از ضمیر مفعولی استفاده کنیم. این نکته برای ساخت جمله طبیعی بسیار مهم است.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Please talk to me.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال me بعد از to آمده و نقش مفعولی دارد. استفاده از I در اینجا نادرست است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "We learned a lot from them.",
+        "content": "Please talk to me.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا them بعد از from آمده و به گروهی از افراد اشاره می‌کند که منبع یادگیری بوده‌اند.",
+        "content": "در این مثال me بعد از to آمده و نقش مفعولی دارد. استفاده از I در اینجا نادرست است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "We learned a lot from them.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا them بعد از from آمده و به گروهی از افراد اشاره می‌کند که منبع یادگیری بوده‌اند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "تفاوت با ضمیرهای فاعلی",
         "htmlTag": 1,
         "content": "تفاوت با ضمیرهای فاعلی",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "تفاوت با ضمیرهای فاعلی",
         "htmlTag": 0,
         "content": "بعضی ضمیرهای فاعلی و مفعولی از نظر معنا به یک مرجع اشاره می‌کنند، اما شکلشان فرق دارد. برای ساخت جمله درست باید بدانیم چه زمانی ضمیر انجام‌دهنده عمل است و چه زمانی دریافت‌کننده یا مکمل جمله است.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: مقایسه she و her",
         "htmlTag": 2,
         "content": "کاربرد 1: مقایسه she و her",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: مقایسه she و her",
         "htmlTag": 0,
         "content": "She likes him.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: مقایسه she و her",
         "htmlTag": 0,
         "content": "در این جمله she فاعل است و عمل را انجام می‌دهد، اما him مفعول است و عمل به او می‌رسد. این مثال تفاوت دو نقش را روشن می‌کند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: مقایسه we و us",
         "htmlTag": 2,
         "content": "کاربرد 2: مقایسه we و us",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: مقایسه we و us",
         "htmlTag": 0,
         "content": "The teacher gave us more time.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: مقایسه we و us",
         "htmlTag": 0,
         "content": "اینجا us دریافت‌کننده عمل give است و به همین دلیل شکل مفعولی دارد. اگر این ضمیر فاعل بود، باید we می‌آمد.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "برای تشخیص بهتر، از خودمان بپرسیم چه کسی کار را انجام می‌دهد و چه کسی نتیجه آن را دریافت می‌کند. پاسخ این سوال معمولا نشان می‌دهد باید از ضمیر فاعلی استفاده کنیم یا مفعولی.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I can see you.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال I فاعل است و you مفعول. شکل you برای فاعلی و مفعولی یکسان است، اما جای آن نقش را مشخص می‌کند.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "They asked her a question.",
+        "content": "I can see you.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا her بعد از asked آمده و مفعول جمله است. این نمونه دوباره تفاوت بین فاعل و مفعول را نشان می‌دهد.",
+        "content": "در این مثال I فاعل است و you مفعول. شکل you برای فاعلی و مفعولی یکسان است، اما جای آن نقش را مشخص می‌کند.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They asked her a question.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا her بعد از asked آمده و مفعول جمله است. این نمونه دوباره تفاوت بین فاعل و مفعول را نشان می‌دهد.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "الگوی حال استمراری این است: am/is/are + verb-ing. آن را برای کاری به کار ببرید که اکنون یا در این دوره در جریان است.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: اتفاق در لحظه صحبت",
         "htmlTag": 2,
         "content": "کاربرد 1: اتفاق در لحظه صحبت",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: اتفاق در لحظه صحبت",
         "htmlTag": 0,
         "content": "I am reading a new book now.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: اتفاق در لحظه صحبت",
         "htmlTag": 0,
         "content": "کلمه now نشان می‌دهد عمل خواندن همین حالا در جریان است. به همین دلیل از am reading استفاده می‌کنیم.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: اتفاق اطراف زمان حال",
         "htmlTag": 2,
         "content": "کاربرد 2: اتفاق اطراف زمان حال",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: اتفاق اطراف زمان حال",
         "htmlTag": 0,
         "content": "They are studying for their exams this week.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: اتفاق اطراف زمان حال",
         "htmlTag": 0,
         "content": "اینجا عمل ممکن است دقیقا همین ثانیه رخ ندهد، اما در این روزها جریان دارد. حال استمراری برای چنین بازه موقت هم مناسب است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "حال استمراری بیشتر برای چیزهای موقت یا در حال وقوع است، نه برای عادت‌های همیشگی. اگر بخواهیم درباره برنامه‌های ثابت روزانه حرف بزنیم، معمولا حال ساده مناسب‌تر است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She is talking on the phone.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال عمل صحبت کردن در همین لحظه در حال انجام است. ساختار be + verb-ing این جریان را نشان می‌دهد.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The children are playing outside.",
+        "content": "She is talking on the phone.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا بازی کردن در همان لحظه یا بازه بسیار نزدیک در جریان است و به همین دلیل زمان استمراری به کار رفته است.",
+        "content": "در این مثال عمل صحبت کردن در همین لحظه در حال انجام است. ساختار be + verb-ing این جریان را نشان می‌دهد.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The children are playing outside.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا بازی کردن در همان لحظه یا بازه بسیار نزدیک در جریان است و به همین دلیل زمان استمراری به کار رفته است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "موقعیت‌های موقت و تغییرات",
         "htmlTag": 1,
         "content": "موقعیت‌های موقت و تغییرات",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "موقعیت‌های موقت و تغییرات",
         "htmlTag": 0,
         "content": "از حال استمراری برای موقعیت‌هایی هم استفاده می‌کنیم که موقتی هستند و قرار نیست همیشه ادامه داشته باشند. این زمان همچنین برای بعضی تغییرات یا روندهای قابل مشاهده در زمان حال مناسب است.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: وضعیت موقتی",
         "htmlTag": 2,
         "content": "کاربرد 1: وضعیت موقتی",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: وضعیت موقتی",
         "htmlTag": 0,
         "content": "My cousin is staying with us this month.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: وضعیت موقتی",
         "htmlTag": 0,
         "content": "این جمله نشان می‌دهد اقامت او موقتی است و فقط این ماه ادامه دارد. بنابراین حال استمراری طبیعی است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: تغییر یا روند در حال رخ دادن",
         "htmlTag": 2,
         "content": "کاربرد 2: تغییر یا روند در حال رخ دادن",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: تغییر یا روند در حال رخ دادن",
         "htmlTag": 0,
         "content": "The weather is getting warmer.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: تغییر یا روند در حال رخ دادن",
         "htmlTag": 0,
         "content": "اینجا getting warmer یک تغییر تدریجی را نشان می‌دهد. حال استمراری برای روندهای در حال شکل‌گیری بسیار مناسب است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "همه فعل‌ها در حالت استمراری طبیعی نیستند. بعضی فعل‌های مربوط به احساس، مالکیت یا فکر مثل know و love معمولا در شکل استمراری کمتر استفاده می‌شوند.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We are using my sister's car this week.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال استفاده از ماشین فقط برای یک دوره کوتاه است، پس جمله وضعیت موقت را نشان می‌دهد.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "More people are shopping online.",
+        "content": "We are using my sister's car this week.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا حال استمراری یک روند رو به رشد را بیان می‌کند، نه فقط یک عمل در همان لحظه.",
+        "content": "در این مثال استفاده از ماشین فقط برای یک دوره کوتاه است، پس جمله وضعیت موقت را نشان می‌دهد.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "More people are shopping online.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا حال استمراری یک روند رو به رشد را بیان می‌کند، نه فقط یک عمل در همان لحظه.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "منفی، پرسشی و مرور",
         "htmlTag": 1,
         "content": "منفی، پرسشی و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "منفی، پرسشی و مرور",
         "htmlTag": 0,
         "content": "حال استمراری با فعل be ساخته می‌شود، بنابراین برای منفی کردن not را بعد از be می‌آوریم و برای پرسشی کردن جای be و فاعل را عوض می‌کنیم. بخش -ing روی فعل اصلی باقی می‌ماند.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: منفی کردن با be not",
         "htmlTag": 2,
         "content": "کاربرد 1: منفی کردن با be not",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: منفی کردن با be not",
         "htmlTag": 0,
         "content": "He is not sleeping.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: منفی کردن با be not",
         "htmlTag": 0,
         "content": "در این جمله not بعد از is آمده و نشان می‌دهد عمل خوابیدن در حال انجام نیست. sleeping همچنان شکل استمراری دارد.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: پرسشی با be",
         "htmlTag": 2,
         "content": "کاربرد 2: پرسشی با be",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: پرسشی با be",
         "htmlTag": 0,
         "content": "Are they waiting for us?",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: پرسشی با be",
         "htmlTag": 0,
         "content": "اینجا are به اول جمله آمده تا سوال ساخته شود. waiting همچنان با -ing آمده چون ساختار استمراری حفظ شده است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "برای ساخت حال استمراری همیشه به be نیاز داریم. اگر فقط verb-ing را بدون am، is یا are بیاوریم، جمله کامل و درست نخواهد بود.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I am not working today.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال جمله یک وضعیت موقت منفی را نشان می‌دهد و not بعد از am قرار گرفته است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "What are you doing?",
+        "content": "I am not working today.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا یک سوال wh با حال استمراری ساخته شده است. are قبل از فاعل آمده و doing شکل فعلی در حال انجام را نشان می‌دهد.",
+        "content": "در این مثال جمله یک وضعیت موقت منفی را نشان می‌دهد و not بعد از am قرار گرفته است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "What are you doing?",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا یک سوال wh با حال استمراری ساخته شده است. are قبل از فاعل آمده و doing شکل فعلی در حال انجام را نشان می‌دهد.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

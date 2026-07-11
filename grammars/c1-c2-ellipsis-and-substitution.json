@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "ellipsis چیزی را حذف می‌کند که از بافت فهمیده می‌شود؛ substitution چیزی کوتاه مثل one، do so یا so را جایگزین بخش تکراری می‌کند.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: حذف فعل یا بخش تکراری",
         "htmlTag": 2,
         "content": "کاربرد 1: حذف فعل یا بخش تکراری",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: حذف فعل یا بخش تکراری",
         "htmlTag": 0,
         "content": "I ordered the pasta, and my sister the soup.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: حذف فعل یا بخش تکراری",
         "htmlTag": 0,
         "content": "در این جمله ordered در بخش دوم حذف شده، چون از بافت به‌راحتی قابل بازیابی است. ellipsis کمک می‌کند جمله فشرده‌تر و طبیعی‌تر شود.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: حذف در پاسخ‌های کوتاه",
         "htmlTag": 2,
         "content": "کاربرد 2: حذف در پاسخ‌های کوتاه",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: حذف در پاسخ‌های کوتاه",
         "htmlTag": 0,
         "content": "\"Coming with us?\" \"Might do.\"",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: حذف در پاسخ‌های کوتاه",
         "htmlTag": 0,
         "content": "اینجا بخش کامل جمله حذف شده، اما معنا همچنان روشن است. چنین ellipsisهایی در گفتار طبیعی بسیار رایج‌اند.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "ellipsis فقط زمانی موفق است که مخاطب بدون زحمت بتواند بخش حذف‌شده را بازسازی کند. اگر حذف باعث ابهام یا بار پردازشی زیاد شود، بهتر است ساخت کامل را نگه داریم.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Some students chose the morning session, others the afternoon one.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال chose در بخش دوم حذف شده و بافت آن را بازسازی می‌کند. این نوع ellipsis نوشتار را روان‌تر می‌سازد.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "\"Finished?\" \"Almost.\"",
+        "content": "Some students chose the morning session, others the afternoon one.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا کل جمله کامل‌تر حذف شده، اما چون زمینه گفت‌وگو روشن است، پاسخ کوتاه کاملا طبیعی باقی می‌ماند.",
+        "content": "در این مثال chose در بخش دوم حذف شده و بافت آن را بازسازی می‌کند. این نوع ellipsis نوشتار را روان‌تر می‌سازد.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "\"Finished?\" \"Almost.\"",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا کل جمله کامل‌تر حذف شده، اما چون زمینه گفت‌وگو روشن است، پاسخ کوتاه کاملا طبیعی باقی می‌ماند.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,15 +147,15 @@
         "title": "substitution با one، ones، do و so",
         "htmlTag": 1,
         "content": "substitution با one، ones، do و so",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "substitution با one، ones، do و so",
         "htmlTag": 0,
-        "content": "substitution به‌جای حذف، یک واژه یا ساخت کوتاه را جایگزین بخش قبلی می‌کند تا تکرار بی‌مورد کم شود. این ابزار especially وقتی مفید است که حذف کامل ممکن است جمله را بیش از حد مبهم کند.",
-        "order": 17,
+        "content": "substitution به‌جای حذف، یک واژه یا ساخت کوتاه را جایگزین بخش قبلی می‌کند تا تکرار بی‌مورد کم شود. این ابزار به‌ویژه وقتی مفید است که حذف کامل ممکن است جمله را بیش از حد مبهم کند.",
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: one/ones برای جایگزینی اسم",
         "htmlTag": 2,
         "content": "کاربرد 1: one/ones برای جایگزینی اسم",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: one/ones برای جایگزینی اسم",
         "htmlTag": 0,
         "content": "The blue jacket is nicer than the black one.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: one/ones برای جایگزینی اسم",
         "htmlTag": 0,
         "content": "در این جمله one جایگزین jacket شده تا اسم تکرار نشود. معنا همچنان روشن است، چون مرجع از بافت قبلی مشخص است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: do so برای جایگزینی فعل یا عمل",
         "htmlTag": 2,
         "content": "کاربرد 2: do so برای جایگزینی فعل یا عمل",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: do so برای جایگزینی فعل یا عمل",
         "htmlTag": 0,
         "content": "If you need to revise the plan, please do so before Friday.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: do so برای جایگزینی فعل یا عمل",
         "htmlTag": 0,
         "content": "اینجا do so جای کل عبارت revise the plan را گرفته است. این substitution لحن را رسمی و جمله را از تکرار خسته‌کننده دور می‌کند.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,15 +211,15 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "نکته مهم",
         "htmlTag": 0,
-        "content": "substitution با so و not هم در بعضی ساخت‌ها بسیار رایج است، مثل I think so یا I hope not. این شکل‌ها especially در گفتار طبیعی، فشرده و بسیار کاربردی‌اند.",
-        "order": 25,
+        "content": "substitution با so و not هم در بعضی ساخت‌ها بسیار رایج است، مثل I think so یا I hope not. این شکل‌ها به‌ویژه در گفتار طبیعی، فشرده و بسیار کاربردی‌اند.",
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "The first proposal was rejected, but the second one was accepted.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال one کمک می‌کند اسم proposal دوباره تکرار نشود، در حالی که تفاوت دو گزینه همچنان روشن می‌ماند.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Will the prices rise? I think so.",
+        "content": "The first proposal was rejected, but the second one was accepted.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا so جای کل گزاره قبلی را می‌گیرد و پاسخی کوتاه اما روشن می‌سازد.",
+        "content": "در این مثال one کمک می‌کند اسم proposal دوباره تکرار نشود، در حالی که تفاوت دو گزینه همچنان روشن می‌ماند.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Will the prices rise? I think so.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا so جای کل گزاره قبلی را می‌گیرد و پاسخی کوتاه اما روشن می‌سازد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "کاربرد سبکی و محدودیت‌ها",
         "htmlTag": 1,
         "content": "کاربرد سبکی و محدودیت‌ها",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "کاربرد سبکی و محدودیت‌ها",
         "htmlTag": 0,
         "content": "ellipsis و substitution هر دو برای کاهش تکرار و طبیعی‌تر کردن متن مفیدند، اما جای یکدیگر نیستند. باید ببینیم آیا حذف کامل ممکن است یا بهتر است یک جایگزین کوتاه بیاوریم تا انسجام متن حفظ شود.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: حذف وقتی بافت بسیار روشن است",
         "htmlTag": 2,
         "content": "کاربرد 1: حذف وقتی بافت بسیار روشن است",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: حذف وقتی بافت بسیار روشن است",
         "htmlTag": 0,
         "content": "Some students wanted to leave early, and a few actually did.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: حذف وقتی بافت بسیار روشن است",
         "htmlTag": 0,
         "content": "در این جمله did جای wanted to leave early را گرفته و نوعی substitution فعلی می‌سازد که از تکرار جلوگیری می‌کند، بدون این‌که ابهام زیادی ایجاد شود.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: حذف زیاد و ابهام",
         "htmlTag": 2,
         "content": "کاربرد 2: حذف زیاد و ابهام",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: حذف زیاد و ابهام",
         "htmlTag": 0,
         "content": "\"Need any help?\" \"Possibly later.\"",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: حذف زیاد و ابهام",
         "htmlTag": 0,
         "content": "این پاسخ در گفتار طبیعی است، چون بافت روشن است. اما در نوشتار رسمی اگر بافت کافی نباشد، حذف بیش از حد می‌تواند متن را مبهم کند.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در سطح بالا، این ساخت‌ها فقط برای کوتاه کردن نیستند؛ آن‌ها بخشی از کنترل ریتم و تراکم متن هستند. نویسنده خوب می‌داند کجا تکرار را نگه دارد تا وضوح حفظ شود و کجا آن را حذف یا جایگزین کند تا متن سبک‌تر شود.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I may attend the conference, and if I do, I will stay for the final panel.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال do جای attend the conference را می‌گیرد و پیوند منطقی بین دو بخش را حفظ می‌کند.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Several reports were submitted, but only two were approved.",
+        "content": "I may attend the conference, and if I do, I will stay for the final panel.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا ellipsis بخشی از ساخت کامل را حذف کرده، چون معنا از جمله اول قابل بازیابی است و تکرار unnecessary می‌شد.",
+        "content": "در این مثال do جای attend the conference را می‌گیرد و پیوند منطقی بین دو بخش را حفظ می‌کند.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Several reports were submitted, but only two were approved.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا ellipsis بخشی از ساخت کامل را حذف کرده، چون معنا از جمله اول قابل بازیابی است و تکرار unnecessary می‌شد.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

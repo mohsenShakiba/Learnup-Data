@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "الگوی این زمان have/has been + verb-ing است. معمولاً روی مدت، ادامه‌دار بودن یا اثر فعلی یک فعالیت تأکید می‌کند.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: فعالیت ادامه‌دار تا حال",
         "htmlTag": 2,
         "content": "کاربرد 1: فعالیت ادامه‌دار تا حال",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: فعالیت ادامه‌دار تا حال",
         "htmlTag": 0,
         "content": "I have been studying for three hours.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: فعالیت ادامه‌دار تا حال",
         "htmlTag": 0,
         "content": "در این جمله گوینده از مدت زمان یک فعالیت تا لحظه حال حرف می‌زند. تاکید اصلی روی روند و طول کشیدن مطالعه است، نه صرفا کامل شدن آن.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: فعالیتی که اثرش هنوز پیداست",
         "htmlTag": 2,
         "content": "کاربرد 2: فعالیتی که اثرش هنوز پیداست",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: فعالیتی که اثرش هنوز پیداست",
         "htmlTag": 0,
         "content": "She has been running, so she is out of breath.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: فعالیتی که اثرش هنوز پیداست",
         "htmlTag": 0,
         "content": "اینجا running شاید همین حالا تمام شده باشد، اما اثر آن هنوز واضح است. این ارتباط بین فعالیت گذشته و نتیجه فعلی یکی از کاربردهای مهم این زمان است.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "ساخت این زمان have یا has been به علاوه فعل ingدار است. اگر به‌جای ing از past participle استفاده کنیم، جمله به present perfect ساده تبدیل می‌شود و تمرکز معنایی آن تغییر می‌کند.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We have been waiting since noon.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال فعالیت انتظار از ظهر شروع شده و هنوز ادامه دارد، بنابراین present perfect continuous طبیعی است.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "It has been raining all morning.",
+        "content": "We have been waiting since noon.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا جمله روی ادامه داشتن باران در یک بازه تا حال حاضر تاکید می‌کند.",
+        "content": "در این مثال فعالیت انتظار از ظهر شروع شده و هنوز ادامه دارد، بنابراین present perfect continuous طبیعی است.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "It has been raining all morning.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله روی ادامه داشتن باران در یک بازه تا حال حاضر تاکید می‌کند.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "تفاوت با present perfect simple",
         "htmlTag": 1,
         "content": "تفاوت با present perfect simple",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "تفاوت با present perfect simple",
         "htmlTag": 0,
         "content": "هر دو زمان به گذشته و حال وصل می‌شوند، اما present perfect simple بیشتر روی نتیجه یا تکمیل شدن تمرکز دارد، در حالی که present perfect continuous روی فرایند، تکرار یا مدت زمان تاکید می‌کند.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: تمرکز روی نتیجه",
         "htmlTag": 2,
         "content": "کاربرد 1: تمرکز روی نتیجه",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: تمرکز روی نتیجه",
         "htmlTag": 0,
         "content": "I have written three emails.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: تمرکز روی نتیجه",
         "htmlTag": 0,
         "content": "در این جمله تعداد ایمیل‌ها مهم است و عمل به صورت نتیجه‌محور دیده می‌شود. بنابراین present perfect simple طبیعی‌تر است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: تمرکز روی فرایند",
         "htmlTag": 2,
         "content": "کاربرد 2: تمرکز روی فرایند",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: تمرکز روی فرایند",
         "htmlTag": 0,
         "content": "I have been writing emails all morning.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: تمرکز روی فرایند",
         "htmlTag": 0,
         "content": "اینجا مهم این است که این فعالیت در طول صبح ادامه داشته است. جمله روی جریان و مدت زمان کار تمرکز می‌کند، نه فقط تعداد خروجی.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "همه فعل‌ها با continuous سازگار نیستند. فعل‌های حالتی مثل know، believe یا own معمولا در present perfect continuous کمتر استفاده می‌شوند و در این موارد present perfect simple طبیعی‌تر است.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She has lived here for ten years.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "این مثال با present perfect simple هم کاملا طبیعی است، چون فعل live می‌تواند هم نتیجه و هم استمرار را بدون مشکل بیان کند.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He has been working here for ten years.",
+        "content": "She has lived here for ten years.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا continuous بیشتر حس فعالیت و استمرار کاری را برجسته می‌کند و جمله را فرایندمحورتر می‌سازد.",
+        "content": "این مثال با present perfect simple هم کاملا طبیعی است، چون فعل live می‌تواند هم نتیجه و هم استمرار را بدون مشکل بیان کند.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He has been working here for ten years.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا continuous بیشتر حس فعالیت و استمرار کاری را برجسته می‌کند و جمله را فرایندمحورتر می‌سازد.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "since، for و کاربردهای رایج",
         "htmlTag": 1,
         "content": "since، for و کاربردهای رایج",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "since، for و کاربردهای رایج",
         "htmlTag": 0,
         "content": "عبارت‌های since و for بسیار رایج‌اند، چون این زمان اغلب درباره نقطه شروع یا طول یک فعالیت حرف می‌زند. همچنین برای شکایت، توجیه وضعیت فعلی و توضیح تغییرات اخیر هم بسیار کاربردی است.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: نقطه شروع با since",
         "htmlTag": 2,
         "content": "کاربرد 1: نقطه شروع با since",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: نقطه شروع با since",
         "htmlTag": 0,
         "content": "They have been living in Madrid since 2022.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: نقطه شروع با since",
         "htmlTag": 0,
         "content": "since زمان آغاز زندگی در مادرید را مشخص می‌کند و جمله نشان می‌دهد آن وضعیت تا حال حاضر ادامه داشته است.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: مدت زمان با for",
         "htmlTag": 2,
         "content": "کاربرد 2: مدت زمان با for",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: مدت زمان با for",
         "htmlTag": 0,
         "content": "I have been feeling tired for several days.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: مدت زمان با for",
         "htmlTag": 0,
         "content": "اینجا for طول مدت این حالت را بیان می‌کند. گوینده می‌خواهد بگوید این وضعیت فقط مربوط به همین لحظه نیست و مدتی است ادامه دارد.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,15 +331,15 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "نکته مهم",
         "htmlTag": 0,
-        "content": "این زمان به‌ویژه زمانی مفید است که بخواهیم علت یک وضعیت فعلی را توضیح دهیم. مثلا tired، dirty یا stressed بودنِ اکنون often نتیجه فعالیتی است که مدتی در گذشته و تا نزدیک حال ادامه داشته است.",
-        "order": 40,
+        "content": "این زمان به‌ویژه زمانی مفید است که بخواهیم علت یک وضعیت فعلی را توضیح دهیم. مثلا tired، dirty یا stressed بودنِ اکنون اغلب نتیجه فعالیتی است که مدتی در گذشته و تا نزدیک حال ادامه داشته است.",
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "You have been using my laptop all day.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال all day طول مدت استفاده را برجسته می‌کند و جمله می‌تواند حتی لحن شکایت هم داشته باشد.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The children have been playing outside, so their clothes are dirty.",
+        "content": "You have been using my laptop all day.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا فعالیت گذشته علت مستقیم وضعیت فعلی لباس‌ها را توضیح می‌دهد و continuous این رابطه را خوب نشان می‌دهد.",
+        "content": "در این مثال all day طول مدت استفاده را برجسته می‌کند و جمله می‌تواند حتی لحن شکایت هم داشته باشد.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The children have been playing outside, so their clothes are dirty.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا فعالیت گذشته علت مستقیم وضعیت فعلی لباس‌ها را توضیح می‌دهد و continuous این رابطه را خوب نشان می‌دهد.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

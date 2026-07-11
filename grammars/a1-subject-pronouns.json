@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "ضمیر فاعلی جای اسمِ فاعل را می‌گیرد و قبل از فعل می‌آید: I, you, he, she, it, we, they.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: جایگزینی نام شخص",
         "htmlTag": 2,
         "content": "کاربرد 1: جایگزینی نام شخص",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: جایگزینی نام شخص",
         "htmlTag": 0,
         "content": "Sara is my friend. She is kind.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: جایگزینی نام شخص",
         "htmlTag": 0,
         "content": "در جمله دوم به جای تکرار Sara از she استفاده شده است. این کار نشان می‌دهد ضمیر فاعلی می‌تواند جای اسم شخص را بگیرد.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: استفاده از it برای چیزها یا حیوانات",
         "htmlTag": 2,
         "content": "کاربرد 2: استفاده از it برای چیزها یا حیوانات",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: استفاده از it برای چیزها یا حیوانات",
         "htmlTag": 0,
         "content": "The phone is new. It is black.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: استفاده از it برای چیزها یا حیوانات",
         "htmlTag": 0,
         "content": "اینجا it به phone برمی‌گردد. وقتی درباره یک چیز یا یک حیوان بدون تاکید بر جنسیت صحبت می‌کنیم، معمولا از it استفاده می‌شود.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "ضمیر فاعلی همیشه در جای فاعل می‌آید، یعنی قبل از فعل اصلی یا فعل be قرار می‌گیرد. اگر کلمه‌ای بعد از فعل بیاید، معمولا نقش دیگری دارد و دیگر ضمیر فاعلی نیست.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "I live in Tehran.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال I فاعل جمله است و مستقیم قبل از فعل آمده است. این ساده‌ترین جایگاه ضمیر فاعلی را نشان می‌دهد.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "He likes coffee.",
+        "content": "I live in Tehran.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا he به جای نام یک مرد یا پسر آمده و فاعل جمله است. فعل هم با همین فاعل هماهنگ شده است.",
+        "content": "در این مثال I فاعل جمله است و مستقیم قبل از فعل آمده است. این ساده‌ترین جایگاه ضمیر فاعلی را نشان می‌دهد.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "He likes coffee.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا he به جای نام یک مرد یا پسر آمده و فاعل جمله است. فعل هم با همین فاعل هماهنگ شده است.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "تفاوت مفرد و جمع",
         "htmlTag": 1,
         "content": "تفاوت مفرد و جمع",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "تفاوت مفرد و جمع",
         "htmlTag": 0,
         "content": "بعضی ضمیرها درباره یک نفر یا یک چیز هستند و بعضی درباره بیش از یک نفر یا چیز. دانستن تفاوت مفرد و جمع کمک می‌کند فعل درست را انتخاب کنیم و جمله از نظر معنا دقیق باشد.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: استفاده از we برای گوینده و دیگران",
         "htmlTag": 2,
         "content": "کاربرد 1: استفاده از we برای گوینده و دیگران",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: استفاده از we برای گوینده و دیگران",
         "htmlTag": 0,
         "content": "We study together.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: استفاده از we برای گوینده و دیگران",
         "htmlTag": 0,
         "content": "در این جمله we یعنی من و یک یا چند نفر دیگر. این ضمیر برای گروهی به کار می‌رود که گوینده هم عضو آن است.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: استفاده از they برای افراد یا چیزهای جمع",
         "htmlTag": 2,
         "content": "کاربرد 2: استفاده از they برای افراد یا چیزهای جمع",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: استفاده از they برای افراد یا چیزهای جمع",
         "htmlTag": 0,
         "content": "The books are heavy. They are in my bag.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: استفاده از they برای افراد یا چیزهای جمع",
         "htmlTag": 0,
         "content": "در جمله دوم they به books برمی‌گردد و نشان می‌دهد ضمیر جمع می‌تواند جای اسم‌های جمع را بگیرد.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "you می‌تواند هم برای یک نفر و هم برای چند نفر استفاده شود. بنابراین برای فهمیدن مفرد یا جمع بودن آن، باید به موقعیت یا بقیه جمله توجه کنیم.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "You are my best friend.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این جمله you به یک نفر اشاره می‌کند. با این حال شکل ضمیر همان you باقی می‌ماند.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "You are very welcome.",
+        "content": "You are my best friend.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "این مثال هم می‌تواند برای یک نفر یا چند نفر باشد. معنی دقیق از موقعیت مکالمه فهمیده می‌شود.",
+        "content": "در این جمله you به یک نفر اشاره می‌کند. با این حال شکل ضمیر همان you باقی می‌ماند.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "You are very welcome.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "این مثال هم می‌تواند برای یک نفر یا چند نفر باشد. معنی دقیق از موقعیت مکالمه فهمیده می‌شود.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "انتخاب ضمیر درست در جمله",
         "htmlTag": 1,
         "content": "انتخاب ضمیر درست در جمله",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "انتخاب ضمیر درست در جمله",
         "htmlTag": 0,
         "content": "برای انتخاب ضمیر درست باید ببینیم اسم به چه کسی یا چه چیزی اشاره می‌کند. همچنین باید دقت کنیم که ضمیر با معنا و گاهی با جنسیت مرجع خودش هماهنگ باشد تا شنونده سریع متوجه منظور شود.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: he و she برای افراد",
         "htmlTag": 2,
         "content": "کاربرد 1: he و she برای افراد",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: he و she برای افراد",
         "htmlTag": 0,
         "content": "Ali is my brother. He is tall.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: he و she برای افراد",
         "htmlTag": 0,
         "content": "چون مرجع ضمیر یک مرد یا پسر است، از he استفاده می‌کنیم. این انتخاب به شنونده کمک می‌کند مرجع جمله را درست دنبال کند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: it برای زمان، هوا و فاصله",
         "htmlTag": 2,
         "content": "کاربرد 2: it برای زمان، هوا و فاصله",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: it برای زمان، هوا و فاصله",
         "htmlTag": 0,
         "content": "It is cold today.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: it برای زمان، هوا و فاصله",
         "htmlTag": 0,
         "content": "در اینجا it به یک شیء مشخص اشاره نمی‌کند، بلکه برای صحبت درباره هوا به کار رفته است. این یکی از کاربردهای رایج it در جمله‌های روزمره است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "اگر اسم از قبل در جمله یا گفتگو مشخص شده باشد، استفاده از ضمیر باعث روان‌تر شدن صحبت می‌شود. اما اگر مرجع روشن نباشد، بهتر است دوباره اسم را بیاوریم تا ابهام ایجاد نشود.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "My parents are at work. They come home at six.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال they به parents برمی‌گردد و از تکرار اسم جلوگیری می‌کند. این کار جمله را طبیعی‌تر می‌سازد.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "The baby is asleep. It is very quiet.",
+        "content": "My parents are at work. They come home at six.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا it برای اشاره به baby به کار رفته است. در انگلیسی گاهی برای نوزاد هم وقتی جنسیت مهم نیست از it استفاده می‌شود.",
+        "content": "در این مثال they به parents برمی‌گردد و از تکرار اسم جلوگیری می‌کند. این کار جمله را طبیعی‌تر می‌سازد.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "The baby is asleep. It is very quiet.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا it برای اشاره به baby به کار رفته است. در انگلیسی گاهی برای نوزاد هم وقتی جنسیت مهم نیست از it استفاده می‌شود.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

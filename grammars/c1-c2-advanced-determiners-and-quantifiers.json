@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: few و a few",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: few و a few",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: few و a few",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "Few people understood the lecture.",
+        "content": "در determinerهای پیشرفته، فقط مقدار مهم نیست؛ رسمی بودن، دقیق بودن، و اینکه درباره کل گروه یا بخشی از آن حرف می‌زنیم هم مهم است.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: few و a few",
-        "htmlTag": 0,
-        "content": "few بار منفی دارد و یعنی تقریبا هیچ‌کس. a few بار مثبت دارد و یعنی تعداد کمی اما کافی.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: few و a few",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: few و a few",
         "htmlTag": 0,
-        "content": "A few friends came to help.",
+        "content": "Few people understood the lecture.",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: few و a few",
         "htmlTag": 0,
-        "content": "a few یعنی چند نفر، با نگاهی مثبت. تفاوت آن با few در همین دیدگاه است.",
+        "content": "few بار منفی دارد و یعنی تقریبا هیچ‌کس. a few بار مثبت دارد و یعنی تعداد کمی اما کافی.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: few و a few",
+        "htmlTag": 0,
+        "content": "A few friends came to help.",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: few و a few",
+        "htmlTag": 0,
+        "content": "a few یعنی چند نفر، با نگاهی مثبت. تفاوت آن با few در همین دیدگاه است.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: every، each و all",
         "htmlTag": 2,
         "content": "کاربرد 2: every، each و all",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: every، each و all",
-        "htmlTag": 0,
-        "content": "Each student received a certificate.",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: every، each و all",
-        "htmlTag": 0,
-        "content": "each روی تک‌تک افراد به‌صورت جداگانه تاکید دارد، در حالی که all کل گروه را با هم در نظر می‌گیرد.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: every، each و all",
         "htmlTag": 0,
-        "content": "All the seats were taken.",
+        "content": "Each student received a certificate.",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: every، each و all",
         "htmlTag": 0,
-        "content": "all کل مجموعه را در بر می‌گیرد و با اسم جمع یا غیرقابل‌شمارش می‌آید.",
+        "content": "each روی تک‌تک افراد به‌صورت جداگانه تاکید دارد، در حالی که all کل گروه را با هم در نظر می‌گیرد.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: every، each و all",
+        "htmlTag": 0,
+        "content": "All the seats were taken.",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: every، each و all",
+        "htmlTag": 0,
+        "content": "all کل مجموعه را در بر می‌گیرد و با اسم جمع یا غیرقابل‌شمارش می‌آید.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "few و little برای مفهوم منفی به کار می‌روند، اما a few و a little دیدگاه مثبت دارند. این تفاوت کوچک می‌تواند کل معنای جمله را عوض کند.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "We have little time left.",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "little بار منفی دارد و یعنی تقریبا هیچ وقتی نمانده است.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Every answer was correct.",
+        "content": "We have little time left.",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "every مثل each به تک‌تک موارد اشاره دارد اما نگاهی کلی‌تر به مجموعه دارد.",
+        "content": "little بار منفی دارد و یعنی تقریبا هیچ وقتی نمانده است.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Every answer was correct.",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "every مثل each به تک‌تک موارد اشاره دارد اما نگاهی کلی‌تر به مجموعه دارد.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

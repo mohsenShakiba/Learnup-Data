@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "در reported speech معمولاً زمان فعل یک قدم به عقب می‌رود و ضمیرها و قیدهای زمان/مکان با موقعیت جدید هماهنگ می‌شوند.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: گزارش یک جمله خبری ساده",
         "htmlTag": 2,
         "content": "کاربرد 1: گزارش یک جمله خبری ساده",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: گزارش یک جمله خبری ساده",
         "htmlTag": 0,
         "content": "Sara said that she was tired.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: گزارش یک جمله خبری ساده",
         "htmlTag": 0,
         "content": "در این جمله گوینده حرف سارا را به شکل غیرمستقیم گزارش می‌کند. ما جمله اصلی را نقل قول مستقیم نکرده‌ایم، بلکه فقط معنی آن را منتقل کرده‌ایم.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: استفاده از that در گزارش",
         "htmlTag": 2,
         "content": "کاربرد 2: استفاده از that در گزارش",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: استفاده از that در گزارش",
         "htmlTag": 0,
         "content": "He told me that he needed help.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: استفاده از that در گزارش",
         "htmlTag": 0,
         "content": "اینجا that دو بخش جمله را به هم وصل می‌کند و نشان می‌دهد بخش دوم محتوای حرف اوست. در بسیاری از جمله‌ها that را می‌توان حذف کرد، اما وجودش ساختار را روشن‌تر می‌کند.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در reported speech گاهی زمان جمله یک مرحله به گذشته برمی‌گردد، به‌ویژه وقتی فعل گزارشی در گذشته باشد. این تغییر همیشه مکانیکی نیست، اما در سطح B1 دانستن الگوهای اصلی بسیار مهم است.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "My father said that dinner was ready.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال جمله خبری به شکل غیرمستقیم منتقل شده و was ready محتوای خبر را گزارش می‌کند.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "They said that the shop was closed.",
+        "content": "My father said that dinner was ready.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا reported speech برای انتقال یک خبر استفاده شده است و تمرکز روی خود پیام است، نه شکل دقیق گفته اصلی.",
+        "content": "در این مثال جمله خبری به شکل غیرمستقیم منتقل شده و was ready محتوای خبر را گزارش می‌کند.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "They said that the shop was closed.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا reported speech برای انتقال یک خبر استفاده شده است و تمرکز روی خود پیام است، نه شکل دقیق گفته اصلی.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "تغییر زمان‌ها و ضمیرها",
         "htmlTag": 1,
         "content": "تغییر زمان‌ها و ضمیرها",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "تغییر زمان‌ها و ضمیرها",
         "htmlTag": 0,
         "content": "وقتی جمله‌ای را گزارش می‌کنیم، فقط فعل نیست که ممکن است تغییر کند. ضمیرها، مالکیت و گاهی زمان و مکان هم باید با موقعیت گزارش جدید هماهنگ شوند. هدف این تغییرها طبیعی و منطقی کردن جمله گزارش‌شده است.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: تغییر حال ساده به گذشته ساده",
         "htmlTag": 2,
         "content": "کاربرد 1: تغییر حال ساده به گذشته ساده",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: تغییر حال ساده به گذشته ساده",
         "htmlTag": 0,
         "content": "Ali said, \"I work hard.\" → Ali said that he worked hard.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: تغییر حال ساده به گذشته ساده",
         "htmlTag": 0,
         "content": "در اینجا هم ضمیر I به he تغییر کرده و هم work به worked رفته است، چون گزارش از زاویه دید شخص دیگری و با فعل گزارشی در گذشته انجام می‌شود.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: تغییر will به would",
         "htmlTag": 2,
         "content": "کاربرد 2: تغییر will به would",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: تغییر will به would",
         "htmlTag": 0,
         "content": "Mary said, \"I will call you.\" → Mary said that she would call me.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: تغییر will به would",
         "htmlTag": 0,
         "content": "اینجا will به would تغییر کرده و ضمیرها هم با موقعیت جدید هماهنگ شده‌اند. این یکی از تغییرهای رایج در reported speech است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "همه جمله‌ها همیشه نیاز به backshift ندارند، به‌ویژه اگر حقیقت همچنان درست باشد یا گزارش خیلی نزدیک به زمان اصلی انجام شود. اما برای سطح پایه، شناخت الگوهای رایج کمک می‌کند ساختارهای درست‌تری بسازیم.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "She said, \"I am busy.\" → She said that she was busy.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال am به was تغییر کرده است، چون جمله از حالت مستقیم به گزارش غیرمستقیم با فعل گزارشی گذشته تبدیل شده است.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "Tom said, \"We have finished.\" → Tom said that they had finished.",
+        "content": "She said, \"I am busy.\" → She said that she was busy.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا present perfect در گزارش یک مرحله عقب رفته و به past perfect نزدیک شده است. ضمیر we هم با دید گزارش‌دهنده تغییر کرده است.",
+        "content": "در این مثال am به was تغییر کرده است، چون جمله از حالت مستقیم به گزارش غیرمستقیم با فعل گزارشی گذشته تبدیل شده است.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "Tom said, \"We have finished.\" → Tom said that they had finished.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا present perfect در گزارش یک مرحله عقب رفته و به past perfect نزدیک شده است. ضمیر we هم با دید گزارش‌دهنده تغییر کرده است.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "تغییر عبارت‌های زمانی و گزارش سوال‌ها",
         "htmlTag": 1,
         "content": "تغییر عبارت‌های زمانی و گزارش سوال‌ها",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "تغییر عبارت‌های زمانی و گزارش سوال‌ها",
         "htmlTag": 0,
         "content": "در reported speech فقط فعل‌ها تغییر نمی‌کنند. عبارت‌های زمانی و مکانی مثل today، tomorrow یا here هم ممکن است عوض شوند، چون گوینده جدید از نقطه زمانی و مکانی دیگری حرف می‌زند. سوال‌ها هم معمولا به ساختاری خبری تبدیل می‌شوند.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: تغییر عبارت زمانی",
         "htmlTag": 2,
         "content": "کاربرد 1: تغییر عبارت زمانی",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: تغییر عبارت زمانی",
         "htmlTag": 0,
         "content": "He said, \"I will finish this tomorrow.\" → He said that he would finish it the next day.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: تغییر عبارت زمانی",
         "htmlTag": 0,
         "content": "در اینجا tomorrow به the next day تبدیل شده، چون زمان گزارش با زمان جمله اصلی یکی نیست. این تغییر کمک می‌کند معنا از دید گزارش‌دهنده درست بماند.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: گزارش سوال yes/no",
         "htmlTag": 2,
         "content": "کاربرد 2: گزارش سوال yes/no",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: گزارش سوال yes/no",
         "htmlTag": 0,
         "content": "She asked if I was free.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: گزارش سوال yes/no",
         "htmlTag": 0,
         "content": "اینجا سوال مستقیم به صورت غیرمستقیم گزارش شده است. ترتیب کلمات دیگر مثل سوال مستقیم نیست و از if برای معرفی محتوای سوال استفاده می‌شود.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در گزارش سوال‌ها معمولا فعل کمکی را به ابتدای جمله نمی‌بریم، چون ساختار گزارش‌شده شبیه جمله خبری می‌شود. این تفاوت یکی از مهم‌ترین نکته‌ها بین direct question و reported question است.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "They asked where I lived.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال wh-question به صورت reported question آمده است. where حفظ شده، اما ترتیب جمله مثل سوال مستقیم باقی نمانده است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "My friend said that he was leaving that night.",
+        "content": "They asked where I lived.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا عبارت زمانی با موقعیت جدید هماهنگ شده و that night جایگزین بیان مستقیم‌تر زمان شده است. این کار گزارش را طبیعی‌تر می‌کند.",
+        "content": "در این مثال wh-question به صورت reported question آمده است. where حفظ شده، اما ترتیب جمله مثل سوال مستقیم باقی نمانده است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "My friend said that he was leaving that night.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا عبارت زمانی با موقعیت جدید هماهنگ شده و that night جایگزین بیان مستقیم‌تر زمان شده است. این کار گزارش را طبیعی‌تر می‌کند.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

@@ -24,10 +24,26 @@
         "voiceId": 0
       },
       {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "third conditional درباره گذشته غیرواقعی است: if + past perfect، would have + past participle.",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: شرط تحقق‌نیافته در گذشته",
         "htmlTag": 2,
         "content": "کاربرد 1: شرط تحقق‌نیافته در گذشته",
-        "order": 3,
+        "order": 5,
         "language": "fa",
         "voiceId": 0
       },
@@ -35,7 +51,7 @@
         "title": "کاربرد 1: شرط تحقق‌نیافته در گذشته",
         "htmlTag": 0,
         "content": "If I had left earlier, I would have caught the train.",
-        "order": 4,
+        "order": 6,
         "language": "en",
         "voiceId": 0
       },
@@ -43,7 +59,7 @@
         "title": "کاربرد 1: شرط تحقق‌نیافته در گذشته",
         "htmlTag": 0,
         "content": "در این جمله گوینده زودتر نرفته و در نتیجه قطار را هم نگرفته است. third conditional برای تحلیل نتیجه‌ای است که دیگر در گذشته رخ نداده است.",
-        "order": 5,
+        "order": 7,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +67,7 @@
         "title": "کاربرد 2: پیامد متفاوتِ گذشته",
         "htmlTag": 2,
         "content": "کاربرد 2: پیامد متفاوتِ گذشته",
-        "order": 6,
+        "order": 8,
         "language": "fa",
         "voiceId": 0
       },
@@ -59,7 +75,7 @@
         "title": "کاربرد 2: پیامد متفاوتِ گذشته",
         "htmlTag": 0,
         "content": "If she had studied more, she would have passed the exam.",
-        "order": 7,
+        "order": 9,
         "language": "en",
         "voiceId": 0
       },
@@ -67,7 +83,7 @@
         "title": "کاربرد 2: پیامد متفاوتِ گذشته",
         "htmlTag": 0,
         "content": "اینجا درس خواندن بیشتر اتفاق نیفتاده و قبولی هم حاصل نشده است. جمله فقط یک نتیجه فرضی و دیرهنگام را بیان می‌کند.",
-        "order": 8,
+        "order": 10,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +91,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 9,
+        "order": 11,
         "language": "fa",
         "voiceId": 0
       },
@@ -83,7 +99,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "ساخت رایج این زمان if + past perfect و would have + past participle است. past perfect بخش شرط را در گذشتهِ قبل از نتیجه می‌برد و would have نتیجه تحقق‌نیافته را نشان می‌دهد.",
-        "order": 10,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,22 +107,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 11,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "If we had booked earlier, we would have found cheaper tickets.",
-        "order": 12,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال رزرو زودتر رخ نداده و بنابراین بلیت ارزان‌تر هم پیدا نشده است. جمله یک فرصت از دست‌رفته را بررسی می‌کند.",
         "order": 13,
         "language": "fa",
         "voiceId": 0
@@ -114,7 +114,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "If he had listened to the warning, he would have avoided the problem.",
+        "content": "If we had booked earlier, we would have found cheaper tickets.",
         "order": 14,
         "language": "en",
         "voiceId": 0
@@ -122,8 +122,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا نشنیدن هشدار علت گذشته‌ای است که به یک نتیجه منفی منجر شده و حالا فقط می‌توانیم خلاف آن را تصور کنیم.",
+        "content": "در این مثال رزرو زودتر رخ نداده و بنابراین بلیت ارزان‌تر هم پیدا نشده است. جمله یک فرصت از دست‌رفته را بررسی می‌کند.",
         "order": 15,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If he had listened to the warning, he would have avoided the problem.",
+        "order": 16,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا نشنیدن هشدار علت گذشته‌ای است که به یک نتیجه منفی منجر شده و حالا فقط می‌توانیم خلاف آن را تصور کنیم.",
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +147,7 @@
         "title": "کاربرد برای پشیمانی، انتقاد و تحلیل",
         "htmlTag": 1,
         "content": "کاربرد برای پشیمانی، انتقاد و تحلیل",
-        "order": 16,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -139,7 +155,7 @@
         "title": "کاربرد برای پشیمانی، انتقاد و تحلیل",
         "htmlTag": 0,
         "content": "third conditional فقط یک ساختار خیالی نیست؛ در عمل برای بیان پشیمانی، نقد تصمیم‌های گذشته و تحلیل این‌که چه چیزی می‌توانست نتیجه را عوض کند هم استفاده می‌شود. این کاربرد آن را در مکالمه و نوشتار تحلیلی بسیار مهم می‌کند.",
-        "order": 17,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +163,7 @@
         "title": "کاربرد 1: پشیمانی شخصی",
         "htmlTag": 2,
         "content": "کاربرد 1: پشیمانی شخصی",
-        "order": 18,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +171,7 @@
         "title": "کاربرد 1: پشیمانی شخصی",
         "htmlTag": 0,
         "content": "If I had taken that job, my life would have been very different.",
-        "order": 19,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -163,7 +179,7 @@
         "title": "کاربرد 1: پشیمانی شخصی",
         "htmlTag": 0,
         "content": "در این جمله گوینده به گذشته نگاه می‌کند و درباره انتخابی که انجام نداده فکر می‌کند. لحن جمله رنگ پشیمانی یا تأمل دارد.",
-        "order": 20,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +187,7 @@
         "title": "کاربرد 2: انتقاد نسبت به تصمیم گذشته",
         "htmlTag": 2,
         "content": "کاربرد 2: انتقاد نسبت به تصمیم گذشته",
-        "order": 21,
+        "order": 23,
         "language": "fa",
         "voiceId": 0
       },
@@ -179,7 +195,7 @@
         "title": "کاربرد 2: انتقاد نسبت به تصمیم گذشته",
         "htmlTag": 0,
         "content": "If they had checked the figures, they would not have made that mistake.",
-        "order": 22,
+        "order": 24,
         "language": "en",
         "voiceId": 0
       },
@@ -187,7 +203,7 @@
         "title": "کاربرد 2: انتقاد نسبت به تصمیم گذشته",
         "htmlTag": 0,
         "content": "اینجا جمله به‌نوعی نشان می‌دهد که اشتباه با یک اقدام بهتر قابل پیشگیری بود. third conditional برای چنین نقدهای تحلیلی بسیار رایج است.",
-        "order": 23,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +211,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 24,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -203,7 +219,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "این ساختار درباره گذشته‌ای حرف می‌زند که بسته شده است، بنابراین با first or second conditional فرق دارد. اگر هنوز امکان تغییر یا تحقق شرط وجود داشته باشد، third conditional مناسب نیست.",
-        "order": 25,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,22 +227,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 26,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "If she had called me, I would have helped her.",
-        "order": 27,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال تماس نگرفتن باعث شده کمک هم رخ ندهد. جمله رابطه روشن بین شرطِ ازدست‌رفته و نتیجهِ رخ‌نداده را نشان می‌دهد.",
         "order": 28,
         "language": "fa",
         "voiceId": 0
@@ -234,7 +234,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "If we had known the truth, we would have acted differently.",
+        "content": "If she had called me, I would have helped her.",
         "order": 29,
         "language": "en",
         "voiceId": 0
@@ -242,8 +242,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا ندانستن حقیقت در گذشته باعث شده مسیر دیگری طی شود و جمله حالا آن گذشته را خلاف واقع بازسازی می‌کند.",
+        "content": "در این مثال تماس نگرفتن باعث شده کمک هم رخ ندهد. جمله رابطه روشن بین شرطِ ازدست‌رفته و نتیجهِ رخ‌نداده را نشان می‌دهد.",
         "order": 30,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If we had known the truth, we would have acted differently.",
+        "order": 31,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا ندانستن حقیقت در گذشته باعث شده مسیر دیگری طی شود و جمله حالا آن گذشته را خلاف واقع بازسازی می‌کند.",
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +267,7 @@
         "title": "مقایسه با second conditional و مرور",
         "htmlTag": 1,
         "content": "مقایسه با second conditional و مرور",
-        "order": 31,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -259,7 +275,7 @@
         "title": "مقایسه با second conditional و مرور",
         "htmlTag": 0,
         "content": "second conditional به حال یا آینده فرضی نگاه می‌کند، اما third conditional به گذشته فرضی و بسته مربوط است. اگر این تفاوت زمانی را درست تشخیص دهیم، انتخاب بین would و would have بسیار روشن‌تر می‌شود.",
-        "order": 32,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +283,7 @@
         "title": "کاربرد 1: فرض در حال یا آینده",
         "htmlTag": 2,
         "content": "کاربرد 1: فرض در حال یا آینده",
-        "order": 33,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +291,7 @@
         "title": "کاربرد 1: فرض در حال یا آینده",
         "htmlTag": 0,
         "content": "If I had more money, I would buy a bigger apartment.",
-        "order": 34,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -283,7 +299,7 @@
         "title": "کاربرد 1: فرض در حال یا آینده",
         "htmlTag": 0,
         "content": "این جمله second conditional است، چون درباره وضعیت فعلی یا نزدیک به حال صحبت می‌کند. نتیجه هنوز به یک دنیای فرضی در اکنون یا آینده مربوط است.",
-        "order": 35,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +307,7 @@
         "title": "کاربرد 2: فرض در گذشته",
         "htmlTag": 2,
         "content": "کاربرد 2: فرض در گذشته",
-        "order": 36,
+        "order": 38,
         "language": "fa",
         "voiceId": 0
       },
@@ -299,7 +315,7 @@
         "title": "کاربرد 2: فرض در گذشته",
         "htmlTag": 0,
         "content": "If I had had more money, I would have bought a bigger apartment.",
-        "order": 37,
+        "order": 39,
         "language": "en",
         "voiceId": 0
       },
@@ -307,7 +323,7 @@
         "title": "کاربرد 2: فرض در گذشته",
         "htmlTag": 0,
         "content": "اینجا جمله به گذشته برمی‌گردد و می‌گوید آن پول در آن زمان وجود نداشت. نتیجه هم در همان گذشته رخ نداده است، پس third conditional لازم است.",
-        "order": 38,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +331,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 39,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -323,7 +339,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "یکی از خطاهای مهم این است که در بخش نتیجه فقط would می‌گذاریم، در حالی‌که وقتی درباره گذشتهِ تحقق‌نیافته حرف می‌زنیم، معمولا به would have نیاز داریم. این have بخش کلیدی معنی است.",
-        "order": 40,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,22 +347,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 41,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "If the driver had seen the sign, he would have turned left.",
-        "order": 42,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "در این مثال دیدن تابلو در گذشته رخ نداده و در نتیجه پیچیدن به چپ هم انجام نشده است.",
         "order": 43,
         "language": "fa",
         "voiceId": 0
@@ -354,7 +354,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "If you had told me earlier, I would have prepared better.",
+        "content": "If the driver had seen the sign, he would have turned left.",
         "order": 44,
         "language": "en",
         "voiceId": 0
@@ -362,8 +362,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اینجا جمله گذشته‌ای از دست‌رفته را توصیف می‌کند و نشان می‌دهد آمادگی بهتر فقط در صورت تحقق شرط ممکن بود.",
+        "content": "در این مثال دیدن تابلو در گذشته رخ نداده و در نتیجه پیچیدن به چپ هم انجام نشده است.",
         "order": 45,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "If you had told me earlier, I would have prepared better.",
+        "order": 46,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اینجا جمله گذشته‌ای از دست‌رفته را توصیف می‌کند و نشان می‌دهد آمادگی بهتر فقط در صورت تحقق شرط ممکن بود.",
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       }

@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: پرسیدن درباره چیز یا شخص",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: پرسیدن درباره چیز یا شخص",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: پرسیدن درباره چیز یا شخص",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "What is your name?",
+        "content": "در سؤال‌های اطلاعاتی، کلمه پرسشی اول می‌آید و بعد ساختار پرسشی ادامه پیدا می‌کند: wh-word + auxiliary/be + subject.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: پرسیدن درباره چیز یا شخص",
-        "htmlTag": 0,
-        "content": "کلمه what درباره یک چیز یا اطلاعات می‌پرسد. who هم به همین شکل اما درباره شخص استفاده می‌شود.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: پرسیدن درباره چیز یا شخص",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: پرسیدن درباره چیز یا شخص",
         "htmlTag": 0,
-        "content": "Who is that man?",
+        "content": "What is your name?",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: پرسیدن درباره چیز یا شخص",
         "htmlTag": 0,
-        "content": "اینجا who درباره یک شخص سوال می‌کند. جواب آن نام یا نقش یک نفر است.",
+        "content": "کلمه what درباره یک چیز یا اطلاعات می‌پرسد. who هم به همین شکل اما درباره شخص استفاده می‌شود.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسیدن درباره چیز یا شخص",
+        "htmlTag": 0,
+        "content": "Who is that man?",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: پرسیدن درباره چیز یا شخص",
+        "htmlTag": 0,
+        "content": "اینجا who درباره یک شخص سوال می‌کند. جواب آن نام یا نقش یک نفر است.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: پرسیدن درباره مکان و زمان",
         "htmlTag": 2,
         "content": "کاربرد 2: پرسیدن درباره مکان و زمان",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: پرسیدن درباره مکان و زمان",
-        "htmlTag": 0,
-        "content": "Where do you live?",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: پرسیدن درباره مکان و زمان",
-        "htmlTag": 0,
-        "content": "where درباره مکان می‌پرسد و when درباره زمان. هر دو در ابتدای جمله می‌آیند.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: پرسیدن درباره مکان و زمان",
         "htmlTag": 0,
-        "content": "When does the class start?",
+        "content": "Where do you live?",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: پرسیدن درباره مکان و زمان",
         "htmlTag": 0,
-        "content": "در این سوال when زمان شروع کلاس را می‌پرسد. ساختار سوال با does ساخته شده است.",
+        "content": "where درباره مکان می‌پرسد و when درباره زمان. هر دو در ابتدای جمله می‌آیند.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره مکان و زمان",
+        "htmlTag": 0,
+        "content": "When does the class start?",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: پرسیدن درباره مکان و زمان",
+        "htmlTag": 0,
+        "content": "در این سوال when زمان شروع کلاس را می‌پرسد. ساختار سوال با does ساخته شده است.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +123,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +131,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعد از کلمه پرسشی معمولا یک فعل کمکی مثل is، do یا does می‌آید و سپس فاعل. ترتیب درست باعث می‌شود سوال طبیعی به نظر برسد.",
-        "order": 14,
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "Why are you late?",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "why درباره دلیل می‌پرسد. جواب آن معمولا با because شروع می‌شود.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "How do you go to work?",
+        "content": "Why are you late?",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "how درباره روش یا حالت می‌پرسد. اینجا درباره وسیله رفتن به محل کار سوال شده است.",
+        "content": "why درباره دلیل می‌پرسد. جواب آن معمولا با because شروع می‌شود.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "How do you go to work?",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "how درباره روش یا حالت می‌پرسد. اینجا درباره وسیله رفتن به محل کار سوال شده است.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }

@@ -24,25 +24,25 @@
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "title": "الگوی سریع",
         "htmlTag": 2,
-        "content": "کاربرد 1: نظر پیش از واقعیت",
+        "content": "الگوی سریع",
         "order": 3,
         "language": "fa",
         "voiceId": 0
       },
       {
-        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "title": "الگوی سریع",
         "htmlTag": 0,
-        "content": "a beautiful old house",
+        "content": "ترتیب رایج صفت‌ها را این‌طور به خاطر بسپارید: نظر، اندازه، شکل، سن، رنگ، ملیت/منشأ، جنس، سپس اسم.",
         "order": 4,
-        "language": "en",
+        "language": "fa",
         "voiceId": 0
       },
       {
         "title": "کاربرد 1: نظر پیش از واقعیت",
-        "htmlTag": 0,
-        "content": "beautiful یک نظر است و پیش از old که سن را نشان می‌دهد می‌آید. صفت‌های نظری همیشه اول می‌آیند.",
+        "htmlTag": 2,
+        "content": "کاربرد 1: نظر پیش از واقعیت",
         "order": 5,
         "language": "fa",
         "voiceId": 0
@@ -50,7 +50,7 @@
       {
         "title": "کاربرد 1: نظر پیش از واقعیت",
         "htmlTag": 0,
-        "content": "a nice big garden",
+        "content": "a beautiful old house",
         "order": 6,
         "language": "en",
         "voiceId": 0
@@ -58,8 +58,24 @@
       {
         "title": "کاربرد 1: نظر پیش از واقعیت",
         "htmlTag": 0,
-        "content": "nice نظر است و big اندازه، پس nice زودتر آمده است.",
+        "content": "beautiful یک نظر است و پیش از old که سن را نشان می‌دهد می‌آید. صفت‌های نظری همیشه اول می‌آیند.",
         "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "htmlTag": 0,
+        "content": "a nice big garden",
+        "order": 8,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 1: نظر پیش از واقعیت",
+        "htmlTag": 0,
+        "content": "nice نظر است و big اندازه، پس nice زودتر آمده است.",
+        "order": 9,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,22 +83,6 @@
         "title": "کاربرد 2: اندازه، رنگ و جنس",
         "htmlTag": 2,
         "content": "کاربرد 2: اندازه، رنگ و جنس",
-        "order": 8,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: اندازه، رنگ و جنس",
-        "htmlTag": 0,
-        "content": "a small black bag",
-        "order": 9,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "کاربرد 2: اندازه، رنگ و جنس",
-        "htmlTag": 0,
-        "content": "اندازه (small) پیش از رنگ (black) می‌آید. این ترتیب در انگلیسی تقریبا ثابت است.",
         "order": 10,
         "language": "fa",
         "voiceId": 0
@@ -90,7 +90,7 @@
       {
         "title": "کاربرد 2: اندازه، رنگ و جنس",
         "htmlTag": 0,
-        "content": "a long red wooden table",
+        "content": "a small black bag",
         "order": 11,
         "language": "en",
         "voiceId": 0
@@ -98,8 +98,24 @@
       {
         "title": "کاربرد 2: اندازه، رنگ و جنس",
         "htmlTag": 0,
-        "content": "ترتیب اندازه، رنگ و سپس جنس رعایت شده است: long، red، wooden.",
+        "content": "اندازه (small) پیش از رنگ (black) می‌آید. این ترتیب در انگلیسی تقریبا ثابت است.",
         "order": 12,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اندازه، رنگ و جنس",
+        "htmlTag": 0,
+        "content": "a long red wooden table",
+        "order": 13,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "کاربرد 2: اندازه، رنگ و جنس",
+        "htmlTag": 0,
+        "content": "ترتیب اندازه، رنگ و سپس جنس رعایت شده است: long، red، wooden.",
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,15 +123,15 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 13,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
       {
         "title": "نکته مهم",
         "htmlTag": 0,
-        "content": "یک ترتیب کلی پرکاربرد: نظر، اندازه، سن، رنگ، جنس و سپس اسم. وقتی بیش از سه صفت داریم، معمولا جمله را بازنویسی می‌کنیم تا طبیعی‌تر شود.",
-        "order": 14,
+        "content": "یک ترتیب کلی پرکاربرد: نظر، اندازه، شکل، سن، رنگ، ملیت/منشأ، جنس و سپس اسم. در مکالمه واقعی معمولاً همه این گروه‌ها با هم نمی‌آیند؛ اگر بیش از سه صفت داریم، اغلب بهتر است جمله را بازنویسی کنیم تا طبیعی‌تر شود.",
+        "order": 16,
         "language": "fa",
         "voiceId": 0
       },
@@ -123,22 +139,6 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 15,
-        "language": "fa",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "an expensive Italian car",
-        "order": 16,
-        "language": "en",
-        "voiceId": 0
-      },
-      {
-        "title": "مثال‌های بیشتر",
-        "htmlTag": 0,
-        "content": "expensive نظر است و Italian منشا، پس به ترتیب درست آمده‌اند.",
         "order": 17,
         "language": "fa",
         "voiceId": 0
@@ -146,7 +146,7 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "a big round table",
+        "content": "an expensive Italian car",
         "order": 18,
         "language": "en",
         "voiceId": 0
@@ -154,8 +154,24 @@
       {
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
-        "content": "اندازه (big) پیش از شکل (round) قرار گرفته است.",
+        "content": "expensive نظر است و Italian منشا، پس به ترتیب درست آمده‌اند.",
         "order": 19,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "a big round table",
+        "order": 20,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "مثال‌های بیشتر",
+        "htmlTag": 0,
+        "content": "اندازه (big) پیش از شکل (round) قرار گرفته است.",
+        "order": 21,
         "language": "fa",
         "voiceId": 0
       }
