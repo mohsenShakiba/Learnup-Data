@@ -1,0 +1,14 @@
+Risk and Insurance
+risk and insurance, premium, deductible, actuarial model, underwriting, moral hazard, adverse selection, coverage, liability, catastrophic loss, risk pool, claim, exclusion, probability, uncertainty, reinsurance, solvency, policyholder, pricing, loss prevention
+The premium looks high until you compare it with the possible liability.
+True, but the deductible shifts a lot of risk back to the policyholder.
+The insurer says the pricing follows the actuarial model.
+Models estimate probability; they do not eliminate uncertainty.
+What worries me is the exclusion for catastrophic loss.
+That exclusion weakens the coverage exactly when the business would need it most.
+Could reinsurance improve the offer?
+Possibly, but it would raise the premium unless the risk pool is broader.
+There is also moral hazard if coverage removes incentives for loss prevention.
+And adverse selection if only the highest-risk clients buy the policy.
+So the contract has to protect solvency without becoming useless.
+Insurance works when risk is shared honestly, not hidden in the fine print.

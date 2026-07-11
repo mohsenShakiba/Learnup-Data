@@ -1,0 +1,14 @@
+Automated Decisions
+automated decisions, algorithmic bias, explainability, human oversight, data quality, appeal, accountability, machine learning, black box, due process, risk score, discrimination, transparency, audit, model governance, error rate, training data, decision system, contestability, automated harm
+The system produces a risk score, but no one can explain the basis for it.
+Then the decision is not meaningfully contestable.
+The vendor calls it proprietary machine learning.
+A black box cannot override due process.
+We also found bias in the training data.
+Which means the model may reproduce discrimination while appearing objective.
+Human oversight is supposed to catch that.
+Only if the human reviewer has authority and enough information.
+Otherwise oversight becomes a signature after the fact.
+We should require an audit, error-rate disclosure, and a real appeal process.
+Model governance has to address automated harm before deployment.
+Transparency is not optional when a decision system affects people's lives.
