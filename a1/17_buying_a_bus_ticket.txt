@@ -2,7 +2,7 @@ Buying a Bus Ticket
 bus, next, leave, station, single, return, cost, platform, arrive, stop, coach, depart, schedule, timetable, fare, journey, route, backpack, passenger, engine
 Hi, one ticket to London, please.
 Single or return?
-Single, thanks. When's the next coach depart from the station?
+Single, thanks. When does the next coach depart from the station?
 Ten o'clock. The full schedule's on that timetable over there.
 Okay. How much does it cost? What's the fare?
 Twelve dollars.

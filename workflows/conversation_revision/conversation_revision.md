@@ -1,6 +1,6 @@
 # Conversation Revision Task (A1)
 
-Revise the conversations in `a1/` (64 files, numbered 1–64) so every line sounds
+Revise the conversations in `a1` - `c1`  so every line sounds
 natural. Use with `agent.md` (story rules), `plan.csv` (revision log),
 `added_words.csv` / `removed_words.csv` (word-change logs).
 
