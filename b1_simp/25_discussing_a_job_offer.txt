@@ -1,14 +1,16 @@
 Discussing a Job Offer
-doubt, stable, gut
-I got the job offer I told you about.
+doubt, stable, gut, decline, appealing, lucrative, competitive, corporate, startup, established, reputable, seniority, convinced, paycheck, upside, formal, respond, suited, breadwinner, ladder
+I finally got a formal job offer today.
 Congratulations! Are you going to take it?
-I'm not sure. I have some doubts.
+I'm not sure — I still have a few doubts.
 What's holding you back?
-The salary is great, but the commute is long.
-Have you weighed the benefits too?
-Yes, they're better than my current job.
-It sounds like a real opportunity.
-It is, but my current job is more stable.
-Sometimes you have to take a risk.
-What does your gut tell you?
-Honestly, I think you should go for it.
+The company is well established and very reputable.
+So it's a stable place, not a risky startup?
+Exactly, and the paycheck is competitive, even lucrative.
+That sounds appealing. Any real upside for your career?
+Yes, room to gain seniority and climb the corporate ladder.
+As the main breadwinner, that stability matters to me.
+You seem well suited to the role.
+I have to respond to them by Friday.
+Are you convinced it's the right move?
+My gut says yes, so I won't decline it.

@@ -1,14 +1,18 @@
 A Customer Service Call
-incorrect, investigate, reference, process, patience, update
-Thank you for calling. How can I help?
+incorrect, investigate, reference, process, patience, update, overcharge, billing, representative, rectify, dispute, helpline, enquiry, assist, assistance, error, callback, operator, adjustment, credited
+Thank you for calling the helpline. How can I assist?
 There's an incorrect charge on my bill.
-I'm sorry about that. Can you explain?
-I was charged twice for the same service.
-Let me look into your account.
-Thank you. It's quite frustrating.
-I can see the double charge here.
-So you'll refund the extra amount?
-Yes, I'll process the refund today.
-How long will it take to appear?
-About three working days. Here's your reference number.
+I'm sorry. Let me investigate your billing.
+I think you overcharge me last month.
+I can see the error now; it was our mistake.
+So can you rectify it today?
+Yes. I'll process an adjustment right away.
+Thank you. I appreciate your patience with my enquiry.
+Of course. I want to give you real assistance.
+Will the money be credited back soon?
+Yes, and I'll update your account immediately.
+Do I need to raise a formal dispute?
+No, the operator here can settle it directly.
+Here is your reference number for the callback.
+As the representative, I'll follow it through.
 Thank you for sorting it out so quickly.

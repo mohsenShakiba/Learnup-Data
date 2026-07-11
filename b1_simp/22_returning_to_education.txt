@@ -1,14 +1,19 @@
 Returning to Education
-enroll, qualification, motivated, challenging
+enroll, qualification, motivated, challenging, accounting, classes, enrolment, syllabus, semester, lecture, lecturer, assignment, revise, campus, scholarship, module, prospectus, qualify, distance-learning, coursework
 I've decided to go back to studying.
 That's brave! What are you going to study?
-I've enrolled in an accounting course.
-How will you manage it with your job?
-The classes are in the evening.
+I've read the prospectus and chosen an accounting course.
+How does the enrolment work?
+I enroll online, then classes start next semester.
+Are the lectures on campus?
+Some are, but I'll do part of it by distance-learning.
 It must be challenging to balance everything.
 It is, but I feel really motivated.
-What made you decide now?
-I want a better qualification for my career.
-I'm sure it'll be worth the effort.
-Thanks. Your support means a lot.
+Each module has its own syllabus and assignment.
+Will you have time to revise?
+Yes, every evening after a lecture from the lecturer.
+Did you get any help with the fees?
+I applied for a scholarship, luckily.
+That coursework will qualify you for a better job.
+I want a proper qualification for my career.
 You'll achieve it. I'm confident in you.

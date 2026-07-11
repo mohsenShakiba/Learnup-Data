@@ -1,14 +1,23 @@
 Sharing Household Chores
-rota, remind, cooperate
+rota, remind, cooperate, housework, clutter, split, divide, nagging, resentment, washing-up, slack, neglect, messy, tidy-up, dishwasher, fold, pitch-in, fair-share, unfair, overburdened
 Can we talk about the housework?
 Sure. Is something wrong?
-I feel I'm doing most of the chores.
-I didn't realize. I'm sorry.
-I think we should share them fairly.
-That's reasonable. What do you suggest?
-Maybe we make a weekly rota.
-Good idea. I'll take the cooking.
-And I'll do the cleaning, then.
-We can take turns with the rubbish.
-Perfect. That feels much fairer.
-Agreed. Thanks for bringing it up.
+I feel overburdened by the chores.
+Really? That seems unfair.
+Yes, and it's building some resentment.
+I didn't mean to slack off.
+The flat has become so messy.
+There's clutter on every surface.
+I promise to pitch-in more.
+Let's split the work evenly.
+We can divide the tasks by day.
+Good idea — let's make a weekly rota.
+I'll handle the washing-up.
+And I'll empty the dishwasher.
+I'll fold the laundry too.
+Can you tidy-up the living room?
+Sure, I won't neglect it again.
+Please don't start nagging me.
+I'll just remind you gently.
+That feels like a fair-share.
+Great, let's cooperate from now on.

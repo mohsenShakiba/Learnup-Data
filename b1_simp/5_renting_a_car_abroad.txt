@@ -1,14 +1,18 @@
 Renting a Car Abroad
-license, insurance, automatic, manual, mileage, damage, additional, condition
+license, insurance, automatic, manual, mileage, damage, additional, condition, valid, excess, waiver, breakdown, roadside, dent, navigation, tank, petrol, basic, category, compact
 Hello, I'd like to rent a car for a week.
-Certainly. May I see your driving license?
-Here it is. Do you have an automatic car?
-Yes, we do. Does the price include insurance?
-Basic insurance is included.
-Is there an additional charge for full cover?
-Yes, full cover costs ten dollars a day.
-I'll take it. Is there a deposit?
-Yes, and we'll return it if there's no damage.
-Should I return the car with a full tank?
-Yes, please. Otherwise we charge for fuel.
+Certainly. May I see your driving license? It must be valid.
+Here it is. Do you have an automatic, or only manual?
+We have both. This compact car is in the economy category.
+Does the price include insurance?
+Basic insurance is included, but there's an excess if you claim.
+Can I lower that?
+Yes, a damage waiver reduces it for a small additional fee.
+Is there a mileage limit?
+No, the mileage is unlimited. What about roadside help?
+Every car comes with breakdown and roadside cover.
+Good. Does it have navigation?
+Yes, built-in navigation. Please check the condition before you leave.
+I see a small dent on the door already.
+Thanks, we'll note it. Return it with a full tank of petrol.
 Understood. Let's sign the agreement.

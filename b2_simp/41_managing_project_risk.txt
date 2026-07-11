@@ -1,0 +1,14 @@
+Managing Project Risk
+roadmap, bottleneck, scope-creep, alignment, checkpoint, mandate, ownership, cadence, escalation, bandwidth, negotiate, phased, criterion, signoff, buffer, capacity, slippage, handover, contingency, blocker
+The roadmap looks ambitious, but I see a bottleneck in testing.
+I agree. We also need to prevent scope-creep before it affects delivery.
+Do we have alignment from the sponsor?
+Mostly, but I want one more checkpoint before signoff.
+What's the main criterion for approval?
+Capacity. The team has limited bandwidth this month.
+Then we should negotiate a phased launch.
+That would give us a buffer if there is slippage.
+Who has ownership of the handover?
+Maya does, but she needs a clear mandate.
+If a blocker appears, we need a fast escalation path.
+Good. Let's add a contingency plan and set a weekly cadence.

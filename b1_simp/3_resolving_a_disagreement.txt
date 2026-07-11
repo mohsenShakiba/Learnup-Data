@@ -1,14 +1,15 @@
 Resolving a Disagreement
-disagreement, misunderstand, apologize, blame, honestly, compromise, solution, frustrated, resolve
-Can we talk about what happened yesterday?
+disagreement, misunderstand, apologize, blame, honestly, compromise, solution, frustrated, resolve, argument, overreact, admit, calmly, apology, tone, tense, awkward, willing, snap, misjudge
+Can we talk calmly about our disagreement yesterday?
 Yes, I think there was a misunderstanding.
-I felt frustrated when you changed the plan.
-I'm sorry. I should have told you first.
-I appreciate that. I wasn't trying to blame you.
-Let me explain why I made the change.
-Please do. I want to understand.
-The client asked for it suddenly.
-I see. That makes more sense now.
-Next time, let's agree on a solution together.
-Agreed. I respect your opinion.
+Honestly, I felt frustrated when you changed the plan.
+I'm sorry if my tone was sharp. I didn't mean to snap.
+I appreciate the apology. I wasn't trying to blame you.
+Let me explain. I think we both misjudged the situation.
+Maybe I did overreact a little.
+Things got tense, and it turned into an argument.
+It was awkward, but I'm glad we can resolve it.
+I want to apologize too, and admit I was wrong.
+Let's find a compromise so this doesn't happen again.
+That's a fair solution. I'm willing to try.
 Thanks for staying calm and talking it through.

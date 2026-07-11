@@ -1,0 +1,14 @@
+Improving Customer Onboarding
+walkthrough, tooltip, signup, activation, drop-off, churn, friction, self-service, helpdesk, checklist, sequence, profile, prompt, welcome, segment, tour, password, verification, login, form
+Our signup flow has too much friction.
+Where do users drop-off most often?
+During password verification and the first login.
+Then the form is probably too long.
+We could add a short walkthrough after activation.
+And a welcome tour for each customer segment.
+Good idea. A tooltip can explain confusing buttons.
+The profile setup also needs a clearer sequence.
+Maybe a checklist would guide people better.
+Add a prompt when they skip an important step.
+That should reduce churn and helpdesk tickets.
+Exactly. Better self-service makes onboarding feel smoother.

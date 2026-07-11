@@ -1,0 +1,14 @@
+Discussing Data Quality
+cohort, anomaly, variance, outlier, query, statistical, threshold, causal, proxy, accuracy, visualization, audit, cleanliness, database, extract, incomplete, metric, trendline, filter, duplicate
+The dashboard looks useful, but I don't trust the data yet.
+Why not?
+The database has duplicate records and incomplete fields.
+That could affect every metric.
+Exactly. I ran a query and found an outlier in one cohort.
+Is it an anomaly or a real pattern?
+Hard to say without an audit.
+We need better cleanliness before any statistical analysis.
+Can a filter remove the worst errors?
+Some, but accuracy still depends on the extract.
+The trendline shows variance above our threshold.
+Then don't treat the proxy as causal until the visualization is checked.

@@ -1,14 +1,18 @@
 Discussing a News Story
-headline, believe, opinion, according, government, decision, affect, concerned, article, source, discuss
-Have you seen the news this morning?
+headline, believe, opinion, according, government, decision, affect, concerned, article, source, discuss, taxes, rise, journalist, biased, official, protest, inflation, rumor, exaggerate
+Have you seen the headline this morning?
 Not yet. What happened?
 The government has made a new decision about taxes.
 Really? How will it affect us?
-According to the report, prices may rise.
-That's concerning. Where did you read it?
-In an article from a reliable source.
+According to an official report, prices will rise.
+I'm quite concerned. Is inflation getting worse?
+Some people say so, but there's a lot of rumor online.
+Where did you read it?
+In an article by a well-known journalist.
 I'm not sure I believe everything I read.
-That's fair. We should check other sources too.
+That's fair. Some sources are quite biased.
+True. This journalist tends to exaggerate a little.
 What's your opinion about it?
 I think people are right to be worried.
+There's even talk of a protest downtown.
 Let's discuss it more over lunch.

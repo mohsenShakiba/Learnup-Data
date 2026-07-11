@@ -1,14 +1,19 @@
 Dealing with a Noisy Neighbor
-disturb, volume, weekday, complain
+disturb, volume, weekday, complain, midnight, blaring, disturbance, unbearable, soundproof, footsteps, earplugs, tolerate, thumping, bass, stereo, nuisance, persistent, quieten, politely, muffle
 Hi, sorry to bother you. Do you have a minute?
 Of course. Is everything okay?
-It's about the noise late at night.
-Oh, I didn't realize it disturbed you.
-The music is quite loud after midnight.
-I'm really sorry. I should have noticed.
+I don't want to complain, but the noise disturbs me.
+Oh, I didn't realize I was causing a disturbance.
+Your stereo is blaring past midnight most nights.
+I'm so sorry. I should have noticed.
+The thumping bass comes right through the wall.
+I can tolerate a little, but this is unbearable.
 I have to get up early on weekdays.
-That's completely reasonable.
-Could you lower the volume after ten?
-Absolutely. I'll be more considerate.
-Thank you. I really appreciate it.
-No problem at all. Just knock if it happens again.
+That's completely reasonable, and I've been a nuisance.
+Could you turn the volume down and quieten things?
+Absolutely. I'll ask politely if it ever bothers you.
+Even your footsteps make a persistent noise upstairs.
+Maybe I should soundproof the floor.
+A rug would muffle the sound nicely.
+Thank you. I won't need my earplugs anymore.
+No problem. Just knock if it happens again.

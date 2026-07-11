@@ -1,14 +1,17 @@
 A Polite Restaurant Complaint
-ordered, disappointed, compensate
+ordered, disappointed, compensate, immediately, undercooked, bland, gesture, courteous, reheat, expected, stale, lukewarm, overcooked, hygiene, unacceptable, mediocre, seasoning, sincerely, promptly, standard
 Excuse me, could I have a word?
 Of course. Is everything all right?
-I'm afraid my soup is cold.
-I'm so sorry about that.
-Also, this isn't what I ordered.
-You're right. I'll replace it immediately.
-Thank you. I'd appreciate that.
-I'll bring you a fresh, hot dish.
-I expected better from this restaurant.
-I understand. Let me call the manager.
-That would be helpful, thank you. The waiter said that the kitchen was busy. He told me that they would bring a new dish.
-To make up for it, your meal is free tonight.
+I'm afraid my soup is lukewarm and rather bland.
+I'm so sorry. I'll reheat it for you immediately.
+The bread is also stale, and this isn't what I ordered.
+You're right, and I sincerely apologise.
+Honestly, I expected a much higher standard here.
+My friend's chicken is undercooked, but her rice is overcooked.
+That is unacceptable for our kitchen.
+The whole meal was mediocre and needed more seasoning.
+I'm very disappointed, though your staff were courteous.
+We take hygiene and service seriously, and we'll act promptly.
+As a gesture, how can we compensate you?
+Please just serve food done to your normal standard.
+Of course. Tonight's meal is on us.

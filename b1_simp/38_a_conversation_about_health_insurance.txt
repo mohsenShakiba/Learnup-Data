@@ -1,14 +1,23 @@
 Understanding Health Insurance
-premium, claim, deductible, treatment, exclude, suitable
-I'd like some help choosing health insurance.
-Of course. What's most important to you?
-Good coverage at a reasonable price.
-This policy has a low monthly premium.
-What does it actually cover?
-Most treatments and hospital stays.
-Is anything excluded?
-Dental care is not included here.
-What about the deductible?
-You pay the first hundred dollars per claim.
-That sounds manageable.
-Let's compare it with one more option.
+premium, claim, deductible, treatment, exclude, suitable, copay, out-of-pocket, pre-existing, dependant, specialist, referral, hospitalisation, dental, optical, exclusion, quote, comprehensive, payout, underwriter
+I'd like help choosing health insurance.
+Of course. Do you want comprehensive cover?
+Yes, with a reasonable monthly premium.
+This policy has a low copay per visit.
+What about out-of-pocket costs?
+The deductible is a hundred dollars.
+Does it cover a pre-existing condition?
+Some plans exclude those.
+Please check the list of exclusions.
+Can I add a dependant to my plan?
+Yes, your children can be covered.
+Do I need a referral to see a specialist?
+Usually, for any major treatment.
+Is dental and optical care included?
+Only in the premium package.
+What if I need hospitalisation?
+You'd receive a full payout then.
+When would I file a claim?
+Whenever the treatment is suitable and approved.
+Let me get you an exact quote.
+An underwriter will review your details.

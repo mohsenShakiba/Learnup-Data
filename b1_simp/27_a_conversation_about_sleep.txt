@@ -1,14 +1,20 @@
 A Conversation About Sleep
-insomnia, caffeine, quality, regular
+insomnia, caffeine, quality, regular, restless, drowsy, yawn, duvet, mattress, melatonin, groggy, refreshed, rested, doze, snore, toss, wind-down, overtired, deprived, dim
 You look tired. Didn't you sleep well?
 No, I've had insomnia all week.
-That sounds exhausting. What's keeping you up?
-Stress, mostly. My mind won't switch off.
-Do you use your phone before bed?
-Yes, I scroll for ages.
-The screen light can really affect sleep.
-I didn't realize it was that serious.
-Try avoiding caffeine in the afternoon too.
-I should build a proper bedtime routine.
-A regular routine improves sleep quality.
-Thanks for the advice. I'll try tonight.
+That's rough — you seem completely sleep deprived.
+I toss and turn all night and feel so restless.
+Do you wake up groggy in the mornings?
+Yes, I yawn all day and I'm always overtired.
+Is your bed even comfortable?
+My mattress is old and my duvet is too thin.
+Try to dim the lights an hour before bed.
+And keep a regular wind-down routine every night.
+I usually just doze on the sofa first.
+That really ruins your sleep quality.
+Should I cut out caffeine as well?
+Yes, it leaves you drowsy but wired at night.
+Some people take melatonin to fall asleep.
+And does your partner snore next to you?
+A bit, but that's not my real problem.
+Do all this and you'll wake up refreshed and rested.

@@ -1,14 +1,20 @@
 Opening a Bank Account
-current, interest, documents, statement, apply
-Good morning. I'd like to open an account.
+current, interest, documents, statement, apply, fees, overdraft, minimum, banking, cheque, chequebook, withdrawal, eligible, joint, contactless, notify, charges, funds, cashpoint, sortcode
+Good morning. I'd like to apply for an account.
 Of course. A savings or current account?
 What's the difference between them?
-A savings account pays interest.
-Are there any monthly fees?
-No, this account is free.
-Can I manage it online?
-Yes, you can transfer money anytime.
+A savings account pays more interest.
+Are there any monthly fees or charges?
+No, but keep a minimum balance to avoid an overdraft.
+Can I manage it with online banking?
+Yes, and you get a contactless card too.
 What documents do I need?
-Your identity card and proof of address.
-Here they are. How long will it take?
-Just a few minutes. Then you can deposit money.
+Your identity card, proof of address, and your sortcode.
+Can we open a joint account together?
+Certainly, if you are both eligible.
+Do I get a chequebook?
+Yes, so you can write a cheque when needed.
+How do I take out money?
+Use any cashpoint for a quick withdrawal.
+We'll notify you when the funds are ready.
+You can also download every statement online.

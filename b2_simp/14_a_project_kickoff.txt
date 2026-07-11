@@ -1,5 +1,5 @@
 A Project Kickoff Meeting
-kickoff, objective, milestone, deliverable, scope, timeline, allocate, dependency, align, accountable, resource
+kickoff, objective, milestone, deliverable, scope, timeline, allocate, dependency, align, accountable, resource, joining, meeting, launch, platform, ambitious, milestones, resources, specific, deliverables
 Thanks for joining this kickoff meeting.
 Glad to be here. What's our main objective?
 To launch the new platform by autumn.

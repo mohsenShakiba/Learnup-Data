@@ -1,14 +1,21 @@
 Discussing Public Transport
-transport, reliable, frequent, alternative, congestion, rely
+transport, reliable, frequent, alternative, congestion, rely, overcrowded, season-ticket, tram, tube, connection, strike, detour, turnstile, validate, top-up, standing, subsidised, cyclist, gridlock
 Do you usually take the bus to work?
 I do, but it's not always reliable.
-Are there many delays?
-Yes, especially in the morning.
-The trains are usually more frequent.
-True, but the fares are higher.
-I wish the city would invest more in transport.
-That would reduce traffic congestion too.
-Have you considered cycling instead?
-I have, but the roads aren't very safe.
-We really need better alternatives.
-Agreed. Until then, I'll rely on the bus.
+Are the buses ever overcrowded?
+Very. I'm always standing the whole way.
+Why not take the tube or a tram?
+The connection between them is awkward.
+Trains are more frequent, though.
+True, but I hate a badly timed detour.
+Do you have a season-ticket?
+Yes, but I still have to top-up my card.
+And validate it at the turnstile each time.
+Was there a strike last week?
+Yes, the whole city was in gridlock.
+That's just endless traffic congestion.
+The council should build a subsidised network.
+And safer lanes for every cyclist.
+Public transport really needs investment.
+We need a proper alternative to cars.
+Until then, I'll just rely on the bus.

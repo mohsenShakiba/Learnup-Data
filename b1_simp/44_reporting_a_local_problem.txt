@@ -1,14 +1,22 @@
 Reporting a Local Problem
-council, streetlight, dangerous, resident, urgent, follow up
-Hello, I'd like to report a problem.
+council, streetlight, dangerous, resident, urgent, follow up, pothole, graffiti, vandalism, hazard, drainage, flooding, overgrown, fly-tipping, maintenance, petition, inspect, neglected, eyesore, reference-number
+Hello, I'd like to report a problem to the council.
 Of course. What seems to be the issue?
 The streetlight on my road is broken.
-How long has it been like that?
-About two weeks now.
-I see. Is it causing any danger?
-Yes, the street is very dark at night.
-That does sound urgent.
-Several residents are worried.
-I'll send someone to investigate.
-How soon can it be repaired?
-Within a few days. We'll follow up with you.
+It's a real hazard after dark.
+The whole street feels dangerous.
+Are there other problems too?
+Yes, there's graffiti and vandalism nearby.
+Someone keeps fly-tipping on the corner.
+The rubbish has become an eyesore.
+And the drainage is completely blocked.
+That's causing flooding when it rains.
+The whole area looks neglected.
+The park is badly overgrown as well.
+There's also a deep pothole in the road.
+This all sounds urgent.
+The maintenance has been ignored for years.
+Many residents want to sign a petition.
+I'll send someone to inspect it.
+Please give me a reference-number.
+Certainly. We'll follow up with you soon.

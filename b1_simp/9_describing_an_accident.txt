@@ -1,14 +1,20 @@
 Describing an Accident
-accident, suddenly, driving, crossing, crash, injured, witness
+accident, suddenly, driving, crossing, crash, injured, witness, stopped, luckily, collision, swerve, bumper, ambulance, shock, careless, skid, speeding, whiplash, windscreen, tow
 Can you tell me what happened?
-I was driving home when it happened.
+I was driving home when the accident happened.
 Where exactly were you?
 I was crossing the bridge near the station.
 What did the other driver do?
-He suddenly stopped, so I couldn't brake in time.
+He was speeding and suddenly stopped in front of me.
+So you couldn't avoid the crash?
+No. I tried to swerve, but I hit his bumper.
+Did the cars skid on the road?
+A little. It was a low-speed collision.
 Was anyone injured?
-No, luckily we were both fine.
+Luckily not, though my neck aches from whiplash.
+That can be delayed shock. Did you call for help?
+Yes, an ambulance came to check us both.
 Was there much damage?
-Just the front of my car.
+The windscreen cracked, so they had to tow my car.
 Were there any witnesses?
-Yes, a man saw it and gave a statement.
+Yes, a man saw the careless driving and gave a statement.
