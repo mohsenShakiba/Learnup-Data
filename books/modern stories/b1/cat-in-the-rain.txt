@@ -1,0 +1,466 @@
+Title: Cat in the Rain
+Author: Ernest Hemingway
+First published: 1925
+Level (approx.): B1/B1+
+Word count: ~1150
+Source: Standard Ebooks (public domain in the U.S.)
+Source URL: https://raw.githubusercontent.com/standardebooks/ernest-hemingway_short-fiction/master/src/epub/text/cat-in-the-rain.xhtml
+
+توضیح: «گربه زیر باران» داستان کوتاهی از ارنست همینگوی است. زن و شوهری آمریکایی در هتلی در ایتالیا اقامت دارند؛ بیرون باران می‌بارد و زن از پنجره گربه‌ای را زیر میز می‌بیند. او می‌خواهد گربه را نجات دهد، اما داستان کم‌کم به تنهایی، خواسته‌های نگفته و فاصله‌ی عاطفی میان زن و شوهر تبدیل می‌شود.
+------------------------------------------------------------
+
+There were only two Americans stopping at the hotel.
+فقط دو آمریکایی در هتل اقامت داشتند.
+
+They did not know any of the people they passed on the stairs,
+آن‌ها هیچ‌کدام از کسانی را که روی پله‌ها از کنارشان می‌گذشتند نمی‌شناختند،
+
+on their way to and from their room.
+چه وقتی به اتاقشان می‌رفتند و چه وقتی از آن بیرون می‌آمدند.
+
+Their room was on the second floor facing the sea.
+اتاقشان در طبقه‌ی دوم بود و رو به دریا قرار داشت.
+
+It also faced the public garden and the war monument.
+همچنین رو به باغ عمومی و بنای یادبود جنگ بود.
+
+There were big palms and green benches in the public garden.
+در باغ عمومی نخل‌های بزرگ و نیمکت‌های سبز بود.
+
+In the good weather there was always an artist with his easel.
+در هوای خوب، همیشه نقاشی با سه‌پایه‌اش آنجا بود.
+
+Artists liked the way the palms grew,
+نقاش‌ها از شکل رشد نخل‌ها خوششان می‌آمد،
+
+and the bright colors of the hotels facing the gardens and the sea.
+و همچنین از رنگ‌های روشن هتل‌هایی که رو به باغ‌ها و دریا بودند.
+
+Italians came from a long way off to look up at the war monument.
+ایتالیایی‌ها از جاهای دور می‌آمدند تا به بنای یادبود جنگ نگاه کنند.
+
+It was made of bronze and glistened in the rain.
+از برنز ساخته شده بود و زیر باران می‌درخشید.
+
+It was raining.
+باران می‌بارید.
+
+The rain dripped from the palm trees.
+باران از نخل‌ها چکه می‌کرد.
+
+Water stood in pools on the gravel paths.
+آب روی راه‌های شنی به شکل گودال‌های کوچک جمع شده بود.
+
+The sea broke in a long line in the rain,
+دریا در خطی بلند زیر باران می‌شکست،
+
+and slipped back down the beach,
+و دوباره روی ساحل عقب می‌رفت،
+
+to come up and break again in a long line in the rain.
+تا باز بالا بیاید و دوباره در خطی بلند زیر باران بشکند.
+
+The motor cars were gone from the square by the war monument.
+ماشین‌ها از میدان کنار بنای یادبود جنگ رفته بودند.
+
+Across the square, in the doorway of the café,
+آن سوی میدان، در آستانه‌ی درِ کافه،
+
+a waiter stood looking out at the empty square.
+پیشخدمتی ایستاده بود و به میدان خالی نگاه می‌کرد.
+
+The American wife stood at the window looking out.
+زن آمریکایی کنار پنجره ایستاده بود و بیرون را نگاه می‌کرد.
+
+Outside right under their window,
+بیرون، درست زیر پنجره‌ی آن‌ها،
+
+a cat was crouched under one of the dripping green tables.
+گربه‌ای زیر یکی از میزهای سبزی که از آن‌ها آب می‌چکید، چمباتمه زده بود.
+
+The cat was trying to make herself so compact,
+گربه سعی می‌کرد خودش را تا حد ممکن جمع کند،
+
+that she would not be dripped on.
+تا قطره‌های باران رویش نچکد.
+
+“I’m going down and get that kitty,” the American wife said.
+زن آمریکایی گفت: «می‌روم پایین و آن بچه‌گربه را می‌آورم.»
+
+“I’ll do it,” her husband offered from the bed.
+شوهرش از روی تخت پیشنهاد کرد: «من این کار را می‌کنم.»
+
+“No, I’ll get it.
+«نه، خودم می‌آورمش.
+
+The poor kitty out trying to keep dry under a table.”
+بیچاره بچه‌گربه بیرون زیر میز سعی می‌کند خشک بماند.»
+
+The husband went on reading,
+شوهر به خواندن ادامه داد،
+
+lying propped up with the two pillows at the foot of the bed.
+در حالی که با دو بالش در پایین تخت تکیه داده بود.
+
+“Don’t get wet,” he said.
+گفت: «خیس نشو.»
+
+The wife went downstairs,
+زن از پله‌ها پایین رفت،
+
+and the hotel owner stood up and bowed to her as she passed the office.
+و صاحب هتل وقتی او از کنار دفتر گذشت، بلند شد و به او تعظیم کرد.
+
+His desk was at the far end of the office.
+میز او در انتهای دفتر بود.
+
+He was an old man and very tall.
+مردی پیر و بسیار بلندقد بود.
+
+“Il piove,” the wife said.
+زن گفت: «ایل پیووه.»
+
+She liked the hotelkeeper.
+او از هتل‌دار خوشش می‌آمد.
+
+“Si, si, Signora, brutto tempo.
+«سی، سی، سینیورا، بروتو تمپو.
+
+It is very bad weather.”
+هوا خیلی بد است.»
+
+He stood behind his desk in the far end of the dim room.
+او پشت میزش در انتهای اتاق کم‌نور ایستاده بود.
+
+The wife liked him.
+زن از او خوشش می‌آمد.
+
+She liked the deadly serious way he received any complaints.
+از روش کاملاً جدی او در شنیدن هر شکایتی خوشش می‌آمد.
+
+She liked his dignity.
+از وقارش خوشش می‌آمد.
+
+She liked the way he wanted to serve her.
+از اینکه می‌خواست به او خدمت کند خوشش می‌آمد.
+
+She liked the way he felt about being a hotelkeeper.
+از احساسی که او نسبت به هتل‌دار بودن داشت خوشش می‌آمد.
+
+She liked his old, heavy face and big hands.
+از صورت پیر و سنگین او و دست‌های بزرگش خوشش می‌آمد.
+
+Liking him, she opened the door and looked out.
+در حالی که از او خوشش می‌آمد، در را باز کرد و بیرون را نگاه کرد.
+
+It was raining harder.
+باران شدیدتر شده بود.
+
+A man in a rubber cape was crossing the empty square to the café.
+مردی با شنل بارانی از میدان خالی به طرف کافه می‌رفت.
+
+The cat would be around to the right.
+گربه باید سمت راست می‌بود.
+
+Perhaps she could go along under the eaves.
+شاید می‌توانست زیر لبه‌ی بام حرکت کند.
+
+As she stood in the doorway,
+وقتی در آستانه‌ی در ایستاده بود،
+
+an umbrella opened behind her.
+چتری پشت سرش باز شد.
+
+It was the maid who looked after their room.
+این خدمتکاری بود که از اتاق آن‌ها مراقبت می‌کرد.
+
+“You must not get wet,” she smiled, speaking Italian.
+او با لبخند و به ایتالیایی گفت: «نباید خیس شوید.»
+
+Of course, the hotelkeeper had sent her.
+البته هتل‌دار او را فرستاده بود.
+
+With the maid holding the umbrella over her,
+در حالی که خدمتکار چتر را بالای سرش گرفته بود،
+
+she walked along the gravel path,
+او در راه شنی قدم زد،
+
+until she was under their window.
+تا به زیر پنجره‌ی اتاقشان رسید.
+
+The table was there,
+میز آنجا بود،
+
+washed bright green in the rain,
+زیر باران به رنگ سبز روشن شسته شده بود،
+
+but the cat was gone.
+اما گربه رفته بود.
+
+She was suddenly disappointed.
+ناگهان ناامید شد.
+
+The maid looked up at her.
+خدمتکار به او نگاه کرد.
+
+“Ha perduto qualque cosa, Signora?”
+«ها پردوتو کوالکه کوزا، سینیورا؟»
+
+“There was a cat,” said the American girl.
+دختر آمریکایی گفت: «اینجا یک گربه بود.»
+
+“A cat?”
+«گربه؟»
+
+“Si, il gatto.”
+«سی، ایل گاتو.»
+
+“A cat?” the maid laughed.
+خدمتکار خندید: «گربه؟»
+
+“A cat in the rain?”
+«گربه‌ای زیر باران؟»
+
+“Yes,” she said,
+او گفت: «بله،»
+
+“under the table.”
+«زیر میز.»
+
+Then, “Oh, I wanted it so much.
+بعد گفت: «اوه، من خیلی می‌خواستمش.
+
+I wanted a kitty.”
+یک بچه‌گربه می‌خواستم.»
+
+When she talked English, the maid’s face tightened.
+وقتی او انگلیسی حرف زد، صورت خدمتکار جمع شد.
+
+“Come, Signora,” she said.
+خدمتکار گفت: «بیایید، سینیورا.»
+
+“We must get back inside.
+«باید به داخل برگردیم.
+
+You will be wet.”
+خیس خواهید شد.»
+
+“I suppose so,” said the American girl.
+دختر آمریکایی گفت: «فکر کنم همین‌طور است.»
+
+They went back along the gravel path and passed in the door.
+آن‌ها از راه شنی برگشتند و از در داخل رفتند.
+
+The maid stayed outside to close the umbrella.
+خدمتکار بیرون ماند تا چتر را ببندد.
+
+As the American girl passed the office,
+وقتی دختر آمریکایی از کنار دفتر گذشت،
+
+the padrone bowed from his desk.
+پادرونه از پشت میزش تعظیم کرد.
+
+Something felt very small and tight inside the girl.
+چیزی در درون دختر بسیار کوچک و فشرده احساس می‌شد.
+
+The padrone made her feel very small,
+پادرونه باعث می‌شد او احساس کوچکی کند،
+
+and at the same time really important.
+و هم‌زمان احساس کند واقعاً مهم است.
+
+She had a momentary feeling of being of supreme importance.
+لحظه‌ای احساس کرد اهمیت بسیار زیادی دارد.
+
+She went on up the stairs.
+از پله‌ها بالا رفت.
+
+She opened the door of the room.
+درِ اتاق را باز کرد.
+
+George was on the bed, reading.
+جورج روی تخت بود و کتاب می‌خواند.
+
+“Did you get the cat?” he asked, putting the book down.
+او کتاب را پایین گذاشت و پرسید: «گربه را آوردی؟»
+
+“It was gone.”
+«رفته بود.»
+
+“Wonder where it went to,” he said,
+او گفت: «عجیب است کجا رفت،»
+
+resting his eyes from reading.
+در حالی که چشم‌هایش را از خواندن استراحت می‌داد.
+
+She sat down on the bed.
+زن روی تخت نشست.
+
+“I wanted it so much,” she said.
+گفت: «خیلی می‌خواستمش.»
+
+“I don’t know why I wanted it so much.
+«نمی‌دانم چرا این‌قدر می‌خواستمش.
+
+I wanted that poor kitty.
+آن بچه‌گربه‌ی بیچاره را می‌خواستم.
+
+It isn’t any fun to be a poor kitty out in the rain.”
+بیچاره بچه‌گربه‌ای بودن زیر باران هیچ خوشایند نیست.»
+
+George was reading again.
+جورج دوباره مشغول خواندن بود.
+
+She went over and sat in front of the mirror of the dressing table,
+او رفت و جلوی آینه‌ی میز آرایش نشست،
+
+looking at herself with the hand glass.
+و با آینه‌ی دستی به خودش نگاه کرد.
+
+She studied her profile,
+نیم‌رخش را با دقت نگاه کرد،
+
+first one side and then the other.
+اول یک طرف و بعد طرف دیگر.
+
+Then she studied the back of her head and her neck.
+بعد پشت سر و گردنش را بررسی کرد.
+
+“Don’t you think it would be a good idea if I let my hair grow out?”
+«فکر نمی‌کنی اگر بگذارم موهایم بلند شود، فکر خوبی باشد؟»
+
+she asked, looking at her profile again.
+او این را پرسید، در حالی که دوباره به نیم‌رخش نگاه می‌کرد.
+
+George looked up,
+جورج سرش را بالا آورد،
+
+and saw the back of her neck,
+و پشت گردن او را دید،
+
+clipped close like a boy’s.
+که مثل پسرها کوتاه زده شده بود.
+
+“I like it the way it is.”
+«همین‌طور که هست دوستش دارم.»
+
+“I get so tired of it,” she said.
+او گفت: «خیلی از آن خسته شده‌ام.»
+
+“I get so tired of looking like a boy.”
+«خیلی خسته شده‌ام از اینکه شبیه پسرها به نظر برسم.»
+
+George shifted his position in the bed.
+جورج روی تخت جابه‌جا شد.
+
+He hadn’t looked away from her since she started to speak.
+از وقتی او شروع به حرف زدن کرده بود، نگاهش را از او برنداشته بود.
+
+“You look pretty darn nice,” he said.
+گفت: «خیلی هم خوب به نظر می‌رسی.»
+
+She laid the mirror down on the dresser,
+او آینه را روی میز گذاشت،
+
+and went over to the window and looked out.
+و به طرف پنجره رفت و بیرون را نگاه کرد.
+
+It was getting dark.
+هوا داشت تاریک می‌شد.
+
+“I want to pull my hair back tight and smooth,
+«می‌خواهم موهایم را محکم و صاف به عقب بکشم،
+
+and make a big knot at the back that I can feel,” she said.
+و پشت سرم گره‌ی بزرگی درست کنم که بتوانم حسش کنم،» او گفت.
+
+“I want to have a kitty to sit on my lap,
+«می‌خواهم بچه‌گربه‌ای داشته باشم که روی پایم بنشیند،
+
+and purr when I stroke her.”
+و وقتی نوازشش می‌کنم خرخر کند.»
+
+“Yeah?” George said from the bed.
+جورج از روی تخت گفت: «آره؟»
+
+“And I want to eat at a table with my own silver,
+«و می‌خواهم سر میزی غذا بخورم که قاشق و چنگال نقره‌ی خودم را داشته باشد،
+
+and I want candles.
+و شمع می‌خواهم.
+
+And I want it to be spring,
+و می‌خواهم بهار باشد،
+
+and I want to brush my hair out in front of a mirror,
+و می‌خواهم جلوی آینه موهایم را شانه کنم،
+
+and I want a kitty and I want some new clothes.”
+و بچه‌گربه می‌خواهم و چند لباس تازه می‌خواهم.»
+
+“Oh, shut up and get something to read,” George said.
+جورج گفت: «اوه، ساکت شو و چیزی برای خواندن بردار.»
+
+He was reading again.
+او دوباره مشغول خواندن بود.
+
+His wife was looking out of the window.
+زنش از پنجره بیرون را نگاه می‌کرد.
+
+It was quite dark now,
+حالا هوا کاملاً تاریک شده بود،
+
+and still raining in the palm trees.
+و هنوز روی نخل‌ها باران می‌بارید.
+
+“Anyway, I want a cat,” she said,
+او گفت: «به هر حال، من یک گربه می‌خواهم،»
+
+“I want a cat.
+«یک گربه می‌خواهم.
+
+I want a cat now.
+همین حالا یک گربه می‌خواهم.
+
+If I can’t have long hair or any fun,
+اگر نمی‌توانم موی بلند یا هیچ خوشی‌ای داشته باشم،
+
+I can have a cat.”
+می‌توانم یک گربه داشته باشم.»
+
+George was not listening.
+جورج گوش نمی‌داد.
+
+He was reading his book.
+مشغول خواندن کتابش بود.
+
+His wife looked out of the window,
+زنش از پنجره بیرون را نگاه کرد،
+
+where the light had come on in the square.
+جایی که چراغ میدان روشن شده بود.
+
+Someone knocked at the door.
+کسی به در زد.
+
+“Avanti,” George said.
+جورج گفت: «آوانتی.»
+
+He looked up from his book.
+از کتابش سر بلند کرد.
+
+In the doorway stood the maid.
+خدمتکار در آستانه‌ی در ایستاده بود.
+
+She held a big tortoiseshell cat pressed tight against her,
+او گربه‌ای بزرگ و ابلق را محکم به خود چسبانده بود،
+
+and swung down against her body.
+و بدن گربه پایین، کنار بدنش آویزان بود.
+
+“Excuse me,” she said,
+او گفت: «ببخشید،»
+
+“the padrone asked me to bring this for the Signora.”
+«پادرونه از من خواست این را برای سینیورا بیاورم.»
