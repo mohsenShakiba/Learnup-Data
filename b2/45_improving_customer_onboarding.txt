@@ -1,7 +1,7 @@
 Improving Customer Onboarding
-walkthrough, tooltip, signup, activation, drop-off, churn, friction, self-service, helpdesk, checklist, sequence, profile, prompt, welcome, segment, tour, password, verification, login, form
+walkthrough, tooltip, signup, activation, drop off, churn, friction, self-service, helpdesk, checklist, sequence, profile, prompt, welcome, segment, tour, password, verification, login, form
 Our signup flow has too much friction.
-Where do users drop-off most often?
+Where do users drop off most often?
 During password verification and the first login.
 Then the form is probably too long.
 We could add a short walkthrough after activation.

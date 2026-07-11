@@ -1,9 +1,9 @@
 Booking a Hotel Room
-nights, parking, suite, ensuite, concierge, amenities, minibar, upgrade, twin, keycard, checkin, doorman, housekeeping, bellboy, porter, seaview, refundable, towels, complimentary, overnight
+nights, parking, suite, ensuite, concierge, amenities, minibar, upgrade, twin, keycard, checkin, doorman, housekeeping, bellboy, porter, seaview, refundable, towels, complimentary
 Good morning, Sunrise Hotel.
 Hello. I'd like to book a room for three nights.
 A double or a twin room?
-A twin suite, please, for an overnight stay.
+A twin suite, please, for the three nights.
 We have one with an ensuite and a seaview.
 Lovely. Are breakfast and wifi complimentary?
 Yes, and housekeeping brings fresh towels daily.

@@ -1,5 +1,5 @@
 Asking for Time Off
-off, request, days, approve, annual, unpaid, entitlement, application, superior, authorise, absence, arrangement, temporary, timesheet, deduct, wage, sickness, duty, compassionate, granted, approval
+off, request, days, approve, annual, unpaid, entitlement, application, superior, authorise, absence, arrangement, temporary, timesheet, deduct, wage, sickness, compassionate, granted, approval
 Excuse me, can I talk to you for a minute?
 Of course. What is it?
 I'd like to request some time off next week.
@@ -15,7 +15,7 @@ We may be short, but we'll make an arrangement.
 Is this a temporary change to my timesheet?
 Yes. I'll mark it and won't deduct your wage.
 What if it were for sickness instead?
-Then it's sick duty leave, not compassionate leave.
+Then it's sick leave, not compassionate leave.
 So the days are granted?
 Yes, once I get final approval.
 Thank you so much.

@@ -1,14 +1,14 @@
 Discussing Clean Energy
-photovoltaic, offshore, geothermal, hydroelectric, microgrid, kilowatt, megawatt, inverter, decarbonize, retrofit, tariff, outage, transmission, baseline, load, peak, lifecycle, converter, renewables, insulation
+solar panels, offshore, geothermal, hydroelectric, microgrid, savings, capacity, inverter, decarbonize, retrofit, tariffs, outage, transmission, baseline, load, peak, lifecycle, efficiency, renewables, insulation
 The company wants to decarbonize its sites by 2030.
 That means more renewables, not just a few panels.
-Photovoltaic systems could cover daytime load.
-And offshore wind can add several megawatt hours.
+Solar panels could cover much of the daytime load.
+And offshore wind could add a lot of extra capacity.
 What about geothermal or hydroelectric options?
 They work in some regions, but not everywhere.
 We should retrofit older buildings with better insulation.
-That lowers the baseline demand before peak hours.
+That would lower baseline demand before peak hours.
 Would a microgrid help during an outage?
 Yes, if we add battery storage and a reliable inverter.
-The converter and transmission setup will affect efficiency.
-Even a small kilowatt saving matters over the lifecycle, especially with a rising tariff.
+The transmission setup will affect overall efficiency.
+Even small energy savings matter over the full lifecycle, especially with rising tariffs.

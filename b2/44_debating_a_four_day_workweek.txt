@@ -1,7 +1,7 @@
 Debating a Four-Day Workweek
-compressed, rota, absenteeism, staffing, preference, roster, shortened, weekday, childcare, handoff, rotation, survey, workload, uptake, presenteeism, flexitime, submission, monitoring, reallocation, frictionless
+compressed, rota, absenteeism, staffing, support, roster, shorter, working week, childcare, handoff, rotation, survey, workload, uptake, presenteeism, flexitime, submission, trial, reallocation, frictionless
 The team wants to test a compressed four-day week.
-The survey shows strong preference for a shortened weekday schedule.
+The survey shows strong support for a shorter working week.
 I'm open to it, but staffing worries me.
 We can build a rota and update the roster every Friday.
 What about childcare needs?
@@ -10,5 +10,5 @@ The workload cannot simply be squeezed into fewer days.
 True. We need reallocation, not just longer hours.
 How will we handle handoff between teams?
 A clear rotation should make it almost frictionless.
-We should track absenteeism, presenteeism, and uptake during monitoring.
+We should track absenteeism, presenteeism, and uptake during the trial.
 Then I'll prepare the submission with those measures included.

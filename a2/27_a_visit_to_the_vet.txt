@@ -4,7 +4,7 @@ Hello, what's wrong with your dog?
 He hasn't eaten and seems unwell.
 Is he limping at all?
 Yes, and he keeps licking his paw.
-Let me check his claws and his tail.
+Let me check his claws, whiskers, and tail.
 Is it serious?
 It's a small infection, and he's a little dehydrated.
 What should I do?
@@ -17,4 +17,4 @@ A fluffy one. He sleeps in his kennel.
 Does he wear a collar and leash?
 Yes, on every walk. He loves to bark.
 Thank you. You're a great vet.
-Bring him back if his whiskers or nose stay dry.
+Bring him back if his nose stays dry or he stops eating.
