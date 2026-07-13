@@ -1,6 +1,6 @@
 Ordering Coffee
 coffee, milk, sugar, hot, cold, small, large, drink, ready, dollar, card, pay, morning, cafe, snack, cookie, juice, sleepy, warm, afternoon
-Good morning! What can I get you?
+Good morning! Welcome to the cafe. What can I get you?
 Hi. Can I get a coffee, please?
 Sure. Small or large?
 Large, please. I'm really sleepy this morning.

@@ -1,6 +1,6 @@
 At the Library
 library, member, find, history, fee, novel, poem, section, librarian, fiction, biography, author, catalog, textbook, study, renew, silence, whisper, cover, chapter
-Hi, can I borrow some books here?
+Hi, is this the city library? Can I borrow some books here?
 Sure. Are you a member?
 Not yet, actually. How do I join?
 It's free. I just need your name and address.
@@ -15,5 +15,5 @@ Of course. With this card you can borrow five books.
 When do I bring them back? Can I renew?
 In three weeks. You can renew once, so don't be late.
 And if I am late?
-Just a small fee. Please be quiet in here and only whisper.
-Got it. This novel has a lovely cover and many chapters.
+Just a small fee. We ask for silence in this area, so please whisper.
+Got it. This novel has a lovely cover. I can't wait to read the first chapter.

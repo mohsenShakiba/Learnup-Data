@@ -1,5 +1,5 @@
 Booking a Taxi
-taxi, airport, pick, early, outside, driver, hurry, traffic, pickup, cab, car, highway, lane, roundabout, meter, seatbelt, honk, brake, fuel, booking
+taxi, airport, pick, early, outside, driver, hurry, traffic, pickup, cab, car, highway, roundabout, meter, seatbelt, booking
 Hi, I need to book a taxi, please.
 Sure, where are you headed?
 The airport. My flight's at nine.
@@ -11,10 +11,10 @@ That's fine. Your cab will be a blue car, waiting right outside.
 Great. I'm a bit worried about traffic, actually.
 Don't be. Six is early, so there's no need to hurry.
 Which way does the driver usually go?
-He'll take the highway, then the fast lane past the roundabout.
+He'll take the highway past the roundabout.
 And the meter starts at pickup, right?
 Yes. Just remember your seatbelt once you're in the car.
 Will do. I really hope it's not busy out there.
-The driver will be careful, and we have plenty of fuel.
+The driver knows the route well, so you should arrive on time.
 Okay, that's a relief. So the booking's all set?
 All set. See you at six.
