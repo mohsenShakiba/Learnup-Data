@@ -1,8 +1,8 @@
 At a Restaurant
-table, menu, water, order, chicken, rice, salad, food, hungry, delicious, bill, evening, glass, meal, waitress, soup, fish, meat, fork, knife, napkin, dessert
-Good evening. I'm your waitress tonight. Table for two?
+table, menu, water, order, chicken, rice, salad, food, hungry, delicious, bill, evening, glass, meal,  soup, fish, meat, fork, knife, napkin, dessert
+Good evening. Table for two?
 Yes, please.
-Great, right this way. Here are your menus. The soup and fish are good tonight.
+Great, right this way. Here is the menu.
 Oh, thanks. Could we get two glasses of water first?
 Of course. Ready to order, or do you need a minute?
 We're ready. I'll have the chicken and rice.
