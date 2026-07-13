@@ -1,17 +1,13 @@
 Meeting Someone New
-hi, name, meet, nice, new, first, day, welcome, from, like, people, great, later, last name, hello, shy, everyone, friendly, student, team, invite, together, chat
-Hi, I'm Anna. Anna Smith.
-Hi, Anna. I'm Tom. Nice to meet you.
-You too! So, are you new here?
-Yes, it's my first day. I'm a bit shy.
-Don't worry. Everyone here is very friendly.
-That's good to hear. So where are you from?
-Canada. How about you?
-Spain, actually. I was a student there.
-Great. We're on the same team now.
-Great. I already like the people here.
-Hey, let me invite you to lunch with us later.
-Oh, I'd love to eat together. Thanks!
-Cool, we can chat more at the table.
-Sounds good. See you later, Tom.
-See you, Anna. Welcome to the team!
+hello, name, meet, nice, new, first, day, welcome, from, great
+Hello, my name is Anna.
+Hi, Anna. I'm Tom.
+Nice to meet you, Tom.
+Nice to meet you too.
+Are you new here?
+Yes, it is my first day.
+Where are you from?
+I'm from Canada. And you?
+I'm from Spain.
+Great. Welcome, Anna.
+Thank you. 
