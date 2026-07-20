@@ -1,9 +1,0 @@
-Days of the week and months
-week, month, Monday, Friday, Sunday, January, July, December, today, tomorrow
-Ben, what day is it today?
-It's Monday. Are you OK? You look busy.
-I have a lot this week. I have an exam on Friday.
-Oh! And what about the weekend?
-On Sunday I can relax. Do you want to meet tomorrow?
-Sorry, not tomorrow. Let's meet next month, in July.
-July? That's a long time! But OK, see you then.

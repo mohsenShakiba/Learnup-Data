@@ -1,0 +1,13 @@
+Buying a Train Ticket
+train, ticket, station, tomorrow, morning, return, cost, o'clock, leave, arrive
+Hello. I'd like a train ticket, please.
+Where are you going?
+To Brighton tomorrow morning.
+What time would you like to leave?
+At nine o'clock, please.
+That train will arrive at ten thirty.
+Do you want a return ticket?
+Yes, I want to come back in the evening.
+It costs twenty pounds.
+Great. Can I pay by card?
+Yes. Here is your ticket. The train leaves from this station.

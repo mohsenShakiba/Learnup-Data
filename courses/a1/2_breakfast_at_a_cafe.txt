@@ -1,0 +1,12 @@
+Breakfast at a Cafe
+breakfast, cafe, menu, coffee, tea, bread, egg, hungry, order, please
+Good morning. Welcome to our cafe.
+Thank you. I'm very hungry.
+Are you ready to order?
+Yes, please. I'd like two eggs and some bread.
+Would you like coffee or tea?
+Coffee, please.
+Anything else?
+No, thank you. That's all.
+Great. Your breakfast will be ready soon.
+Thank you.

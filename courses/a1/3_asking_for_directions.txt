@@ -1,0 +1,14 @@
+Asking for Directions
+station, map, street, left, right, near, walk, bus, where, help
+Excuse me, can you help me?
+Of course. Where do you want to go?
+I need to go to the train station.
+The station is near here.
+Should I take the bus?
+No, you can walk.
+Go down this street and turn left at the bank.
+Then turn right at the cafe.
+Can you show me on this map?
+Yes. The station is here.
+Thank you very much.
+You're welcome.

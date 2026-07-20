@@ -1,0 +1,13 @@
+Buying a Shirt
+shop, shirt, blue, large, try, price, expensive, buy, wear, nice
+Hello. Can I help you?
+Yes, I want to buy a shirt.
+What colour would you like?
+Blue, please.
+Do you want a small or large one?
+A large one. Can I try it?
+Of course. You can try it over there.
+It looks nice. What is the price?
+It's twenty euros.
+That's not expensive. I can wear it to work.
+Great. You can pay at the front of the shop.
