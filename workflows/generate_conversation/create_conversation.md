@@ -17,7 +17,7 @@ exact structure:
 
 ## Rules for generation
 
-1. **Vocab count.** Use **20–30 vocabs** drawn from the appropriate
+1. **Vocab count.** Use **20 vocabs** drawn from the appropriate
    `vocabs/<level>.csv` for the course level you are writing for.
 2. **No repeats.** Make sure the chosen vocabs have **not been used before** in any
    existing conversation of that level. Check the second line (the vocab list) of
@@ -36,7 +36,7 @@ exact structure:
 
 ## Checklist before saving
 
-- [ ] 20–30 target vocabs, all from `vocabs/<level>.csv`.
+- [ ] enough target vocabs, all from `vocabs/<level>.csv`.
 - [ ] None of the vocabs appears in an existing conversation's vocab line.
 - [ ] Exactly two speakers; first turn is the woman, second is the man.
 - [ ] Names used only where needed, and kept common and simple.
