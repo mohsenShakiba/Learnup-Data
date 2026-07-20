@@ -1,0 +1,17 @@
+At the Supermarket Checkout
+supermarket, queue, item, dozen, egg, yogurt, barcode, count, orange, chocolate, biscuit, ripe, frozen, cheap, discount, bargain, coupon, points, plastic, chips, jar, thirty, till
+Hi there. Did you find everything you needed in the supermarket?
+Yes, thanks. The queue was very long today.
+Sorry about that. Let me scan your items.
+Sure. I've got a dozen eggs and some yogurt here. Could you count the eggs? The box was open.
+This barcode won't scan. Let me enter it by hand.
+Oh, and I grabbed some oranges, chocolate, and biscuits.
+These oranges look nice and ripe, actually.
+They are. Is the frozen pizza cheap today, do you know?
+It's on discount right now, a real bargain.
+Nice. I've got a coupon too.
+Perfect. And you earn points on your card. Want a plastic bag for the chips and the jar?
+Yes please. So what's the total?
+That's thirty dollars, here at the till.
+Here you go. Thanks!
+Here's your change and receipt. Have a nice day!

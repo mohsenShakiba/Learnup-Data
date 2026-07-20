@@ -1,0 +1,22 @@
+Ordering Coffee
+coffee, milk, sugar, hot, cold, small, large, drink, ready, dollar, card, pay, morning, cafe, snack, cookie, juice, sleepy, warm, afternoon
+Good morning! Welcome to the cafe. What can I get you?
+Hi. Can I get a coffee, please?
+Sure. Small or large?
+Large, please. I'm really sleepy this morning.
+Long night?
+Yeah, I didn't sleep much.
+Sugar and milk?
+Just milk, thanks.
+Would you like your coffee hot or cold?
+Hot, please.
+Do you want a snack with that?
+Hmm, maybe a cookie. What do you have?
+We just made these. They're still warm.
+Oh, go on then. One cookie.
+Anything to drink for later?
+A cold juice, actually. For the afternoon.
+Okay. That's ten dollars.
+Can I pay by card?
+Yeah, no problem. Here you go. Your coffee is ready.
+Great, thanks a lot.
