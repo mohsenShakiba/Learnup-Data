@@ -12,16 +12,16 @@ from urllib.request import Request, urlopen
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
-            "Import all story .txt files in a directory through the Learnup API. "
+            "Import all conversation .txt files in a directory through the Learnup API. "
             "Each file name must start with the lesson order, like 1_meeting_someone.txt. "
-            "The file format is: line 1 title, line 2 comma separated words, "
-            "then one sentence per line."
+            "The file format is: line 1 title, then one conversation sentence per line. "
+            "The import controller infers words and alternating speakers."
         )
     )
     parser.add_argument(
         "directory",
         type=Path,
-        help="Directory containing story .txt files.",
+        help="Directory containing conversation .txt files.",
     )
     parser.add_argument(
         "--course-id",
@@ -130,12 +130,12 @@ def main() -> int:
             lesson_order = get_lesson_order(path)
             endpoint = urljoin(
                 args.base_url.rstrip("/") + "/",
-                f"Admin/Import/stories/{args.course_id}/{lesson_order}",
+                f"Admin/Import/conversations/{args.course_id}/{lesson_order}",
             )
             response = post_file(endpoint, path, args.token)
             print(
                 f"OK     {path.name}: course id {args.course_id}, "
-                f"lesson order {lesson_order}, story id {response}"
+                f"lesson order {lesson_order}, conversation id {response}"
             )
         except ValueError as exception:
             failed += 1
@@ -152,7 +152,7 @@ def main() -> int:
             print(f"FAILED {path.name}: request failed: {exception.reason}", file=sys.stderr)
 
     imported = len(files) - failed
-    print(f"Imported {imported}/{len(files)} story file(s).")
+    print(f"Imported {imported}/{len(files)} conversation file(s).")
 
     return 0 if failed == 0 else 1
 
