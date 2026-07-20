@@ -1,86 +1,44 @@
-# Story Generation Guidelines
+# Generating a Conversation
 
-Use these rules when creating or updating stories in this project.
+This guide describes how to create a new conversation for a course level (a1, a2,
+b1, …). Each conversation is a short, natural dialogue that introduces a batch of
+new vocabulary in context.
 
-## Goal
+## File format
 
-Create short English lessons for A1 English students. 
+Each conversation lives in `courses/<level>/<n>_<snake_case_title>.txt` and has this
+exact structure:
 
-## File Format
+1. **Line 1** — the title (e.g. `Planning a Ski Day`).
+2. **Line 2** — the comma-separated list of the new vocabs used in this
+   conversation, lowercase (e.g. `ski, scared, pocket, accident, raise, …`).
+3. **Line 3 onward** — the dialogue itself, one turn per line, with **no speaker
+   labels**. Lines simply alternate between the two speakers.
 
-Each conversation file should use this structure:
+## Rules for generation
 
-```json
-{
-    "title": "your awesome title",
-    "description": "گفتگو با یک پزشک",
-    "words": ["hi", "help"],
-    "Level": "A1",
-    "estimatedDuration": 1,
-    "sentences" [
-        {
-            "order": 0,
-            "person": 1,
-            "text": "hi there",
-            "translation": "سلام"
-        },
-        {
-            "order": 1,
-            "person": 2,
-            "text": "hi, how can I help you",
-            "translation": "سلام، چطور میتونم کمکتون کنم؟"
-        },
-    ]
-}
-```
+1. **Vocab count.** Use **20–30 vocabs** drawn from the appropriate
+   `vocabs/<level>.csv` for the course level you are writing for.
+2. **No repeats.** Make sure the chosen vocabs have **not been used before** in any
+   existing conversation of that level. Check the second line (the vocab list) of
+   every existing `courses/<level>/*.txt` file and exclude any word already used.
+3. **Two speakers only.** The conversation has exactly **two** speakers — no more.
+4. **Fixed genders.** The **first speaker is always a woman**, and the **second
+   speaker is always a man**. They alternate turns throughout.
+5. **Names only when necessary.** Use names sparingly — only when the dialogue
+   genuinely needs them (e.g. a first introduction). When a name is needed, use a
+   **common, easy name**.
+6. **Natural flow.** The conversation must read naturally, with a believable
+   back-and-forth. Turns should respond to each other like real speech.
+7. **Meaning over coverage.** **Do not force** vocab into the conversation. A
+   natural, sensible dialogue matters more than hitting every target word. If a
+   word does not fit naturally, drop it and pick another from the list.
 
-## Estimated Duration
+## Checklist before saving
 
-Every story must include an `estimatedDuration` field (integer, **minutes**, minimum 1)
-giving the approximate spoken length of the conversation. Estimate it as:
-
-`seconds = total_english_words / 140 * 60 + number_of_sentences`
-`estimatedDuration = max(1, round(seconds / 60))`
-
-That is, spoken English words at ~140 words per minute plus a ~1 second pause for each
-speaker turn, rounded to whole minutes. Recompute and update this field whenever the
-conversation text changes.
-
-## Title & Filename
-
-Use the conversation number in the title. If the title changes, rename the file so the filename matches the new title, for example:
-
-`1_warking_at_a_pet.json`
-
-## Rules
-
-- The conversation should be something people actually say in real world.
-- The conversation is written for adult students so avoid childish scenarios.
-- Use named characters when helpful.
-- Use roughly 20 vocabulary words for each conversation, these dont include common vocabs like where, you, too or anything too common.
-- Use any words associated with previous stories, for example if writing conversation #10 you can use all words from stories 1-9
-- Use any common words, from common.csv
-- It is okay to reuse words from other stories when needed.
-- Keep the focus vocabulary list exactly aligned with the conversation's CSV entries.
-- If replacing a conversation, remove the old `conversation id` from words that are no longer focus vocabulary for that conversation.
-- Use an expression from `expressions.csv` if possible.
-- Connect each story to 
-
-
-## A1 Language Style
-
-- Use short sentences.
-- Use common grammar and simple verb forms.
-- Use simple words based on conversation id, for example for conversation 1 use really easy and common words and for conversation 100 use hard words.
-- Keep paragraphs short.
-
-
-## Before Finishing
-
-Check that:
-
-- The conversation title, theme, focus vocabulary, and conversation text are present.
-- The focus vocabulary list has 10-20 words.
-- The conversation is understandable for an A1 student.
-- The conversation filename matches the title.
-- The `estimatedDuration` field is present and recomputed from the final conversation text.
+- [ ] 20–30 target vocabs, all from `vocabs/<level>.csv`.
+- [ ] None of the vocabs appears in an existing conversation's vocab line.
+- [ ] Exactly two speakers; first turn is the woman, second is the man.
+- [ ] Names used only where needed, and kept common and simple.
+- [ ] Dialogue flows naturally; no word feels forced in.
+- [ ] Line 1 = title, Line 2 = comma-separated vocab list, then the dialogue lines.
