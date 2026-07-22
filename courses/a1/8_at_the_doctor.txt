@@ -1,0 +1,10 @@
+At the Doctor
+doctor, nurse, hospital, sick, healthy, better, feel, cold, tired, help
+Hello, doctor.
+Hello. How do you feel today?
+Not good. I feel sick and very tired.
+I see. Do you have a cold?
+Yes, I think so.
+Okay. Take this medicine and rest.
+Thank you. When will I feel better?
+In a few days. Get some sleep and you'll be fine.

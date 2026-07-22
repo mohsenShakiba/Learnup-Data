@@ -1,0 +1,9 @@
+Checking In at a Hotel
+hotel, room, key, night, book, stay, bed, floor, welcome, upstairs
+Hello. Welcome to our hotel.
+Thank you. I have a room booked for two nights.
+What is your name, please?
+John Smith.
+Here is your key. Room five, on the first floor.
+Great. Thank you.
+Enjoy your stay!

@@ -1,0 +1,10 @@
+At the Grocery Store
+bread, cheese, fruit, apple, banana, market, potato, onion, carrot, tomato
+Hello. What would you like today?
+Some bread and cheese, please.
+Here you are. Anything else?
+Yes, some fruit. Do you have apples?
+Yes, we do. How many?
+Six apples, please. And two bananas.
+Okay. Here you go.
+Thank you very much.

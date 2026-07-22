@@ -1,0 +1,10 @@
+Ordering Coffee
+coffee, tea, cup, milk, sugar, hot, small, large, thanks, cafe
+Hello! Welcome to the cafe.
+Hi. Can I have a coffee, please?
+Sure. Small or large?
+A large one, please.
+Do you want milk and sugar?
+Milk, please. No sugar.
+Okay. One hot coffee with milk.
+Thanks a lot.

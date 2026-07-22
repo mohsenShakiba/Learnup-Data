@@ -1,0 +1,10 @@
+Shopping for Clothes
+clothes, shirt, wear, dress, skirt, jacket, shoe, boot, trousers, jeans
+Hello. Can I help you?
+Yes. I'm looking for a shirt.
+What colour would you like?
+A blue one, please.
+Here you are. Would you like some jeans too?
+No, thank you. But I like this jacket.
+It's very nice. Do you want to try it on?
+Yes, please.

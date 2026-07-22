@@ -1,0 +1,11 @@
+Asking for Directions
+left, right, street, near, map, walk, stop, road, here, far
+Excuse me, is the station near here?
+No, it's a little far.
+Can I walk there?
+Yes, you can. It's a ten-minute walk.
+Okay. Which way do I go?
+Go down this street and turn left.
+Left at the end of the road?
+Yes. Then the station is on your right.
+Thank you so much!
