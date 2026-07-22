@@ -1,2 +1,13 @@
 Buying a Bus Ticket
-bus, driver, seat, fare, coin, route, town, next, nine, at, must, face, need, dear, o'clock, boring, seventeen, few, that, if
+bus, driver, ticket, town, next, front, far, near, course, come, open, close, o'clock, past, how, travel, away
+Hello, driver. A ticket to town, please.
+Here you are. The doors are open now.
+Thank you. When does the next bus come?
+This one comes at half past nine.
+And how far is the town?
+It is not far away. It is near.
+Good. Can I sit at the front?
+Yes, of course.
+I like to travel by bus.
+Me too. Please close the door — we leave at ten o'clock.
+Thank you. Have a good day.

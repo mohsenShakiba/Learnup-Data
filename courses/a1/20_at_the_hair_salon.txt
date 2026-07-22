@@ -1,2 +1,12 @@
 At the Hair Salon
-hair, cut, short, long, wash, comb, dye, trim, want, good, fish, cat, sweater, poor, door, big, it, her, course, mile
+hair, cut, short, long, wash, want, good, course, wet, dry
+Hello. How do you want your hair today?
+I want it short, please. It is too long.
+Of course. I will wash it now.
+Yes, please. Then cut it short.
+Do you want it wet or dry?
+Dry, please.
+OK. You have very nice hair.
+Thank you. It looks good.
+There you are. Do you like it?
+Yes, it is beautiful. Thank you!

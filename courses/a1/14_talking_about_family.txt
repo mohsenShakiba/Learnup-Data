@@ -1,2 +1,11 @@
 Talking About Family
-family, mother, father, sister, brother, son, daughter, aunt, uncle, cousin, parent, grandmother, grandfather, husband, wife, child, fill, bank, picture, place
+family, mother, father, sister, brother, son, daughter, aunt, uncle, cousin, parent, grandmother, grandfather, husband, wife, child, fill, picture, place
+Is this a picture of your family?
+Yes. These are my parents, my mother and my father.
+Do you have a sister or a brother?
+I have one sister and one brother.
+Who is the woman next to your grandfather?
+That is my grandmother. Here is my aunt and her husband, my uncle.
+Are these their children?
+Yes, their son and daughter. They are my cousins.
+Your family is big!

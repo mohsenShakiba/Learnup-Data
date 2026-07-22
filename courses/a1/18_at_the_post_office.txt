@@ -1,2 +1,12 @@
 At the Post Office
-post, letter, send, stamp, parcel, envelope, address, country, sell, but, off, anything, fourth, I, April, then, dish, this, put, about
+post, letter, send, address, country, anything, this, put, box, then
+Hello. I want to send this letter.
+Yes. Where is it going?
+To another country. Here is the address.
+OK. Do you want to send anything more?
+Yes, I have this box too.
+Then put them here. I will post them today.
+When will they arrive?
+In a few days.
+Thank you very much.
+You are welcome.

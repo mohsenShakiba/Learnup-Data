@@ -1,2 +1,12 @@
 Ordering Food Delivery
-order, pizza, delivery, hungry, rice, soup, salad, dinner, dad, hear, singer, television, boy, travel, blog, past, really, fourteen, some, easy
+hungry, food, buy, restaurant, menu, hot, eat, dad, television, some
+Dad, I am really hungry.
+OK. Let's get some food.
+Can we buy food from the restaurant?
+Good idea. Look at the menu with me.
+I want something hot to eat.
+The food here is very nice.
+When will the food come?
+Very soon. Let's watch television.
+Good. I can't wait to eat.
+Me too!
