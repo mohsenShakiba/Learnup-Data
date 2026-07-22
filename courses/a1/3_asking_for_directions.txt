@@ -1,5 +1,5 @@
 Asking for Directions
-left, right, street, near, map, walk, stop, road, here, far
+left, right, street, map, walk, stop, road, here, far, near
 Excuse me, is the station near here?
 No, it's a little far.
 Can I walk there?

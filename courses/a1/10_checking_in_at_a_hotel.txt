@@ -1,5 +1,5 @@
 Checking In at a Hotel
-hotel, room, key, night, book, stay, bed, floor, welcome, upstairs
+hotel, room, key, night, book, stay, bed, floor, welcome, upstairs, downstairs
 Hello. Welcome to our hotel.
 Thank you. I have a room booked for two nights.
 What is your name, please?

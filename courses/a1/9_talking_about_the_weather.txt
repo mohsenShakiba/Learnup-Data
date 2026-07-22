@@ -1,5 +1,5 @@
 Talking About the Weather
-sun, rain, snow, warm, wet, dry, weather, umbrella, ice, cool
+sun, rain, snow, warm, wet, dry, weather
 How is the weather today?
 It's warm and sunny.
 That's nice. Is it going to rain?

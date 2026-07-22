@@ -1,5 +1,5 @@
 At a Restaurant
-restaurant, waiter, table, food, eat, bill, meal, drink, salt, pepper
+restaurant, waiter, table, food, eat, bill, meal, drink
 Good evening. A table for two, please.
 Of course. This way, please.
 Thank you. What would you like to eat?
