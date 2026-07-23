@@ -1,2 +1,12 @@
 At the Train Station
-train, platform, track, station, rail, carriage, delay, journey, bath, three, mouse, always, fall, first, second, piece, local, him, yourself, only
+platform, train, three, delay, local, track, carriage, journey, station, second, rail, always, first
+Excuse me, which platform does the train to London leave from?
+Platform three, but there's a short delay this morning.
+Oh no. How long is the delay? I have a meeting at noon.
+About twenty minutes. A local train is blocking the track ahead.
+I see. Is this the fast service, or does it stop everywhere?
+This is the fast one. The first carriage is quieter if you want to rest.
+That's good. It's a long journey and I'd like to read.
+The station café is open if you need a coffee while you wait.
+Does the second train also go to London?
+Yes, but this rail line is quicker. Always take the first one if you can.

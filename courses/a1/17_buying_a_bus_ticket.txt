@@ -1,13 +1,10 @@
 Buying a Bus Ticket
-bus, driver, ticket, town, next, front, far, near, course, come, open, close, o'clock, past, how, travel, away
-Hello, driver. A ticket to town, please.
-Here you are. The doors are open now.
-Thank you. When does the next bus come?
-This one comes at half past nine.
-And how far is the town?
-It is not far away. It is near.
-Good. Can I sit at the front?
-Yes, of course.
-I like to travel by bus.
-Me too. Please close the door — we leave at ten o'clock.
-Thank you. Have a good day.
+bus, ticket, driver, town, pound, money, leave, past, far, away, near, stop, next, market, travel, people
+Hello. A ticket to town, please.
+Of course. That is two pounds.
+Here is the money. When does the next bus leave?
+At half past nine.
+Thank you. Is the town far away?
+No, it is quite near.
+Good. Where do I get off?
+The driver will tell you the stop. It is next to the market.

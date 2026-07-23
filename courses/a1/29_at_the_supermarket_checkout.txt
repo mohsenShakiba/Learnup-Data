@@ -1,2 +1,12 @@
 At the Supermarket Checkout
-supermarket, cashier, basket, receipt, scan, queue, coupon, trolley, checkout, full, down, chair, famous, so, egg, four, last, my, wall, we
+supermarket, checkout, queue, basket, full, scan, trolley, coupon, receipt, egg, four, last
+Hello. Is this checkout open? The queue at this supermarket is always so long.
+Yes, come through. Did you find everything you needed?
+I think so. My basket is full today.
+Let me scan these for you. Oh, this trolley has a lot of eggs.
+I'm baking for a party. I need four boxes of eggs.
+Do you have a loyalty card or any coupons?
+Yes, I have a coupon for the coffee. Here it is.
+That saves you two pounds. Would you like your receipt?
+Yes, please. That was the last thing on my list.
+Here it is. Careful, the eggs are right at the top of the bag.

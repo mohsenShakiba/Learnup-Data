@@ -1,2 +1,12 @@
 Visiting a Friend's House
-visit, sofa, cozy, guest, host, doorbell, living, hallway, song, lion, card, blue, December, November, clock, his, May, who, shop, bring
+visit, sofa, cozy, guest, host, doorbell, living, hallway, clock, card, bring
+Hi! I rang the doorbell twice. I wasn't sure it worked.
+Come in, come in! It's so good to see you. Let me take your coat.
+What a cozy home you have. I love this hallway.
+The living room is just through here. Make yourself comfortable on the sofa.
+This sofa is so soft. And that old clock on the wall is beautiful.
+It was my grandfather's. Can I bring you some tea or coffee?
+Tea would be lovely. Oh, I brought you a little card and some flowers.
+That's so kind of you. You're the perfect guest.
+And you're a wonderful host. It's been too long since I visited.
+Far too long. Sit and relax, dinner won't be ready for an hour.

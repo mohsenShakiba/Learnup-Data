@@ -1,2 +1,12 @@
 A Phone Number
 dial, contact, ring, area, code, mobile, save, text, telephone, hate, scientist, age, choose, will, customer, beach, us, slow, autumn, meat
+Could I have your number? I'll save it in my mobile so we can stay in contact.
+Of course. Do you want the mobile or my home telephone?
+The mobile. What's the area code — I always dial the wrong one.
+It starts with a zero, then two-oh-seven. Just text me first and I'll ring you back.
+Perfect. I hate typing long numbers; my old phone was so slow.
+Choose a new one, then. As a customer you get a better price this autumn.
+Maybe I will. By the way, what do you do? You mentioned science.
+I'm a scientist. I study how meat and other food ages over time.
+How interesting! We should talk more — maybe over lunch at the beach café.
+I'd like that. It will give us a chance to actually meet, not just message.

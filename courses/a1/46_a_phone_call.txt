@@ -1,2 +1,14 @@
 A Phone Call
 answer, voice, hang, speaker, mute, message, also, sixty, north, month, on, nose, Thursday, each, happy, boat, nineteen, home, twelve, seven
+Hello? I almost didn't answer — I couldn't find my phone.
+Hi! Can you hear me? Let me turn off the speaker.
+That's better. Your voice sounded far away before.
+Sorry, it was on mute by accident. I'm calling about Thursday.
+Oh yes, the trip. What time on Thursday?
+The boat leaves at seven in the morning from the north pier.
+Seven! That's early. How long is the ride?
+About twelve hours. We get in around nineteen hundred — seven at night.
+A whole day at sea! I also get a little seasick, but I'm happy to try it.
+You'll be fine. There'll be about sixty of us on board, one trip each month.
+I can't wait. My cold is nearly gone, so my nose won't trouble me.
+Good. I'll send a message with the details, then I have to hang up — see you at home on Thursday.
