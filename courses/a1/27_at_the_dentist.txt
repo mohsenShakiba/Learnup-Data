@@ -1,12 +1,12 @@
 At the Dentist
-dentist, tooth, teeth, mouth, drill, filling, gum, floss, ache, sorry, take, minute, most, try, during, fifteen, everything
-Good morning. I've had a terrible tooth ache for three days.
-Let's have a look. Open your mouth wide for me, please.
-It's this back tooth. It hurts when I drink anything cold.
-I see the problem. There's a small hole here that needs a filling.
-Will it take long? I'm a little nervous about the drill.
-Only fifteen minutes, and I'll numb the gum first, so you won't feel much.
-That's a relief. Sorry, my teeth are not in great shape.
-Don't worry. During the week, just try to floss every night.
-I know I should. I forget most evenings.
-Do it after brushing, and everything will improve. There, all finished.
+tooth, mouth, doctor, open, eat, cold, hot, clean, afraid, minute, feel, better, morning, night, sorry, help
+Good morning, doctor. My tooth is very bad and I feel sick.
+I am sorry to hear that. Please open your mouth for me.
+It feels bad when I eat something cold or hot.
+I can see the problem. Don't be afraid, this is easy to fix.
+Thank you. Will it take a long time?
+No, only a few minutes. You will feel better soon.
+That is good news. I was really afraid to come today.
+It's fine. Please clean your tooth every morning and night.
+I know I should. Can you help me do it the right way?
+Yes, of course. Now you are all done. Have a good day.

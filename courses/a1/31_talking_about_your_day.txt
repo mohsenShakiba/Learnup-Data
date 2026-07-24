@@ -1,12 +1,14 @@
 Talking About Your Day
-day, wake, routine, nap, afternoon, morning, lunch, fine, euro, tell, one, history, orange, he, other, third, ever, she, butter, still
-How was your day? You looked a little tired this morning.
-I'm fine, just my usual routine. I wake up early every single day.
-Tell me about it. What's the first thing you do?
-I have toast with butter and an orange, then I read a page of history.
-History in the morning? That's one way to wake up your brain.
-It works. By the afternoon I feel great. Do you ever take a nap?
-I tried once, on my third day at the new job. One of the other men saw me, and he still teases me about it.
-My sister is the opposite. She naps every afternoon and says it costs nothing.
-Right now I just need lunch. Is that little place still cheap?
-Very. A good sandwich there is only two euros.
+day, wake, morning, afternoon, evening, tired, early, late, work, eat, walk, busy, tell, often, home
+How was your day? You look a little tired.
+I'm fine, just a busy day. I wake up very early every morning.
+Tell me, what do you do first?
+I eat something small, then I walk to work.
+You walk every day? That's good for you.
+Yes, I often walk in the morning. It wakes me up.
+By the afternoon, are you still busy?
+Very. I don't get home until late in the evening.
+That's a long day. Do you get tired?
+Sometimes, but I like my work, so it's fine.
+You should rest more.
+I will. Tonight I want to eat well and go to bed early.

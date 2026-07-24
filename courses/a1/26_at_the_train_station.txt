@@ -1,12 +1,12 @@
 At the Train Station
-platform, train, three, delay, local, track, carriage, journey, station, second, rail, always, first
-Excuse me, which platform does the train to London leave from?
-Platform three, but there's a short delay this morning.
-Oh no. How long is the delay? I have a meeting at noon.
-About twenty minutes. A local train is blocking the track ahead.
-I see. Is this the fast service, or does it stop everywhere?
-This is the fast one. The first carriage is quieter if you want to rest.
-That's good. It's a long journey and I'd like to read.
-The station café is open if you need a coffee while you wait.
-Does the second train also go to London?
-Yes, but this rail line is quicker. Always take the first one if you can.
+train, ticket, trip, travel, late, wait, minute, meeting, fast, slow, buy, price, cafe, arrive, always
+Excuse me, where can I buy a ticket for the train to London?
+The machine is over there, but the price is the same online.
+Thank you. Is the next train late today?
+Yes, it will arrive in about twenty minutes.
+Oh no. I have a meeting at noon, so I can't wait long.
+Don't worry, this train is fast.
+That's good. It's a long trip and I want to read on the way.
+I travel to London for work, so I go there a lot.
+Is there a place to sit while I wait?
+Yes, the cafe is open. I always get a coffee there before my train.

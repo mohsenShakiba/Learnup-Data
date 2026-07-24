@@ -1,12 +1,14 @@
 At the Supermarket Checkout
-supermarket, checkout, queue, basket, full, scan, trolley, coupon, receipt, egg, four, last
-Hello. Is this checkout open? The queue at this supermarket is always so long.
-Yes, come through. Did you find everything you needed?
-I think so. My basket is full today.
-Let me scan these for you. Oh, this trolley has a lot of eggs.
-I'm baking for a party. I need four boxes of eggs.
-Do you have a loyalty card or any coupons?
-Yes, I have a coupon for the coffee. Here it is.
-That saves you two pounds. Would you like your receipt?
-Yes, please. That was the last thing on my list.
-Here it is. Careful, the eggs are right at the top of the bag.
+supermarket, shop, buy, food, bag, card, price, pay, bill, full, need, help, lot, please, week
+Hello. Is it my turn now?
+Yes, come here. Did you find everything you need?
+I think so. My bag is very full today.
+You have a lot of food. Are you cooking for many people?
+Yes, for a party. I need to buy a lot.
+That's nice. Your bill is thirty pounds.
+Can I pay by card?
+Of course. The eggs were a really good price this week.
+Great. I shop at this supermarket every week.
+I can see that! Do you need help with your bags?
+No, I can carry them. Please be careful with the eggs on top.
+There you go. Have a good party.

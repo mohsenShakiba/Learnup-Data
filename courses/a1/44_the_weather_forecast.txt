@@ -1,12 +1,14 @@
 The Weather Forecast
-forecast, wind, storm, cloud, degree, temperature, thunder, fog, breeze, after, they, up, thirsty, thing, man, bedroom, give, elephant, in, every
-Did you see the weather forecast for the weekend?
-I did. They say a big storm is coming, with strong wind and thunder.
-Oh no. What's the temperature going to be?
-It drops to about five degrees after the rain. Grey clouds all week.
-I hate the fog in the morning. I can't see a thing on the road.
-At least there's a nice breeze today. Every window in the house is open.
-My bedroom gets so hot in summer. This cool air is lovely.
-Give me a storm over a heatwave any day. The heat makes me so thirsty.
-Ha, me too. When it's hot, I drink water like an elephant.
-Then keep a bottle by your bed. One man on the news said it's the driest summer in years, but this wind should clear up by Sunday.
+weather, rain, snow, sun, cold, hot, warm, wet, dry, summer, winter, umbrella, coat, outside, weekend
+Did you hear the weather for the weekend?
+Yes, they say a lot of rain is coming.
+Oh no. Will it be cold too?
+Very cold, and wet all week. Take a coat and an umbrella.
+I hate the rain. I can't do anything outside.
+I know. But today the sun is warm and nice.
+It is lovely now. My room gets so hot in summer.
+Winter is worse for me. Sometimes there's snow for days.
+At least snow is dry, not wet like rain.
+True. I still prefer a warm summer day.
+Me too. Let's go outside now while the sun is out.
+Good idea, before the weather changes again.

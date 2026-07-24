@@ -1,13 +1,15 @@
 Drawing Shapes
-shape, circle, square, triangle, round, star, heart, curve, straight, plant, ice cream, see, dancing, sleep, bag, midnight, until, woman, Wednesday, kind
-Let's draw some simple shapes. Start with a circle — nice and round.
-Like this? Mine looks more like an egg than a circle.
-Close enough. Now a square, then a triangle with three straight sides.
-The straight lines are hard. My hand keeps making a curve.
-Practice helps. Draw a star and a heart next — those are fun.
-A heart is really two curves that meet in a point. There we go.
-Lovely. Now put them together into a picture. What do you see?
-A little garden — a plant here, and a woman eating ice cream by a tree.
-I love it. You could add a dancing figure under the stars.
-Good idea. I could draw until midnight; this is the kind of thing I forget to sleep over.
-Then let's stop for today. Bring your bag on Wednesday and we'll paint them in.
+draw, paint, picture, pen, pencil, paper, line, yellow, star, point, hand, easy, hard, big, small
+Let's draw a picture today. Take a pencil and some paper.
+I'm not very good. My lines are never straight.
+That's fine. First, draw a big yellow sun.
+Like this? It looks more like an egg!
+Close enough. Now draw some lines under it for grass.
+Straight lines are hard with a pencil.
+Try a pen, then. Now add a small star in the sky.
+A star has so many points!
+Just make five. Now paint the sun yellow.
+It's starting to look like a real picture.
+It is! Draw a little house and a tree next.
+I love this. It's easy when you use your hand slowly.
+See? A pencil and some paper, and you can make anything.

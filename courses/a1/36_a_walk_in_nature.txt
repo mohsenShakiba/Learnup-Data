@@ -1,12 +1,14 @@
 A Walk in Nature
-tree, bird, river, flower, mountain, forest, leaf, path, hill, tourist, out, cent, police, line, play, seventy, outside, do, winter, use
-What a beautiful day to be outside. Look at all these tall trees!
-This forest is my favourite place. In winter it's quiet, but today the birds are singing.
-Listen to them. And that little river down the hill — I can hear the water.
-There's a path that follows it. Be careful, the leaves are wet and slippery.
-I don't mind. Can we climb all the way up the mountain?
-We can, but it's a long line of steps — about seventy, I think.
-I'll manage. Are there many tourists on this path?
-Not today. Sometimes the police close it after a storm, so people stay away.
-Good for us, then. Look, a child is playing over there by the flowers.
-Yes. It costs only a few cents to park, so families come out and use the forest all year.
+tree, river, flower, mountain, walk, park, garden, sea, beach, sun, plant, animal, beautiful, outside, cold
+What a beautiful day. Let's walk outside.
+Yes! Look at all these tall trees.
+I love this park. In summer there are so many flowers.
+Listen — there's a little river running down the hill.
+The water is so cold and clean up here.
+From the top of the mountain you can see the whole sea.
+Look, a small animal by that plant!
+It's not afraid of us. Many animals live here.
+I'd love a garden as green as this at home.
+Me too. Shall we walk down to the beach after?
+Good idea. We can sit on the sand by the sea.
+And watch the sun go down. What a lovely day outside.

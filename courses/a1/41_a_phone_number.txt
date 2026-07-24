@@ -1,12 +1,14 @@
 A Phone Number
-dial, contact, ring, area, code, mobile, save, text, telephone, hate, scientist, age, choose, will, customer, beach, us, slow, autumn, meat
-Could I have your number? I'll save it in my mobile so we can stay in contact.
-Of course. Do you want the mobile or my home telephone?
-The mobile. What's the area code — I always dial the wrong one.
-It starts with a zero, then two-oh-seven. Just text me first and I'll ring you back.
-Perfect. I hate typing long numbers; my old phone was so slow.
-Choose a new one, then. As a customer you get a better price this autumn.
-Maybe I will. By the way, what do you do? You mentioned science.
-I'm a scientist. I study how meat and other food ages over time.
-How interesting! We should talk more — maybe over lunch at the beach café.
-I'd like that. It will give us a chance to actually meet, not just message.
+number, call, text, message, send, email, answer, hear, talk, meet, friend, give, write, name, new
+Can I have your phone number? I'd like to call you sometime.
+Of course. Do you have a pen to write it down?
+Yes. Tell me the number slowly.
+It's a long one. I'll send it to you in a text instead.
+Good idea. Then I'll have your name and number saved.
+Just call or text me anytime. I always answer.
+Do you prefer a call or a message?
+A message is easier. I can't always talk at work.
+Same for me. I'll email you too.
+Great. It's nice to meet a new friend.
+It is. Give me a call this weekend and we'll have coffee.
+I'll do that. I can hear my bus coming — talk soon!

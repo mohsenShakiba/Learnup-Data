@@ -1,14 +1,15 @@
 Classroom Rules
-rule, raise, respect, permission, behave, attention, classroom, boyfriend, people, old, show, across, programme, great, animal, sea, Friday, juice, island, coat
-Before the children arrive, let me show you a few classroom rules.
-Please do. I want to behave the right way on my first day.
-First, the children must raise their hand and ask permission to speak.
-That makes sense. Respect for each other keeps things quiet.
-Exactly. We are kind to all people — young and old.
-Got it. And what's the lesson this Friday?
-A programme about animals that live across the sea, on a small island.
-Lovely. I saw a great film about island birds once.
-The children will love it. Oh, and no juice near the books, please.
-Understood. Should they put their coat by the door?
-Yes, by the door. One more thing — Mia's older boyfriend sometimes waits outside; just send him to the office.
-No problem. I think I'm ready to give my full attention to the class.
+class, teacher, student, school, book, read, listen, answer, hand, sit, stand, door, kind, help, learn
+Before the children come, let me show you the class rules.
+Please do. It's my first day at this school.
+First, the students must put up a hand before they speak.
+That makes sense. It keeps the class quiet.
+Yes. And everyone must listen when the teacher talks.
+What about their books?
+They read together, then answer questions in the book.
+Should they sit or stand for that?
+They sit at their desks. They only stand to leave the room.
+And if a child needs help?
+They put up a hand, and you go and help them. Always be kind.
+I understand. Where do they put their coats?
+By the door. Now you're ready to learn how a real class works.
