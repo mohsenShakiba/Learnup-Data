@@ -1,12 +1,11 @@
 At the Dentist
-tooth, mouth, doctor, open, eat, cold, hot, clean, afraid, minute, feel, better, morning, night, sorry, help
-Good morning, doctor. My tooth is very bad and I feel sick.
-I am sorry to hear that. Please open your mouth for me.
-It feels bad when I eat something cold or hot.
-I can see the problem. Don't be afraid, this is easy to fix.
-Thank you. Will it take a long time?
-No, only a few minutes. You will feel better soon.
-That is good news. I was really afraid to come today.
-It's fine. Please clean your tooth every morning and night.
-I know I should. Can you help me do it the right way?
-Yes, of course. Now you are all done. Have a good day.
+doctor, tooth, open, eat, cold, feel, better, afraid
+Good morning, doctor. This tooth has been hurting for days.
+Let me take a look. Open wide for me.
+It really hurts when I eat anything cold.
+I see the problem. Don't worry, it's an easy fix.
+Will it take long? I hate the dentist.
+Only a few minutes. You'll feel much better after.
+That's good to hear. I was quite afraid to come.
+There's nothing to fear. Try to brush it every night.
+I know I should do it more.

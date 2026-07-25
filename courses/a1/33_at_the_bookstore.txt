@@ -1,14 +1,11 @@
 At the Bookstore
-book, read, story, buy, shop, price, new, newspaper, writer, child, son, love, film, pound, find
-Hi, I'm looking for a new book. Can you help me find one?
-Of course. Do you like this writer? Her new story just came out.
-I read her last book and loved it.
-This one is even better, and it's only ten pounds.
+book, find, writer, read, love, price, son, film
+Hi, I'm after a new book. Could you help me find one?
+Of course. Do you know this writer? Her new book just came in.
+I read her last one and loved it.
+This one's even better, and only ten pounds.
 That's a good price. My son reads a lot too.
-How old is your child?
-He's eight. He loves stories about animals.
-Then this one is perfect. There's a film of it too.
-He'll love that. I'll buy both books.
-Good choice. Anything else — a newspaper, maybe?
-Yes, I'll read one with my coffee later.
-Enjoy the book. Everything you need in one shop.
+How old is he?
+Eight. He loves stories about animals.
+Then he'll like this one — there's a film of it as well.
+Perfect. I'll take both.

@@ -1,14 +1,12 @@
 Talking About Hobbies
-hobby, sing, song, band, practice, paint, draw, photo, both, school, sport, newspaper, bicycle, ball, cooking
-What is your favourite hobby?
-I like to sing. I am in a band with some friends from school.
-That is nice. Do you practice a lot?
-Yes, we practice every Friday. We are learning a new song now. What about you?
-I like to paint and draw. My sister saw a photo of my painting in the newspaper.
-That is wonderful. Does she have an instagram account for her art?
-Yes, she does. I can send you the link if you want.
-I'd like that. Do you play any sport too?
-Yes, I ride my bicycle to school and play football with my friends.
-That sounds fun. Are you good at it?
-Not really, but I still enjoy it.
-Same here. We are both busy, but I still love cooking with my family.
+hobby, sing, band, practice, paint, draw, both
+What do you like to do in your free time?
+I sing in a small band with a few friends.
+Oh, nice! Do you play together often?
+We practice every Friday. It's the best part of my week.
+I'd love to be in a band.
+You should try it. Do you have a hobby?
+I paint a little, just for fun.
+That's great. I can't even draw.
+It's very relaxing. You should give it a go.
+Maybe I will. We both work too much.

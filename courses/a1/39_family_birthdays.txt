@@ -1,14 +1,12 @@
 Family Birthdays
-family, birthday, grandmother, grandfather, brother, sister, aunt, uncle, cousin, party, visit, house, food, together, year
-All the family is coming this Saturday.
-Really? Why is everyone visiting?
-It's grandmother and grandfather's big day. Fifty years together!
-That's wonderful. How many people is that?
-My aunt, my uncle, all my cousins... about twenty.
-Where will everyone sit? Your house is small.
-We'll eat in the garden. My brother and sister are cooking.
-What food are you making?
-Lots! And grandfather's birthday is the same week, so it's a party for two things.
-Two birthdays in one day!
-Yes. The whole family in one house — it happens once a year.
-Then it's going to be a special day.
+family, grandmother, grandfather, aunt, uncle, cousin, sister, brother
+The whole family is coming on Saturday.
+Really? What for?
+It's grandmother and grandfather's fifty years together.
+Fifty years! That's wonderful. How many people?
+My aunt, uncle, all the cousins — about twenty.
+Where will everyone sit?
+In the garden. My brother and sister are cooking.
+Sounds like a lot of food.
+It is. And it's grandfather's birthday the same week.
+Two parties in one, then.

@@ -1,14 +1,11 @@
 A Day at the Park
-park, walk, tree, sun, play, child, ball, game, run, food, eat, sit, flower, outside, happy
-What a lovely afternoon. Let's walk in the park.
-Yes! Look, there's a free bench under that big tree.
-Perfect. We can sit there in the sun.
+walk, park, tree, sun, play, run, ball, flower
+What a lovely afternoon. Shall we walk in the park?
+Yes! Look, a place to sit under that big tree.
+Perfect, right in the sun.
 The children are already playing on the grass.
-Look at them run! They have a ball too.
-Shall we eat our food now, before they get hungry?
-Good idea. I'm hungry after our walk.
-The flowers here are so beautiful.
-They are. It makes me happy to be outside.
-After lunch, can we play a game with the children?
-Of course. Maybe we'll kick the ball around.
-This is the best way to spend a sunny day.
+Look at them run! They've got a ball too.
+Shall we eat before they come asking for our food?
+Good idea, I'm hungry after that walk.
+The flowers over there are beautiful.
+They really are. It's so nice to be outside.

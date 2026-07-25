@@ -1,14 +1,12 @@
 Talking About Jobs
-job, work, office, money, busy, teacher, doctor, driver, city, hard, easy, pay, start, hour, like
-How's your new job going?
-It's good. The work is hard, but I like it.
-That's great. Where do you work now?
-In a big office in the city. I start early every day.
-How many hours do you work?
-About eight, sometimes more when we're busy.
-Do they pay you well?
-Yes, the money is good. What do you do again?
-I'm a teacher. My wife is a doctor, so we're both busy people.
-Long hours! At least the driver who brings me in has it easy.
-Ha! No job is really easy.
-True. But it's good to like what you do.
+job, work, hard, office, city, busy, pay, teacher
+How's the new job going?
+Really well. The work is hard, but I like it.
+Where are you now?
+A big office in the city. I start at eight every day.
+Long hours?
+About nine, more when we're busy. And the pay's good.
+Nice. I'm still a teacher at the local school.
+That's a hard job too.
+It is, but I love it. We're both busy people.
+Ha, no easy job, is there?

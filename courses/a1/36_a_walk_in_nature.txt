@@ -1,14 +1,11 @@
 A Walk in Nature
-tree, river, flower, mountain, walk, park, garden, sea, beach, sun, plant, animal, beautiful, outside, cold
-What a beautiful day. Let's walk outside.
-Yes! Look at all these tall trees.
-I love this park. In summer there are so many flowers.
-Listen — there's a little river running down the hill.
-The water is so cold and clean up here.
-From the top of the mountain you can see the whole sea.
-Look, a small animal by that plant!
-It's not afraid of us. Many animals live here.
-I'd love a garden as green as this at home.
-Me too. Shall we walk down to the beach after?
-Good idea. We can sit on the sand by the sea.
-And watch the sun go down. What a lovely day outside.
+beautiful, walk, tree, park, flower, river, sea, beach
+What a beautiful day. Let's walk for a bit.
+Good idea. Look at all these tall trees.
+I love this park. In summer it's full of flowers.
+Listen — there's a little river down there.
+The water's so cold, even in the sun.
+Look, a rabbit by that tree!
+It's not even afraid of us.
+Shall we carry on down to the beach?
+Yes, let's sit by the sea for a while.

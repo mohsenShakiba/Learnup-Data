@@ -1,14 +1,12 @@
 At the Supermarket Checkout
-supermarket, shop, buy, food, bag, card, price, pay, bill, full, need, help, lot, please, week
-Hello. Is it my turn now?
-Yes, come here. Did you find everything you need?
-I think so. My bag is very full today.
-You have a lot of food. Are you cooking for many people?
-Yes, for a party. I need to buy a lot.
-That's nice. Your bill is thirty pounds.
+food, full, pay, card, price, bag, need
+Hi there. Did you find everything?
+I think so, thanks. My bag is completely full.
+You've got a lot of food. Cooking for a lot of people?
+Yes, some friends are coming over tonight.
+That's nice. It comes to thirty pounds.
 Can I pay by card?
-Of course. The eggs were a really good price this week.
-Great. I shop at this supermarket every week.
-I can see that! Do you need help with your bags?
-No, I can carry them. Please be careful with the eggs on top.
-There you go. Have a good party.
+Of course. The strawberries were a great price this week.
+I noticed! That's why I got two.
+Do you need a hand with your bags?
+No, I'm fine, thanks. Just careful with the eggs.

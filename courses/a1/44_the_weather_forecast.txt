@@ -1,14 +1,11 @@
 The Weather Forecast
-weather, rain, snow, sun, cold, hot, warm, wet, dry, summer, winter, umbrella, coat, outside, weekend
-Did you hear the weather for the weekend?
-Yes, they say a lot of rain is coming.
-Oh no. Will it be cold too?
-Very cold, and wet all week. Take a coat and an umbrella.
-I hate the rain. I can't do anything outside.
-I know. But today the sun is warm and nice.
-It is lovely now. My room gets so hot in summer.
-Winter is worse for me. Sometimes there's snow for days.
-At least snow is dry, not wet like rain.
-True. I still prefer a warm summer day.
-Me too. Let's go outside now while the sun is out.
-Good idea, before the weather changes again.
+weather, rain, cold, wet, coat, umbrella, warm, summer
+Did you catch the weather for the weekend?
+Yes, they're saying a lot of rain.
+Oh no. Cold too?
+Very cold, and wet all week. Bring a coat and an umbrella.
+I hate the rain. You can't do anything outside.
+I know. At least the sun's warm today.
+It's lovely now. My room gets so hot in summer.
+Winter's worse for me. Sometimes it snows for days.
+Still, I'll take a warm summer day any time.

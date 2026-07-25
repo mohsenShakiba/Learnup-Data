@@ -1,15 +1,12 @@
 Drawing Shapes
-draw, paint, picture, pen, pencil, paper, line, yellow, star, point, hand, easy, hard, big, small
-Let's draw a picture today. Take a pencil and some paper.
-I'm not very good. My lines are never straight.
-That's fine. First, draw a big yellow sun.
-Like this? It looks more like an egg!
-Close enough. Now draw some lines under it for grass.
-Straight lines are hard with a pencil.
-Try a pen, then. Now add a small star in the sky.
+draw, pencil, paper, line, yellow, pen, star, picture
+Let's draw something today. Take a pencil and some paper.
+I'm not very good at this. My lines are never straight.
+That's fine. Start with a big yellow sun.
+Like this? It looks more like an egg.
+Close enough. Now some lines under it for grass.
+Straight lines are so hard.
+Try a pen instead. Then add a small star up here.
 A star has so many points!
-Just make five. Now paint the sun yellow.
-It's starting to look like a real picture.
-It is! Draw a little house and a tree next.
-I love this. It's easy when you use your hand slowly.
-See? A pencil and some paper, and you can make anything.
+Just five. See — it's coming together.
+It actually looks like a picture now.

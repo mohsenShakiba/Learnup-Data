@@ -1,14 +1,12 @@
 Learning Big Numbers
-number, learn, study, practice, teacher, student, class, money, euro, price, shop, year, easy, hard, know
-Today we'll learn some big numbers.
-Good. Small numbers are easy, but big ones are hard for me.
+number, easy, practice, euro, money, learn, price, hard
+Today we'll work on big numbers.
+Good. Small ones are easy, but big ones lose me.
 Let's practice. How old are you?
-I'm thirty-two years old.
-That's a number! Now, how much is this book?
-The price is fifteen euros.
-Very good. Money is a great way to learn numbers.
-It's true. I know prices better than anything else.
-Every student in the class finds big numbers hard at first.
-How can I study them at home, teacher?
-Read the prices in shops and say each number out loud.
-I'll practice every day. Soon they won't be so hard.
+Thirty-two.
+And how much is this book?
+Fifteen euros.
+See? Money is a great way to learn numbers.
+That's true. I do know prices well.
+Everyone finds them hard at first. Read the prices in shops out loud.
+I'll practice that every day.

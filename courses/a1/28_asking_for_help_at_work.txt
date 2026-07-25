@@ -1,14 +1,12 @@
 Asking for Help at Work
-help, work, office, desk, email, paper, meeting, busy, message, letter, minute, need, finish, send, again
-Could you help me for a minute? I have so much work today.
-Of course. What do you need?
-I have a big meeting soon, but this email won't send.
-Let me look. Did you write the right address?
-I think so. But I get an error message every time.
-There's a letter missing in the address. Try again.
-Oh, you're right! It works now.
-That happens when you're busy. Easy to fix.
-Thank you. My desk is so full of paper today.
-Mine too. Let's finish before the meeting starts.
-Good idea. I still need to tidy the office first.
-I'll help you. Two people are faster than one.
+help, meeting, email, send, letter, busy, desk
+Could you help me for a minute?
+Sure, what's wrong?
+I've got a meeting soon, but this email won't send.
+Let me see. Did you type the address right?
+I thought so, but it won't go through.
+Ah, there's a letter missing here. Try it now.
+It worked! Thank you so much.
+No problem. It's easy to miss when you're busy.
+I really am. My desk is so full today.
+Mine too. Let's both get through this before the meeting.

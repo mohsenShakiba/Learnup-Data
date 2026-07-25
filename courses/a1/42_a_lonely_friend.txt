@@ -1,14 +1,12 @@
 A Lonely Friend
-sad, happy, friend, feel, help, hope, move, city, new, miss, talk, kind, better, sorry, love
-You look sad today. Are you all right?
-Not really. Since I moved to this new city, I feel so alone.
-I'm sorry. Moving is never easy.
-Some evenings I really miss my old friends.
-I understand. But you have friends here now, and I care about you.
-That's kind of you. It helps to talk.
-We all feel like this sometimes. I moved here too, years ago.
-How did you feel better?
-I kept busy. I love to paint, so I took an art class and met people.
-Maybe I'll try that. I liked to draw when I was young.
-That's a great start. I hope the sad days pass soon.
-Talking to you already makes me feel happy.
+sad, feel, move, city, miss, kind, talk, better
+You seem sad today. Is everything okay?
+Not really. Since I moved here, I feel so alone.
+I'm sorry. Moving to a new city is hard.
+Some nights I really miss my old friends.
+I understand. But you've got friends here now — me, for one.
+That's kind of you. It does help to talk.
+I felt the same when I first arrived. It gets better.
+How did you get through it?
+I joined a class and met people. Give it time.
+Maybe I'll try that. Thanks for listening.

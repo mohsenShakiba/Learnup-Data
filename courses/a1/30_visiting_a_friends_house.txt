@@ -1,14 +1,13 @@
 Visiting a Friend's House
-visit, house, home, room, door, chair, table, kitchen, clock, flower, card, coat, sit, bring, kind
-Hi! Come in. It's so good to see you.
-What a lovely house — thank you for having me.
-Let me take your coat. Put it here by the door.
-These flowers are for you, and a little card.
-That's so kind of you. They're beautiful.
-Sit down on that chair, it's very soft.
-Thank you. I love this room, and that old clock on the wall.
-It was my grandfather's. Your home feels so warm.
-Come and sit at the table. Dinner is nearly ready.
-Can I bring anything from the kitchen?
-No, just relax. Everything's done.
-It's been too long since your last visit.
+home, coat, door, flower, kind, clock, kitchen, visit
+Come in, come in! It's so good to see you.
+Thanks for having me. What a lovely home.
+Let me take your coat. Put it by the door.
+These flowers are for you.
+Oh, that's so kind. They're beautiful.
+You have a lovely place. I love that old clock.
+It was my grandfather's. Come and sit down.
+Something smells wonderful.
+Dinner's nearly ready. Let's go through to the kitchen.
+Can I help with anything?
+Just relax. It's been far too long since you visited.

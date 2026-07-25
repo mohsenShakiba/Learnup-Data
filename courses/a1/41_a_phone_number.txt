@@ -1,14 +1,12 @@
 A Phone Number
-number, call, text, message, send, email, answer, hear, talk, meet, friend, give, write, name, new
-Can I have your phone number? I'd like to call you sometime.
-Of course. Do you have a pen to write it down?
-Yes. Tell me the number slowly.
-It's a long one. I'll send it to you in a text instead.
-Good idea. Then I'll have your name and number saved.
-Just call or text me anytime. I always answer.
-Do you prefer a call or a message?
-A message is easier. I can't always talk at work.
-Same for me. I'll email you too.
-Great. It's nice to meet a new friend.
-It is. Give me a call this weekend and we'll have coffee.
-I'll do that. I can hear my bus coming — talk soon!
+number, call, text, name, answer, message, talk, friend
+Could I get your number? I'd love to call you one day.
+Sure. Have you got a pen?
+Yes, tell me — slowly, please.
+Actually, it's easier if I just text it to you.
+Good idea. Then I'll have your name saved too.
+Call or text me anytime. I always answer.
+Do you prefer calls or messages?
+Messages. I can't really talk at work.
+Same here. It's nice to make a new friend.
+Give me a call this weekend and we'll get a coffee.

@@ -1,14 +1,12 @@
 In the English Class
-class, teacher, student, learn, word, speak, listen, read, write, spell, study, ask, answer, sentence, know
-Welcome to the class. Are you a new student?
-Yes. I want to learn to speak English better.
-Good. Can you read and write a little?
+student, speak, read, write, class, listen, spell, learn
+Welcome. Are you a new student?
+Yes. I really want to speak English better.
+Can you read and write a little already?
 I can read, but speaking is hard for me.
-That's normal. In this class we listen first, then we speak.
+That's normal. In this class we listen a lot first.
 Sometimes I know a word but I can't spell it.
-Don't worry. Just ask me, and I'll help you.
-Thank you, teacher. How do we study at home?
-Read a little every day and write new sentences.
-Can I ask a question in class?
-Of course. I always answer every question.
+Just ask, and I'll write it on the board.
+Thank you. How should I study at home?
+Read a little every day. That helps the most.
 Then I think I'll learn a lot here.

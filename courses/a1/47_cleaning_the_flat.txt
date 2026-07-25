@@ -1,14 +1,12 @@
 Cleaning the Flat
-clean, flat, room, kitchen, bathroom, bedroom, floor, wash, dirty, window, door, bed, help, together, finish
-Let's clean the whole flat before your parents come.
-Good idea. It's very dirty. Where do we start?
-You wash the kitchen floor, and I'll do the bathroom.
-Deal. This floor really is dirty.
-Don't forget to clean the windows too.
-Our flat will look like new. What about the bedroom?
-Let's make the bed and open the door for some fresh air.
-Good. The kitchen is done — it looks great.
-Thank you for the help. It's faster together.
-Much faster. Two rooms left.
-Then let's finish and have a coffee.
-Perfect. We can sit down when every room is clean.
+clean, flat, wash, kitchen, floor, bathroom, window, bedroom
+Let's clean the flat before your parents arrive.
+Good idea. It's really dirty. Where do we start?
+You wash the kitchen floor, I'll take the bathroom.
+Deal. This floor really needs it.
+Don't forget the windows either.
+The place will look like new. What about the bedroom?
+Let's make the bed and open a window for some air.
+Kitchen's done. Looks great.
+Thanks for the help. It's much faster with two.
+Then let's finish up and have a coffee.

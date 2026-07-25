@@ -1,14 +1,11 @@
 At a Birthday Party
-birthday, party, happy, friend, year, old, food, eat, music, dance, song, sing, game, card, photo
-Happy birthday! How old are you now?
-I'm forty today. Thank you for coming to my party.
-Of course. All your friends are here!
-I know. Someone put music on — let's dance.
-In a minute! First, look at all this food.
-Eat as much as you like. My brother made it.
-Did you get many cards this year?
-Yes, so many. And a lot of nice photos too.
-Someone is singing your favourite song.
-I love that song! Come and sing with me.
-After we play a game or two.
-Good idea. This is the best birthday party.
+happy, birthday, party, friend, music, dance, food, song
+Happy birthday! I can't believe you're forty.
+Thank you! I'm so happy you came to the party.
+Of course. All your friends are here.
+I know. Someone put music on — shall we dance?
+In a minute! Let me get some food first.
+Help yourself. My brother cooked all of it.
+It looks great. Did you get lots of cards?
+So many. That song playing is my favourite.
+Then let's dance to it before the cake comes out.
