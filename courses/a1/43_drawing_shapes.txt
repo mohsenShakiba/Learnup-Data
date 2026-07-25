@@ -1,13 +1,13 @@
 Drawing Shapes
 New vocabs: pencil, paper, line, yellow, star, close, never, point
-Used vocabs: draw, pen, picture, big, come, fine, good, hard, like, look, many, see, small, something, start, sun, take, today, together, try
+Used vocabs: draw, pen, picture, big, come, fine, garden, good, hard, like, look, many, see, small, something, start, sun, take, today, together, try
 Let's draw something today. Take a pencil and some paper.
-I'm not very good at this. My lines are never straight.
+I'm not very good at this. My lines are never very good.
 That's fine. Start with a big yellow sun.
 Like this? It looks more like an egg.
-Close enough. Now some lines under it for grass.
-Straight lines are so hard.
-Try a pen instead. Then add a small star up here.
+That's close! Now draw some lines under it for the garden.
+Lines are so hard to draw!
+Try a pen. Then draw a small star up here.
 A star has so many points!
 Just five. See — it's coming together.
-It actually looks like a picture now.
+Now it looks like a picture!

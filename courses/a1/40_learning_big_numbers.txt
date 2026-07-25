@@ -1,13 +1,13 @@
 Learning Big Numbers
-New vocabs: number, shop, true
-Used vocabs: easy, practice, euro, money, learn, price, hard, big, book, day, every, everyone, find, good, great, know, much, old, read, see, small, today, way, well, work
+New vocabs: age, number, salt, shop, true
+Used vocabs: big, book, day, easy, euro, every, everyone, find, good, great, hard, know, learn, money, much, old, practice, price, read, see, small, today, way, well, work
 Today we'll work on big numbers.
-Good. Small ones are easy, but big ones lose me.
-Let's practice. How old are you?
+Good. Small ones are easy, but big ones are hard for me.
+Let's practice. What age are you?
 Thirty-two.
 And how much is this book?
-Fifteen euros.
+Fifteen euros. And a bag of salt is just one euro.
 See? Money is a great way to learn numbers.
 That's true. I do know prices well.
-Everyone finds them hard at first. Read the prices in shops out loud.
+Everyone finds them hard at first. Read the prices in every shop you see.
 I'll practice that every day.

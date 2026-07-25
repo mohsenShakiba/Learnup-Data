@@ -1,13 +1,15 @@
 A Lonely Friend
-New vocabs: sad
-Used vocabs: feel, move, city, miss, kind, talk, better, arrive, class, everything, friend, get, give, hard, help, listen, maybe, new, night, old, people, really, sorry, thanks, time, today, try
-You seem sad today. Is everything okay?
-Not really. Since I moved here, I feel so alone.
-I'm sorry. Moving to a new city is hard.
-Some nights I really miss my old friends.
-I understand. But you've got friends here now — me, for one.
-That's kind of you. It does help to talk.
+New vocabs: angry, cannot, dear, sad, without
+Used vocabs: arrive, better, city, class, everything, feel, friend, get, give, hard, help, kind, listen, look, maybe, miss, move, new, night, old, people, really, sorry, talk, thanks, time, today, try
+You look sad today. Is everything okay?
+Not really. I moved to this city, and I have no friends here.
+Oh dear, I'm sorry. Moving to a new city is hard.
+Some nights I really miss my old friends. It's hard without them.
+It is hard. But you have a friend here now — me!
+That's kind of you. I cannot say how much it helps to talk.
 I felt the same when I first arrived. It gets better.
+Were you angry too, at first?
+A little. But mostly just sad.
 How did you get through it?
-I joined a class and met people. Give it time.
+I went to a class and met people. Give it time.
 Maybe I'll try that. Thanks for listening.

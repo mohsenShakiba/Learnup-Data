@@ -3,11 +3,11 @@ New vocabs: student, speak, class, listen, spell, learn, ask, sometimes, study, 
 Used vocabs: read, write, better, day, every, hard, help, home, know, little, lot, new, really, thank, think, want, welcome, yes
 Welcome. Are you a new student?
 Yes. I really want to speak English better.
-Can you read and write a little already?
+Can you read and write a little?
 I can read, but speaking is hard for me.
-That's normal. In this class we listen a lot first.
+That's OK. In this class we listen a lot first.
 Sometimes I know a word but I can't spell it.
-Just ask, and I'll write it on the board.
+Just ask, and I'll write it for you.
 Thank you. How should I study at home?
 Read a little every day. That helps the most.
 Then I think I'll learn a lot here.

@@ -1,9 +1,10 @@
 Talking About the Weather
-New vocabs: sun, weather, outside
-Used vocabs: day, enjoy, get, go, good, like, nice, think, today, walk, yes
-How is the weather today?
-It's warm and sunny.
-That's nice. Is it going to rain?
-No, I don't think so.
-It's a lovely day for a walk.
-sure, let's go outside.
+New vocabs: between, outside, south, sun, weather
+Used vocabs: day, enjoy, get, go, good, like, nice, river, think, today, walk, yes
+How's the weather today?
+It's lovely — warm and sunny, between twenty and twenty-five degrees.
+That's nice! Do you think it will rain?
+No, I don't think so. The rain is staying in the south — we get the sun all day.
+Then it's a good day for a walk. Do you want to go outside?
+Yes, I'd like that. Where should we go?
+Let's walk to the river.

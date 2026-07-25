@@ -1,12 +1,14 @@
 At the Bookstore
-New vocabs: animal
-Used vocabs: book, find, writer, read, love, price, son, film, better, could, course, even, good, help, hi, know, last, like, lot, new, old, pound, story, take, well
+New vocabs: animal, customer, elephant, sell, world
+Used vocabs: around, better, book, could, course, even, favourite, film, find, from, good, help, hi, know, last, like, lot, love, new, old, pound, price, read, son, sorry, story, take, today, wait, well, writer
 Hi, I'm after a new book. Could you help me find one?
-Of course. Do you know this writer? Her new book just came in.
+Of course. Sorry for the wait — lots of customers today. We sell a lot of this writer's books, and her new one just came in.
 I read her last one and loved it.
 This one's even better, and only ten pounds.
 That's a good price. My son reads a lot too.
 How old is he?
-Eight. He loves stories about animals.
+Eight. He loves animal stories from around the world.
+Does he have a favourite animal?
+Elephants, he says.
 Then he'll like this one — there's a film of it as well.
-Perfect. I'll take both.
+Great. I'll take both.

@@ -2,9 +2,10 @@ At the Supermarket Checkout
 New vocabs: card, bag, cooking, hand, people
 Used vocabs: food, full, pay, price, need, come, course, everything, find, fine, friend, great, hi, lot, nice, pound, thanks, think, tonight, week, yes
 Hi there. Did you find everything you need?
-I think so, thanks. My bag is completely full.
+I think so, thanks. My bag is very full.
 Are you cooking for a lot of people?
 Yes, some friends are coming over tonight.
 Nice. That's thirty pounds.
 Can I pay by card?
-Of course.
+Of course... Thank you. Do you need a hand with that bag?
+No, I'm fine, thanks. Have a good week!

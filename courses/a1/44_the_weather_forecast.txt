@@ -1,12 +1,12 @@
 The Weather Forecast
-New vocabs: rain, warm, umbrella, warm, say, snow
-Used vocabs: hot, cold, wet, dry, coat, summer, anything, bring, day, get, hate, hot, know, lot, outside, room, sometimes, still, take, time, today, week, weekend, yes
-Did you catch the weather for the weekend?
+New vocabs: rain, warm, umbrella, say, snow
+Used vocabs: hot, cold, wet, dry, coat, summer, anything, bring, day, get, hate, know, lot, outside, room, sometimes, still, take, time, today, week, weekend, yes
+Do you know the weather for the weekend?
 Yes, they're saying a lot of rain.
 Oh no. Cold too?
 Very cold, and wet all week. Bring a coat and an umbrella.
 I hate the rain. You can't do anything outside.
-I know. At least the sun's warm today.
-It's lovely now. My room gets so hot in summer.
-Winter's worse for me. Sometimes it snows for days.
+I know. But the sun is warm today.
+It's lovely now. But in summer my room gets too hot.
+Winter is too cold for me. Sometimes it snows for days.
 Still, I'll take a warm summer day any time.
