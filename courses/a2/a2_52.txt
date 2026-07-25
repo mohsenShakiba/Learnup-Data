@@ -1,0 +1,21 @@
+052. Road Travel
+Words: driving, vehicle, lorry, wheel, gas, speed, route, direction, distance, accident, safe, transport
+
+Topic: Planning a Safe Road Trip
+
+Sara: Tom, are you ready for the long drive tomorrow?
+Tom: Almost. I am checking our route on the map.
+Sara: What distance will we travel?
+Tom: About two hundred kilometres in one direction.
+Sara: We should fill the car with gas before leaving.
+Tom: Yes, and I checked every wheel this morning.
+Sara: Is our small vehicle comfortable for four people?
+Tom: It is, but we must pack light.
+Sara: Which road is the safest?
+Tom: The new road is safe, but many lorry drivers use it.
+Sara: Then keep a good distance from each lorry.
+Tom: I will, and I will watch my speed.
+Sara: Careful driving can prevent an accident.
+Tom: We can also stop and rest after one hour.
+Sara: Good. The car is our best transport for this trip.
+Tom: Everything is planned. We can leave at seven.

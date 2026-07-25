@@ -1,0 +1,21 @@
+018. Directions and Position
+Words: direction, towards, along, cross, straight, forward, inside, bottom, top, middle, side, somewhere
+
+Topic: Finding the Museum Cafe
+
+Nora: Sam, the museum cafe is somewhere on this map.
+Sam: I think it is inside the building on the east side.
+Nora: Which direction should we go from here?
+Sam: Walk straight towards the large stairs.
+Nora: Do we go to the top?
+Sam: No, stay at the bottom and turn left.
+Nora: Then do we walk along this long hall?
+Sam: Yes, and cross the hall near the middle.
+Nora: I see a sign pointing forward.
+Sam: That sign says the cafe is beside the gift shop.
+Nora: Is the gift shop on the right side?
+Sam: Yes. We should see it after the next door.
+Nora: There it is, and the cafe is open.
+Sam: Good. Following a museum map made me hungry.
+Nora: We only walked for five minutes!
+Sam: Reading directions uses a lot of energy.

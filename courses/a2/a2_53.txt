@@ -1,0 +1,21 @@
+053. Public Transport
+Words: public, transport, passenger, station, underground, crowded, seat, route, schedule, journey, distance, vehicle
+
+Topic: Taking the Underground to Work
+
+Mia: Jack, is this the right underground station for the office?
+Jack: Yes. The green route stops near our building.
+Mia: I usually use a different kind of public transport.
+Jack: The underground is the fastest vehicle at this hour.
+Mia: How long is the journey?
+Jack: Only fifteen minutes from this station.
+Mia: That is a short distance.
+Jack: Yes, but the train may be crowded.
+Mia: I do not mind standing if there is no seat.
+Jack: Every passenger seems to be going to work now.
+Mia: Does the schedule show our next train?
+Jack: Yes, it arrives in two minutes.
+Mia: Great. I can use this route every morning.
+Jack: Buy a weekly ticket if you do.
+Mia: That will make each journey cheaper.
+Jack: Here comes our train. Let us get on.

@@ -1,0 +1,21 @@
+078. Numbers and Data
+Words: data, chart, figure, amount, quantity, average, per cent, count, level, result, compare, exact
+
+Topic: Studying a Travel Survey
+
+Ruby: Ben, have you finished counting our travel survey?
+Ben: Yes. I put all the data into this chart.
+Ruby: What is the exact number of students?
+Ben: The total figure is one hundred.
+Ruby: That makes each per cent easy to understand.
+Ben: Yes. Forty students travel by bus.
+Ruby: Can we compare that with the bicycle result?
+Ben: Of course. Only twenty students cycle.
+Ruby: What amount of time does the average trip take?
+Ben: The average is eighteen minutes.
+Ruby: Did we count the quantity of car trips too?
+Ben: Yes. Thirty students come by car.
+Ruby: The bar for walking is at a low level on the chart.
+Ben: It is. Only ten students walk.
+Ruby: This chart makes every result clear.
+Ben: Great. We can show it to the class tomorrow.

@@ -1,0 +1,21 @@
+057. Recycling and Waste
+Words: recycle, rubbish, pollution, environment, reduce, remove, collect, oil, gas, product, protect, throw
+
+Topic: Sorting Waste in the Garage
+
+Ruby: Ben, can you help me sort the rubbish in the garage?
+Ben: Sure. Which things can we recycle?
+Ruby: We can collect the paper, glass, and metal cans.
+Ben: Should I throw this empty oil bottle away?
+Ruby: No. We must take it to the special waste centre.
+Ben: What about this old gas can?
+Ruby: It goes there too, because it may still be dangerous.
+Ben: I found a broken cleaning product under the shelf.
+Ruby: Put on gloves before you remove it.
+Ben: Good idea. We need to protect our hands.
+Ruby: Careful recycling also protects the environment.
+Ben: It can reduce pollution in our town.
+Ruby: Exactly. Put normal waste in the black bag.
+Ben: The garage already looks much better.
+Ruby: We have only one box left to check.
+Ben: Then we can take everything to the centre.

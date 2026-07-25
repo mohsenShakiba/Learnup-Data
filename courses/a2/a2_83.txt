@@ -1,0 +1,21 @@
+083. Comparing Ideas
+Words: compare, difference, similar, opposite, different, worse, worst, advantage, benefit, positive, negative, prefer
+
+Topic: Bus or Bicycle?
+
+Maya: Leo, should we take the bus or cycle to the park?
+Leo: Let us compare the two ideas.
+Maya: The travel times are similar on a quiet day.
+Leo: The main difference is the weather.
+Maya: Yes. Cycling in rain is much worse.
+Leo: But the bus can be crowded at the worst time.
+Maya: One advantage of cycling is free exercise.
+Leo: That is a positive health benefit.
+Maya: A negative point is that we must carry our bags.
+Leo: The bus is the opposite. It is easy with bags.
+Maya: Today is sunny, so the conditions are different.
+Leo: Which option do you prefer?
+Maya: I prefer cycling when the road is dry.
+Leo: So do I. We can use the bike path.
+Maya: Great. I will get my helmet.
+Leo: And I will put water in my bag.

@@ -1,0 +1,21 @@
+033. Office Tasks
+Words: schedule, task, project, report, data, chart, form, list, copy, print, organize, manager
+
+Topic: Preparing for a Team Meeting
+
+Sara: Tom, can you help me prepare for the team meeting?
+Tom: Sure. Which task should we do first?
+Sara: We need to organize the sales data for our project.
+Tom: I can put the numbers into a clear chart.
+Sara: Great. I will finish the written report.
+Tom: Is the meeting on today's schedule?
+Sara: Yes, the manager moved it to three o'clock.
+Tom: Then we have two hours left.
+Sara: Please make a list of the main results too.
+Tom: Should I add a copy to every meeting form?
+Sara: Yes, and print ten copies of the chart.
+Tom: I will do that after I check the numbers.
+Sara: Good. We do not want incorrect data in the meeting.
+Tom: Everything is checked and ready to print.
+Sara: Excellent. The manager will be pleased.
+Tom: And we may even finish before three!

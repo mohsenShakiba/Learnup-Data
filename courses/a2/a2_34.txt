@@ -1,0 +1,21 @@
+034. Time and Plans
+Words: schedule, period, century, recent, recently, already, yet, moment, future, beginning, final, arrange
+
+Topic: Planning a Museum Visit
+
+Maya: Ben, can we arrange our history club visit now?
+Ben: Yes. I recently received the museum schedule.
+Maya: Is the new exhibition open yet?
+Ben: Yes, it opened at the beginning of this week.
+Maya: Which period of history does it show?
+Ben: It shows daily life in the nineteenth century.
+Maya: I read a recent article about that exhibition.
+Ben: The museum has already added more old clothes to it.
+Maya: Could we visit next Saturday?
+Ben: Let me check the schedule for a moment.
+Maya: We should avoid the final hour because it gets busy.
+Ben: Then we can arrive at ten in the morning.
+Maya: Great. I will tell the other club members.
+Ben: Should we plan another visit in the future?
+Maya: Yes, but let us enjoy this one first.
+Ben: Agreed. I will book our tickets today.

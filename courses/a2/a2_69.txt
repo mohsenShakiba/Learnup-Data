@@ -1,0 +1,21 @@
+069. Communication at Work
+Words: colleague, employee, manager, boss, assistant, professional, discussion, comment, reply, report, schedule, task
+
+Topic: Preparing for a Work Meeting
+
+Nina: Leo, our manager moved the meeting to two o'clock.
+Leo: Thanks. I will update my schedule.
+Nina: The main task is to discuss the customer report.
+Leo: I read it and added one comment about delivery times.
+Nina: Good. We can include that in the discussion.
+Leo: Has the new employee read the report?
+Nina: Yes. Our assistant sent it to every colleague.
+Leo: Did anyone reply with a question?
+Nina: The sales team asked about next month's plan.
+Leo: Our boss can answer that during the meeting.
+Nina: We should keep our presentation professional and short.
+Leo: I will use only three simple charts.
+Nina: Perfect. That leaves time for questions.
+Leo: Do you need help setting up the room?
+Nina: Please connect the computer to the screen.
+Leo: I will do it now. We will be ready early.

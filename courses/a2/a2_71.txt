@@ -1,0 +1,21 @@
+071. Money and Budgeting
+Words: cash, credit, cost, expensive, cheap, salary, earn, spend, amount, quantity, per cent, benefit
+
+Topic: Saving for a Laptop
+
+Emma: Jack, I want to save for a new laptop.
+Jack: How much does the one you like cost?
+Emma: It is expensive. The price is six hundred pounds.
+Jack: What amount can you save from your salary each month?
+Emma: I earn eight hundred pounds and can save one hundred.
+Jack: Then you need six months if you spend carefully.
+Emma: The store offers ten per cent off next month.
+Jack: That discount is a real benefit.
+Emma: I also found a cheaper laptop online.
+Jack: Check its quality. Cheap is not always better.
+Emma: True. I need a good laptop for work.
+Jack: Will you pay with cash or credit?
+Emma: Cash, because I do not want to borrow money.
+Jack: Buy a smaller quantity of takeaway food each week.
+Emma: Good idea. I can cook at home more often.
+Jack: Then your laptop money will grow faster.

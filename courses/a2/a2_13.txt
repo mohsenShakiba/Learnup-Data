@@ -1,0 +1,21 @@
+013. Weather
+Words: cloud, wind, storm, temperature, climate, wet, dry, heat, sky, bright, season, predict
+
+Topic: The Picnic Forecast
+
+Ella: Noah, can we still have our picnic this afternoon?
+Noah: I think so, but that dark cloud worries me.
+Ella: The sky was bright and clear this morning.
+Noah: Weather can change quickly in this season.
+Ella: Can your phone predict a storm?
+Noah: It says strong wind may come at four o'clock.
+Ella: What is the temperature now?
+Noah: It is twenty-eight degrees, so the heat is quite strong.
+Ella: The grass is dry now, but it could become very wet.
+Noah: Our climate often gives us summer rain.
+Ella: Then let us have the picnic under the park shelter.
+Noah: Good idea. We can stay dry if it rains.
+Ella: And if there is no storm, we can sit by the lake.
+Noah: I will bring a light coat in case the wind gets cold.
+Ella: Perfect. We are ready for any weather.
+Noah: Almost. We still need to pack the sandwiches!

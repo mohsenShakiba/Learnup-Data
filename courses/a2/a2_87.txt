@@ -1,0 +1,21 @@
+087. Memory and Thinking
+Words: memory, remember, forget, thinking, thought, mind, imagine, realize, understand, knowledge, believe, guess
+
+Topic: Finding the Missing Keys
+
+Mia: Jack, I cannot remember where I put my keys.
+Jack: What is your last clear memory of them?
+Mia: I believe I had them when I opened the door.
+Jack: Think about every step after that.
+Mia: I am thinking, but my mind is blank.
+Jack: Did you put them on the kitchen table?
+Mia: No. I would not forget them there.
+Jack: My next guess is your coat pocket.
+Mia: I checked it already.
+Jack: Imagine you are entering the house again.
+Mia: I opened the door and carried in the shopping.
+Jack: What did you do with the bags?
+Mia: I put them on the chair. Now I realize something.
+Jack: You thought the keys were in your hand.
+Mia: Yes, and now I understand. They are inside one shopping bag!
+Jack: Good. Our little test improved your knowledge of yourself.

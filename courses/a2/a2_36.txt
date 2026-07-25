@@ -1,0 +1,21 @@
+036. Basic Health Problems
+Words: health, medical, dentist, patient, ill, illness, disease, flu, virus, headache, pain, weak
+
+Topic: Calling the Health Clinic
+
+Anna: Paul, you look ill. How do you feel?
+Paul: I have a headache, and my legs feel weak.
+Anna: Do you have pain anywhere else?
+Paul: My throat hurts, and I feel very tired.
+Anna: It may be the flu. A virus is going around.
+Paul: Should I call the medical clinic?
+Anna: Yes. Your health is important.
+Paul: I hope it is not a serious disease.
+Anna: Most flu cases are a short illness.
+Paul: The clinic says every new patient should call first.
+Anna: I can make the call while you rest.
+Paul: Thanks. I also have a dentist visit this afternoon.
+Anna: You should move it to another day.
+Paul: Yes, I do not want to make other people ill.
+Anna: The clinic can tell us what to do next.
+Paul: Good. I will sit down and drink some water.

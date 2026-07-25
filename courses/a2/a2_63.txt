@@ -1,0 +1,21 @@
+063. A Police Investigation
+Words: evidence, case, identify, search, missing, dead, death, gun, knife, thief, steal, discover
+
+Topic: Solving a Television Mystery
+
+Nora: Sam, can you guess who the thief is in this show?
+Sam: Not yet. The police are still studying the case.
+Nora: They found a knife near the missing painting.
+Sam: Yes, but that knife may not be useful evidence.
+Nora: Why did the museum guard have a gun?
+Sam: He carried it for his job, but he never used it.
+Nora: At first, I thought the guard was dead.
+Sam: So did I, but his death was only a false story.
+Nora: The police found him alive in the station.
+Sam: Now they can ask who tried to steal the painting.
+Nora: They should search the artist's car.
+Sam: Look! They found blue paint on the seat.
+Nora: That may help them identify the real thief.
+Sam: The next scene will show what they discover.
+Nora: I think the artist took the painting.
+Sam: Let us watch the ending and see if you are right.

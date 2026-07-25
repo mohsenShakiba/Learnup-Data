@@ -1,0 +1,21 @@
+043. Physical Appearance
+Words: appearance, attractive, pretty, lovely, male, lady, thin, thick, height, weight, size, clothing
+
+Topic: Choosing Clothes for a Photo
+
+Emma: Noah, can you help me choose clothing for my photo?
+Noah: Sure. What kind of appearance do you want?
+Emma: Simple and attractive, but not too formal.
+Noah: This pretty blue shirt would look good.
+Emma: I like it, but the material is very thin.
+Noah: Then try this lovely green one. It is thicker.
+Emma: Is the size right for me?
+Noah: Yes. It fits your height and looks comfortable.
+Emma: The photographer said weight does not matter in the picture.
+Noah: That is true. Feeling comfortable matters more.
+Emma: Should I wear the thick black jacket too?
+Noah: No, the room will be warm.
+Emma: The photo is for the male and female staff page.
+Noah: Then every man and lady will use the same background.
+Emma: Great. I will choose the green shirt.
+Noah: Good choice. You are ready for the photo.

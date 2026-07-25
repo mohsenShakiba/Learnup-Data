@@ -1,0 +1,21 @@
+019. Travel and Tourism
+Words: journey, tour, visitor, guest, passenger, station, route, distance, transport, abroad, foreign, guide
+
+Topic: The First Train Tour
+
+Maya: Leo, is this your first journey abroad?
+Leo: Yes. I have never visited a foreign country before.
+Maya: Then I am happy to be your guide today.
+Leo: Thank you. This station is much larger than mine at home.
+Maya: Our train is the fastest transport to the old town.
+Leo: How long is the route?
+Maya: The distance is only thirty kilometres.
+Leo: Good. I can enjoy the view as a passenger.
+Maya: After the train ride, we will join a walking tour.
+Leo: Will there be another visitor with us?
+Maya: Yes, a small group will meet us at the town gate.
+Leo: I hope I can understand the guide.
+Maya: She speaks slowly for every foreign guest.
+Leo: Perfect. I want to learn about the old castle.
+Maya: You will, and we will have lunch beside it.
+Leo: This is already a great first trip abroad.

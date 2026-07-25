@@ -1,0 +1,21 @@
+017. Places in Town
+Words: station, university, college, building, hall, tower, bridge, store, factory, underground, gate, public
+
+Topic: A Quick Town Tour
+
+Sofia: Alex, shall I show you the town before lunch?
+Alex: Yes, please. I need to find the station first.
+Sofia: The underground station is behind that glass building.
+Alex: Is that building part of the university?
+Sofia: No, it is the public library.
+Alex: Then where is the university?
+Sofia: Cross the bridge and walk past the old clock tower.
+Alex: I can see a large gate over there.
+Sofia: That gate leads to the university hall.
+Alex: Is the college in the same area?
+Sofia: Yes, it is the smaller building beside it.
+Alex: Good. I also need a store that sells notebooks.
+Sofia: There is one between the college and the station.
+Alex: What is the tall brick building outside town?
+Sofia: It was a factory, but now it is an art centre.
+Alex: Your short tour has answered all my questions!

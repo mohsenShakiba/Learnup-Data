@@ -1,0 +1,21 @@
+028. Computers and Devices
+Words: user, program, network, data, link, connect, tablet, button, copy, print, profile, information
+
+Topic: Setting Up a New Tablet
+
+Nina: Leo, can you help me set up this new tablet?
+Leo: Sure. First, press the round button on the side.
+Nina: It is asking me to connect to our home network.
+Leo: Choose the network name and enter the password.
+Nina: Done. Now the program wants a user name.
+Leo: You can use the same name as your school profile.
+Nina: Should I copy my old photos onto the tablet?
+Leo: Yes, but check how much data you have first.
+Nina: There is enough space for all of them.
+Leo: Good. I sent you a link to the reading app.
+Nina: I opened it. It needs some personal information.
+Leo: Only add the information that is required.
+Nina: Can this tablet also print my school work?
+Leo: Yes, when we connect it to the printer.
+Nina: Everything is ready now. Thank you.
+Leo: You are welcome. Try not to forget the password!

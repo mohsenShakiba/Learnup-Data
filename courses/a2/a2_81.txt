@@ -1,0 +1,21 @@
+081. Making Decisions
+Words: decision, decide, choice, option, consider, reason, advantage, benefit, effect, result, possible, likely
+
+Topic: Choosing a New Apartment
+
+Nora: Sam, I need to decide between two apartments.
+Sam: What is the main reason for moving?
+Nora: I want to live closer to work.
+Sam: Then consider the apartment near the station.
+Nora: Its main advantage is the short journey.
+Sam: What is the other option?
+Nora: A larger apartment beside the park.
+Sam: More space is a clear benefit.
+Nora: Yes, but the rent will have a big effect on my budget.
+Sam: Is it possible to visit both again?
+Nora: Yes, I can see them on Saturday.
+Sam: That will likely make the choice easier.
+Nora: I should not make a quick decision.
+Sam: Right. Compare the cost and travel time.
+Nora: Then the result of my comparison will be clear.
+Sam: Good. You will know which home feels right.

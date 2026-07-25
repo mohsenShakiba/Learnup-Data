@@ -1,0 +1,21 @@
+051. Flying Abroad
+Words: flying, passenger, abroad, foreign, journey, transport, distance, pack, gate, seat, route, tour
+
+Topic: A First Flight Abroad
+
+Amy: Luke, have you finished packing for our journey?
+Luke: Yes. I cannot believe we are flying abroad tomorrow.
+Amy: It will be my first visit to a foreign country.
+Luke: Mine too. Did you pack your passport?
+Amy: Yes, it is in the front of my bag.
+Luke: Good. Our airport transport arrives at six.
+Amy: Which gate does our flight leave from?
+Luke: Gate twelve, but we should check the screen.
+Amy: Do you know our seat numbers?
+Luke: Yes. You have the window seat, and I am beside you.
+Amy: Great. I want to see the whole route from the air.
+Luke: It is a long distance, so bring a book too.
+Amy: Every passenger also gets a small meal.
+Luke: After we land, we join a city tour.
+Amy: This trip has a very busy beginning.
+Luke: We can sleep on the plane!

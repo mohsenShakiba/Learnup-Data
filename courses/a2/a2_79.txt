@@ -1,0 +1,21 @@
+079. Measuring Things
+Words: size, height, weight, distance, temperature, speed, amount, quantity, level, average, exact, figure
+
+Topic: Measuring for a New Shelf
+
+Amy: Luke, will this new shelf fit beside the window?
+Luke: Let us measure the exact distance first.
+Amy: The space is one hundred centimetres wide.
+Luke: Good. What is the height of the shelf?
+Amy: The figure on the box says eighty centimetres.
+Luke: Then the size is right for the room.
+Amy: Can the floor take its weight?
+Luke: Yes. The shelf is light when it is empty.
+Amy: What quantity of books can it hold?
+Luke: About sixty books of average size.
+Amy: That is a large amount for a small shelf.
+Luke: Do not fill it above the safe level.
+Amy: The room temperature will not affect it, will it?
+Luke: No. Only water could damage the wood.
+Amy: We measured everything at great speed.
+Luke: Yes. Now building it will take much longer!

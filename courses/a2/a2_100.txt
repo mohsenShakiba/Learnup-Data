@@ -1,0 +1,21 @@
+100. Technology and Society
+Words: invention, network, data, program, user, connect, information, modern, change, society, public, benefit
+
+Topic: A Modern Library System
+
+Ruby: Ben, the public library has a new computer system.
+Ben: Yes. Every user can now borrow books by phone.
+Ruby: Which program do I need?
+Ben: Download the library program from this page.
+Ruby: Does it connect to the town network?
+Ben: Yes, but your personal data stays private.
+Ruby: What information do I enter first?
+Ben: Only your name and library card number.
+Ruby: This modern system is a useful invention.
+Ben: It will change how many people use the library.
+Ruby: What is the biggest benefit?
+Ben: You can check if a book is available from home.
+Ruby: Technology can help every part of society.
+Ben: Yes, when everyone can understand and use it.
+Ruby: My account is ready now.
+Ben: Great. Let us find your first book.

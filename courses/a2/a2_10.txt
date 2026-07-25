@@ -1,0 +1,23 @@
+010. Shopping and Money
+Words: shopping, cost, cheap, expensive, cash, credit, sale, store, product, item, quantity, order
+
+Topic: Mugs, Money, and Muscles
+
+Nora: Sam, can you help me with some shopping for the cafe?
+Sam: Sure. What item do we need today?
+Nora: We need twelve new mugs, so your arms can relax. We are not buying a fridge.
+Sam: Good! I was not ready to carry a fridge across the store.
+Nora: Look, they have a large quantity of blue mugs on this shelf.
+Sam: The sign says this product is part of the weekend sale.
+Nora: Great. How much does each mug cost?
+Sam: Four pounds. That is quite cheap.
+Nora: The white mugs are more expensive.
+Sam: They have gold lines, but the coffee will taste the same.
+Nora: True. Let us order twelve blue ones.
+Sam: First, we should check that none of them are broken.
+Nora: They are all fine, and one has a picture of a sleepy cat.
+Sam: That one is perfect for me before my morning coffee.
+Nora: Should we pay with cash or credit?
+Sam: You have enough cash, and the shopkeeper can pack them in two boxes.
+Nora: Perfect. We can carry one box each.
+Sam: I knew this shopping trip had a hidden cost: exercise!

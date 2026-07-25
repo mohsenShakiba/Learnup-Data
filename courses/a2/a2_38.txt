@@ -1,0 +1,21 @@
+038. At the Doctor's
+Words: medical, patient, condition, disease, illness, drug, blood, heart, stomach, skin, headache, dentist
+
+Topic: A Check After Dental Work
+
+Mia: Daniel, what brings you to the medical centre today?
+Daniel: I have felt ill since I visited the dentist yesterday.
+Mia: Did the dentist give you a drug for pain?
+Daniel: Yes, and I took it without eating.
+Mia: That may explain your stomach problem.
+Daniel: I also have a small red area on my skin.
+Mia: I will check it. Do you have a headache?
+Daniel: No, my head feels fine.
+Mia: Good. I will also check your heart and blood pressure.
+Daniel: Is my condition serious?
+Mia: No. I do not see signs of a disease.
+Daniel: That is good news.
+Mia: You should take this drug only after food.
+Daniel: I understand. Should I call the dentist too?
+Mia: Yes, tell him about your short illness.
+Daniel: Thank you. I am a less worried patient now.

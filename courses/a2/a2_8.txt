@@ -1,0 +1,23 @@
+008. Family and People
+Words: grandparent, couple, twin, kid, teenager, male, lady, married, divorced, marry, birth, relationship
+
+Topic: Building a Family Tree
+
+Anna: Paul, can you help me make a family tree with this old photo album?
+Paul: Sure. The dates under the photos will help us.
+Anna: Who is the smiling couple on the first page?
+Paul: They are our grandparents. The lady in blue is Grandma Rose.
+Anna: So the man beside her is our other grandparent, Grandpa Joe.
+Paul: That is right. They have been married for fifty years.
+Anna: Who are the two babies in the next photo?
+Paul: They are Mum and Aunt Rosa. They are twin sisters.
+Anna: The date says the photo was taken a month after their birth.
+Paul: Yes. Grandma wrote the date under every baby photo.
+Anna: Who is the little kid with the red ball on the next page?
+Paul: That is you at four. The male teenager beside you is our cousin David.
+Anna: Who is the man standing beside Aunt Rosa in this later photo?
+Paul: That is Uncle Rob. They were married when the photo was taken.
+Anna: Are Aunt Rosa and Uncle Rob still married?
+Paul: No, they are divorced now, but they have a friendly relationship.
+Anna: Here is Mum and Dad's wedding photo. When did they marry?
+Paul: They married in 1998, two years before your birth.

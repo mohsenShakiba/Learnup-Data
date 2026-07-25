@@ -1,0 +1,21 @@
+049. The Countryside
+Words: village, field, grass, forest, hill, valley, ground, grow, natural, wild, season, lake
+
+Topic: A Walk Around the Farm
+
+Ruby: Ben, your village is quieter than the city.
+Ben: Yes. Would you like to walk around the farm?
+Ruby: I would. What do you grow in this field?
+Ben: We grow corn here during the warm season.
+Ruby: The grass beside it is very green.
+Ben: The ground stays wet because the lake is near.
+Ruby: Can we see the lake from that hill?
+Ben: Yes, and the whole valley is clear from the top.
+Ruby: What is beyond the valley?
+Ben: There is a large forest with natural walking paths.
+Ruby: Do many wild animals live there?
+Ben: Mostly rabbits, deer, and small birds.
+Ruby: This area has everything: fields, water, and trees.
+Ben: That is why my family likes living here.
+Ruby: Let us climb the hill before lunch.
+Ben: Good idea. I will show you the best view.

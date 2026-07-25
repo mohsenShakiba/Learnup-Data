@@ -1,0 +1,21 @@
+058. Energy and Heat
+Words: power, gas, oil, heat, burn, temperature, factory, equipment, produce, effect, environment, pollution
+
+Topic: Visiting a Modern Power Factory
+
+Maya: Leo, this power factory is quieter than I expected.
+Leo: Yes. Most of its equipment is new.
+Maya: What does the factory use to produce energy?
+Leo: It mainly uses sunlight, but it keeps gas for emergencies.
+Maya: Does it burn oil too?
+Leo: No. Burning oil would create more pollution.
+Maya: How do these large machines use heat?
+Leo: The heat makes water move through the equipment.
+Maya: That water must reach a high temperature.
+Leo: It does, so workers cannot touch the pipes.
+Maya: Does this factory have a good effect on the town?
+Leo: Yes. It gives clean power to many homes.
+Maya: That is better for the environment.
+Leo: It also costs less to operate now.
+Maya: I learned a lot during this visit.
+Leo: Me too. Clean energy is easier to understand here.

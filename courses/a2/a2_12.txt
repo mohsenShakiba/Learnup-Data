@@ -1,0 +1,21 @@
+012. Eating at a Restaurant
+Words: serve, order, bowl, plate, fork, knife, recipe, bar, tip, guest, delicious, choice
+
+Topic: Dinner at the New Restaurant
+
+Mia: Jack, thank you for bringing me to this new restaurant.
+Jack: You are my guest tonight, so choose anything you like.
+Mia: The soup looks delicious. I think I will order that.
+Jack: Good choice. It comes in a large bowl.
+Mia: What are you having?
+Jack: I will have the fish on the blue plate.
+Mia: The menu says it is a family recipe.
+Jack: Then it should be good. Shall we order drinks too?
+Mia: Yes, they serve fresh juice at the bar.
+Jack: I will ask for two orange juices.
+Mia: The waiter brought a fork, but I also need a knife.
+Jack: I will ask him when he brings our food.
+Mia: Everything arrived quickly, and the soup smells lovely.
+Jack: My fish is excellent too.
+Mia: We should leave a tip for the kind waiter.
+Jack: Definitely. He made our first visit very pleasant.

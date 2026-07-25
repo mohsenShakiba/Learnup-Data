@@ -1,0 +1,21 @@
+023. Body Movement
+Words: movement, step, jump, climb, lift, push, pull, throw, drop, rise, reach, carry
+
+Topic: Moving the Old Sofa
+
+Lina: Ben, can you help me carry this small sofa upstairs?
+Ben: Yes, but every movement must be slow and careful.
+Lina: I will lift this end, and you take the other end.
+Ben: Good. Now pull it towards the first step.
+Lina: Should I push while you climb?
+Ben: Yes, but do not let your end drop.
+Lina: The sofa cannot jump up the stairs by itself!
+Ben: Sadly, it cannot. Let us rise together on three.
+Lina: One, two, three. We reached the second step.
+Ben: Only ten more steps to climb.
+Lina: I cannot reach the side because this cushion is moving.
+Ben: Throw the cushion onto the top floor.
+Lina: Done. That made the sofa lighter.
+Ben: Now push again while I move backwards.
+Lina: We made it! The sofa is finally upstairs.
+Ben: Great. I hope you never want it downstairs again.

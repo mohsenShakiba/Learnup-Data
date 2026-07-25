@@ -1,0 +1,21 @@
+020. Ways of Travelling
+Words: transport, vehicle, lorry, ship, driving, passenger, wheel, gas, underground, station, speed, cycle
+
+Topic: Choosing Transport for the Trip
+
+Ivy: Mark, how should we travel to the coast tomorrow?
+Mark: We could take the underground to the central station.
+Ivy: Then we could catch a train from there.
+Mark: Yes. Public transport will be easier than driving.
+Ivy: Your car is a small vehicle for such a long trip.
+Mark: It also needs gas, and that costs a lot now.
+Ivy: A lorry moved very slowly in front of us last time.
+Mark: I remember. One wheel had a problem.
+Ivy: Could we travel by ship from the river?
+Mark: The ship is for tours, not for this route.
+Ivy: I would like to cycle, but the coast is too far.
+Mark: My cycling speed would make the trip take two days.
+Ivy: Then the train is our best choice.
+Mark: We can relax as a passenger instead of watching the road.
+Ivy: Great. I will buy the tickets online now.
+Mark: And I will check the train time from the station.

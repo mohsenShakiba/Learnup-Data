@@ -1,0 +1,21 @@
+080. Solving Problems
+Words: problem, solution, solve, method, explanation, reason, decision, choice, option, consider, result, improve
+
+Topic: Saving the School Garden
+
+Mia: Jack, the plants in our school garden look dry.
+Jack: Yes. We need to find the reason for this problem.
+Mia: The soil is wet, so they have enough water.
+Jack: Maybe they do not get enough sunlight.
+Mia: That is a possible explanation.
+Jack: We should consider moving them away from the wall.
+Mia: That is one option. What other choice do we have?
+Jack: We could cut back the tree above them.
+Mia: Moving the pots is an easier method.
+Jack: Agreed. Let us make that our decision.
+Mia: We can solve the light problem this afternoon.
+Jack: Then we should watch the result for one week.
+Mia: If the plants improve, our solution worked.
+Jack: If they do not, we can try the tree idea.
+Mia: Good. We have a clear plan now.
+Jack: Let us move the first pot together.

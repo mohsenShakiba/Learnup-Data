@@ -1,0 +1,21 @@
+026. Books and Stories
+Words: author, novel, fiction, article, title, page, character, scene, beginning, final, description, dialogue
+
+Topic: Choosing a Book Club Story
+
+Sara: Tom, which book should we read for our book club?
+Tom: I found a short fiction novel by a local author.
+Sara: What is the title?
+Tom: It is called "The Last Green Door."
+Sara: What happens at the beginning?
+Tom: The main character finds a key on page one.
+Sara: Does the book give a clear description of the key?
+Tom: Yes. It is old, silver, and very small.
+Sara: Is there much dialogue in the story?
+Tom: Yes, especially in the cafe scene.
+Sara: That sounds easier to read than a long history article.
+Tom: It is. The story is only eighty pages.
+Sara: Do not tell me the final part.
+Tom: I will not. The ending is the best part.
+Sara: Then let us choose this novel for Friday.
+Tom: Great. I will tell the other club members.

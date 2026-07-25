@@ -1,0 +1,21 @@
+046. Having Guests at Home
+Words: guest, invite, invitation, greet, prepare, tidy, comfortable, seat, towel, sheet, offer, serve
+
+Topic: Preparing the Guest Room
+
+Maya: Ben, Aunt Lucy accepted our invitation for the weekend.
+Ben: Great. She will be our first overnight guest.
+Maya: We need to prepare the small bedroom for her.
+Ben: I will tidy the desk and clean the floor.
+Maya: Please put a fresh sheet on the bed too.
+Ben: Done. The bed looks comfortable now.
+Maya: Put a clean towel beside the lamp.
+Ben: Should we add a soft seat near the window?
+Maya: Yes, she likes to read in the morning.
+Ben: What food will we serve when she arrives?
+Maya: I will make soup and fresh bread.
+Ben: We can offer her tea before dinner.
+Maya: Good idea. I will greet her at the door.
+Ben: Why did you invite her this weekend?
+Maya: She wants to see our new home.
+Ben: Then everything is ready for her visit.

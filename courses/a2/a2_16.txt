@@ -1,0 +1,21 @@
+016. My Neighbourhood
+Words: neighbour, community, building, hall, station, store, area, public, crowded, noise, visitor, village
+
+Topic: Showing a Neighbour Around
+
+Hana: Omar, welcome to our neighbourhood.
+Omar: Thanks. I am glad to be your new neighbour.
+Hana: I can show you the area before dinner.
+Omar: That would help. Where is the nearest store?
+Hana: It is inside the red building across the street.
+Omar: Is the train station far from here?
+Hana: No, it is a five-minute walk past the public library.
+Omar: The street is a little crowded now.
+Hana: Yes, but the noise becomes lower after six.
+Omar: What is the large hall beside the park?
+Hana: It is our community hall. We meet there on Fridays.
+Omar: Can a new visitor join the meetings?
+Hana: Of course. Everyone from the neighbourhood is welcome.
+Omar: This area feels friendly, like a small village.
+Hana: It does, although we are near the city centre.
+Omar: I think I will enjoy living here.

@@ -1,0 +1,21 @@
+074. Online Profiles and Networks
+Words: network, profile, user, connect, link, data, information, social, communicate, share, public, program
+
+Topic: Making a Safer Online Profile
+
+Lily: Noah, can you check my new social profile?
+Noah: Sure. Is it on the school network?
+Lily: Yes. Every student can be a user.
+Noah: Your photo is nice, but your phone number is public.
+Lily: I did not mean to share that information.
+Noah: Open the privacy program and hide it.
+Lily: Done. Does the network keep my data safe?
+Noah: It helps, but you must choose what you post.
+Lily: Can I connect with students from other classes?
+Noah: Yes, if you know who they are.
+Lily: I added a link to our art club page.
+Noah: That is fine because the page is public.
+Lily: We can communicate about the next meeting there.
+Noah: Good. Never share your password with anyone.
+Lily: I will not. My profile is safer now.
+Noah: Great. Now you can enjoy the network carefully.

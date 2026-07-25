@@ -1,0 +1,21 @@
+048. Buildings and Construction
+Words: building, wood, wooden, stone, ground, roof, tower, bridge, hole, tool, equipment, repair
+
+Topic: Building a Garden Playhouse
+
+Lena: Mark, the children's playhouse is almost finished.
+Mark: Yes. The small wooden building looks strong.
+Lena: Did you use wood for every wall?
+Mark: Yes, but the floor stands on stone blocks.
+Lena: That keeps it above the wet ground.
+Mark: Exactly. Now I need to finish the roof.
+Lena: Which tool do you need?
+Mark: The small hammer from my equipment box.
+Lena: Here it is. What is that hole beside the door?
+Mark: It is for a round window.
+Lena: The children want a little tower too.
+Mark: We can add one later if we have enough wood.
+Lena: They also asked for a bridge to the tree.
+Mark: That sounds fun, but safety comes first.
+Lena: Is there anything we need to repair now?
+Mark: No. We only need to paint the playhouse.

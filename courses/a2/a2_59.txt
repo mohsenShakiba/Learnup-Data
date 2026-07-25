@@ -1,0 +1,21 @@
+059. Seasons and Climate
+Words: climate, season, temperature, wind, storm, cloud, wet, dry, heat, sky, predict, change
+
+Topic: Protecting the Garden
+
+Amy: Luke, the garden is very dry today.
+Luke: Yes. The heat has been strong all week.
+Amy: Can the weather report predict any rain?
+Luke: It says the temperature will change tonight.
+Amy: I can see one dark cloud in the sky.
+Luke: A storm may arrive after midnight.
+Amy: Will the wind be strong?
+Luke: Yes, so we should move the small plants inside.
+Amy: This season usually has calm weather.
+Luke: Our climate is changing, so days are less easy to predict.
+Amy: The ground needs rain, but not a wild storm.
+Luke: We can cover the young plants to keep them safe.
+Amy: Then they will get wet without breaking.
+Luke: Good. I will bring the empty pots inside too.
+Amy: After that, we can close the garden gate.
+Luke: Perfect. The garden will be ready for the weather.

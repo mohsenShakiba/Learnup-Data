@@ -1,0 +1,21 @@
+042. Personality
+Words: personality, character, polite, rude, lazy, clever, stupid, quiet, noisy, helpful, independent, creative
+
+Topic: Creating a Cartoon Hero
+
+Lucy: Adam, let us create a new character for our cartoon.
+Adam: Good idea. What kind of personality should she have?
+Lucy: She should be clever and solve problems quickly.
+Adam: She can also be creative and build useful machines.
+Lucy: Should she be quiet or noisy?
+Adam: Quiet at school, but noisy when she sings.
+Lucy: That makes her more interesting.
+Adam: She should be polite to people who need help.
+Lucy: Yes, but the rude king will not listen to her.
+Adam: Then she can be independent and find another way.
+Lucy: We should not make the king look stupid.
+Adam: Right. He can be lazy, but he can still learn.
+Lucy: A helpful robot could travel with our hero.
+Adam: Perfect. The robot can tell simple jokes.
+Lucy: Now both characters have a clear personality.
+Adam: Let us start drawing the first cartoon scene.

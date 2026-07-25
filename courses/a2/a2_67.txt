@@ -1,0 +1,21 @@
+067. University Life
+Words: university, college, education, subject, exam, homework, project, research, schedule, career, training, knowledge
+
+Topic: Planning the First University Week
+
+Maya: Ben, how was your first day at university?
+Ben: Good, but my new schedule looks very busy.
+Maya: Which subject are you most excited about?
+Ben: History, because we have a museum research project.
+Maya: That should add to your knowledge of the city.
+Ben: Yes, but we also have homework every week.
+Maya: When is your first exam?
+Ben: It is not until the end of next month.
+Maya: Then you have time to prepare.
+Ben: The college also offers writing training on Fridays.
+Maya: That could help with your project.
+Ben: I think so. Good education needs more than classes.
+Maya: Have you thought about your future career?
+Ben: I may work in a museum after university.
+Maya: This course sounds right for you.
+Ben: It does. I just need to follow my schedule.

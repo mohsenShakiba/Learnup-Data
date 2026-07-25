@@ -1,0 +1,21 @@
+070. Business and Sales
+Words: sale, advertise, product, cost, cash, credit, store, deal, offer, quantity, produce, order
+
+Topic: Planning a Bakery Sale
+
+Sofia: Alex, we need to plan Saturday's bakery sale.
+Alex: Which product should we advertise in the window?
+Sofia: Our new lemon cake is the best choice.
+Alex: How much does each cake cost to produce?
+Sofia: It costs four pounds, so we can sell it for seven.
+Alex: We could offer two cakes for twelve pounds.
+Sofia: That is a good deal for families.
+Alex: What quantity should we prepare?
+Sofia: Let us make thirty cakes for the store.
+Alex: Should customers order early?
+Sofia: They can, but we will keep ten cakes for visitors.
+Alex: Can people pay with cash or credit?
+Sofia: Yes, we accept both.
+Alex: I will advertise the sale on our town page.
+Sofia: Great. Add a clear photo and the price.
+Alex: Done. Now we only need to bake thirty cakes!

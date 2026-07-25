@@ -1,0 +1,21 @@
+054. Geography and Maps
+Words: continent, region, state, capital, population, area, coast, valley, desert, ocean, distance, earth
+
+Topic: A Geography Map Game
+
+Lina: Ben, will you help me with this map game?
+Ben: Sure. Which continent should we study first?
+Lina: Let us start with this region near the ocean.
+Ben: Can you name the largest state in that area?
+Lina: I think it is the yellow one on the map.
+Ben: Correct. Now find its capital.
+Lina: Is it the city beside the wide river?
+Ben: Yes. It also has the largest population.
+Lina: The coast looks very far from the capital.
+Ben: The distance is about five hundred kilometres.
+Lina: What is the brown area in the south?
+Ben: That is a desert, and this green line is a valley.
+Lina: Geography shows how different places on earth can be.
+Ben: It does. Maps make those differences easier to see.
+Lina: I think I understand this region now.
+Ben: Great. You win the first round of our game.
