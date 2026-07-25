@@ -1,0 +1,27 @@
+002. Clothes and What We Wear
+Words: clothing, pants, sock, belt, suit, tie, pocket, button, size, item, attractive, comfortable
+
+Topic 002: The Missing Sock
+
+Scenario: Maya is helping her brother Daniel get ready for their cousin's wedding.
+
+Maya: Daniel, why are you wearing one black sock and one blue sock?
+Daniel: I cannot find the other black one, and we need to leave soon.
+Maya: Your bed is covered with clothes. It must be here somewhere.
+Daniel: I checked under my pants and behind my suit, but I cannot find it.
+Maya: Wait. What is that strange lump in your jacket pocket?
+Daniel: My missing sock! I put it there when I carried the washing upstairs.
+Maya: We found it. Now, are those pants the right size? They look a little big.
+Daniel: They are comfortable, but I may need a belt.
+Maya: Definitely. We do not want your pants falling down during the wedding photos.
+Daniel: Good point. That would be a very memorable family picture.
+Maya: Here is your brown belt. Now we need one more item: your tie.
+Daniel: Should I wear the red tie or the blue one?
+Maya: The blue one. It looks more attractive with your dark suit.
+Daniel: All right. Can you help me with it? My tie always looks like a sad little rope.
+Maya: Of course. Stand still... There, that looks much better.
+Daniel: Thanks. Am I ready now?
+Maya: Almost. The top button on your jacket is open.
+Daniel: I like it that way. I need space for the wedding cake.
+Maya: All right. You look ready now.
+Daniel: Great! Let’s go before we are late.

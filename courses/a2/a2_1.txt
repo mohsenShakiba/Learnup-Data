@@ -1,0 +1,42 @@
+001. Colours, Shapes, and Sizes
+Words: colour, shape, size, round, square, circle, wide, narrow, thick, thin, clear, pattern
+
+Topic 001: Colours, Shapes, and Sizes
+
+Scenario: Mia and Daniel are at a pottery-painting cafe. They are decorating a plate for their friend Emma's birthday.
+
+Mia: This round plate is lovely, but is it the right size for Emma's present?
+
+Daniel: I think so. The square plate is fun too, but this one gives us more space to paint.
+
+Mia: Good point. What colour should we use?
+
+Daniel: Emma loves blue. We could paint a wide blue line around the edge.
+
+Mia: And then a narrow yellow line beside it. Blue and yellow look cheerful together.
+
+Daniel: Great idea. What shape should we paint in the middle?
+
+Mia: How about a flower? We can make one big circle and add six small circles around it.
+
+Daniel: That sounds easy. Pass me the thick brush for the big circle, please.
+
+Mia: Here you are. I'll use this thin brush for the small ones.
+
+Daniel: Oh no! My big blue circle looks like a fried egg.
+
+Mia: A blue fried egg? Emma will love it. She always laughs at our cooking.
+
+Daniel: Then let's add a simple pattern around it. Maybe little yellow dots?
+
+Mia: Yes, but don't put them too close together. We want the pattern to be clear.
+
+Daniel: You're right. Three dots here, three there... What do you think?
+
+Mia: It looks great! It is not a perfect flower, but it is a very funny birthday plate.
+
+Daniel: Perfect gifts are boring anyway. This one has a story.
+
+Mia: And a blue fried egg!
+
+Daniel: Exactly. Now let's hope Emma never tries to eat breakfast from it.
