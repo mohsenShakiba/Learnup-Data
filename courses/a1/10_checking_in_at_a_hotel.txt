@@ -5,5 +5,7 @@ Thank you. I have a room booked for two nights.
 What is your name, please?
 John Smith.
 Here is your key. Room five, on the first floor.
+Which way is it?
+Upstairs, on the left.
 Great. Thank you.
 Enjoy your stay!

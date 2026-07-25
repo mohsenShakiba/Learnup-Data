@@ -1,9 +1,8 @@
 Talking About the Weather
-sun, rain, snow, warm, wet, dry, weather, day, enjoy, get, go, good, like, nice, outside, think, today, walk, yes
+sun, weather, day, enjoy, get, go, good, like, nice, outside, think, today, walk, yes
 How is the weather today?
 It's warm and sunny.
 That's nice. Is it going to rain?
 No, I don't think so.
-Good. I don't like getting wet.
-Me neither. It's a lovely day for a walk.
-Yes, let's go outside and enjoy the sun.
+It's a lovely day for a walk.
+sure, let's go outside.
