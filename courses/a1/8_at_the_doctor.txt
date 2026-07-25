@@ -1,5 +1,5 @@
 At the Doctor
-doctor, nurse, hospital, sick, healthy, better, feel, cold, tired, help
+doctor, nurse, hospital, sick, healthy, better, feel, cold, tired, help, day, fine, get, good, hello, see, sleep, take, thank, think, today, yes
 Hello, doctor.
 Hello. How do you feel today?
 Not good. I feel sick and very tired.

@@ -1,5 +1,5 @@
 At the Supermarket Checkout
-food, full, pay, card, price, bag, need
+food, full, pay, card, price, bag, need, come, cooking, course, everything, find, fine, friend, great, hand, hi, lot, nice, people, pound, thanks, think, tonight, week, yes
 Hi there. Did you find everything?
 I think so, thanks. My bag is completely full.
 You've got a lot of food. Cooking for a lot of people?

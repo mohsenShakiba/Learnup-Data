@@ -1,5 +1,5 @@
 Drawing Shapes
-draw, pencil, paper, line, yellow, pen, star, picture
+draw, pencil, paper, line, yellow, pen, star, picture, big, close, come, fine, good, hard, like, look, many, never, point, see, small, something, start, sun, take, today, together, try
 Let's draw something today. Take a pencil and some paper.
 I'm not very good at this. My lines are never straight.
 That's fine. Start with a big yellow sun.

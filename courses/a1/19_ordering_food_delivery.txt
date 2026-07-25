@@ -1,5 +1,5 @@
 Ordering Food Delivery
-hungry, food, buy, restaurant, menu, dish, price, hot, cold, eat, dad, some, phone, call, wait, bring, door, soon
+hungry, food, buy, restaurant, menu, dish, price, hot, cold, eat, dad, some, phone, call, wait, bring, door, soon, big, good, great, idea, long, OK, really, show, want
 Dad, I am really hungry.
 OK. Let's buy some food from a restaurant.
 Can you show me the menu?

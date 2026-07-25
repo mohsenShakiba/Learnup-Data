@@ -1,5 +1,5 @@
 At the Train Station
-ticket, train, late, arrive, meeting, fast, wait, cafe
+ticket, train, late, arrive, meeting, fast, wait, cafe, always, behind, buy, could, fine, get, good, little, minute, miss, next, run, sit, small, thanks, trip, use
 Excuse me, where do I buy a ticket to London?
 The machine's just over there.
 Thanks. Is the next train running late?

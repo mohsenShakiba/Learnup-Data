@@ -1,5 +1,5 @@
 Booking a Taxi
-cab, pickup, East, car, traffic, quick, fast, ride, meter, light, excited, year
+cab, pickup, East, car, traffic, quick, fast, ride, meter, light, excited, year, address, airport, arrive, book, course, driver, early, fine, flight, good, great, hi, last, late, like, minute, miss, morning, much, please, pound, start, street, take, thank, time, tomorrow, trip, would
 Hi, I'd like to book a cab to the airport for tomorrow morning, please.
 Of course. What is the pickup address?
 It's 18 East Street.

@@ -1,5 +1,5 @@
 Ordering Coffee
-coffee, tea, cup, milk, sugar, hot, small, large, thanks, cafe
+coffee, tea, cup, milk, sugar, hot, small, large, thanks, cafe, hello, hi, lot, please, want, welcome
 Hello! Welcome to the cafe.
 Hi. Can I have a coffee, please?
 Sure. Small or large?
