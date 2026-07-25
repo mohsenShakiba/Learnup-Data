@@ -1,2 +1,14 @@
 Booking a Taxi
-cab, ride, meter, pickup, fast, quick, car, January, east, blonde, win, cooking, there, them, light, year, everybody, excited, box, be
+cab, pickup, East, car, traffic, quick, fast, ride, meter, light, excited, year
+Hi, I'd like to book a cab to the airport for tomorrow morning, please.
+Of course. What is the pickup address?
+It's 18 East Street.
+Thank you. What time would you like the car to arrive?
+At seven, please. My flight is early, and I'm worried about traffic.
+At that time, traffic is usually light. It's normally a quick ride to the airport.
+That's good. Last year, my cab arrived late, and I nearly missed my flight.
+I understand. The driver will take the fastest route and arrive a few minutes early.
+Great. How much will the ride cost?
+The meter starts at three pounds, and the total is usually about eighteen pounds.
+That's fine. I'm excited about my trip.
+Perfect—your cab is booked for seven o'clock.

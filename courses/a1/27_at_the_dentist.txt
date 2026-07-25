@@ -1,2 +1,11 @@
 At the Dentist
-dentist, tooth, teeth, mouth, drill, filling, gum, floss, ache, fifty, sorry, fifteen, drive, October, take, minute, most, try, during, everything
+doctor, tooth, open, eat, cold, feel, better, afraid
+Good morning, doctor. This tooth has been hurting for days.
+Let me take a look. Open wide for me.
+It really hurts when I eat anything cold.
+I see the problem. Don't worry, it's an easy fix.
+Will it take long? I hate the dentist.
+Only a few minutes. You'll feel much better after.
+That's good to hear. I was quite afraid to come.
+There's nothing to fear. Try to brush it every night.
+I know I should do it more.

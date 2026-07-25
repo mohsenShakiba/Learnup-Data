@@ -1,12 +1,11 @@
 Ordering Food Delivery
-hungry, food, buy, restaurant, menu, hot, eat, dad, television, some
+hungry, food, buy, restaurant, menu, dish, price, hot, cold, eat, dad, some, phone, call, wait, bring, door, soon
 Dad, I am really hungry.
-OK. Let's get some food.
-Can we buy food from the restaurant?
-Good idea. Look at the menu with me.
-I want something hot to eat.
-The food here is very nice.
-When will the food come?
-Very soon. Let's watch television.
-Good. I can't wait to eat.
-Me too!
+OK. Let's buy some food from a restaurant.
+Can you show me the menu?
+Here. The dishes are good and the price is fair.
+I want a big pizza.
+Good idea. I will call them on the phone.
+How long do we wait?
+Not long. They bring it to our door soon.
+Great. I can't wait to eat!

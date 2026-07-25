@@ -1,2 +1,12 @@
 A Phone Number
-dial, contact, ring, area, code, mobile, save, text, telephone, hate, scientist, age, choose, will, customer, beach, us, slow, autumn, meat
+number, call, text, name, answer, message, talk, friend
+Could I get your number? I'd love to call you one day.
+Sure. Have you got a pen?
+Yes, tell me — slowly, please.
+Actually, it's easier if I just text it to you.
+Good idea. Then I'll have your name saved too.
+Call or text me anytime. I always answer.
+Do you prefer calls or messages?
+Messages. I can't really talk at work.
+Same here. It's nice to make a new friend.
+Give me a call this weekend and we'll get a coffee.

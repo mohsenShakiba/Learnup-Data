@@ -1,2 +1,12 @@
 In the English Class
-class, teacher, student, learn, word, speak, listen, sentence, spell, office, ear, its, would, camera, adult, lot, can, thank, brown, look
+student, speak, read, write, class, listen, spell, learn
+Welcome. Are you a new student?
+Yes. I really want to speak English better.
+Can you read and write a little already?
+I can read, but speaking is hard for me.
+That's normal. In this class we listen a lot first.
+Sometimes I know a word but I can't spell it.
+Just ask, and I'll write it on the board.
+Thank you. How should I study at home?
+Read a little every day. That helps the most.
+Then I think I'll learn a lot here.

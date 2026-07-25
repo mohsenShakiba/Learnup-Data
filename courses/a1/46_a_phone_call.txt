@@ -1,2 +1,12 @@
 A Phone Call
-answer, voice, hang, speaker, mute, message, also, sixty, north, month, on, nose, Thursday, each, happy, boat, nineteen, home, twelve, seven
+hello, call, hear, talk, trip, morning, late, wait
+Hello? Sorry, I nearly missed your call.
+Hi! Can you hear me? You sound far away.
+Better now. You're talking too fast — slow down.
+Sorry. I'm calling about our trip on Thursday.
+Oh yes! What time do we leave?
+Early. The bus goes at seven in the morning.
+Seven! I hate waiting around that early.
+Don't be late, then. It's a long way.
+How long?
+About twelve hours. We'll be home by night.

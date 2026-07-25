@@ -1,2 +1,12 @@
 At the Supermarket Checkout
-supermarket, cashier, basket, receipt, scan, queue, coupon, trolley, checkout, full, down, chair, famous, so, egg, four, last, my, wall, we
+food, full, pay, card, price, bag, need
+Hi there. Did you find everything?
+I think so, thanks. My bag is completely full.
+You've got a lot of food. Cooking for a lot of people?
+Yes, some friends are coming over tonight.
+That's nice. It comes to thirty pounds.
+Can I pay by card?
+Of course. The strawberries were a great price this week.
+I noticed! That's why I got two.
+Do you need a hand with your bags?
+No, I'm fine, thanks. Just careful with the eggs.

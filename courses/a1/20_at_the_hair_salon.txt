@@ -1,12 +1,12 @@
 At the Hair Salon
-hair, cut, short, long, wash, want, good, course, wet, dry
-Hello. How do you want your hair today?
-I want it short, please. It is too long.
-Of course. I will wash it now.
-Yes, please. Then cut it short.
-Do you want it wet or dry?
-Dry, please.
-OK. You have very nice hair.
-Thank you. It looks good.
-There you are. Do you like it?
-Yes, it is beautiful. Thank you!
+hair, cut, wash, short, long, wet, dry, chair, sit, want, course, please, good, nice, look
+Hello. Please sit in this chair. How do you want your hair today?
+It is far too long. I want it short.
+Of course. First I will wash it, then cut it.
+That sounds good. My hair is always a mess in the morning.
+It is wet now. Is this short enough?
+A little shorter on the sides, please.
+There. Now I will dry it.
+It looks really nice already.
+All dry now. Do you like the new look?
+I feel like a new person!
