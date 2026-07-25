@@ -1,10 +1,8 @@
 Saying Goodbye
-goodbye, leave, soon, again, late, tomorrow, home, morning, bye, good, have to, night, OK, see, sound, thanks, time, yes
-I have to leave now.
+goodbye, leave, late, home, tomorrow, morning, night, again, soon, bye, have to, see, time, same, good, OK, yes
+I have to leave now. It is late.
 OK. Are you going home?
-Yes. It is late.
-See you again tomorrow, then.
-Yes. Same time in the morning?
-Yes, that sounds good. Goodbye!
-Bye! good night.
-Thanks. See you soon.
+Yes. See you again tomorrow?
+Yes, same time in the morning.
+Good night. Goodbye!
+Bye! See you soon.

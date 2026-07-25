@@ -1,12 +1,10 @@
 A Coffee Break at Work
-break, desk, kitchen, colleague, relax, meeting, sit, have to, eleven, video, chicken, by, back, bring, come, eye, fine, finish, funny, give, go, good, idea, later, minute, morning, need, right, star, time, today, us, want, watch, window
+break, desk, kitchen, colleague, relax, meeting, video, funny, watch, eye, window, finish, eleven, minute, need, give, sit, come, right, good, idea
 Are you coming to the kitchen? I need a break from my desk.
 Give me a minute. I have to finish this before the meeting.
-The meeting isn't until eleven. Come and relax for ten minutes.
-Fine, you're right. My eyes hurt from staring at the screen.
-Did you watch the funny video a colleague sent us this morning?
-The one with the cat? I watched it three times.
-Same here. What did you bring for lunch today?
-Just some chicken and rice. I'll heat it up later.
-Let's sit by the window. It's quieter over there.
-Good idea. I don't want to go back to that desk yet.
+The meeting is at eleven. Come and relax for ten minutes.
+OK, you are right. My eyes hurt.
+Did you watch the funny video a colleague sent us?
+Yes, the one with the cat. Very funny.
+Let's sit by the window. It is quiet there.
+Good idea.

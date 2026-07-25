@@ -1,12 +1,9 @@
 At the Supermarket Checkout
 food, full, pay, card, price, bag, need, come, cooking, course, everything, find, fine, friend, great, hand, hi, lot, nice, people, pound, thanks, think, tonight, week, yes
-Hi there. Did you find everything?
+Hi there. Did you find everything you need?
 I think so, thanks. My bag is completely full.
-You've got a lot of food. Cooking for a lot of people?
+Are you cooking for a lot of people?
 Yes, some friends are coming over tonight.
-That's nice. It comes to thirty pounds.
+Nice. That's thirty pounds.
 Can I pay by card?
-Of course. The strawberries were a great price this week.
-I noticed! That's why I got two.
-Do you need a hand with your bags?
-No, I'm fine, thanks. Just careful with the eggs.
+Of course.

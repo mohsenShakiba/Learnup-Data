@@ -1,12 +1,10 @@
 Meeting a Neighbor
-neighbour, move, house, where, around, fence, live, friendly, dog, bored, garden, go, like, hard, writer, could, same, laugh, across, always, ask, book, day, door, easy, every, everything, family, get, good, hear, hello, help, home, last, learn, long, lot, morning, must, never, next, park, people, right, small, start, still, street, walk, want, week, well, work, would, write, yes
-Hello! You must be the family that just moved into the house next door.
-Yes, we moved in last week. I'm still learning where everything is around here.
-Well, I live right across the fence, so we're neighbours now. It's a friendly street.
-That's good to hear. Is there a park nearby? Our dog gets bored inside all day.
-There's a garden square just around the corner. We go there every morning and my dog likes it.
-Perfect. He's hard to tire out, so a long walk would help.
-What do you do, if you don't mind me asking?
-I'm a writer, so I work from home most days.
-How interesting. I've always wanted to write a book but never could.
-It's the same for a lot of people. Start small, and one day you'll laugh at how easy it was.
+neighbour, move, house, live, friendly, dog, garden, park, writer, street, road, across, door, next, near, walk, work, home, week, last, every, day, long, need, hear, like, great, good
+Hello! Did you just move into this house?
+Yes, we moved in last week.
+I live next door, so we are neighbours now. It is a friendly street.
+That is good to hear. Is there a park near here?
+Yes, there is a garden across the road. Our dog likes it.
+Great. Our dog needs a long walk every day.
+What work do you do?
+I am a writer. I work at home most days.

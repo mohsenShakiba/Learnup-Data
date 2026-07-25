@@ -1,10 +1,9 @@
 At the Post Office
-post, letter, send, address, country, anything, box, price, euro, money, pay, put, then, week, arrive, another, course, fine, hello, take, want, yes
+letter, send, address, country, box, price, euro, pay, money, another, fine, want, hello, thank, yes
 Hello. I want to send this letter.
 Where is it going?
 To another country. Here is the address.
-Do you want to send anything else?
-Yes. Can you post this box too?
-Of course. The price for the box is three euros.
-That is fine. I will pay for both. Here is the money.
-Put them here, then. The letter takes about a week to arrive.
+Fine. Do you want to send this box too?
+Yes. What is the price?
+It is three euros. You can pay here.
+Here is the money. Thank you.

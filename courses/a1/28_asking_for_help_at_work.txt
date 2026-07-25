@@ -1,12 +1,11 @@
 Asking for Help at Work
-help, meeting, email, send, letter, busy, desk, address, could, easy, full, get, go, let, minute, miss, much, really, right, see, soon, thank, today, try, type, work, wrong
+help, meeting, send, letter, busy, desk, address, could, easy, full, get, go, let, minute, miss, missing, much, really, right, see, soon, thank, today, try, type, work, wrong
 Could you help me for a minute?
 Sure, what's wrong?
-I've got a meeting soon, but this email won't send.
+I've got a meeting soon, but I can't send this email.
 Let me see. Did you type the address right?
 I thought so, but it won't go through.
 Ah, there's a letter missing here. Try it now.
 It worked! Thank you so much.
 No problem. It's easy to miss when you're busy.
-I really am. My desk is so full today.
-Mine too. Let's both get through this before the meeting.
+

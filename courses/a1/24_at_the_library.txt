@@ -1,12 +1,10 @@
 At the Library
-library, return, read, novel, club, story, yesterday, art, shelf, look, page, sound, book, day, desk, enjoy, every, find, history, know, leave, like, meet, month, name, near, please, talk, Thursday, window, write
-Excuse me, where can I return these books?
-Just leave them on the desk here. Did you enjoy them?
-This novel was wonderful. I read it in two days.
-It's popular. Our book club is reading the same story this month.
-A book club? I didn't know this library had one.
-We meet every Thursday. Yesterday we talked about art and history.
-That sounds lovely. I'd like to sign up for the club.
+library, return, novel, club, story, table, shelf, page, read, book, desk, leave, find, month, name, write, near, window, would, same, day, like, good, please
+Hello, where can I return these books?
+Just leave them on the desk. Did you like them?
+This novel was very good. I read it in two days.
+Our book club is reading the same story this month.
+A book club? I didn't know the library had one. I would like to join.
 Sure. Please write your name on this page.
-Where can I find more novels like this?
-The novels are on the third shelf, near the window.
+Where can I find more novels?
+They are on that shelf, near the window.

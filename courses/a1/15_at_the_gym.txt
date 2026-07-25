@@ -1,11 +1,9 @@
 At the Gym
-gym, run, strong, exercise, swim, pool, body, arm, leg, foot, best, come, course, day, good, hi, idea, like, lot, maybe, minute, start, swimming, thank, today, walk, yes
-Hi! Do you come to this gym a lot?
+gym, exercise, strong, run, leg, foot, swim, pool, body, tired, come, often, start, minute, day, today, like, good, idea, hi, yes, thank
+Hi! Do you come to this gym often?
 Yes, most days. I like to exercise here.
-What exercise do you like best?
-Swimming, of course.
-Where should I start?
-Maybe start running for about 10 minutes.
-I can't run my feet hurt today.
-Okay, then just walk in the pool.
+I want to get strong. Where should I start?
+You can run for about ten minutes first.
+My legs and feet are tired today.
+Then swim in the pool. It is good for your body.
 That is a good idea. Thank you!
