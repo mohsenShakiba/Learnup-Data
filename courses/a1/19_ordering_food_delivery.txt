@@ -1,5 +1,6 @@
 Ordering Food Delivery
-hungry, food, restaurant, menu, dish, buy, phone, call, wait, bring, door, big, long, really, some, good, idea, want
+New vocabs: hungry, menu, dish, buy, wait, bring, door, long, really, some
+Used vocabs: food, restaurant, phone, call, big, good, idea, want
 I am really hungry.
 Let's buy some food from a restaurant.
 Can I see the menu?

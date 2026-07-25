@@ -1,5 +1,6 @@
 Buying Winter Clothes
-sweater, winter, red, blue, hat, white, pink, skirt, pair, grey
+New vocabs: sweater, winter, red, blue, hat, white, pink, skirt, pair, grey
+Used vocabs: 
 I need a warm sweater for winter.
 We have this red one, or the blue.
 The blue is nice. Do you have a hat too?

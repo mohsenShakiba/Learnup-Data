@@ -1,5 +1,6 @@
 The Weather Forecast
-rain, hot, warm, cold, wet, dry, coat, umbrella, warm, summer, anything, bring, day, get, hate, hot, know, lot, outside, room, say, snow, sometimes, still, take, time, today, week, weekend, yes
+New vocabs: rain, warm, umbrella, warm, say, snow
+Used vocabs: hot, cold, wet, dry, coat, summer, anything, bring, day, get, hate, hot, know, lot, outside, room, sometimes, still, take, time, today, week, weekend, yes
 Did you catch the weather for the weekend?
 Yes, they're saying a lot of rain.
 Oh no. Cold too?

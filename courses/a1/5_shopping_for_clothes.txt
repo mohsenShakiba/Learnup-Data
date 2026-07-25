@@ -1,5 +1,6 @@
 Shopping for Clothes
-clothes, shirt, wear, dress, jacket, shoe, trousers, jeans, black, way, everything, hello, help, like, look, new, please, take, would, yes, sure
+New vocabs: clothes, shirt, wear, dress, jacket, shoe, trousers, jeans, black, everything, help, new, take, sure
+Used vocabs: way, hello, like, look, please, would, yes
 Hello. Can I help you?
 Yes. I'm looking for some new clothes.
 What would you like to wear?

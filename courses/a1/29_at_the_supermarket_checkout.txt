@@ -1,5 +1,6 @@
 At the Supermarket Checkout
-food, full, pay, card, price, bag, need, come, cooking, course, everything, find, fine, friend, great, hand, hi, lot, nice, people, pound, thanks, think, tonight, week, yes
+New vocabs: card, bag, cooking, hand, people
+Used vocabs: food, full, pay, price, need, come, course, everything, find, fine, friend, great, hi, lot, nice, pound, thanks, think, tonight, week, yes
 Hi there. Did you find everything you need?
 I think so, thanks. My bag is completely full.
 Are you cooking for a lot of people?

@@ -1,5 +1,6 @@
 At the Dentist
-doctor, tooth, open, eat, cold, feel, better, afraid, anything, come, day, easy, every, good, hate, hear, know, let, long, look, minute, morning, much, night, nothing, really, see, take, try
+New vocabs: tooth, open, easy, hate, know, let, nothing
+Used vocabs: doctor, eat, cold, feel, better, afraid, anything, come, day, every, good, hear, long, look, minute, morning, much, night, really, see, take, try
 Good morning, doctor. This tooth has been hurting for days.
 Let me take a look. Open wide for me.
 It really hurts when I eat anything cold.

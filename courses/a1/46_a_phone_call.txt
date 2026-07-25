@@ -1,5 +1,6 @@
 A Phone Call
-hello, call, hear, talk, trip, morning, late, wait, around, away, better, bus, early, far, fast, hate, hi, home, hour, leave, long, miss, night, slow, sorry, sound, Thursday, time, way, yes
+New vocabs: away, slow, Thursday
+Used vocabs: hello, call, hear, talk, trip, morning, late, wait, around, better, bus, early, far, fast, hate, hi, home, hour, leave, long, miss, night, sorry, sound, time, way, yes
 Hello? Sorry, I nearly missed your call.
 Hi! Can you hear me? You sound far away.
 Better now. You're talking too fast — slow down.

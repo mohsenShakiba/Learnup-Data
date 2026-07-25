@@ -1,5 +1,6 @@
 At the Library
-library, return, novel, club, story, table, shelf, page, read, book, desk, leave, find, month, name, write, near, window, would, same, day, like, good, please
+New vocabs: library, return, novel, club, story, shelf, page, read, find, month, write
+Used vocabs: table, book, desk, leave, name, near, window, would, same, day, like, good, please
 Hello, where can I return these books?
 Just leave them on the desk. Did you like them?
 This novel was very good. I read it in two days.

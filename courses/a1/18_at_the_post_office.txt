@@ -1,5 +1,6 @@
 At the Post Office
-letter, send, address, country, box, price, euro, pay, money, another, fine, want, hello, thank, yes
+New vocabs: letter, send, address, country, box, price, euro, pay, another
+Used vocabs: money, fine, want, hello, thank, yes
 Hello. I want to send this letter.
 Where is it going?
 To another country. Here is the address.

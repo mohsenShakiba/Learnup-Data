@@ -1,5 +1,6 @@
 Famous People
-famous, actor, rich, scientist, poor, adult, newspaper
+New vocabs: famous, actor, rich, scientist, poor, adult, newspaper
+Used vocabs: 
 Who is the most famous person you admire?
 A scientist. She grew up poor but changed the world.
 Not an actor or someone rich?

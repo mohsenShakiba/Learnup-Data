@@ -1,5 +1,6 @@
 At the Airport
-airport, flight, plane, fly, land, ticket, window, holiday, vacation, cow, me, why, very, afraid, dirty, black, die, purple, chocolate, swimming, good, great, hello, leave, much, nice, please, see, thank, time, trip, yes
+New vocabs: airport, flight, plane, fly, land, ticket, window, holiday, vacation, cow, me, why, very, afraid, dirty, die, purple, chocolate, swimming, leave, trip
+Used vocabs: black, good, great, hello, much, nice, please, see, thank, time, yes
 Hello. Can I see your ticket, please?
 Yes, here you are.
 Thank you. Where are you going?

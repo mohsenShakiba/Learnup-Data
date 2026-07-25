@@ -1,5 +1,6 @@
 A Coffee Break at Work
-break, desk, kitchen, colleague, relax, meeting, video, funny, watch, eye, window, finish, eleven, minute, need, give, sit, come, right, good, idea
+New vocabs: break, desk, kitchen, colleague, relax, meeting, video, funny, eye, finish, eleven, give
+Used vocabs: watch, window, minute, need, sit, come, right, good, idea
 Are you coming to the kitchen? I need a break from my desk.
 Give me a minute. I have to finish this before the meeting.
 The meeting is at eleven. Come and relax for ten minutes.

@@ -1,5 +1,6 @@
 In the English Class
-student, speak, read, write, class, listen, spell, learn, ask, better, day, every, hard, help, home, know, little, lot, new, really, sometimes, study, thank, think, want, welcome, word, yes
+New vocabs: student, speak, class, listen, spell, learn, ask, sometimes, study, word
+Used vocabs: read, write, better, day, every, hard, help, home, know, little, lot, new, really, thank, think, want, welcome, yes
 Welcome. Are you a new student?
 Yes. I really want to speak English better.
 Can you read and write a little already?

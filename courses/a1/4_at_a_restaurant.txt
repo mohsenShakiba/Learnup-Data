@@ -1,5 +1,6 @@
 At a Restaurant
-restaurant, waiter, table, food, eat, bill, meal, drink, course, enjoy, evening, good, like, look, please, something, thank, way, would
+New vocabs: restaurant, waiter, table, food, eat, bill, meal, drink, course, enjoy, evening, good, like, look, something, would
+Used vocabs: please, thank, way
 Good evening. A table for two, please.
 Of course. This way, please.
 Thank you. What would you like to eat?

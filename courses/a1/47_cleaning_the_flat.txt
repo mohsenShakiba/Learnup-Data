@@ -1,5 +1,6 @@
 Cleaning the Flat
-clean, flat, wash, kitchen, floor, bathroom, window, bedroom, air, arrive, bed, dirty, fast, finish, good, great, help, idea, like, look, make, much, need, new, open, parent, place, really, start, take, thanks
+New vocabs: clean, flat, bathroom, bedroom, air
+Used vocabs: wash, kitchen, floor, window, arrive, bed, dirty, fast, finish, good, great, help, idea, like, look, make, much, need, new, open, parent, place, really, start, take, thanks
 Let's clean the flat before your parents arrive.
 Good idea. It's really dirty. Where do we start?
 You wash the kitchen floor, I'll take the bathroom.

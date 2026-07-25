@@ -1,5 +1,6 @@
 Meeting Someone New
-hello, hi, name, meet, friend, nice, from, please, yes, bye, school
+New vocabs: hello, hi, name, meet, friend, nice, from, please, yes, bye, school
+Used vocabs: 
 Hello! My name is Sara.
 Hi, Sara. I'm Ben.
 Nice to meet you, Ben.

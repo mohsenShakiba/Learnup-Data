@@ -1,5 +1,6 @@
 At the Grocery Store
-bread, cheese, fruit, apple, banana, market, potato, onion, carrot, tomato, anything, go, hello, like, many, much, please, thank, today, would, yes
+New vocabs: bread, cheese, fruit, apple, banana, market, potato, onion, carrot, tomato, anything, many, today
+Used vocabs: go, hello, like, much, please, thank, would, yes
 Hello. What would you like today?
 Some bread and cheese, please.
 Here you are. Anything else?

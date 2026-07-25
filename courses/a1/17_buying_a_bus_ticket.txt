@@ -1,5 +1,6 @@
 Buying a Bus Ticket
-bus, ticket, town, pound, money, driver, stop, market, leave, next, near, get, tell, minute, course, please, hello, thank
+New vocabs: bus, town, pound, money, driver, tell
+Used vocabs: ticket, stop, market, leave, next, near, get, minute, course, please, hello, thank
 Hello. A ticket to town, please.
 Of course. That is two pounds.
 Here is the money. When does the next bus leave?

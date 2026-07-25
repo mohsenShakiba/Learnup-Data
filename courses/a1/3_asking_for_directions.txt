@@ -1,5 +1,6 @@
 Asking for Directions
-left, right, street, map, walk, stop, road, here, far, near, end, go, little, minute, much, thank, turn, way, yes
+New vocabs: left, right, street, map, walk, stop, road, here, far, near, end, go, little, minute, much, thank, turn, way
+Used vocabs: yes
 Excuse me, is the station near here?
 No, it's a little far.
 Can I walk there?

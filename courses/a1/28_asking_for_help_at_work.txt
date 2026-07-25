@@ -1,5 +1,6 @@
 Asking for Help at Work
-help, meeting, send, letter, busy, desk, address, could, easy, full, get, go, let, minute, miss, missing, much, really, right, see, soon, thank, today, try, type, work, wrong
+New vocabs: full, missing, type, wrong
+Used vocabs: help, meeting, send, letter, busy, desk, address, could, easy, get, go, let, minute, miss, much, really, right, see, soon, thank, today, try, work
 Could you help me for a minute?
 Sure, what's wrong?
 I've got a meeting soon, but I can't send this email.
@@ -8,4 +9,3 @@ I thought so, but it won't go through.
 Ah, there's a letter missing here. Try it now.
 It worked! Thank you so much.
 No problem. It's easy to miss when you're busy.
-

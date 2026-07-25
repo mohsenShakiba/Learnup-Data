@@ -1,5 +1,6 @@
 A Bike Ride
-bike, bicycle, west, mile, sport, autumn, bottle, thirsty, choose, win
+New vocabs: bike, bicycle, west, mile, sport, autumn, bottle, thirsty, choose, win
+Used vocabs: 
 Do you want to ride bikes this weekend?
 I'd love to. My bicycle is finally fixed.
 Which way should we go?
@@ -8,4 +9,3 @@ How far is that?
 About ten miles. A good bit of sport!
 I love the autumn colours on that road.
 Bring a bottle of water — you'll get thirsty.
-

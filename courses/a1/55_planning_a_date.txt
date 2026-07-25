@@ -1,5 +1,6 @@
 Planning a Date
-date, Wednesday, ago, twice, boring, drive, cool, happen, midnight
+New vocabs: date, Wednesday, ago, twice, boring, drive, cool, happen, midnight
+Used vocabs: 
 Do you want to go on a date on Wednesday?
 Wednesday? What did you have in mind?
 A film. It won a prize a year ago.
