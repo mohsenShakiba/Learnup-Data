@@ -1,0 +1,13 @@
+Buying Winter Clothes
+sweater, winter, red, blue, hat, white, pink, skirt, pair, grey
+I need a warm sweater for winter.
+We have this red one, or the blue.
+The blue is nice. Do you have a hat too?
+Yes, in white or pink.
+I'll take the white hat.
+Do you need anything else?
+A skirt for my daughter. She loves red.
+This red skirt is lovely, and warm too.
+Perfect. And a pair of gloves in grey.
+Here you are. That's everything?
+Yes, thank you.
