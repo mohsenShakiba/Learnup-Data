@@ -8,13 +8,13 @@ Jack: You are my guest tonight, so choose anything you like.
 Mia: The soup looks delicious. I think I will order that.
 Jack: Good choice. It comes in a large bowl.
 Mia: What are you having?
-Jack: I will have the fish on the blue plate.
+Jack: I will order the fish. It comes on a plate with vegetables.
 Mia: The menu says it is a family recipe.
 Jack: Then it should be good. Shall we order drinks too?
 Mia: Yes, they serve fresh juice at the bar.
 Jack: I will ask for two orange juices.
-Mia: The waiter brought a fork, but I also need a knife.
-Jack: I will ask him when he brings our food.
+Mia: The waiter brought my bowl and your plate.
+Jack: Good. I have a fork, but I also need a knife for the fish.
 Mia: Everything arrived quickly, and the soup smells lovely.
 Jack: My fish is excellent too.
 Mia: We should leave a tip for the kind waiter.
