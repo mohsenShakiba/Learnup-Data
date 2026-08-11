@@ -1,0 +1,14 @@
+Two Left Shoes
+A: Excuse me, I have a problem with these shoes.
+B: Are they the wrong size?
+A: No. They are both for my left foot.
+B: Oh, I am sorry! I will bring you another pair.
+A: Thank you.
+B: Here you are. These are the same size.
+A: Good. This pair has one left shoe and one right shoe.
+B: Do they fit?
+A: Yes, they fit perfectly.
+B: Is everything okay now?
+A: Not quite. One shoe is black, and the other is brown.
+B: Oh no! I will get another box.
+A: No, thank you. I think I will try another store.
