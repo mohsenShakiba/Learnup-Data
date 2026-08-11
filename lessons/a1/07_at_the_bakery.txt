@@ -1,0 +1,13 @@
+A Birthday Cake
+A: Hi. Do you have a small cake?
+B: Hello. What kind of cake do you want?
+A: Chocolate, please. It is my sister's birthday today.
+B: I am sorry. I do not have any cakes ready now.
+A: Oh no. The party starts at six.
+B: I can make a small cake for you.
+A: Really? How long does it take?
+B: One hour.
+A: That is great. Can you write "Happy Birthday, Sara" on it?
+B: Yes, of course.
+A: What time can I come back?
+B: Please come back at five.

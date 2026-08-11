@@ -1,0 +1,11 @@
+At the Doctor
+A: Hello. I am here for my flu shot.
+B: Is this your first one?
+A: Yes. I am a little nervous.
+B: Do not worry. It only takes a moment.
+A: Does it hurt?
+B: It feels like a small pinch.
+A: Okay. What do I do now?
+B: Please sit down here.
+A: I am ready.
+B: Great. Let us start.

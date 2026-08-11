@@ -1,0 +1,11 @@
+A Book at the Library
+A: Nora, are you ready to go?
+B: Wait. I need to return this book.
+A: Is it due today?
+B: Yes. The library closes in five minutes.
+A: Then let us go to the return desk now.
+B: Is it downstairs?
+A: Yes, next to the door.
+B: Can we get there in time?
+A: Yes. Come on.
+B: Okay. Let us go.
