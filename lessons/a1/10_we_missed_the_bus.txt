@@ -6,7 +6,7 @@ B: You said we had time.
 A: I looked at the wrong time.
 B: So it is not my fault.
 A: No, but you wanted coffee.
-B: Yes, but you said yes.
+B: Yes, and you agreed.
 A: Okay. We both made a mistake.
 B: The next bus is in thirty minutes.
 A: We both have to be at the airport at five.
@@ -14,4 +14,4 @@ B: Let us take a taxi.
 A: Okay. We can share the cost.
 B: Good. I will call one. We almost missed our flight last time.
 
-Vocabulary: airport, bus, cost, fault, flight, look, mistake, share, taxi, think
+Vocabulary: agree, airport, and, both, bus, flight, have to, last, look, our, taxi, think

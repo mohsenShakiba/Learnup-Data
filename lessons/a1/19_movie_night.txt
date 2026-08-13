@@ -11,4 +11,4 @@ A: You ate all the popcorns!
 B: Don't worry I can make more.
 A: Hurry up then. 
 
-Vocabulary: black, cable, connect, eat, fix, hungry, hurry, movie, night, popcorn
+Vocabulary: black, hungry, movie, night

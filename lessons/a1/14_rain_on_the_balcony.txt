@@ -10,4 +10,4 @@ B: It is in the kitchen, next to the door.
 A: Got it. Everything is dry.
 B: Great. Thank you, Sam.
 
-Vocabulary: clothes, dry, everything, forget, rain, towel
+Vocabulary: clothes, dry, everything, rain, them

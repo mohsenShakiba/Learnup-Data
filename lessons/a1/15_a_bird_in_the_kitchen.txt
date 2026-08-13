@@ -10,4 +10,4 @@ B: Turn off the lights and open the window.
 A: Okay. It is flying out now.
 B: Great. Close the window after it leaves.
 
-Vocabulary: bird, chair, fly, leave, light, touch, turn
+Vocabulary: chair, fly, light, turn
