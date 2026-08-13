@@ -10,3 +10,5 @@ B: What name will you use?
 A: Doctor.
 B: Are you a doctor?
 A: No. Are you a captain?
+
+Vocabulary: always, captain, clever, cup, understand

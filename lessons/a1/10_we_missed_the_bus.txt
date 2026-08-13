@@ -9,7 +9,9 @@ A: No, but you wanted coffee.
 B: Yes, but you said yes.
 A: Okay. We both made a mistake.
 B: The next bus is in thirty minutes.
-A: I need to be at work at five.
+A: We both have to be at the airport at five.
 B: Let us take a taxi.
 A: Okay. We can share the cost.
-B: Good. I will call one.
+B: Good. I will call one. We almost missed our flight last time.
+
+Vocabulary: airport, bus, cost, fault, flight, look, mistake, share, taxi, think

@@ -1,11 +1,15 @@
 A Phone Under the Table
 A: Omar, are you looking for something?
 B: Yes, I cannot find my phone.
-A: Is it in your bag?
-B: No. I looked there.
+A: Was it in your bag?
+B: No. It was in my hand.
+A: I can call your number.
+B: Good. Listen for the sound.
 A: Wait. It is under your table.
-B: Oh, thank goodness!
+B: Oh, great!
 A: You dropped it when you stood up.
-B: I need to call my mom.
+B: I hope it is not broken.
 A: Is the screen okay?
 B: Yes. It works. Thanks, Mia.
+
+Vocabulary: bag, find, hand, number, sound, stand

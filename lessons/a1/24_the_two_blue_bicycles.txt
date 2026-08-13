@@ -12,3 +12,5 @@ B: Your light is white, not red.
 A: You are right. This one is red.
 B: Your bicycle is over there.
 A: Next time, please tell me when you move it.
+
+Vocabulary: bicycle, red, space, tree, truck
