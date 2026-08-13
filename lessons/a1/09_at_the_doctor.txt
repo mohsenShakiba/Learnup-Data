@@ -1,13 +1,11 @@
 At the Doctor
-A: Hello. I am here for my flu shot.
-B: Is this your first one?
-A: Yes. I am a little nervous.
-B: Do not worry. It only takes a moment.
-A: Does it hurt?
-B: It feels like a small pinch.
-A: Okay. What do I do now?
-B: Please sit down here.
-A: I am ready.
-B: Great. Let us start.
+A: Hello, doctor. I feel sick.
+B: Hello. How can I help you?
+A: I have a bad cold. I feel very tired.
+B: I am sorry. You should stay at home today.
+A: Will I get better soon?
+B: It will take a few days.
+A: What should I do?
+B: Rest, sleep well, eat healthy food, drink a lot, and stay warm at home.
 
-Vocabulary: doctor, down, feel, little, only
+Vocabulary: bad, better, cold, doctor, drink, feel, food, healthy, help, home, lot, rest, sick, sleep, stay, tired, warm, well

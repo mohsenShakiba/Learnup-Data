@@ -4,10 +4,10 @@ B: Yes. What happened?
 A: I left my keys inside.
 B: Can you open a window?
 A: No. They are all closed.
-B: Wait. I have your spare key.
-A: Really? I gave it to you last month.
-B: It is in my drawer.
-A: You saved me.
-B: Next time, put one in your bag.
+B: I am sorry. I do not have a key for your house.
+A: That is OK. I do not know what to do.
+B: It is cold outside. You can stay at my house tonight.
+A: Thank you. We can ask for help tomorrow.
+B: Yes. You can get a new key tomorrow.
 
-Vocabulary: all, give, key, month, open, out, put, window
+Vocabulary: all, ask, cold, house, key, new, open, out, stay, tonight, tomorrow, window

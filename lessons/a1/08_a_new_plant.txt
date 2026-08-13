@@ -1,13 +1,15 @@
 A New Plant
 A: Leila, is that a new plant?
-B: Yes. I got it at the market.
-A: It is very nice.
+B: Yes. I bought it at the local market.
+A: It is beautiful.
 B: Thank you. It is easy to care for.
 A: Does it need a lot of water?
 B: No. I water it once a week.
-A: I want one for my balcony. How much was it?
+A: How much was it?
 B: Twenty dollars.
 A: Oh, that is too expensive for me.
 B: They have smaller plants for five dollars.
+A: I will buy one when I have the money.
+B: Yes, and you can put it in your garden.
 
-Vocabulary: dollar, easy, lot, market, much, once, plant, thank, week
+Vocabulary: beautiful, buy, dollar, easy, garden, local, lot, market, money, much, once, plant, thank, week
