@@ -3,11 +3,13 @@ A: Nora, can you help me?
 B: Sure. What is wrong?
 A: A small bird is in my kitchen.
 B: Is the window open?
-A: Yes, but it is behind the chair.
-B: Do not touch it.
+A: Yes. It came through the window.
+B: Ok let me think.
+A: It is on a chair. I can catch it.
+B: No, Stop, Do not touch it.
 A: What should I do?
-B: Turn off the lights and open the window.
+B: Turn off the lights make sure the room is dark.
 A: Okay. It is flying out now.
 B: Great. Close the window after it leaves.
 
-Vocabulary: chair, fly, light, turn
+Vocabulary: chair, dark, fly, light, room, stop, through, turn

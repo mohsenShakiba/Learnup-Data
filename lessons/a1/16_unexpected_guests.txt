@@ -2,7 +2,9 @@ Unexpected Guests
 A: Maya, why are you cleaning so fast?
 B: My aunt and uncle are coming.
 A: Today?
-B: Yes. They will be here in one hour.
+B: Yes. Please don't be angry.
+A: I'm not, but you must tell me if we have guests.
+B: Sorry I forgot.
 A: Do you have anything for them?
 B: Only some tea.
 A: Then we need to go shopping.
@@ -14,4 +16,4 @@ B: Can you get the fruit?
 A: Yes. I will meet you at home in fifteen minutes.
 B: Perfect. Thank you, Tom.
 
-Vocabulary: anything, aunt, clean, shop, some, uncle
+Vocabulary: angry, anything, aunt, clean, must, shop, some, uncle
