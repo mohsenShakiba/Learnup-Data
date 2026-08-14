@@ -1,17 +1,13 @@
-A Haircut Before an Interview
 A Power Bank
-A: Omar, do you have a power bank?
+A: Omar, I need your phone.
 B: Yes, but I need it too.
 A: My phone only has two percent.
-B: Mine has three percent.
-A: I need to call my boss.
+A: I need to call my wife.
 B: I need to call my mom.
 A: Calling your mom can wait.
-B: No. She is waiting for me.
-A: My boss is waiting for me too.
-B: Fine. We can share it.
-A: Can I charge first, please?
-B: Okay, but only for five minutes.
-A: Deal.
+B: No, My mom needs the address to the hospital.
+A: Fine, your call is more important.
+A: Ok, now give me your phone.
+A: Okay, but only for five minutes.
 
-Vocabulary: fine
+Vocabulary: address, fine, hospital, wife
