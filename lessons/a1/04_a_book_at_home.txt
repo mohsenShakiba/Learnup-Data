@@ -1,0 +1,11 @@
+A Book at Home
+A: Maya, where is my book?
+B: Is it on the table?
+A: No, it is not.
+B: Is it in your bag?
+A: No, it is not in my bag.
+B: Let me help you find it.
+A: Thank you.
+B: You are welcome.
+
+Vocabulary: bag, book, find, help, in, let, me, my, not, on, table

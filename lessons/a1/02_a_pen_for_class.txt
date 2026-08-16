@@ -1,14 +1,11 @@
 A Pen for Class
-A: Maya, can I borrow a pen?
-B: Sorry, I do not have one.
-A: Really? I left mine at home.
-B: I left mine on the kitchen table.
-A: The teacher is coming. 
-B: We need to do something fast.
-A: What can we do?
-B: Maybe we can ask the student behind us.
-A: Good idea. Do you know her?
-B: No, but I can ask.
-A: Please do it quickly.
+A: Maya, do you have a pen?
+B: Sorry, no.
+A: I need a pen for class.
+B: I have a pencil.
+A: Good. Can I use it?
+B: Yes. Here you are.
+A: Thank you.
+B: You are welcome.
 
-Vocabulary: ask, behind, but, can, class, fast, for, good, her, home, idea, it, kitchen, know, leave, left, maybe, need, no, not, on, pen, please, really, something, sorry, student, table, teacher, we, what
+Vocabulary: can, class, do, for, good, have, here, it, need, no, pen, pencil, sorry, thank, use, welcome

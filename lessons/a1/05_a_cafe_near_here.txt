@@ -1,0 +1,11 @@
+A Cafe Near Here
+A: Maya, is there a cafe near here?
+B: Yes, there is.
+A: Where is it?
+B: It is next to the school.
+A: Is it open now?
+B: Yes. Do you want coffee?
+A: Yes, please.
+B: Good. Let us go.
+
+Vocabulary: cafe, coffee, near, next to, open, please, school, there, us, want
