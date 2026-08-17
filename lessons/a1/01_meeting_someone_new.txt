@@ -7,4 +7,4 @@ A: I am from Italy.
 B: Nice to meet you.
 A: Nice to meet you too.
 
-Vocabulary: be, from, hi, meet, nice, to, too, where, yes, you
+Vocabulary: from, hi, meet, nice, to, too, where, yes, you

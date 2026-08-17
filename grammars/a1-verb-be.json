@@ -1,10 +1,10 @@
 {
   "grammar": {
-    "name": "Verb be",
+    "name": "Subject pronouns and verb be",
     "levelId": 1,
-    "order": 2,
-    "estimatedTimeMinutes": 8,
-    "description": "فعل be در جمله‌های ساده و شکل منفی و پرسشی.",
+    "order": 1,
+    "estimatedTimeMinutes": 11,
+    "description": "ضمیرهای فاعلی و فعل be در جمله‌های ساده و شکل منفی و پرسشی.",
     "parentGrammarId": 0,
     "lessons": [
       {
@@ -40,10 +40,66 @@
         "voiceId": 0
       },
       {
+        "title": "ضمیرهای فاعلی",
+        "htmlTag": 1,
+        "content": "ضمیرهای فاعلی",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ضمیرهای فاعلی",
+        "htmlTag": 0,
+        "content": "ضمیرهای فاعلی جای اسم می‌آیند و قبل از فعل قرار می‌گیرند: I، you، he، she، it، we و they. در جمله‌های پایه، انتخاب شکل درست فعل be به همین ضمیر بستگی دارد.",
+        "order": 6,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ضمیر و شکل درست be",
+        "htmlTag": 2,
+        "content": "ضمیر و شکل درست be",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ضمیر و شکل درست be",
+        "htmlTag": 0,
+        "content": "I am؛ you، we و they are؛ he، she و it is. مثلا: I am Maya. You are Tom. She is from Italy.",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "جایگزینی اسم با ضمیر",
+        "htmlTag": 2,
+        "content": "جایگزینی اسم با ضمیر",
+        "order": 9,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "جایگزینی اسم با ضمیر",
+        "htmlTag": 0,
+        "content": "Maya is from Italy. She is from Italy.",
+        "order": 10,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "جایگزینی اسم با ضمیر",
+        "htmlTag": 0,
+        "content": "در جمله دوم، she جای Maya آمده است. استفاده از ضمیر از تکرار اسم جلوگیری می‌کند و به ما کمک می‌کند شکل درست be را انتخاب کنیم.",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
         "title": "کاربرد 1: معرفی هویت یا نقش",
         "htmlTag": 2,
         "content": "کاربرد 1: معرفی هویت یا نقش",
-        "order": 5,
+        "order": 12,
         "language": "fa",
         "voiceId": 0
       },
@@ -51,7 +107,7 @@
         "title": "کاربرد 1: معرفی هویت یا نقش",
         "htmlTag": 0,
         "content": "I am a student.",
-        "order": 6,
+        "order": 13,
         "language": "en",
         "voiceId": 0
       },
@@ -59,7 +115,7 @@
         "title": "کاربرد 1: معرفی هویت یا نقش",
         "htmlTag": 0,
         "content": "در این جمله am بین فاعل و اسم آمده تا هویت گوینده را نشان دهد. چون منظور معرفی شخص است، be نقش فعل اصلی را دارد.",
-        "order": 7,
+        "order": 14,
         "language": "fa",
         "voiceId": 0
       },
@@ -67,7 +123,7 @@
         "title": "کاربرد 2: بیان حالت یا احساس",
         "htmlTag": 2,
         "content": "کاربرد 2: بیان حالت یا احساس",
-        "order": 8,
+        "order": 15,
         "language": "fa",
         "voiceId": 0
       },
@@ -75,7 +131,7 @@
         "title": "کاربرد 2: بیان حالت یا احساس",
         "htmlTag": 0,
         "content": "She is happy.",
-        "order": 9,
+        "order": 16,
         "language": "en",
         "voiceId": 0
       },
@@ -83,7 +139,7 @@
         "title": "کاربرد 2: بیان حالت یا احساس",
         "htmlTag": 0,
         "content": "اینجا is برای توضیح حالت she استفاده شده است. بعد از be می‌توانیم صفت بیاوریم تا احساس یا وضعیت را توصیف کنیم.",
-        "order": 10,
+        "order": 17,
         "language": "fa",
         "voiceId": 0
       },
@@ -91,7 +147,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 11,
+        "order": 18,
         "language": "fa",
         "voiceId": 0
       },
@@ -99,7 +155,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "بعد از be معمولا اسم، صفت یا عبارت مکانی می‌آید. اگر بعد از فاعل یک فعل اصلی مثل play یا work داشته باشیم، دیگر از be به این شکل استفاده نمی‌کنیم.",
-        "order": 12,
+        "order": 19,
         "language": "fa",
         "voiceId": 0
       },
@@ -107,7 +163,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 13,
+        "order": 20,
         "language": "fa",
         "voiceId": 0
       },
@@ -115,7 +171,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "He is a teacher.",
-        "order": 14,
+        "order": 21,
         "language": "en",
         "voiceId": 0
       },
@@ -123,7 +179,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "در این مثال be قبل از اسم آمده و شغل او را معرفی می‌کند، پس ساختار برای معرفی یا طبقه‌بندی به کار رفته است.",
-        "order": 15,
+        "order": 22,
         "language": "fa",
         "voiceId": 0
       },
@@ -131,7 +187,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "We are tired.",
-        "order": 16,
+        "order": 23,
         "language": "en",
         "voiceId": 0
       },
@@ -139,7 +195,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "اینجا are با یک صفت آمده تا وضعیت گروه را نشان دهد. این نمونه کاربرد be برای بیان حالت است.",
-        "order": 17,
+        "order": 24,
         "language": "fa",
         "voiceId": 0
       },
@@ -147,7 +203,7 @@
         "title": "شکل‌های am، is و are",
         "htmlTag": 1,
         "content": "شکل‌های am، is و are",
-        "order": 18,
+        "order": 25,
         "language": "fa",
         "voiceId": 0
       },
@@ -155,7 +211,7 @@
         "title": "شکل‌های am، is و are",
         "htmlTag": 0,
         "content": "فعل be با همه فاعل‌ها یک شکل ندارد. انتخاب بین am، is و are به فاعل جمله بستگی دارد و همین موضوع در جمله‌های منفی و پرسشی هم مهم است. اگر شکل فعل را اشتباه انتخاب کنیم، جمله از نظر گرامری نادرست می‌شود.",
-        "order": 19,
+        "order": 26,
         "language": "fa",
         "voiceId": 0
       },
@@ -163,7 +219,7 @@
         "title": "کاربرد 1: انتخاب شکل درست با فاعل",
         "htmlTag": 2,
         "content": "کاربرد 1: انتخاب شکل درست با فاعل",
-        "order": 20,
+        "order": 27,
         "language": "fa",
         "voiceId": 0
       },
@@ -171,7 +227,7 @@
         "title": "کاربرد 1: انتخاب شکل درست با فاعل",
         "htmlTag": 0,
         "content": "They are ready.",
-        "order": 21,
+        "order": 28,
         "language": "en",
         "voiceId": 0
       },
@@ -179,7 +235,7 @@
         "title": "کاربرد 1: انتخاب شکل درست با فاعل",
         "htmlTag": 0,
         "content": "چون فاعل they جمع است، باید از are استفاده کنیم. این مثال نشان می‌دهد شکل be همیشه با فاعل هماهنگ می‌شود.",
-        "order": 22,
+        "order": 29,
         "language": "fa",
         "voiceId": 0
       },
@@ -187,7 +243,7 @@
         "title": "کاربرد 2: منفی کردن با not",
         "htmlTag": 2,
         "content": "کاربرد 2: منفی کردن با not",
-        "order": 23,
+        "order": 30,
         "language": "fa",
         "voiceId": 0
       },
@@ -195,7 +251,7 @@
         "title": "کاربرد 2: منفی کردن با not",
         "htmlTag": 0,
         "content": "He is not busy.",
-        "order": 24,
+        "order": 31,
         "language": "en",
         "voiceId": 0
       },
@@ -203,7 +259,7 @@
         "title": "کاربرد 2: منفی کردن با not",
         "htmlTag": 0,
         "content": "در جمله منفی not بعد از is آمده است. برای منفی کردن be لازم نیست از do یا does استفاده کنیم و خود be مستقیم منفی می‌شود.",
-        "order": 25,
+        "order": 32,
         "language": "fa",
         "voiceId": 0
       },
@@ -211,7 +267,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 26,
+        "order": 33,
         "language": "fa",
         "voiceId": 0
       },
@@ -219,7 +275,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "برای ساخت سوال با be، جای فعل و فاعل عوض می‌شود. این ویژگی be را از بسیاری از فعل‌های ساده جدا می‌کند، چون برای پرسشی کردن آن به do و does نیاز نداریم.",
-        "order": 27,
+        "order": 34,
         "language": "fa",
         "voiceId": 0
       },
@@ -227,7 +283,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 28,
+        "order": 35,
         "language": "fa",
         "voiceId": 0
       },
@@ -235,7 +291,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "Are you at home?",
-        "order": 29,
+        "order": 36,
         "language": "en",
         "voiceId": 0
       },
@@ -243,7 +299,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "در این سوال are قبل از فاعل آمده است. این جابه‌جایی علامت اصلی ساخت پرسشی با be است.",
-        "order": 30,
+        "order": 37,
         "language": "fa",
         "voiceId": 0
       },
@@ -251,7 +307,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "I am not late.",
-        "order": 31,
+        "order": 38,
         "language": "en",
         "voiceId": 0
       },
@@ -259,7 +315,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "اینجا am با I آمده و not بعد از آن قرار گرفته است. این نمونه شکل منفی اول شخص مفرد را نشان می‌دهد.",
-        "order": 32,
+        "order": 39,
         "language": "fa",
         "voiceId": 0
       },
@@ -267,7 +323,7 @@
         "title": "سن، مکان و مرور",
         "htmlTag": 1,
         "content": "سن، مکان و مرور",
-        "order": 33,
+        "order": 40,
         "language": "fa",
         "voiceId": 0
       },
@@ -275,7 +331,7 @@
         "title": "سن، مکان و مرور",
         "htmlTag": 0,
         "content": "از be فقط برای معرفی یا صفت استفاده نمی‌کنیم. در انگلیسی برای گفتن سن، مکان و بعضی اطلاعات پایه روزمره هم از همین فعل استفاده می‌شود. این کاربردها در مکالمه‌های ساده بسیار رایج هستند.",
-        "order": 34,
+        "order": 41,
         "language": "fa",
         "voiceId": 0
       },
@@ -283,7 +339,7 @@
         "title": "کاربرد 1: گفتن سن",
         "htmlTag": 2,
         "content": "کاربرد 1: گفتن سن",
-        "order": 35,
+        "order": 42,
         "language": "fa",
         "voiceId": 0
       },
@@ -291,7 +347,7 @@
         "title": "کاربرد 1: گفتن سن",
         "htmlTag": 0,
         "content": "My brother is ten.",
-        "order": 36,
+        "order": 43,
         "language": "en",
         "voiceId": 0
       },
@@ -299,7 +355,7 @@
         "title": "کاربرد 1: گفتن سن",
         "htmlTag": 0,
         "content": "در انگلیسی سن را با be بیان می‌کنیم، نه با فعلی مثل have. این جمله نشان می‌دهد is همراه با عدد برای گفتن سن به کار می‌رود.",
-        "order": 37,
+        "order": 44,
         "language": "fa",
         "voiceId": 0
       },
@@ -307,7 +363,7 @@
         "title": "کاربرد 2: گفتن مکان",
         "htmlTag": 2,
         "content": "کاربرد 2: گفتن مکان",
-        "order": 38,
+        "order": 45,
         "language": "fa",
         "voiceId": 0
       },
@@ -315,7 +371,7 @@
         "title": "کاربرد 2: گفتن مکان",
         "htmlTag": 0,
         "content": "The keys are on the table.",
-        "order": 39,
+        "order": 46,
         "language": "en",
         "voiceId": 0
       },
@@ -323,7 +379,7 @@
         "title": "کاربرد 2: گفتن مکان",
         "htmlTag": 0,
         "content": "اینجا are وجود یا حالت را نشان نمی‌دهد، بلکه مکان keys را معرفی می‌کند. بعد از be یک عبارت مکانی آمده است.",
-        "order": 40,
+        "order": 47,
         "language": "fa",
         "voiceId": 0
       },
@@ -331,7 +387,7 @@
         "title": "نکته مهم",
         "htmlTag": 2,
         "content": "نکته مهم",
-        "order": 41,
+        "order": 48,
         "language": "fa",
         "voiceId": 0
       },
@@ -339,7 +395,7 @@
         "title": "نکته مهم",
         "htmlTag": 0,
         "content": "در فارسی گاهی برای سن یا مالکیت از ساختار متفاوتی استفاده می‌کنیم، اما در انگلیسی برای سن باید از be استفاده کنیم. این تفاوت یکی از نکته‌های مهم برای یادگیری طبیعی جمله‌سازی است.",
-        "order": 42,
+        "order": 49,
         "language": "fa",
         "voiceId": 0
       },
@@ -347,7 +403,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 2,
         "content": "مثال‌های بیشتر",
-        "order": 43,
+        "order": 50,
         "language": "fa",
         "voiceId": 0
       },
@@ -355,7 +411,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "The shop is open.",
-        "order": 44,
+        "order": 51,
         "language": "en",
         "voiceId": 0
       },
@@ -363,7 +419,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "در این مثال be همراه با صفت open آمده و وضعیت مغازه را توضیح می‌دهد. این کاربرد در تابلوها و مکالمه روزمره خیلی رایج است.",
-        "order": 45,
+        "order": 52,
         "language": "fa",
         "voiceId": 0
       },
@@ -371,7 +427,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "Where are the children?",
-        "order": 46,
+        "order": 53,
         "language": "en",
         "voiceId": 0
       },
@@ -379,7 +435,7 @@
         "title": "مثال‌های بیشتر",
         "htmlTag": 0,
         "content": "این سوال با be برای پرسیدن مکان ساخته شده است. چون children جمع است، فعل are به کار رفته است.",
-        "order": 47,
+        "order": 54,
         "language": "fa",
         "voiceId": 0
       }

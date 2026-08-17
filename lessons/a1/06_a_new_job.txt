@@ -1,13 +1,13 @@
 A New Job
-A: When does your sister start her new job?
-B: Tomorrow at seven in the morning.
-A: Seven? That is early.
-B: Yes. She is excited, but she has to wake up before six.
-A: Does she usually wake up that early?
-B: No. She likes to sleep late.
-A: Then she will be tired tomorrow.
-B: I know. Her first day will be busy.
-A: She needs to sleep early tonight.
-B: Yes. I will tell her.
+B: Maya starts her new job tomorrow.
+A: When does it start?
+B: It start at seven in the morning.
+A: Does she usually get up early?
+B: No. She always gets up late.
+A: Does she sleep late?
+B: Yes. She sleeps late every night.
+A: Where is her new job?
+B: It is near the park.
+A: Great. she can walk there.
 
-Vocabulary: before, busy, day, early, excited, job, late, like, morning, sister, sleep, that, tired, tonight, tomorrow, when
+Vocabulary: always, early, every, get up, job, late, morning, near, new, park, sleep, usually, walk
