@@ -1,7 +1,7 @@
 A Birthday Cake
 A: Hi. Do you have a small cake?
 B: Hello. What kind of cake do you want?
-A: Chocolate, please. It is my sister's birthday today.
+A: Chocolate, please. My sister has a birthday party today.
 B: I am sorry. I do not have any cakes ready now.
 A: Oh no. The party starts at six.
 B: I can make a small cake for you.
@@ -12,4 +12,4 @@ B: Yes, of course.
 A: What time can I come back?
 B: Please come back at five.
 
-Vocabulary: any, back, birthday, course, happy, hello, hour, how, kind, long, make, party, small, take, write
+Vocabulary: any, back, birthday, course, happy, hello, hour, how, kind, long, make, party, small, take, time, what, write
