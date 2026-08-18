@@ -1,11 +1,11 @@
-At the Doctor
-A: Hello, doctor. I feel sick.
-B: Hello. How can I help you?
-A: I have a bad cold. I feel very tired.
-B: I am sorry. You should stay at home today.
-A: Will I get better soon?
-B: It will take a few days.
-A: What should I do?
-B: Rest, sleep well, eat healthy food, drink a lot, and stay warm at home.
+At the doctor.
+A: Hello, Doctor. I don’t feel well.
+B: Hello. What is the problem?
+A: I have a cold. I feel tired.
+B: You should rest at home today.
+A: Should I take medicine?
+B: Yes. You should also drink water and eat healthy food.
+A: Thank you, Doctor.
+B: You are welcome.
 
-Vocabulary: bad, better, cold, doctor, drink, feel, food, healthy, help, home, lot, rest, sick, sleep, stay, tired, warm, well
+Vocabulary: also, and, cold, doctor, drink, eat, feel, food, healthy, medicine, problem, rest, should, tired, well

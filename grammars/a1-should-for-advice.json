@@ -1,0 +1,92 @@
+{
+  "grammar": {
+    "name": "Should for advice",
+    "levelId": 1,
+    "order": 17,
+    "estimatedTimeMinutes": 6,
+    "description": "استفاده از should برای توصیه‌های ساده.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "Should برای توصیه",
+        "htmlTag": 1,
+        "content": "Should برای توصیه",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "Should برای توصیه",
+        "htmlTag": 0,
+        "content": "از should برای توصیه یا گفتنِ کار مناسب استفاده می‌کنیم. should اجبار نیست؛ فقط پیشنهاد یا نصیحت است.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 2,
+        "content": "الگوی سریع",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "الگوی سریع",
+        "htmlTag": 0,
+        "content": "فاعل + should + شکل پایهٔ فعل",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "توصیهٔ مثبت",
+        "htmlTag": 2,
+        "content": "توصیهٔ مثبت",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "توصیهٔ مثبت",
+        "htmlTag": 0,
+        "content": "You should stay at home today.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "توصیهٔ مثبت",
+        "htmlTag": 0,
+        "content": "بعد از should همیشه شکل پایهٔ فعل می‌آید. بنابراین می‌گوییم should stay، نه should stays یا should to stay.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سؤال با should",
+        "htmlTag": 2,
+        "content": "سؤال با should",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "سؤال با should",
+        "htmlTag": 0,
+        "content": "What should I do?",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "سؤال با should",
+        "htmlTag": 0,
+        "content": "در سؤال، should قبل از فاعل می‌آید. با کلمهٔ پرسشی، الگو این است: What should + subject + base verb?",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}
