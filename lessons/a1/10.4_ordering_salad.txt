@@ -1,0 +1,13 @@
+At the Restaurant
+
+A: Hey, this restaurant is open!
+B: Great. We can eat here. I am very hungry.
+A: Where should we sit?
+B: I think that table is free.
+A: Good. What do you want?
+B: I want a small salad and water.
+A: I want a big pizza.
+B: Wait, I want a pizza too.
+A: I knew it.
+
+Vocabulary: eat, food, free, hungry, restaurant, salad, sit, table, water

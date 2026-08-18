@@ -8,7 +8,7 @@ Every A1 lesson may use only grammar that is introduced in that lesson or in an 
 
 ## Determine a Lesson's Grammar Scope
 
-1. Get the lesson number from its filename. For example, `lessons/a1/09_at_the_doctor.txt` is lesson 9 and `lessons/a1/01.5_a_nurse_and_an_umbrella.txt` is lesson 1.5.
+1. Get the lesson number from its filename. For example, `lessons/a1/09_at_the_doctor.txt` is lesson 9 and `lessons/a1/01.5_meeting_alex_and_mia.txt` is lesson 1.5.
 2. Read `grammars/a1_grammar_to_lessons.csv`.
 3. Include every row whose numeric `conversation_id` is less than or equal to the lesson number.
 4. Treat the resulting grammar points as the lesson's permitted grammar inventory.
@@ -31,15 +31,16 @@ Grammar that is not listed in the CSV is also out of scope unless its use is exp
 | 8 | Basic sentence order |
 | 9 | Should for advice |
 | 10 | Past simple |
+| 10.5 | Possessive adjectives |
+| 10.6 | Demonstratives |
+| 11 | Future will |
+| 11.5 | Possessive 's |
 | 15 | Imperatives |
-| 24 | Demonstratives |
 | 26 | Singular and plural nouns |
 
 The following rows have no introduction lesson and therefore cannot be used yet:
 
 - Have got
-- Possessive adjectives
-- Possessive 's
 
 ## Authoring and Review Checklist
 

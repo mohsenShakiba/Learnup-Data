@@ -10,4 +10,4 @@ B: It is cold outside. You can stay at my house tonight.
 A: Thank you. We can ask for help tomorrow.
 B: Yes. You can get a new key tomorrow.
 
-Vocabulary: all, ask, cold, house, key, new, open, out, stay, tonight, tomorrow, window
+Vocabulary: all, ask, cold, house, new, open, out, stay, tonight, tomorrow, window
