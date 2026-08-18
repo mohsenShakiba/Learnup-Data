@@ -1,17 +1,14 @@
 We Missed the Bus
-A: Sam, the bus is gone!
-B: What? I thought it came at four fifteen.
-A: It came at four.
-B: You said we had time.
-A: I looked at the wrong time.
-B: So it is not my fault.
-A: No, but you wanted coffee.
-B: Yes, and you agreed.
-A: Okay. We both made a mistake.
-B: The next bus is in thirty minutes.
-A: We both have to be at the airport at five.
-B: Let us take a taxi.
-A: Okay. We can share the cost.
-B: Good. I will call one. We almost missed our flight last time.
 
-Vocabulary: agree, airport, and, both, bus, flight, have to, last, look, our, taxi, think
+A: Sam, we missed the bus.
+B: Why? I thought it came at four.
+A: No. It came at three.
+B: But you said the bus comes at four.
+A: I made a mistake. I’m sorry. 
+B: When does the next bus come?
+A: In about thirty minutes.
+B: We should get a coffee then.
+A: Sure. We should take a taxi after that.
+B: That is a good idea.
+
+Vocabulary: about, after, bus, minute, miss, mistake, taxi, then, we, why

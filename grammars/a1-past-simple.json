@@ -1,0 +1,116 @@
+{
+  "grammar": {
+    "name": "Past simple",
+    "levelId": 1,
+    "order": 18,
+    "estimatedTimeMinutes": 8,
+    "description": "زمان گذشتهٔ ساده برای گفتن دربارهٔ رویدادهای تمام‌شده.",
+    "parentGrammarId": 0,
+    "lessons": [
+      {
+        "title": "گذشتهٔ ساده",
+        "htmlTag": 1,
+        "content": "گذشتهٔ ساده",
+        "order": 1,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "گذشتهٔ ساده",
+        "htmlTag": 0,
+        "content": "از گذشتهٔ ساده برای کارها یا رویدادهایی استفاده می‌کنیم که در گذشته تمام شده‌اند.",
+        "order": 2,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ساخت جملهٔ مثبت",
+        "htmlTag": 2,
+        "content": "ساخت جملهٔ مثبت",
+        "order": 3,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "ساخت جملهٔ مثبت",
+        "htmlTag": 0,
+        "content": "فاعل + شکل گذشتهٔ فعل",
+        "order": 4,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "فعل باقاعده",
+        "htmlTag": 2,
+        "content": "فعل باقاعده",
+        "order": 5,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "فعل باقاعده",
+        "htmlTag": 0,
+        "content": "I looked at the time.",
+        "order": 6,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "فعل باقاعده",
+        "htmlTag": 0,
+        "content": "بسیاری از فعل‌ها با افزودن ed به گذشته تبدیل می‌شوند: look → looked.",
+        "order": 7,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "فعل بی‌قاعده",
+        "htmlTag": 2,
+        "content": "فعل بی‌قاعده",
+        "order": 8,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "فعل بی‌قاعده",
+        "htmlTag": 0,
+        "content": "The bus came at four.",
+        "order": 9,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "فعل بی‌قاعده",
+        "htmlTag": 0,
+        "content": "بعضی فعل‌ها شکل گذشتهٔ ویژه دارند و باید یاد گرفته شوند: come → came، make → made.",
+        "order": 10,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نشانهٔ زمان گذشته",
+        "htmlTag": 2,
+        "content": "نشانهٔ زمان گذشته",
+        "order": 11,
+        "language": "fa",
+        "voiceId": 0
+      },
+      {
+        "title": "نشانهٔ زمان گذشته",
+        "htmlTag": 0,
+        "content": "We made a mistake last time.",
+        "order": 12,
+        "language": "en",
+        "voiceId": 0
+      },
+      {
+        "title": "نشانهٔ زمان گذشته",
+        "htmlTag": 0,
+        "content": "عبارت‌هایی مانند last time نشان می‌دهند که رویداد در گذشته اتفاق افتاده است.",
+        "order": 13,
+        "language": "fa",
+        "voiceId": 0
+      }
+    ]
+  }
+}
