@@ -37,7 +37,7 @@ Grammar that is not listed in the CSV is also out of scope unless its use is exp
 | 11.5 | Possessive 's |
 | 12 | Can / cannot |
 | 15 | Imperatives |
-| 26 | Singular and plural nouns |
+| 13 | Singular and plural nouns |
 
 The following rows have no introduction lesson and therefore cannot be used yet:
 

@@ -3,10 +3,10 @@ A: Sam, are you home?
 B: Yes. What happened?
 A: I left my keys inside.
 B: Can you open a window?
-A: No. They are all closed.
+A: No. The windows are closed.
 B: I am sorry. I do not have a key for your house.
-A: That is OK. I do not know what to do.
-B: It is cold outside. You can stay at my house tonight.
+A: It is cold outside. What should I do?
+B: You can stay at my house tonight.
 A: Thank you. We can ask for help tomorrow.
 B: Yes. You can get a new key tomorrow.
 
