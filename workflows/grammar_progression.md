@@ -35,6 +35,7 @@ Grammar that is not listed in the CSV is also out of scope unless its use is exp
 | 10.6 | Demonstratives |
 | 11 | Future will |
 | 11.5 | Possessive 's |
+| 12 | Can / cannot |
 | 15 | Imperatives |
 | 26 | Singular and plural nouns |
 
