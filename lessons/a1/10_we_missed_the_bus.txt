@@ -11,4 +11,4 @@ B: We should get a coffee then.
 A: Sure. We should take a taxi after that.
 B: That is a good idea.
 
-Vocabulary: about, after, bus, minute, miss, mistake, taxi, then, we, why
+Vocabulary: about, after, bus, but, minute, miss, mistake, taxi, then, we, why

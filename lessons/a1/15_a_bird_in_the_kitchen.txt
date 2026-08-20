@@ -14,4 +14,4 @@ B: Keep waiting until the bird finds the way out.
 A: Okay. It is flying out now.
 B: Great. Close the window after it leaves.
 
-Vocabulary: chair, dark, fly, keep, light, room, stop, through, turn, until, way
+Vocabulary: dark, fly, keep, leave, light, out, room, through, turn, until, way, wrong

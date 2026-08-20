@@ -13,4 +13,4 @@ A: You are right. This one is red.
 B: Your bicycle is over there.
 A: Next time, please tell me when you move it.
 
-Vocabulary: bicycle, blue, even, over, red, space, tree
+Vocabulary: bicycle, right, space, tree

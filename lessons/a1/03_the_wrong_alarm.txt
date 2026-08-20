@@ -8,4 +8,4 @@ B: I need to go.
 A: Call your teacher first.
 B: Good idea. Thank you.
 
-Vocabulary: at, call, first, go, home, idea, know, late, nine, now, start, teacher, time, what, your
+Vocabulary: call, first, go, home, idea, late, nine, now, start, time, what
