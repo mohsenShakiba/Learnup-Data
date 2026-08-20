@@ -36,8 +36,9 @@ Grammar that is not listed in the CSV is also out of scope unless its use is exp
 | 11 | Future will |
 | 11.5 | Possessive 's |
 | 12 | Can / cannot |
-| 15 | Imperatives |
 | 13 | Singular and plural nouns |
+| 14 | Present continuous |
+| 15 | Imperatives |
 
 The following rows have no introduction lesson and therefore cannot be used yet:
 
