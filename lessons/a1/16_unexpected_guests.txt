@@ -2,19 +2,19 @@ Unexpected Guests
 A: Maya, why are you cleaning so fast?
 B: My family is coming to visit us tonight. 
 A: Today? Why didn't you tell me?
-B: I'm sorry I forgot. 
+B: Sorry, I forgot.
 A: Are your grandmother and grandfather coming too?
-B: Yes, my father and my mother too.
+B: Yes. My mother and father are coming too.
 A: When will they arrive?
 B: Around 7.
 A: Do you have anything for them?
 B: Only some tea.
-A: Then we need to go shopping.
+A: We need to buy something for them.
 B: The shop closes at seven.
 A: We have time. What do we need?
 B: Some fruit, cake, and juice.
-A: Okay. You get the cake and juice.
-B: Can you get the fruit?
-A: Yes. I will meet you at home in fifteen minutes.
+A: You get the cake and juice.
+B: What about you?
+A: I will buy some fruit.
 
 Vocabulary: anything, around, arrive, clean, family, fast, father, grandfather, grandmother, mother, shop, some, tell, them, visit
