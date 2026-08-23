@@ -1,23 +1,23 @@
 Coffee on a Shirt
-A: Oh no! There is coffee on my shirt.
-B: On your new white shirt?
-A: Yes, and the meeting starts soon.
-B: I have an extra shirt in my bag.
+A: Oh no! There is coffee on my white shirt.
+B: You need to change your shirt.
+A: Yes. The meeting starts soon.
+B: I have another shirt in my bag.
 A: Really?
-B: Yes, but it is bright yellow.
+B: Yes, but it's yellow.
 A: Yellow? I do not like yellow.
-B: It is the only clean shirt.
+B: It's the only clean shirt.
 A: How much time do we have?
 B: Ten minutes.
 A: Okay. Please give it to me.
-B: Here. I hope it fits.
-A: It is short, but okay.
+B: Here. I hope it's not too small.
+A: It's short, but it's okay.
 B: You can wear my sweater over it.
 A: What color is your sweater?
-B: It is red.
-A: I can't wear a red sweater in a meeting.
-B: Don't worry just go to the meeting.
-A: I hate myself now, I want to go home and take a shower.
-B: You will go home soon, just relax.
+B: It's red.
+A: I can't wear a red sweater to the meeting.
+B: It's okay. Just go to the meeting.
+A: Fine. I hate this shirt. After the meeting, I will go home and take a shower.
+B: Good idea. Now go. The meeting starts soon.
 
 Vocabulary: give, hate, meeting, over, red, shirt, short, shower, soon, sweater, wear, white, yellow
