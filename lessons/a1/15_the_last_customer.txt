@@ -1,0 +1,18 @@
+A Busy Evening
+
+A: Mia, we close in ten minutes. 
+B: Okay. What should I do?
+A: The customer at table two says there is too much salt in his meal.
+B: Ok, should I change the meal?
+A: Yes. Let the customer choose a new meal.
+B: Okay. What next?
+A: Some customers are asking for drinks.
+B: Ok, I will fill their glasses.
+A: Also, take this bill to the customer at table two.
+B: Okay. What about these dirty dishes?
+A: Bring them into the kitchen.
+B: Should we wash them?
+A: Yes. Wash them, then finish the work. Be quick.
+B: Okay. Can we go home after that?
+
+Vocabulary: bill, change, choose, customer, dish, fill, finish, meal, quick, salt
