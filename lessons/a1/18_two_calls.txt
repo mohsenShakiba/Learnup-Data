@@ -1,0 +1,16 @@
+Two Calls
+
+A: Omar, can I use your phone?
+B: Sorry, but I need it too.
+A: My phone is at two percent. I need to call my wife.
+B: I need to call my mom.
+A: Can you call her later?
+B: No. My mom needs the hospital's address.
+A: Can't she use the map on her phone?
+B: No, her phone is old.
+A: Fine. Your call is important. You can speak with your mom first.
+B: Thank you. I only need one more minute.
+A: Okay. Give me the phone after your call.
+B: No problem.
+
+Vocabulary: address, fine, hospital, important, map, more, old, speak, wife
