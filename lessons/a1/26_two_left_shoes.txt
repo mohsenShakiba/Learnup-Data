@@ -1,16 +1,17 @@
 Two Left Shoes
-A: Excuse me, I have a problem with these shoes.
+B: Is everything okay?
+A: I have a problem with these shoes.
 B: Are they the wrong size?
 A: No. They are both for my left foot.
-B: Oh, I am sorry! I will bring you another pair.
+B: Oh, I am sorry! I will bring another pair.
 A: Thank you.
-B: Here you are. These are the same size.
-A: Good. This pair has one left shoe and one right shoe.
-B: Do they fit?
-A: Yes, they fit perfectly.
-B: Is everything okay now?
-A: Not quite. One shoe is black, and the other is brown.
-B: Oh no! I will get another box.
-A: No, thank you. I think I will try another store.
+B: Here you are. This pair has a left shoe and a right shoe.
+A: Good. But it's the wrong size.
+B: You are right. I will bring another pair.
+A: Great.
+B: Here you are. Try these.
+A: But these aren't the same color.
+B: I am so sorry. I will get another box.
+A: No, thank you. I think I should try another store.
 
-Vocabulary: another, both, box, brown, everything, foot, other, pair, same, shoe, these, try
+Vocabulary: another, both, box, everything, foot, other, pair, same, shoe, these, try
