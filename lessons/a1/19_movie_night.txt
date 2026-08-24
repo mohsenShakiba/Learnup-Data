@@ -1,14 +1,17 @@
 Movie Night
-A: Sam, why is the screen black?
-B: I do not know. Maybe the cable is not connected.
-A: Can you fix the cable?
-B: Sure. Let me take a look.
+B: I have a few movies here. Can you choose between them? 
+A: This Nolan movie is the best.
+B: I know. Now why is the TV not working?
+A: Maybe you should take a look.
+B: Okay. 
+A: It is Still not working.
+B: I'm working on it.
 A: Wait. It works now!
-B: Great. Shall we start the movie?
-A: Wait. Where is the popcorn?
-B: Sorry! I was hungry.
-A: You ate all the popcorns!
-B: Don't worry I can make more.
-A: Hurry up then. 
+B: Great.
+A: We can start the movie now.
+B: Wait. Where is the popcorn?
+A: Sorry! I was hungry.
+B: You ate all the popcorn!
+A: I will make more.
 
-Vocabulary: all, black, look, maybe, movie
+Vocabulary: all, look, maybe, movie, best, still, between, few
