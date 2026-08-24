@@ -1,17 +1,16 @@
 No Lunch
 A: Ben, where is your lunch?
-B: Oh no. I left it on the kitchen table.
-A: Can you go home and get it?
-B: No. My home is too far away.
-A: You can call the cafe across the street.
-B: Good idea. A sandwich is six dollars.
-A: Ask them to bring one here.
-B: Wait. They only come here for two sandwiches.
-A: Then ask for two sandwiches.
-B: But I only need one.
-A: Well, I have no lunch.
-B: Really? Then we can get two.
-A: Yes. You pay six dollars, and I pay six.
-B: Great. I will call the cafe now.
+B: My lunch is at home.
+A: Can you go home and bring it?
+B: No. My home is far away.
+A: You can order from the cafe across the street.
+B: Good idea. I can order pizza.
+A: Will the cafe bring the pizza?
+B: Yes. They will bring your order.
+A: OK. Then I want a pizza too.
+B: Really? What will you do with your lunch?
+A: Don't worry. I am hungry.
+B: OK. We should each pay twelve dollars.
+A: Actually, I want two pizzas.
 
-Vocabulary: across, away, bring, far, pay, street
+Vocabulary: across, away, bring, far, pay, street, each

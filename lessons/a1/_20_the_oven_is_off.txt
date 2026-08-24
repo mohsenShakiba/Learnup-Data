@@ -1,0 +1,15 @@
+The Oven Is Off
+B: Tom sent a message, he says they will be here in 10 minutes.
+A: Ok, is the pizza ready?
+B: Not yet. It needs five more minutes.
+A: Are you sure? The oven is cold.
+B: What, I forgot to turn it on.
+A: We can order some pizza.
+B: No wait I have a better idea.
+A: What are you thinking?
+B: Do we have bread?
+A: Yes.
+B: Good. We can make sandwiches.
+A: But I wanted pizza!
+
+Vocabulary: send, message
