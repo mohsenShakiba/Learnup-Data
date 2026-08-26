@@ -1,16 +1,16 @@
-A Spring City Trip
+A Spring Town Trip
 A: Do you want a short holiday in spring?
 B: Yes. Where can we go?
-A: There is a nice city in the north of the country.
+A: There is a nice town in the north of the country.
 B: Is it far?
 A: Not very far. We can take the train.
-B: Good. I do not want to drive on a long road.
-A: We can meet mear my office and walk to the train station.
-B: Great. What can we do in the city?
-A: We can see the old meseum and go to the theatre.
+B: Good. I do not want a long drive.
+A: We can meet near my office and walk to the train station.
+B: Great. What can we do in the town?
+A: We can go to the museum and the theatre.
 B: Nice. I like history.
 A: The people are also very friendly.
-B: Are there a lot of tourists in the city?
-A: Yes both in summer and spring.
+B: Are there a lot of tourists in the town?
+A: Yes, in spring and summer.
 
-Vocabulary: city, country, drive, friendly, history, holiday, north, office, road, spring, summer, theatre, train
+Vocabulary: town, country, drive, friendly, history, holiday, north, office, spring, summer, theatre, train, museum
