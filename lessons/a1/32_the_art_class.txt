@@ -1,13 +1,12 @@
 The Art Class
 A: When does the art class begin?
 B: It begins next month, in autumn.
-A: Is it for children or adults?
-B: It is for adults of all ages.
-A: I am not very good at art.
-B: That is OK. We can learn together.
-A: Do I need to bring anything?
-B: We have paint here. Just bring a pencil.
-A: What will we draw?
-B: We can draw anything: animals, flowers, people, anything you like.
+A: Is there an age limit?
+B: Yes. It's only for adults.
+A: What do we learn in this class?
+B: We learn to paint and draw with watercolors.
+A: Should I bring anything?
+B: Yes. A notebook and a pencil.
+A: Great. I'm excited to start the class.
 
-Vocabulary: adult, age, animal, art, autumn, begin, children, draw, flower, learn, month, paint
+Vocabulary: adult, age, art, begin, draw, learn, month, paint, autumn
