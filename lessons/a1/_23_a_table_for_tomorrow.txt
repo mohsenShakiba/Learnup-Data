@@ -2,15 +2,15 @@ A Table for Tomorrow
 A: Hello. I have a table for two at seven.
 B: What name is it under?
 A: Maya Green.
-B: I see your name, but the table is for tomorrow.
-A: Tomorrow? I chose the wrong day.
+B: I see your name, but the date here is tomorrow.
+A: Tomorrow? Then I chose the wrong day.
 B: I am sorry. We are full tonight.
-A: My friend is coming in five minutes.
-B: Let me look at the tables outside.
-A: Okay. Thank you.
-B: Good news. One table is free now.
-A: That is great. Is it outside?
-B: Yes, and you can see the park from there.
-A: Great. The wrong day was good for us.
+A: Oh dear. My friend is coming in five minutes.
+B: Let me look. There may be a table outside.
+A: Thank you. She is new in the city, and this is her first night here.
+B: Good news! One person is leaving now.
+A: That's great. Is the table outside?
+B: Yes, near the green door. You can see the park from there.
+A: Perfect. This is our lucky day.
 
-Vocabulary: day, friend, full, green, name, news
+Vocabulary: city, date, day, dear, green, news, person
