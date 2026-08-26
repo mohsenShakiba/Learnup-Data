@@ -1,14 +1,17 @@
 A Boring Party
-A: Is your boyfriend at the party?
-B: Yes. He is talking to the boy by the door.
-A: I thought they were brothers.
-B: No. They were both born in the same town, but they are friends.
-A: This party is a little boring.
-B: I know. I am bored too.
-A: Let us go home and relax.
-B: Good idea. We can watch a movie.
-A: I have a funny movie at home.
-B: Great. We can order some food too.
-A: That sounds more fun.
+A: Do you know anyone here?
+B: Yes. Just my boyfriend over there.
+A: Where is he?
+B: He is standing by the door.
+A: Who is that boy he is talking to?
+B: I think that's his friend.
+A: You look sad. Are you bored?
+B: Yes. this party is so boring.
+A: That's true.
+B: Let’s go home and relax.
+A: Good idea. We can watch a movie.
+B: I have a funny movie at home.
+A: Great. We can order some food too.
+B: That sounds fun.
 
-Vocabulary: bored, boring, born, boy, boyfriend, fun, funny, he, sound, talk, town, watch
+Vocabulary: bored, boring, boy, boyfriend, fun, funny, he, sound, talk, watch, sad, anyone, true
