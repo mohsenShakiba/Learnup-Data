@@ -8,7 +8,7 @@ Every A1 lesson may use only grammar that is introduced in that lesson or in an 
 
 ## Determine a Lesson's Grammar Scope
 
-1. Get the lesson number from its filename. For example, `lessons/a1/09_at_the_doctor.txt` is lesson 9 and `lessons/a1/01.5_meeting_alex_and_mia.txt` is lesson 1.5.
+1. Get the lesson number from its filename. For example, `lessons/a1/10_at_the_doctor.txt` is lesson 10 and `lessons/a1/02_meeting_alex_and_mia.txt` is lesson 2.
 2. Read `grammars/a1_grammar_to_lessons.csv`.
 3. Include every row whose numeric `conversation_id` is less than or equal to the lesson number.
 4. Treat the resulting grammar points as the lesson's permitted grammar inventory.
@@ -21,24 +21,23 @@ Grammar that is not listed in the CSV is also out of scope unless its use is exp
 | Introduced in lesson | Grammar available from that lesson onward |
 | --- | --- |
 | 1 | Subject pronouns and verb be |
-| 1.5 | Articles |
-| 2 | Present simple |
-| 3 | Prepositions of place and time |
-| 4 | Basic negatives and questions |
-| 5 | There is / There are |
-| 6 | Adverbs of frequency |
-| 7 | Question words (wh-) |
-| 8 | Basic sentence order |
-| 9 | Should for advice |
-| 10 | Past simple |
-| 10.5 | Possessive adjectives |
-| 10.6 | Demonstratives |
-| 11 | Future will |
-| 11.5 | Possessive 's |
-| 12 | Can / cannot |
-| 13 | Singular and plural nouns |
-| 14 | Present continuous |
-| 15 | Imperatives |
+| 2 | Articles |
+| 3 | Present simple |
+| 4 | Prepositions of place and time |
+| 5 | Basic negatives and questions |
+| 6 | There is / There are |
+| 7 | Adverbs of frequency |
+| 8 | Question words (wh-) |
+| 9 | Basic sentence order |
+| 10 | Should for advice |
+| 11 | Past simple |
+| 13 | Possessive adjectives |
+| 14 | Demonstratives; Future will |
+| 15 | Possessive 's |
+| 16 | Can / cannot |
+| 17 | Singular and plural nouns |
+| 18 | Present continuous |
+| 19 | Imperatives |
 
 The following rows have no introduction lesson and therefore cannot be used yet:
 
