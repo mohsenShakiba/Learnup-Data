@@ -1,21 +1,15 @@
-A School Game
+A LEGO Show
 A: What is your favourite hobby?
-B: I like to build things with my lego.
-A: Are you free after class today?
-B: Yes. Why?
-A: We have a small game at school.
-B: What kind of game.
-A: You create something with paper.
-B: Is it for students?
-A: No, everyone can come. But you have to buy tickets first.
-B: That sounds interesting.
-A: It is. And since you like to build, you should enjoy it too.
-B: Good. What should I build.
-A: Well, me and my team are creating a mini version of our school. 
-B: Hmm, Maybe we I can design our town museum.
-A: That would be really nice.
-B: Can I ask my parents to come too? 
-A: Yes, Most of the students will come with their parent.
+B: I usually play games. What about you?
+A: I like playing with LEGO.
+B: What do you build with LEGO?
+A: I’m building a small LEGO town.
+B: There is a LEGO show at the museum next week.
+A: That's cool. Can we go?
+B: Yes. Everyone can go, but we need tickets.
+A: Should we ask our parents to come?
+B: No. Most people there are students.
+A: Then let's go together.
+B: I agree. 
 
-
-Vocabulary: build, enjoy, everyone, game, hobby, most, museum, our, paper, parent, student, their, thing, ticket, would
+Vocabulary: build, everyone, game, hobby, most, our, parent, ticket, agree
