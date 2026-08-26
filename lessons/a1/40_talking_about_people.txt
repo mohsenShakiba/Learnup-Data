@@ -1,16 +1,14 @@
 Talking About People
 A: Look at that woman.
-B: Which woman? The fat woman?
-A: You can't just call people fat.
-B: Ok, you mean the very large woman.
-A: Yes, do see her husband, the person standing next to her.
-B: Ok, the tall man with grey dress.
-A: He is a scientist, he is very rich.
-B: I see and that must be his car.
-A: Yes, and she is their daughter.
-B: You mean the young girl wearing pink?
-A: Yes, she is an actor and she is very famous.
-B: Good thing she doesn't look like her mother.
-A: I know, but stop laughing they are looking at us now.
+B: Which woman? Do you mean the woman in the blue dress?
+A: Yes. Do you see the man next to her? He is her husband.
+B: OK, the tall man in grey?
+A: Yes. He is a scientist, and he is very rich.
+B: I see. Is that his car?
+A: Yes, it is. And she is their daughter.
+B: You mean the young girl in pink?
+A: Yes. She is an actor, and she is very famous.
+B: She looks like her mother.
+A: Yes, she does. They are looking at us now.
 
-Vocabulary: actor, car, daughter, dress, famous, fat, girl, husband, laugh, man, mean, must, person, pink, rich, scientist, which, woman, young
+Vocabulary: actor, blue, car, daughter, dress, famous, girl, grey, husband, man, mean, pink, rich, scientist, which, woman, young
