@@ -1,15 +1,13 @@
 The Weekly Schedule
-A: Is the gym open on Monday?
-B: Yes. It is open from Monday to Friday.
-A: What about Saturday and Sunday?
-B: It is open on weekends too, but only from 6PM to 10PM.
-A: Is it true that the pool is half the price on workdays?
-B: Yes, it is. There is also a discount if you come in the morning.
-A: So, if I come on Tuesday and Thursday morning, it will be half the price plus the discount.
-B: Yes, that is right. Plus, the gym is quieter then.
-A: Is the gym busy in the afternoon?
-B: Yes, it is often busy.
-A: Then I will come in the morning to exercise.
-B: That is a good plan.
+A: When is the gym open?
+B: We are open from Monday to Friday. 
+A: Is it open on weekends?
+B: Yes, it’s open on Saturday and Sunday from 8 AM to 12 PM.
+A: When is the gym quiet?
+B: It's usually quiet in the morning and it's half the price.
+A: Is it busy in the afternoon?
+B: Yes, it's often busy.
+A: Okay. I will choose Tuesday and Thursday.
+B: Great. That's a good exercise plan.
 
-Vocabulary: afternoon, busy, exercise, Friday, gym, Monday, often, plan, pool, price, Saturday, Sunday, Thursday, TRUE, Tuesday, weekend
+Vocabulary: afternoon, busy, exercise, Friday, gym, Monday, often, plan, price, Saturday, Sunday, Thursday, Tuesday, weekend
