@@ -1,20 +1,23 @@
 At the Restaurant Again
 A: This restaurant is nice.
-B: Yes. You should order the chicken, it is really good.
-A: You know the menu?
-B: Ofcourse.
+B: Yes. You should order the chicken. It is really good.
+A: Do you know the menu?
+B: Of course.
 A: The waiter knows you too.
 B: We come here all the time.
-A: With who?
+A: Who do you come here with?
 B: With my business partners.
-A: Ok.
-B: What, why are you angry?
+A: OK.
+B: What? Why are you angry?
 A: You never spend time with me.
-B: Sorry, but I have to work, you know I am busy.
+B: Sorry, but I have to work. You know I am busy.
 A: We can talk about this later.
-A: Sure, let's get a bottle of water.
-B: I am ready to order.
-A: Ok, are getting the chicken?
-B: Oh please don't start again.
+B: Sure. Let's get a bottle of water.
+A: Are you getting the chicken?
+B: Yes, but we need to be quick.
+A: Why? Are you busy tonight?
+B: No. I have two tickets for a movie tonight.
+A: Really?
+B: Yes. I want to spend time with you.
 
 Vocabulary: again, angry, bottle, later, menu, never, partner, waiter, who
