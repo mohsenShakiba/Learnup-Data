@@ -12,6 +12,7 @@
 ## Vocabulary Selection
 
 - Each lesson's `Vocabulary:` line lists only **new A1 lemmas introduced for the first time in that lesson**.
+- Count only active lesson files whose names begin with a numeric lesson ID, such as `40_talking_about_hobbies.txt`. Files beginning with `_` are inactive drafts and do not affect the trackers.
 - Do not list words already introduced in earlier A1 lessons, even if they appear again.
 - Use lemmas, not surface forms: `starts` -> `start`, `books` -> `book`.
 - Do not count advanced/irregular forms as a simple lemma use: `bought` does not introduce `buy`.

@@ -6,6 +6,8 @@ Every A1 lesson may use only grammar that is introduced in that lesson or in an 
 
 `grammars/a1_grammar_to_lessons.csv` is the source of truth for when a grammar point becomes available. A grammar point with no `conversation_id` is **not available** in any lesson until the CSV assigns it an introduction lesson.
 
+A lesson after the latest mapped introduction is a review lesson unless the mapping is extended first. A higher lesson number does not unlock additional grammar by itself.
+
 ## Determine a Lesson's Grammar Scope
 
 1. Get the lesson number from its filename. For example, `lessons/a1/10_at_the_doctor.txt` is lesson 10 and `lessons/a1/02_meeting_alex_and_mia.txt` is lesson 2.
