@@ -1,0 +1,14 @@
+Shopping for Six
+A: Is the shopping list ready?
+B: Almost. How many tomatoes do we need?
+A: Ten, and six lemons.
+B: How much oil should we buy?
+A: One bottle.
+B: Do we need any water?
+A: No, but we need some fresh vegetables.
+B: Fine. How many bowls do we have at home?
+A: Eight bowls and ten plates.
+B: Good. That's the right amount for six people.
+A: Great. Let's go to the supermarket.
+
+Vocabulary: amount, bowl, fresh, lemon, list, oil, plate, shopping, vegetable

@@ -1,4 +1,4 @@
-# A1 Vocabulary Tracking Workflow
+# Vocabulary Tracking Workflow
 
 ## Files
 
@@ -7,33 +7,36 @@
 | `vocabs/a1.csv` | Canonical permitted A1 lemmas. |
 | `lessons/a1_used_vocabs.csv` | A1 lemmas introduced anywhere in A1 conversations. |
 | `lessons/a1_missing_vocabs.csv` | A1 lemmas not introduced yet. |
+| `vocabs/a2.csv` | Canonical permitted A2 lemmas. |
+| `lessons/a2_used_vocabs.csv` | A2 lemmas introduced anywhere in A2 conversations. |
+| `lessons/a2_missing_vocabs.csv` | A2 lemmas not introduced yet. |
 | `lessons/need_attention.csv` | Conversation words not covered by the intended vocabulary lists. |
 
 ## Vocabulary Selection
 
-- Each lesson's `Vocabulary:` line lists only **new A1 lemmas introduced for the first time in that lesson**.
+- Each lesson's `Vocabulary:` line lists only **new lemmas from that lesson's CEFR vocabulary file, introduced for the first time at that level**.
 - Count only active lesson files whose names begin with a numeric lesson ID, such as `40_talking_about_hobbies.txt`. Files beginning with `_` are inactive drafts and do not affect the trackers.
-- Do not list words already introduced in earlier A1 lessons, even if they appear again.
+- Do not list words already introduced in earlier lessons at the same level, even if they appear again.
 - Use lemmas, not surface forms: `starts` -> `start`, `books` -> `book`.
 - Do not count advanced/irregular forms as a simple lemma use: `bought` does not introduce `buy`.
-- Do not track names, speaker labels, countries, punctuation, or basic function forms not in `vocabs/a1.csv`.
-- If a useful conversation word is not in `vocabs/a1.csv`, either replace it or add it to `vocabs/a1.csv` and classify it.
+- Do not track names, speaker labels, countries, punctuation, or basic function forms not in the level's vocabulary CSV.
+- If a useful conversation word is not in the vocabulary available at that level or below, either replace it or add it to the appropriate vocabulary CSV and classify it.
 
 ## Tracker Rules
 
-- `a1_used_vocabs.csv` and `a1_missing_vocabs.csv` must split `vocabs/a1.csv` exactly.
-- Every A1 lemma must appear in exactly one of those two tracker files.
-- Move a lemma from missing to used when it is first introduced in an A1 conversation.
-- Move a lemma from used to missing only if it no longer appears in any A1 conversation.
-- Keep `a1_used_vocabs.csv` alphabetically sorted.
-- Keep `a1_missing_vocabs.csv` in the same order as `vocabs/a1.csv`.
+- Each level's used and missing tracker files must split that level's canonical vocabulary CSV exactly.
+- Every canonical lemma must appear in exactly one of the two tracker files for its level.
+- Move a lemma from missing to used when it is first introduced in a conversation at that level.
+- Move a lemma from used to missing only if it no longer appears in any active conversation at that level.
+- Keep each used tracker alphabetically sorted.
+- Keep each missing tracker in the same order as its canonical vocabulary CSV.
 
-## After Editing A1 Lessons
+## After Editing Lessons
 
-1. Identify the lesson's newly introduced A1 lemmas.
+1. Identify the lesson's newly introduced lemmas from its level vocabulary CSV.
 2. Update that lesson's `Vocabulary:` line with only those new lemmas.
-3. Move newly introduced lemmas from `a1_missing_vocabs.csv` to `a1_used_vocabs.csv`.
-4. Move removed lemmas back to missing only when no A1 conversation still uses them.
+3. Move newly introduced lemmas from that level's missing tracker to its used tracker.
+4. Move removed lemmas back to missing only when no active conversation at that level still uses them.
 5. Remove covered words from `need_attention.csv`; add unresolved words there if needed.
 6. Run validation.
 
@@ -55,3 +58,5 @@ $used | Where-Object { $_ -in $missing } | Sort-Object -Unique
 ```
 
 All three sections should be empty.
+
+For A2, run the same validation with `a2.csv`, `a2_used_vocabs.csv`, and `a2_missing_vocabs.csv` substituted for the A1 paths.
