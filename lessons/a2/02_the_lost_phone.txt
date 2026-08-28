@@ -1,13 +1,15 @@
 The Lost Phone
 A: Why did you go back to the station?
-B: I realized my phone was not in my pocket.
+B: I lost my phone.
+A: When did you realize this?
+B: At home. My phone was not in my pocket.
 A: Did you search your bag?
 B: Yes, and I searched everywhere at the station.
-A: Where did you find it?
-B: A passenger noticed it on a seat.
-A: How did the passenger return it to you?
-B: She called my sister's number from my phone.
-A: That was kind of her.
-B: Yes. Fortunately, she waited there for me.
+A: Where did you find your phone?
+B: A passenger noticed the phone on a seat.
+A: How did the passenger return your phone?
+B: She called my sister from my phone.
+A: The passenger was very kind.
+B: Yes. Fortunately, she waited at the station.
 
 Vocabulary: everywhere, fortunately, lost, notice, passenger, pocket, realize, return, search, seat, station
