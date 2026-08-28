@@ -1,15 +1,17 @@
 The Saturday Climb
 A: Are you going to climb Green Hill on Saturday?
 B: Yes. I'm going to take the north route.
-A: Is that route difficult?
-B: A little, but it is not dangerous. It has a great view.
+A: Is that route dangerous?
+B: Not really, but it's a long and difficult route.
 A: When are you going to start?
 B: Early in the morning. We want to reach the top before lunch.
+A: Does it have a good view?
+B: Yes. You can see the entire forest.
 A: What are you going to pack?
 B: Water, food, and a warm coat.
 A: That sounds heavy.
-B: My friend is going to carry some of the food.
-A: Be careful near the top. Some rocks are not safe.
-B: It's OK. We're going to take a map.
+B: My friend is going to carry the food.
+A: Be careful, please. I heard the route near the top is not very safe.
+B: Thanks. My friend knows the route well.
 
-Vocabulary: careful, carry, climb, dangerous, difficult, heavy, hill, pack, reach, rock, route, safe, top, view
+Vocabulary: careful, carry, climb, dangerous, difficult, heavy, hill, pack, reach, route, safe, top, view
