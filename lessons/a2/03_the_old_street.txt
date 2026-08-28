@@ -1,13 +1,14 @@
 The Old Street
 A: This street looks very different now.
-B: Yes. I used to live here when I was a child.
-A: Did you? What was it like?
-B: It was quiet. There used to be a large field behind those houses.
-A: What did you do after school?
-B: My neighbours and I used to cycle around the field.
-A: Did all of you know each other?
-B: Yes. It was a small community.
-A: And now there are modern apartment buildings everywhere.
-B: That's right. I miss the old place, but I like the new shops too.
+B: Yes. We both used to live here when we were children.
+A: That small house was my home.
+B: My home was near the school.
+A: There used to be a wide field behind those wooden houses.
+B: Yes. We cycled there after school.
+A: The traditional market was near the field.
+B: Yes, we used to go there every weekend.
+A: The community was quiet then and our neighbours were so nice.
+B: Yes. Now there are modern apartment buildings everywhere.
+A: That's right. I miss the old place.
 
-Vocabulary: building, community, cycle, different, field, modern, neighbour, quiet, used to
+Vocabulary: building, community, cycle, different, field, modern, neighbour, quiet, traditional, used to, wide, wooden
