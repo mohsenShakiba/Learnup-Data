@@ -3,13 +3,15 @@ A: This meal smells amazing. Did you cook everything yourself?
 B: Almost. Mia made the salad, but I made the main dish myself.
 A: What is in it?
 B: It's a family recipe, so I cannot tell you everything.
-A: It tastes delicious.
-B: Thanks. Be careful with that knife.
-A: It's OK. I'm using it carefully.
-B: I cut myself with it last week.
-A: Then let me help. What can I do?
-B: Please boil some water.
-A: What can everyone do when the food is ready?
-B: They can serve themselves at the table.
+A: It tastes delicious. How do you cut the vegetables so evenly?
+B: I use this special knife. It belonged to my grandfather.
+A: Really? Can I try it?
+B: Sure, but use it carefully. I cut myself with it last week.
+A: Maybe you should do the cutting.
+B: Then can you please boil some water?
+A: Do you need anything else?
+B: Can you set the table? Dinner is almost ready.
+A: Sure. Where are the plates and forks?
+B: They're next to the glasses.
 
-Vocabulary: almost, amazing, boil, carefully, delicious, knife, main, myself, recipe, serve, smell, themselves
+Vocabulary: almost, amazing, boil, carefully, delicious, fork, knife, main, myself, plate, ready, recipe, smell
