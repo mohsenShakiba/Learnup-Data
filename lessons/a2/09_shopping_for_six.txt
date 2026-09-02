@@ -1,14 +1,20 @@
 Shopping for Six
-A: Is the shopping list ready?
-B: Almost. How many tomatoes do we need?
-A: Ten, and six lemons.
-B: How much oil should we buy?
-A: One bottle.
-B: Do we need any water?
-A: No, but we need some fresh vegetables.
-B: Fine. How many bowls do we have at home?
-A: Eight bowls and ten plates.
-B: Good. That's the right amount for six people.
-A: Great. Let's go to the supermarket.
+A: We have the tomatoes, potatoes, and onions.
+B: How many lemons do we need?
+A: One, maybe two.
+B: What's the next item on the shopping list?
+A: Let's see. We need some oil.
+B: This large bottle of oil is on sale.
+A: How much does it cost?
+B: Five dollars.
+A: We don't need that much oil.
+B: But it's cheap, and we can use it later.
+A: Okay, let's get it. What else do we need?
+B: We also need a bag of fresh vegetables.
+A: Is this bag the right size?
+B: I think that's the right amount.
+A: Okay, I guess we have everything.
+B: Great. Do you have enough cash?
+A: Yes, I have twenty dollars.
 
-Vocabulary: amount, bowl, fresh, lemon, list, oil, plate, shopping, vegetable
+Vocabulary: amount, cash, cheap, cost, enough, fresh, item, lemon, list, oil, onion, potato, sale, shopping, size, vegetable
