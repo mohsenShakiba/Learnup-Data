@@ -3,20 +3,23 @@ A: The teachers are looking at the paintings now.
 B: Are you nervous about the competition?
 A: A little. Which painting is yours?
 B: The bright one with the moon is mine.
-A: It looks beautiful. Mine is near yours.
-B: Thanks. I added a small detail last night.
-A: Which painting is Nina's?
-B: The forest painting is hers. It's very creative.
-A: And the large city painting?
-B: That's Leo's. His is really good too.
-A: Ours look very different.
-B: I agree, but theirs look good too.
-A: Which painting will the teachers choose?
-B: I don't know. This is a hard decision.
-A: Do you think you have a chance?
-B: Maybe. Wait, a teacher is walking towards my painting.
-A: She's putting the award next to yours.
-B: I won! The award is mine.
-A: Great! Let's tell Nina and Leo.
+A: It looks beautiful. 
+B: Thanks. What about yours?
+A: Mine is over there, next to yours.
+B: Yours looks good too.
+A: Thanks. I added a small detail last night.
+B: Which painting is Nina's?
+A: The forest painting is hers. It's very creative.
+B: And the large city painting?
+A: That's Leo's. His is really good too.
+B: Ours look very different.
+A: I agree, but theirs look good too.
+B: Which painting will the teachers choose?
+A: I don't know. This is a hard decision.
+B: Do you think you have a chance?
+A: Maybe. Wait, a teacher is walking towards my painting.
+B: She's putting the award next to yours.
+A: I won! The award is mine.
+B: Great! Let's tell Nina and Leo.
 
 Vocabulary: award, bright, chance, competition, creative, decision, detail, mine, moon, nervous, painting, towards, yours
