@@ -1,15 +1,21 @@
 A Crowded Cafe
-A: This cafe is very crowded today.
-B: Yes, there are a lot of people and not many empty tables.
-A: How much time do we have?
-B: About half an hour.
-A: We have time for coffee.
-B: Are there any seats near the window?
-A: There are a few over there, but people are using them.
-B: Is there much noise in that part of the cafe?
-A: Not much. It looks quiet.
+A: This cafe is crowded today.
+B: Yes. There are a lot of people.
+A: There are a few empty tables by the window.
+B: Yes, but that part of the cafe is noisy.
+A: There are also some tables outside.
+B: But the chairs are not comfortable.
+A: We only have half an hour.
 B: Look, several people are leaving now.
 A: Great. Let's take their table.
-B: Good idea. I will get the coffee.
+B: Great, this table is perfect.
+A: I agree. Let's order now.
+B: Would you like some coffee?
+A: Yes, with a little milk.
+B: Shall we share a slice of cake?
+A: Maybe a slice of chocolate cake.
+B: No. It's too sweet for me.
+A: What about cheesecake?
+B: Great choice. I'll go and order.
 
-Vocabulary: crowded, empty, half, noise, part, several
+Vocabulary: choice, comfortable, crowded, empty, half, noisy, order, part, several, sweet
