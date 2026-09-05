@@ -61,6 +61,7 @@ The following rows have no introduction lesson and therefore cannot be used yet:
 | 10 | Some, any, much, many, a lot of |
 | 11 | Some, any and no compounds |
 | 12 | Comparatives and superlatives |
+| 13 | -ed and -ing adjectives |
 
 The remaining A2 grammar rows have no introduction lesson and therefore cannot be used yet. Their order in the grammar JSON files does not make them available by itself.
 

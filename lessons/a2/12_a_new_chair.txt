@@ -1,7 +1,7 @@
 A New Chair
 A: This furniture store is huge.
 B: We only need one chair. What about this blue one?
-A: I like the colour. It will match our walls. Is it comfortable?
+A: It will match our walls. Is it comfortable?
 B: Try it. It's very soft.
 A: Yes, but it's more expensive than the red one.
 B: The red one is the cheapest chair here.
