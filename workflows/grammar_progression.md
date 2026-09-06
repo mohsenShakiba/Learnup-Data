@@ -63,6 +63,8 @@ The following rows have no introduction lesson and therefore cannot be used yet:
 | 12 | Comparatives and superlatives |
 | 13 | -ed and -ing adjectives |
 | 14 | Adjective order |
+| 15 | So, such, too, enough |
+| 16 | Prepositions of movement |
 
 The remaining A2 grammar rows have no introduction lesson and therefore cannot be used yet. Their order in the grammar JSON files does not make them available by itself.
 
