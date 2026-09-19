@@ -65,8 +65,12 @@ The following rows have no introduction lesson and therefore cannot be used yet:
 | 14 | Adjective order |
 | 15 | So, such, too, enough |
 | 16 | Prepositions of movement |
+| 17 | Basic modal verbs |
+| 18 | Must, have to and should |
+| 19 | Tag questions |
+| 20 | First conditional basics |
 
-The remaining A2 grammar rows have no introduction lesson and therefore cannot be used yet. Their order in the grammar JSON files does not make them available by itself.
+All current A2 grammar rows now have an introduction lesson. Any additional grammar must be mapped before it becomes available in lessons.
 
 ## Authoring and Review Checklist
 

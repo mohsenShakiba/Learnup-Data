@@ -1,0 +1,21 @@
+A Problem with a New Coat
+A: Hi. Can I return this coat?
+B: Of course. What's wrong with it?
+A: I bought it yesterday, but there's a hole in the pocket.
+B: Oh, I'm sorry. We can replace it.
+A: Yes, please. There's a button missing too.
+B: Unfortunately, that was our last one. But we have a similar coat.
+A: Can I see it?
+B: Here you are. It has the same pattern, but it's thicker. It comes with a belt too.
+A: It looks more expensive. What's the price?
+B: It's ten pounds more. If you choose this one, you'll only pay the difference.
+A: That's fair. Is there a mirror?
+B: Yes, just behind you.
+A: Oh, this one fits better. And it feels warmer!
+B: Yes. It'll be good for winter.
+A: I'll take it. But I should check the pockets first.
+B: Of course. Take your time.
+A: No holes! Here's the extra ten pounds.
+B: Thank you. Enjoy your new coat!
+
+Vocabulary: belt, button, difference, fair, hole, mirror, missing, pattern, replace, similar, thick, unfortunately

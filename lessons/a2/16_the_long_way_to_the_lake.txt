@@ -1,20 +1,21 @@
 The Long Way to the Lake
-A: Where is the lake?
-B: It's in this park. Let's go through the gate.
+A: Is the lake in this park?
+B: Yes. Let's go through the gate and look at the map.
 A: Do we go left or right?
 B: Turn left. Then walk along this road to the bridge.
 A: Can we go across the grass? It's shorter.
-B: No. The sign says, "Avoid the grass."
+B: No. Look at the sign. We should avoid the grass.
 A: All right. Let's cross the bridge.
-B: Wait! We're going in the wrong direction.
-A: But you said left!
-B: Sorry, I meant right.
-A: Look at the map. The lake is on the opposite side.
-B: Oh, you're right. We should go back over the bridge.
-A: Then we go past the cafe and down those steps.
-B: Yes, and the road goes round the lake.
-A: That's a long walk. I need a rest.
-B: Let's get some cake at the cafe first.
-A: Now that's a good idea!
+B: Wait. There's another gate here. Are we going out of the park?
+A: Yes! We're going in the wrong direction.
+B: Let me see the map again. Oh, the lake is on the opposite side!
+A: So we should go back over the bridge?
+B: Yes, sorry. Then down those steps and past the cafe.
+A: I see the lake now. It's behind the cafe!
+B: Great. We can walk round the lake from there.
+A: Another walk? I need a rest!
+B: All right. Let's go into the cafe first.
+A: Do you know the way to the cafe?
+B: Yes. I can see the cakes through the window!
 
 Vocabulary: along, avoid, bridge, cross, direction, gate, grass, lake, opposite, rest, round, side, sign, step

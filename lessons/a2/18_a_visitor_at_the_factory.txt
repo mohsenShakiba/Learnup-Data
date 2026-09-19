@@ -1,0 +1,21 @@
+A Visitor at the Factory
+A: Welcome to the factory! Is this your first visit?
+B: Yes. I'm excited!
+A: Great. First, we have a few rules. Every visitor has to wear one of these yellow jackets.
+B: Do I have to wear it in the office too?
+A: No, you don't have to wear it here. Just inside the factory.
+B: All right. Can I take photos during the visit?
+A: You have to ask the manager for permission first.
+B: Okay. I understand.
+A: You must also follow my instructions, and you mustn't touch any of the equipment.
+B: Is it dangerous?
+A: It can be. These rules help protect everyone.
+B: I understand. Should I stay close to you?
+A: Yes, please. It's noisy in there, so you should stay near me.
+B: No problem. Do we enter through this door?
+A: Yes, but you shouldn't take your bag with you. You can leave it in the office.
+B: Oh, right. I'll put it next to my coat.
+A: Thanks. Are you ready now?
+B: Yes. My jacket is on, and my bag is here. Let's go!
+
+Vocabulary: enter, equipment, factory, follow, instruction, permission, protect, rule, touch, understand, visitor
