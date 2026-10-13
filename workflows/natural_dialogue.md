@@ -13,6 +13,7 @@ Use this workflow alongside [Vocabulary Tracking](vocab_tracking.md) and [Gramma
 ## Plan and Draft
 
 1. Start with an everyday situation. Establish who the speakers are, where they are, and what each wants. Give them a concrete reason to talk, such as a noise complaint, a delivery deadline, or an invitation. Use a specialized or unusual activity only when it is specifically requested.
+   - Check earlier conversations at this level and lower levels for the same main problem and resolution. A familiar topic can recur, but changing the speakers, destination, or target vocabulary does not make a repeated story a new situation.
 2. Read the permitted grammar inventory and earlier active lessons. Choose at least 10 unused lemmas from the level's vocabulary CSV that fit this situation. Earlier use in dialogue counts even if an earlier `Vocabulary:` line omitted the word.
 3. Write the exchange around the speakers' immediate needs. Each reply should respond to the preceding turn, react to something in the scene, or introduce information the other person needs.
 4. If a target word needs an unlikely question, an unrelated topic change, or an awkward phrase, replace it with another unused lemma or develop a relevant part of the situation. Keep the minimum of 10; do not pad the vocabulary line with words absent from the dialogue.

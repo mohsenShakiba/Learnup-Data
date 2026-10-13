@@ -1,0 +1,21 @@
+A Chart for My Project
+A: Can you help me create a chart for my school project?
+B: Sure. What's the project about?
+A: I'm doing some research on the school buses.
+B: Do you have the numbers already?
+A: Yes. The school keeps a record of passenger numbers.
+B: What period are these figures for?
+A: Last school year, from September to June.
+B: OK. Do you want a different colour for each month?
+A: No, just one. I want to show the change through the year.
+B: Look at the top. There's a button to create the chart.
+A: Oh, there it is. Do I need to type all the numbers again?
+B: No. You can copy the numbers into this program.
+A: Nice. That will save some time.
+B: Write the source below the chart too.
+A: The name of the school report?
+B: Yes, and the page number. Then your teacher can check the facts.
+A: Good. You can add these photos to the final page.
+B: All right. It's almost finished.
+
+Vocabulary: chart, create, fact, figure, final, period, program, record, research, source
