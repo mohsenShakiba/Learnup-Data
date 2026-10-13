@@ -74,6 +74,8 @@ All current A2 grammar rows now have an introduction lesson. Any additional gram
 
 ## Authoring and Review Checklist
 
+Use this checklist together with [Natural Dialogue](natural_dialogue.md) and [Vocabulary Tracking](vocab_tracking.md). Each conversation must also introduce at least 10 new vocabulary lemmas. Grammar compliance alone does not establish that an exchange sounds natural.
+
 Before finalizing a lesson:
 
 1. Calculate its permitted grammar inventory from the CSV.
@@ -82,6 +84,7 @@ Before finalizing a lesson:
 4. Check that the lesson's new grammar, if any, is the grammar mapped to that lesson number; do not introduce an unmapped or future point incidentally.
 5. Replace or remove every future, unmapped, or unassigned grammar construction.
 6. Recheck the complete lesson after revisions, since a rewrite can introduce a different out-of-scope construction.
+7. Review the exchange for natural wording, connected replies, and plausible actions. If a grammar repair sounds stiff, rephrase the thought within the permitted inventory and recheck both grammar and vocabulary.
 
 ## Maintaining the Mapping
 

@@ -1,0 +1,25 @@
+A New Tablet at Work
+A: Morning, Sam. How's your first day going?
+B: Fine, thanks. Can you help me with my profile on this new tablet?
+A: Let's have a look. First, you need to connect it to the office network.
+B: This one?
+A: Yes. Now choose "New user".
+B: OK. There's a form for my personal information. Do I have to complete all of it?
+A: Just the first section. Every new employee has to do that.
+B: Right. My name, my office number... Can I add a photo later?
+A: Yes. You can leave that part blank.
+B: Good. I don't have a photo here. Now I just touch "Save", don't I?
+A: That's right.
+B: Oh, there's an error message. What's wrong?
+A: Let me check. Your office number is 314. You put 341.
+B: Sorry, can you repeat the number?
+A: Three, one, four.
+B: Thanks. Is it correct now?
+A: Yes. Try again.
+B: It works! My name is at the top now.
+A: Good. Just check your name. Did you spell it correctly?
+B: Yes. At least I got that right!
+A: The next part is simple. You can open your task list here.
+B: Great. Thanks for your help. Now I can do some work!
+
+Vocabulary: blank, connect, correct, correctly, employee, error, least, network, personal, profile, repeat, simple, tablet, user

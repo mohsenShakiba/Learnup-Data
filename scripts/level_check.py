@@ -1,14 +1,15 @@
 """Flag conversation-body words that are above the target course level.
 
 Usage:
-    python scripts/level_check.py courses/a2/1_some_title.txt
-    python scripts/level_check.py courses/b1/3_some_title.txt a1,a2,b1
+    python scripts/level_check.py lessons/a2/01_a_busy_first_morning.txt
+    python scripts/level_check.py lessons/b1/03_some_title.txt a1,a2,b1
 
 The second argument is the comma-separated set of *allowed* levels (words at or
 below the course level). It defaults to a1 + a2. Any body word whose home list is
 higher than the allowed set is reported as ABOVE LEVEL and should be replaced with
-a simpler synonym. Function words, names, and words in no list are shown separately
-and are safe to ignore.
+a simpler synonym. Unlisted words are shown separately and need manual review:
+they may be function words, names, unrecognized inflections, or missing vocabulary.
+This checks dialogue words, not titles, grammar, new-word counts, or natural tone.
 """
 import sys
 import re
@@ -66,7 +67,13 @@ def main():
     allowed = set(sys.argv[2].split(",")) if len(sys.argv) > 2 else {"a1", "a2"}
 
     with open(target, encoding="utf-8") as f:
-        body = f.read().splitlines()[2:]  # skip title + vocab line
+        # Lessons contain a title, A:/B: dialogue, and a trailing Vocabulary: line.
+        # Include the first turn and exclude metadata and speaker labels.
+        body = [
+            re.sub(r"^[AB]:\s*", "", line.strip())
+            for line in f.read().splitlines()
+            if re.match(r"^[AB]:\s*", line.strip())
+        ]
 
     tokens = re.findall(r"[a-zA-Z']+", " ".join(body).lower())
     above, unlisted = {}, set()

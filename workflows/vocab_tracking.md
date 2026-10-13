@@ -14,13 +14,16 @@
 
 ## Vocabulary Selection
 
+- Every conversation must introduce **at least 10 distinct new lemmas** from its level's canonical vocabulary CSV. Each must occur in the actual dialogue; a title or `Vocabulary:` entry alone does not satisfy the minimum.
 - Each lesson's `Vocabulary:` line lists only **new lemmas from that lesson's CEFR vocabulary file, introduced for the first time at that level**.
 - Count only active lesson files whose names begin with a numeric lesson ID, such as `40_talking_about_hobbies.txt`. Files beginning with `_` are inactive drafts and do not affect the trackers.
 - Do not list words already introduced in earlier lessons at the same level, even if they appear again.
+- Check earlier dialogue as well as vocabulary lines. A missing entry in an earlier lesson's `Vocabulary:` line does not make an already used word new.
 - Use lemmas, not surface forms: `starts` -> `start`, `books` -> `book`.
 - Do not count advanced/irregular forms as a simple lemma use: `bought` does not introduce `buy`.
 - Do not track names, speaker labels, countries, punctuation, or basic function forms not in the level's vocabulary CSV.
 - If a useful conversation word is not in the vocabulary available at that level or below, either replace it or add it to the appropriate vocabulary CSV and classify it.
+- Follow [Natural Dialogue](natural_dialogue.md) when selecting and using target words. If a word forces awkward dialogue, choose another unused word or expand a relevant part of the scene while retaining at least 10 new lemmas. Do not add words to the canonical CSV merely to reach the minimum.
 
 ## Tracker Rules
 
@@ -33,12 +36,13 @@
 
 ## After Editing Lessons
 
-1. Identify the lesson's newly introduced lemmas from its level vocabulary CSV.
+1. Identify the lesson's newly introduced lemmas from its level vocabulary CSV. Confirm at least 10 distinct new lemmas in the dialogue against earlier active lessons, not only their vocabulary lines.
 2. Update that lesson's `Vocabulary:` line with only those new lemmas.
 3. Move newly introduced lemmas from that level's missing tracker to its used tracker.
 4. Move removed lemmas back to missing only when no active conversation at that level still uses them.
 5. Remove covered words from `need_attention.csv`; add unresolved words there if needed.
-6. Run validation.
+6. Run tracker validation and check that each listed new lemma appears in the dialogue. The tracker partition check below does not establish the new-word count or first use.
+7. Complete the natural dialogue review and grammar scope review after the final edits.
 
 ## Validation
 
