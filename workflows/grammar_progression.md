@@ -86,14 +86,14 @@ All current A2 grammar rows now have an introduction lesson. Any additional gram
 | 8 | Verb patterns |
 | 9 | Phrasal verbs |
 | 10 | Dependent prepositions |
+| 11 | Defining relative clauses |
+| 12 | Basic passive voice |
+| 13 | Reported speech basics |
+| 14 | Indirect questions |
+| 15 | Modals for possibility and advice |
 
-This order follows the `order` values in the B1 grammar JSON files. The remaining B1 grammar rows have no introduction lesson and are not available yet:
+This order follows the `order` values in the B1 grammar JSON files. The remaining B1 grammar row has no introduction lesson and is not available yet:
 
-- Defining relative clauses
-- Basic passive voice
-- Reported speech basics
-- Indirect questions
-- Modals for possibility and advice
 - Linkers for speaking and writing
 
 Basic forms of these constructions already introduced at A1 or A2 remain available through inheritance; their additional B1 uses need a mapped introduction.
