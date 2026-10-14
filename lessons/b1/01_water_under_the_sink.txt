@@ -1,0 +1,17 @@
+Water Under the Sink
+A: Why is there water under the sink?
+B: I was washing a pan when I noticed it. Look at that pipe.
+A: Can you turn off the water supply? I'll put a container under the pipe.
+B: Yes. There, it's off now. Is the water still flowing?
+A: A little, but the container's catching it. The shelf's wet too.
+B: I'll move those bottles off it. Can you get a cloth?
+A: Here. I'll get another one for the floor.
+B: Thanks. I was cleaning the floor just ten minutes ago. Now there's another mess.
+A: Let's dry it now. We don't want any damage.
+B: Should we call someone for an emergency repair?
+A: Yes. We can't leave the water off all day.
+B: Can you stay here for them? I have to leave for work at one.
+A: Yes, I'll be here all afternoon.
+B: Thanks. I'll call someone now.
+
+Vocabulary: cloth, container, damage, emergency, flow, mess, pan, pipe, shelf, sink, supply

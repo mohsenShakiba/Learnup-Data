@@ -1,0 +1,21 @@
+Collecting a Hire Car
+A: Hi. I'm here to hire a car for the weekend.
+B: Of course. Small or large?
+A: Small, please. How much is it?
+B: It's a fixed price of forty pounds for two days, plus fuel.
+A: All right. Is there a limit on the distance?
+B: Two hundred miles a day. Here's the hire agreement.
+A: That's enough. Do I need to buy fuel before I return the car?
+B: Yes. We'll check the fuel level together before you leave. Please bring it back with the same amount.
+A: Will I have to pay extra if there's less?
+B: We'll charge you for the missing fuel, plus ten pounds. That's our policy.
+A: All right. Can we look at the car together?
+B: Yes. Come with me. We'll check it for damage before you drive away.
+A: There's a mark near the front tyre.
+B: Yes. That mark is on the agreement already.
+A: And there's some dirt on the back seat.
+B: I'm sorry. I'll clean that before you leave.
+A: Thanks. What time do I have to return the car?
+B: By six on Sunday. We'll check it together when you arrive.
+
+Vocabulary: agreement, charge, dirt, fixed, fuel, hire, limit, plus, policy, tyre

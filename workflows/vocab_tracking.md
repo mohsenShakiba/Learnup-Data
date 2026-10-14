@@ -10,6 +10,9 @@
 | `vocabs/a2.csv` | Canonical permitted A2 lemmas. |
 | `lessons/a2_used_vocabs.csv` | A2 lemmas introduced anywhere in A2 conversations. |
 | `lessons/a2_missing_vocabs.csv` | A2 lemmas not introduced yet. |
+| `vocabs/b1.csv` | Canonical permitted B1 lemmas; A1 and A2 vocabulary is also permitted. |
+| `lessons/b1_used_vocabs.csv` | B1 lemmas introduced anywhere in B1 conversations. |
+| `lessons/b1_missing_vocabs.csv` | B1 lemmas not introduced yet. |
 | `lessons/need_attention.csv` | Conversation words not covered by the intended vocabulary lists. |
 
 ## Vocabulary Selection
@@ -64,3 +67,5 @@ $used | Where-Object { $_ -in $missing } | Sort-Object -Unique
 All three sections should be empty.
 
 For A2, run the same validation with `a2.csv`, `a2_used_vocabs.csv`, and `a2_missing_vocabs.csv` substituted for the A1 paths.
+
+For B1, substitute `b1.csv`, `b1_used_vocabs.csv`, and `b1_missing_vocabs.csv`. When checking dialogue difficulty with `scripts/level_check.py`, pass `a1,a2,b1` as the allowed levels.

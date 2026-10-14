@@ -4,14 +4,14 @@
 
 Every lesson may use only grammar inherited from lower levels or introduced in that lesson or an earlier lesson at the same level. This applies to all learner-facing text, including dialogue, titles, instructions, examples, and exercises.
 
-`grammars/<level>_grammar_to_lessons.csv` is the source of truth for when a grammar point becomes available at that level. A grammar point with no `conversation_id` is **not available** in that level's lessons until the CSV assigns it an introduction lesson. A2 lessons may also use grammar already available by the end of A1.
+`grammars/<level>_grammar_to_lessons.csv` is the source of truth for when a grammar point becomes available at that level. A grammar point with no `conversation_id` is **not available** in that level's lessons until the CSV assigns it an introduction lesson. A2 lessons may also use grammar already available by the end of A1. B1 lessons inherit the grammar available by the end of A1 and A2.
 
 A lesson after the latest mapped introduction is a review lesson unless the mapping is extended first. A higher lesson number does not unlock additional grammar by itself.
 
 ## Determine a Lesson's Grammar Scope
 
 1. Get the level and lesson number from its path and filename. For example, `lessons/a1/10_at_the_doctor.txt` is A1 lesson 10 and `lessons/a2/02_the_lost_phone.txt` is A2 lesson 2.
-2. Read the mapping for the lesson's level, such as `grammars/a1_grammar_to_lessons.csv` or `grammars/a2_grammar_to_lessons.csv`.
+2. Read the mapping for the lesson's level, such as `grammars/a1_grammar_to_lessons.csv`, `grammars/a2_grammar_to_lessons.csv`, or `grammars/b1_grammar_to_lessons.csv`.
 3. Include every row whose numeric `conversation_id` is less than or equal to the lesson number.
 4. Treat the resulting grammar points as the lesson's permitted grammar inventory.
 5. Do not use a grammar point whose introduction lesson is later than the lesson being written or edited. Rewrite the relevant wording so it uses only the permitted inventory.
@@ -71,6 +71,32 @@ The following rows have no introduction lesson and therefore cannot be used yet:
 | 20 | First conditional basics |
 
 All current A2 grammar rows now have an introduction lesson. Any additional grammar must be mapped before it becomes available in lessons.
+
+## Current B1 Introduction Order
+
+| Introduced in lesson | Grammar available from that lesson onward |
+| --- | --- |
+| 1 | Past continuous |
+| 2 | Present perfect |
+| 3 | Present perfect vs past simple |
+| 4 | Future time clauses |
+| 5 | Zero and first conditional |
+| 6 | Adverbs and comparative adverbs |
+| 7 | Gerunds and infinitives |
+| 8 | Verb patterns |
+| 9 | Phrasal verbs |
+| 10 | Dependent prepositions |
+
+This order follows the `order` values in the B1 grammar JSON files. The remaining B1 grammar rows have no introduction lesson and are not available yet:
+
+- Defining relative clauses
+- Basic passive voice
+- Reported speech basics
+- Indirect questions
+- Modals for possibility and advice
+- Linkers for speaking and writing
+
+Basic forms of these constructions already introduced at A1 or A2 remain available through inheritance; their additional B1 uses need a mapped introduction.
 
 ## Authoring and Review Checklist
 

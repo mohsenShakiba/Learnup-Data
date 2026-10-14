@@ -1,0 +1,17 @@
+The Late Meal Order
+A: Has our food arrived yet?
+B: No. I've checked my account, but there's no update.
+A: Have we paid already?
+B: Yes. Here's the receipt. The total is eighteen pounds.
+A: Our meeting starts in fifteen minutes. Have you tried to contact the restaurant?
+B: I've called twice, but the staff haven't answered.
+A: Try a message. Ask them to confirm the arrival time.
+B: Good idea. There, I've sent it.
+A: I can get us something hot from the cafe downstairs instead.
+B: Wait, here's a reply. They haven't made our food yet.
+A: That's disappointing. Let's tell them we don't want the food now and ask for our money back.
+B: Yes. I'll ask them to stop the order and return the payment.
+A: All right. I'll go to the cafe. What do you want?
+B: Anything hot, please. I've had enough trouble with this order!
+
+Vocabulary: account, arrival, confirm, contact, disappointing, payment, receipt, staff, total, update

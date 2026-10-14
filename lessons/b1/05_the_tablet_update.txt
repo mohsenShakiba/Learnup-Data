@@ -1,0 +1,15 @@
+The Tablet Update
+A: This program isn't working properly. It closed twice today.
+B: Look, there's an update message. A new version of the software is available.
+A: Should I do the update now? I don't want to lose my assignment.
+B: Save the file first. If you close this program before you save, you lose your latest changes.
+A: Done. I'll attach a copy to a message for my teacher too.
+B: Good idea. How much power is left in the battery?
+A: Just a little.
+B: Charge the tablet first, then. You'll need a network connection for the update too.
+A: I'll do it after class. My assignment's due in ten minutes.
+B: Then send it now. The update can wait.
+A: Can you help me with the update after class?
+B: Of course. If the program still doesn't work after the update, we'll ask the teacher for help.
+
+Vocabulary: assignment, attach, battery, connection, due, file, latest, properly, software, version
