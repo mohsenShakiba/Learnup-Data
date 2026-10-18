@@ -1,0 +1,17 @@
+When the Lift Stops
+A: Hello? Is anyone there? The lift has stopped.
+B: Yes. We heard the alarm. I'm the security guard. Are you hurt?
+A: No, but I'm alone, and the doors won't open.
+B: What floor does the number show?
+A: Three. I'm frightened. It's such a small space.
+B: My colleague is going to fix it. You can keep talking to me while we wait.
+A: There's a small gap between the doors. Can I push them open?
+B: Please don't force them. Someone needs to check the lift first for your safety.
+A: Okay. I'm feeling really uncomfortable. can you hurry please.
+B: We are fixing it right now. Try to breathe slowly.
+A: I'm trying, how long will it take?
+B: A couple of minutes probably. try to stay calm.
+A: My friend is waiting for me downstairs.
+B: It won't take long, I promise.
+
+Vocabulary: alarm, breathe, calm, force, frighten, guard, safety, security, uncomfortable

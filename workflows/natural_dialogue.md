@@ -38,7 +38,7 @@ These are review questions, not a template. Do not give every lesson the same mi
 ## Final Checks
 
 1. Review the complete dialogue again after vocabulary and grammar changes. Do not approve individual sentences without checking their neighbours.
-2. Verify at least 10 distinct new canonical lemmas in each lesson's actual dialogue. Check earlier active lessons for previous use, including ordinary inflections. Do not count repeated forms as separate words, or infer that a shared spelling makes an unfamiliar meaning appropriate for the level.
+2. Verify at least 10 distinct new canonical lemmas in each lesson's actual dialogue. Check earlier active lessons for previous use, including ordinary inflections and the B1 aliases in `vocabs/b1_word_forms.json`. Participial adjectives such as `annoyed` do not earn a second credit after `annoy`. Do not count repeated forms as separate words, or infer that a shared spelling makes an unfamiliar meaning appropriate for the level.
 3. Update `Vocabulary:` and the used/missing trackers using the vocabulary workflow. A removed word returns to missing only if no active lesson still uses it.
 4. Run `scripts/level_check.py` for each edited lesson. Inspect unlisted words and inflections manually, and review the title separately. The script checks word lists; it cannot judge grammar, new-word counts, or natural tone.
 5. Confirm the permitted grammar manually using the progression workflow. A lesson passes only after both the language checks and the whole-exchange review pass.

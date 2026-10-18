@@ -14,6 +14,7 @@ This checks dialogue words, not titles, grammar, new-word counts, or natural ton
 import sys
 import re
 import os
+import json
 
 VOCAB_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "vocabs")
 LEVELS = ["a1", "a2", "b1", "b2", "c1", "c2"]
@@ -35,6 +36,9 @@ def load(level):
 
 lists = {lv: load(lv) for lv in LEVELS}
 
+with open(os.path.join(VOCAB_DIR, "b1_word_forms.json"), encoding="utf-8") as f:
+    form_aliases = json.load(f)["forms"]
+
 
 def level_of(word):
     """Earliest level a word (or a simple de-inflection of it) appears in."""
@@ -53,6 +57,9 @@ def level_of(word):
         cands.add(word[:-3] + "y")
     if word.endswith("ly"):
         cands.add(word[:-2])
+    # Reviewed aliases include participial adjectives and irregular forms whose
+    # separate B1 entries were consolidated into an existing vocabulary item.
+    cands.update(form_aliases[c] for c in tuple(cands) if c in form_aliases)
     for lv in LEVELS:
         if cands & lists[lv]:
             return lv

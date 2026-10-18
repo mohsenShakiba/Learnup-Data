@@ -91,10 +91,9 @@ All current A2 grammar rows now have an introduction lesson. Any additional gram
 | 13 | Reported speech basics |
 | 14 | Indirect questions |
 | 15 | Modals for possibility and advice |
+| 16 | Linkers for speaking and writing |
 
-This order follows the `order` values in the B1 grammar JSON files. The remaining B1 grammar row has no introduction lesson and is not available yet:
-
-- Linkers for speaking and writing
+This order follows the `order` values in the B1 grammar JSON files. All current B1 grammar rows now have an introduction lesson. Conversations 17 onward review the available grammar unless additional topics are mapped first.
 
 Basic forms of these constructions already introduced at A1 or A2 remain available through inheritance; their additional B1 uses need a mapped introduction.
 
