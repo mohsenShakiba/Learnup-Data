@@ -1,0 +1,19 @@
+Printing at the Library
+A: Hello. Can I print something here? My printer at home isn't working.
+B: Yes. Do you have a library card?
+A: I do. Do I need it for printing?
+B: Yes. We require a card for access. Scan it here.
+A: Okay, I've opened my file. What next?
+B: Click on Print. How many pages do you need?
+A: Just two, in colour.
+B: That's a pound. Your current balance is here.
+A: It's zero. Can I pay by card?
+B: Yes. Hold your card here. It won't print unless you pay first.
+A: I've paid two pounds.
+B: Good. Now you can print your file.
+A: There's my file. Do I press Print again?
+B: Click on your file to highlight it. Then press Print.
+A: It's working. Will the extra pound remain on my library card?
+B: Yes. You can use it next time.
+
+Vocabulary: access, balance, click, current, highlight, press, remain, require, scan, unless
