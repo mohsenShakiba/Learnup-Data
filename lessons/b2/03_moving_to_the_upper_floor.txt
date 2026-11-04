@@ -1,0 +1,15 @@
+Moving to the Upper Floor
+A: Have you seen the schedule for tomorrow's move to the upper floor?
+B: Yes. At nine in the morning, the technical crew will be turning off our main computers, so nobody will be using the internal network until afternoon.
+A: What about our customer records? Will you have moved the database before they close the network down?
+B: Yes, I've been copying the files all morning. I'll finish the final transfer this afternoon, so by six tonight, I'll have saved everything on the new computers.
+A: That's a relief. At ten tomorrow, I'll be meeting the safety inspector to check the fire exits, and I'll need the floor plans on paper.
+B: I'll print those for you right now, before the printer is packed away.
+A: Thanks. When will the crew be bringing up our desks and chairs?
+B: Between ten and one. Then they'll be installing the new monitors all afternoon.
+A: Our project deadline is on Friday. Will they have finished the whole workplace by Thursday evening?
+B: Almost. By five on Thursday, they'll have connected all the computers, and there will only be a few minor jobs left for Friday morning.
+A: Good. So by Friday lunch, we'll have settled into our new desks properly.
+B: Exactly. Let's pack our own boxes now so we're ready before the crew arrives tomorrow.
+
+Vocabulary: crew, database, deadline, exit, inspector, install, internal, minor, monitor, relief, settle, transfer, upper, workplace

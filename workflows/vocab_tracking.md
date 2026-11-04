@@ -14,6 +14,9 @@
 | `vocabs/b1_word_forms.json` | B1 form aliases and reviewed exceptions for unique-word counting. |
 | `lessons/b1_used_vocabs.csv` | B1 lemmas introduced anywhere in B1 conversations. |
 | `lessons/b1_missing_vocabs.csv` | B1 lemmas not introduced yet. |
+| `vocabs/b2.csv` | Canonical permitted B2 lemmas; A1, A2, and B1 vocabulary is also permitted. |
+| `lessons/b2_used_vocabs.csv` | B2 lemmas introduced anywhere in B2 conversations. |
+| `lessons/b2_missing_vocabs.csv` | B2 lemmas not introduced yet. |
 | `lessons/need_attention.csv` | Conversation words not covered by the intended vocabulary lists. |
 
 ## Vocabulary Selection
@@ -74,3 +77,5 @@ All three sections should be empty.
 For A2, run the same validation with `a2.csv`, `a2_used_vocabs.csv`, and `a2_missing_vocabs.csv` substituted for the A1 paths.
 
 For B1, substitute `b1.csv`, `b1_used_vocabs.csv`, and `b1_missing_vocabs.csv`. When checking dialogue difficulty with `scripts/level_check.py`, pass `a1,a2,b1` as the allowed levels.
+
+For B2, substitute `b2.csv`, `b2_used_vocabs.csv`, and `b2_missing_vocabs.csv`. When checking dialogue difficulty with `scripts/level_check.py`, pass `a1,a2,b1,b2` as the allowed levels.
