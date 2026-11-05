@@ -9,7 +9,7 @@ A: No, they recorded it last Tuesday. The whole production took an afternoon, ev
 B: Why does it take so long?
 A: They have to stop to check the lights and move things around the set, and then the editor chooses the best parts later.
 B: Did your brother find it difficult?
-A: He was nervous at first. He had to stand behind some tape on the floor, and he kept forgetting to ring his bell before answering.
+A: He was nervous at first. There were yellow lines of tape on the floor to show everyone where to stand, and he kept forgetting to ring his bell before answering.
 B: What was the host like? She always seems very friendly on television.
 A: He said she was lovely. She talked to everyone before they started, so he felt much less nervous after that.
 B: Do you know what he wore?
@@ -20,4 +20,4 @@ B: Most importantly, did he win?
 A: He's not allowed to tell us until Thursday, even though I keep asking him.
 B: Then I'll come over on Thursday evening so we can find out together.
 
-Vocabulary: bell, category, costume, editor, host, participate, production, script, tape, viewer
+Vocabulary: bell, category, costume, editor, host, participate, production, script, set, tape, viewer
