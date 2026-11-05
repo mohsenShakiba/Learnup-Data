@@ -1,21 +1,19 @@
 One Bad Review
-A: Have you booked a table for Friday?
-B: Not yet. I liked your recommendation, but I've just read a terrible review.
-A: Of the fish restaurant? Most people speak highly of it.
-B: This person gave it one star. They complained about the lack of choice.
-A: What did they want to eat?
-B: A burger. They say they specifically asked for one, but the waiter said no.
-A: A burger at a fish restaurant? That's an unusual request.
-B: They say, "The food is terrible. We left without eating."
-A: Then how did they reach a conclusion about the food?
-B: Good point. They didn't try it.
-A: One review doesn't prove a place is bad. Have you looked at the menu?
-B: Yes. There are various fish dishes, and a couple of other things too.
-A: Anything you like?
-B: Plenty. Despite that review, I think we should go.
-A: Good. It's unlikely that we'll have the same problem. We both like fish.
-B: You've successfully changed my mind. I'll book it now.
-A: Great. What time?
-B: Seven. And I'll ask for a table, not a burger.
+A: Have you booked our table for Friday yet?
+B: Not yet. I was about to book the fish restaurant from your recommendation, but the top review on the page gave it one star.
+A: Really? My friends at work speak so highly of that place. What did the person complain about?
+B: Hold on, let me read the whole thing. First, they complained about the lack of choice on the menu.
+A: Well, it's a small fish restaurant. Don't they just cook the fresh fish that comes in each morning?
+B: Yes, the menu has various fish dishes and a couple of other things.
+A: Then what did this person want to eat?
+B: Wait, they say they specifically asked the waiter for a burger and chips!
+A: At a fish restaurant? I'm not surprised the waiter said no.
+B: Listen to the last line: "The waiter refused to make us burgers, so we walked out. In conclusion, the food here is terrible."
+A: They didn't even eat there! That only proves they went to the wrong restaurant, not that the food is bad.
+B: Fair point. I stopped reading as soon as I saw the one star at the top.
+A: What do the rest of the reviews look like?
+B: Really good, actually. Despite that one review, everyone else loved it, and the photos look amazing.
+A: And since we're going there for the fish, it's very unlikely that we'll ask for burgers.
+B: True! Give me a second to finish the booking... Done! I've successfully booked a table for two at seven o'clock.
 
 Vocabulary: conclusion, despite, highly, lack, prove, recommendation, specifically, successfully, unlikely, various

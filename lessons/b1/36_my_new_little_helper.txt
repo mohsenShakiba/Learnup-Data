@@ -1,19 +1,19 @@
 My New Robot
 A: Why is there a little robot under your chair?
-B: That's my new cleaner. It goes around the flat while I'm at work.
+B: That's my new cleaner. I turn it on whenever I go out, and it cleans the flat.
 A: Does it actually clean well?
-B: Yes. It's quite powerful for something so small.
-A: And it knows where to go?
-B: The box says it uses computer intelligence to learn where everything is.
-A: Sounds technical. Was it difficult to get started?
-B: A bit. I only use its main function: cleaning the floor. I haven't tried the other features.
-A: So it's an improvement on your old cleaner?
-B: The old one was heavy. In comparison, this is easy. I just press a button on this remote.
-A: Then why are you picking everything up?
-B: It only cleans effectively if I move my shoes and bags first.
-A: So you have to prepare the room for it?
-B: Yes. My aim was to do less housework, but now I tidy the floor every morning.
-A: Your flat does look better, though.
+B: Yes, it's quite powerful for something so small.
+A: How does it know where to go without hitting the furniture?
+B: The instructions say it uses a camera and some kind of intelligence to learn the shape of each room.
+A: Sounds technical. Is it difficult to use?
+B: A bit. The app has lots of features, but I only use the main function to clean the floors.
+A: Still, that's a big improvement on your old cleaner.
+B: Definitely. The old one was heavy. In comparison, this is easy. I can just press a button on the remote before we leave.
+A: Then why are you picking up your shoes and bags first?
+B: Because it only cleans effectively if the floor is clear.
+A: So you have to tidy up before the cleaner can clean?
+B: Exactly. My aim was to do less housework, but now I tidy the floor every day.
+A: Your flat really looks better, though.
 B: It does. I'm just not sure how much of that is the robot's work.
 
 Vocabulary: aim, comparison, effectively, function, improvement, intelligence, powerful, remote, robot, technical
