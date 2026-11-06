@@ -10,6 +10,6 @@ B: Yes, it's in the envelope. The list also asks for a household bill as proof o
 A: Here's the electricity bill. It has both our names on it.
 B: Thanks. The new copy's coming out now. Can you check it against the bill?
 A: The address matches now. It just needs your signature at the bottom.
-B: Done. I'll put the form and the bill in with the certificate, then the envelope can go straight into my bag.
+B: Done. I'll put the form and the bill in with the certificate, then the envelope is ready.
 
 Vocabulary: assume, attachment, certificate, counter, envelope, household, income, proof, signature, visa
