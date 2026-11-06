@@ -1,8 +1,8 @@
 The Broken Components
 A: Did the factory agree to replace the broken motor components?
-B: Yes, eventually. The sales manager denied that the fault was theirs until the chief mechanic looked at the steel rings we returned.
+B: Yes, eventually. The sales manager denied that the fault was theirs until the chief mechanic looked at our photos of the damaged steel rings.
 A: Did he know what had caused it?
-B: He said one of their machines was damaged and they'd suspended production on it.
+B: He said one of their machines was damaged and they'd suspended production until it was repaired.
 A: So why did they send those parts to us?
 B: He admitted they hadn't checked them properly. I reminded him that our order was urgent.
 A: Did they give you a date for the next delivery? Our customer will charge us a penalty if we're late again.

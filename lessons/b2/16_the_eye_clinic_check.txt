@@ -1,5 +1,5 @@
 At the Eye Clinic
-A: Hello. I've come to have my vision checked, but this letter says eye surgery. Am I having an operation today?
+A: Hello. I've come to have my vision checked, but this letter says "Eye Surgery" at the top. Am I having an operation today?
 B: No. You're seeing the surgeon so she can assess the problem and discuss possible treatment.
 A: That's a relief. I was getting anxious because I hadn't expected an operation.
 B: I'm sorry the letter wasn't clear. Have you brought a list of your medication?
@@ -8,7 +8,7 @@ B: Do you have the box with you?
 A: No, but my doctor sent me the details in a message. Can I show you that?
 B: Yes, that will help us keep your records accurate.
 A: If I need surgery, will I have to stay overnight?
-B: That depends on which procedure the surgeon recommends. She'll explain the recovery and whether you'll need help at home.
+B: That depends on which procedure the surgeon recommends. She'll explain how long recovery would take and whether you'd need help at home.
 A: Can I ask her about time off work too? My eye has been very sensitive to the lights in the office.
 B: Yes. Tell her when that happens and how it affects your work.
 A: I'll write that down before I go in. I always forget my questions when I'm nervous.

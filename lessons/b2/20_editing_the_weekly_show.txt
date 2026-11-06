@@ -1,7 +1,7 @@
 Editing the Weekly Show
 A: Listen to the first minute of this interview clip. I wish we'd closed the window before we started recording.
-B: That constant street noise is awful. The rest is clear, though. You closed the window just before our guest comic started his first story.
-A: Can the automatic sound tool eliminate the noise at the beginning?
+B: That constant street noise is awful. The rest is clear, though. You closed the window just before the comic started his first story.
+A: Can the automatic setting in our editing software eliminate the noise at the beginning?
 B: I tried it, but it cuts out some of his words too.
 A: Then let's remove the opening chat and record a brief introduction ourselves.
 B: Fine. We can introduce him and start the clip with his first answer.

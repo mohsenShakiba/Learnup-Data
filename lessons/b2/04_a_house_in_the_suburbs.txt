@@ -1,10 +1,10 @@
 A House in the Suburbs
-A: Look at this house in the suburbs. It's much more affordable than anything in our central district.
+A: Look at this house in the suburbs. It's much more affordable than anything in our district.
 B: The garden is lovely, but we'd spend nearly two hours on the train every day.
 A: Not if we drove. If we bought a small second-hand car, the trip along the highway would only take thirty minutes.
 B: True, but think about the extra expense. With fuel, parking, and car insurance, would we actually save any money?
 A: Probably not. We'd need a loan to buy the car too. That doesn't fit our budget.
-B: And a long drive home after a late shift sounds miserable.
+B: And driving home after a late shift sounds miserable.
 A: What if we stayed nearer to town? Look at this two-bedroom flat by the river.
 B: That location is much better. If we rented that place, we could walk to the office, and we'd still have a spare room for guests.
 A: The agency wants a six-week deposit and a twelve-month contract, though.
