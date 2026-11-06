@@ -1,17 +1,17 @@
-The Eye Clinic Check
-A: Good morning. Have my test results been checked by the eye surgeon yet?
-B: Yes, your eyes were assessed twenty minutes ago, and the camera gave us a very accurate picture of the back nerve.
-A: Did the doctor find any new problem?
-B: No, fortunately the small problem had been detected early enough. This morning's procedure will cure the weak vision in your left eye.
-A: Will the doctor operate on it today, or do I need another appointment?
-B: The surgery room is being prepared right now, and the whole treatment only takes half an hour.
-A: Will I have to stay in the hospital overnight after that?
-B: Not at all. You'll rest in the nursing room for two hours, and then your family can drive you home.
-A: My brother had a similar treatment last year, and he said his eye felt quite red and tired that evening.
-B: A little pain is normal, so a mild pill will be given to you before you leave to relieve any pain.
-A: What about washing my face?
-B: Keep water away from the eye for three days so you don't get an infection while it begins to heal.
-A: Should I wear dark glasses when I go outside?
-B: Yes, your eye will be very sensitive to intense light during the first week of recovery, and you'll also use these drops as your daily medication.
+At the Eye Clinic
+A: Hello. I've come to have my vision checked, but this letter says eye surgery. Am I having an operation today?
+B: No. You're seeing the surgeon so she can assess the problem and discuss possible treatment.
+A: That's a relief. I was getting anxious because I hadn't expected an operation.
+B: I'm sorry the letter wasn't clear. Have you brought a list of your medication?
+A: Yes, but the doctor changed one of my pills last week. I don't remember the new name.
+B: Do you have the box with you?
+A: No, but my doctor sent me the details in a message. Can I show you that?
+B: Yes, that will help us keep your records accurate.
+A: If I need surgery, will I have to stay overnight?
+B: That depends on which procedure the surgeon recommends. She'll explain the recovery and whether you'll need help at home.
+A: Can I ask her about time off work too? My eye has been very sensitive to the lights in the office.
+B: Yes. Tell her when that happens and how it affects your work.
+A: I'll write that down before I go in. I always forget my questions when I'm nervous.
+B: Take your time. She's still with another patient.
 
-Vocabulary: accurate, assess, cure, detect, heal, infection, intense, medication, nerve, nursing, operate, overnight, pill, procedure, recovery, relieve, sensitive, surgeon, surgery, vision
+Vocabulary: accurate, anxious, assess, medication, overnight, pill, procedure, recovery, sensitive, surgeon, surgery, vision

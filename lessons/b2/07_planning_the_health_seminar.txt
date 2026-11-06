@@ -1,15 +1,15 @@
 Planning the Health Seminar
-A: Have you finished the draft agenda for next month's health seminar?
-B: Almost. Dr. Carter, who runs the city nutrition clinic, has agreed to give the first talk on Saturday morning.
-A: That's great news. Her latest article, which was printed in the spring journal, received wonderful feedback from our members.
-B: What about the afternoon workshop? Have you heard back from Leo Clark?
-A: Yes. Leo, whose research is supported by a local science fund, wants to speak about exercise and sleep.
-B: Perfect. Have we chosen a building that can accommodate everyone easily?
-A: I called the central medical institute, whose founder used to teach at our college, and their main hall has seats for two hundred people.
-B: Will that hall be big enough? Our online registration, which only opened on Tuesday, has already reached a hundred and forty names.
-A: If we need extra space, we can also book their library room, which is right across the corridor.
-B: Good thinking. Who is leading the final discussion on Sunday?
-A: Mina Shah, who works as a senior hospital consultant, is very enthusiastic about leading that session with another specialist.
-B: Then we just need to print the programme outline and the evaluation forms for each participant before Friday.
+A: Here's the draft agenda for Saturday's health seminar. Can you check the times?
+B: Dr. Carter, who runs the nutrition clinic, has to leave at eleven. You've put her talk at half past eleven.
+A: Oh, I used the old outline. I'll put her half-hour talk at ten.
+B: The feedback from her last talk was good, but people wanted more time for questions.
+A: Then let's allow half an hour for those. How many people have signed up?
+B: Seventy participants so far. People seem very enthusiastic.
+A: Our room can only accommodate sixty. We need more space.
+B: The upstairs hall, which seats eighty, is free until twelve. I checked this morning.
+A: Let's book it and close registration once we reach eighty.
+B: I'll change the room on the form. Can you send Dr. Carter the new agenda?
+A: Yes, and I'll check she's happy with the extra time for questions.
+B: Good. I'll print the programme once she confirms.
 
-Vocabulary: accommodate, agenda, clinic, consultant, draft, enthusiastic, evaluation, feedback, founder, fund, institute, nutrition, outline, participant, registration, seminar, senior, specialist
+Vocabulary: accommodate, agenda, clinic, draft, enthusiastic, feedback, nutrition, outline, participant, registration, seminar

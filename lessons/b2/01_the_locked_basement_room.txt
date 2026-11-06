@@ -1,15 +1,15 @@
 The Locked Basement Room
-A: You're back! Did you get the camera and display from the equipment facility in the basement?
-B: Not from the main room. By the time I walked down the corridor, the clerk had already locked the door and gone to the other building.
-A: Why had he left so early? Our training workshop starts at nine.
-B: I called him, and he said nobody had informed him about our morning session.
-A: That's strange. I'd sent him a message before I left the office yesterday afternoon.
-B: Which address did you use? He moved to a different team last month.
-A: Oh, no. I've just checked my account—I'd used his old address by mistake. That was completely my fault.
-B: Don't worry, we don't need to delay the workshop. Before the clerk went out, he'd left a spare key at the front desk, so I obtained it from the assistant.
-A: That was lucky! Did you find the whole equipment kit inside?
-B: Yes, and someone had packed an extra cable in the bag too.
-A: Great. I'll send the clerk a quick apology now so he knows why we opened the room.
-B: Good idea. I've already adjusted the display height, so we can proceed as soon as the first group arrives.
+A: You're back! Did you get the equipment for our workshop?
+B: Yes, the kit's on that desk. The basement room was locked when I got there, though.
+A: Oh. I'd told the clerk we needed it for the morning session.
+B: He said nobody had informed him. Had you sent the message to his new address?
+A: New address? I used the same one as last time.
+B: He changed it last month. There's a note on the door at the end of the corridor.
+A: I've just checked my message. I used the old one. My fault. How did you get in?
+B: I called him. He'd left a spare key with the assistant at the front desk.
+A: I'll send him an apology. Is the camera ready?
+B: Almost. The cable in the bag was too short, so I found a longer one. Can you help me adjust the display?
+A: Of course. Move it over here so everyone can see it.
+B: Thanks. Then we're ready for the first group.
 
-Vocabulary: adjust, apology, basement, cable, clerk, corridor, delay, display, facility, fault, inform, kit, obtain, proceed, session, spare, workshop
+Vocabulary: adjust, apology, basement, cable, clerk, corridor, display, fault, inform, kit, session, spare, workshop

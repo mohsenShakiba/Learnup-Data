@@ -1,15 +1,15 @@
-The Greenhouse Crops
-A: Have you checked the water level in the main water tank behind the farm building?
-B: Yes, it's still almost full. Even if this summer drought lasts another month, we won't face a serious water shortage for our vegetables.
-A: That's good news. Most of the farms in this rural area are worried about their wheat fields.
-B: Field crops are dry now, but inside our glass greenhouse we can control the heat and limit direct sun exposure.
-A: True. By ten o'clock tomorrow morning, the new solar machines will be running, and we'll be pulling cool water up from the deep well.
-B: What about the young herb plants on the middle tables? They looked a bit dry yesterday.
-A: I've put a dark net above the roof to give them more shade, and I added liquid mineral food to their soil this morning.
-B: Will the plants absorb all that water before the afternoon heat arrives?
-A: Yes, watering early is the best method in organic agriculture.
-B: How much of our summer crop will be ready for the town grocery shops next week?
-A: By Friday afternoon, our workers will have picked four hundred boxes, so our total output will be higher than last July.
-B: So a large proportion of our summer loan will have been paid off by the end of August.
+The Greenhouse While We're Away
+A: Thanks for looking after the greenhouse while we're away. I'll leave the key with you tonight.
+B: No problem. Is the tap by the gate working now?
+A: Yes, but use the water in the tank first. It's still half full.
+B: Will that last the whole week in this drought?
+A: I'm not sure. If it runs out, use the tap. The council has asked everyone to use less because of the water shortage.
+B: Do the herbs need as much water as the tomatoes?
+A: No. I've marked the amounts on these containers. The small one is for the herbs in the shade by the wall.
+B: And the large one is for the tomatoes? Roughly how long does it all take?
+A: Yes. It takes about fifteen minutes. The soil takes a while to absorb the water, so pour it slowly.
+B: Fine. Are any of the tomatoes ready to pick?
+A: Yes, we've had a bigger crop than I expected. Please take some home each day.
+B: Lovely. I'll come over tonight so you can show me what to do before you leave.
 
-Vocabulary: absorb, agriculture, crop, drought, exposure, greenhouse, grocery, herb, mineral, organic, output, proportion, rural, shade, shortage, solar, tank, wheat
+Vocabulary: absorb, council, crop, drought, greenhouse, herb, roughly, shade, shortage, tank

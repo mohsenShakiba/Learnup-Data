@@ -1,17 +1,17 @@
 The Broken Components
-A: How did your meeting at the factory go? Did they acknowledge that the new motor parts were broken?
-B: At first, their sales manager hesitated and denied that the problem had started on their line.
-A: Really? Even after we sent them photos of the damaged components?
-B: Once their chief mechanic joined us, he admitted that one of the machines they use to manufacture the steel rings had stopped working the previous week.
-A: Did he explain why nobody had checked the boxes before the delivery left their store?
-B: He said that their staff had been working under urgent deadlines, and he asked whether we had tested every box in the order.
-A: What did you tell him?
-B: I told him that our team had carried out a full examination that morning, and I warned him not to send any more items from that group.
-A: Good. Did they agree to recall the broken items?
-B: Yes. They promised to suspend production on that machine immediately, and they assured me that our new order would be their top priority.
-A: Did you ask when the new parts would arrive? If we lose another week, we'll have to pay a late penalty to our own customer.
-B: Their boss estimated that the next delivery would reach us by Thursday, and he insisted on giving us a two-year guarantee at no extra cost.
-A: That sounds fair. Did he sign an updated agreement?
-B: Not yet, but he reminded me to send him the revised contract this evening so he can sign it first thing tomorrow.
+A: Did the factory agree to replace the broken motor components?
+B: Yes, eventually. The sales manager denied that the fault was theirs until the chief mechanic looked at the steel rings we returned.
+A: Did he know what had caused it?
+B: He said one of their machines was damaged and they'd suspended production on it.
+A: So why did they send those parts to us?
+B: He admitted they hadn't checked them properly. I reminded him that our order was urgent.
+A: Did they give you a date for the next delivery? Our customer will charge us a penalty if we're late again.
+B: The manager estimated Thursday, but he needs to check their stock first.
+A: Thursday is our last possible day. Can they guarantee that?
+B: Not yet. I told him we need a clear answer by three this afternoon.
+A: Then we need another option. Can you ask the other factory for a price?
+B: I've already sent them the details. I'll call if they haven't replied by two.
+A: Good. What should we do with the broken parts?
+B: The manager asked us to keep them in the boxes. They'll collect them when the new parts arrive.
 
-Vocabulary: acknowledge, assure, chief, component, delivery, deny, estimate, examination, guarantee, hesitate, insist, manufacture, mechanic, motor, penalty, priority, recall, steel, suspend, urgent
+Vocabulary: chief, component, delivery, deny, estimate, guarantee, mechanic, motor, penalty, steel, stock, suspend, urgent

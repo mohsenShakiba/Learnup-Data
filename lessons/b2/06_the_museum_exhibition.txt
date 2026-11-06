@@ -1,15 +1,15 @@
 The Museum Exhibition
-A: Why are those temporary barriers still standing near the front entrance? The public tour starts at two o'clock.
-B: Don't worry, they're being removed right now. The floor was washed an hour ago, and the glass doors are being cleaned before the first visitors arrive.
-A: That's a relief. Have all the oil paintings been hung on the new wooden panels yet?
-B: Yes, every artwork has been put in place. Fortunately, the oldest frames had already been restored before the collection was brought up from the basement.
-A: What about the winter exhibit in the side room? How is that being protected from the heat?
-B: The temperature in that room is kept low, so the whole display is preserved in dry air. By the time the inspector checked it this morning, the cooling machine had been tested twice.
-A: Good. Has the guest list for the opening event been approved by the manager?
-B: It was signed twenty minutes ago. The mayor and three representatives from our main sponsor will be welcomed at the east gate at half past one.
-A: Who is giving them the printed guides?
-B: Two assistants have been assigned to the front desk, and the information leaflets will be distributed as soon as the doors open.
-A: Did the local arts foundation send their sign for the hall?
-B: Yes, it's already hanging above the stairs. After six months of work, this venue is finally ready for the public.
+A: I've brought the leaflets for the exhibition opening. Where do you want them?
+B: On the front desk, please. Have you seen the temporary barrier across the side room?
+A: Yes. Is that room still closed? The winter exhibit is in there.
+B: One of the wooden panels came loose this morning. It's being repaired now.
+A: Have any of the artworks been damaged?
+B: No, they're all safe. The paintings have been moved to the main hall while the work is being done.
+A: So do I need to change the route for my tour?
+B: Yes. The manager has approved a new route through the main hall. Here's the map.
+A: Thanks. I've been assigned a group at two. Where should I meet them?
+B: At the front desk as usual. I'll explain the change when they collect their tickets.
+A: These leaflets still show the old route. Shall I put a copy of the new map inside each one?
+B: Please. I'll help you. We still have half an hour before the doors open.
 
-Vocabulary: approve, artwork, assign, barrier, distribute, exhibit, foundation, leaflet, mayor, opening, panel, preserve, representative, restore, sponsor, temporary, venue
+Vocabulary: approve, artwork, assign, barrier, exhibit, leaflet, loose, opening, panel, temporary
