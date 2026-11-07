@@ -1,0 +1,17 @@
+Sorting the Washing
+A: I'm putting a load of clothes in the machine. Is everything in this basket ready to wash?
+B: Wait, my blue shirt's in there. I accidentally put it in with the others.
+A: This plain one? What's different about it?
+B: It's silk. The label says to wash it by hand in cold water.
+A: Oh, I thought it was cotton. I'll leave it out, then.
+B: Thanks. The fabric needs more care than my other shirts. I'll wash it myself later.
+A: What about this red shirt? Can it go in with the white ones?
+B: It's new, so let's wash it with the dark clothes first. Otherwise, we might end up with pink shirts.
+A: Right. I'll make a separate pile for the dark things. There are enough white ones for a load.
+B: Yes. Select the cotton mode, then check the temperature before you start.
+A: It's showing sixty. The labels on these shirts say thirty.
+B: Press the button below the number to change it.
+A: There, thirty. I'll start it now.
+B: Thanks. I'll hang them up when they're done.
+
+Vocabulary: accidentally, basket, fabric, load, mode, otherwise, pile, plain, select, silk
