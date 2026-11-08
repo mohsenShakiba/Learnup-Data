@@ -1,17 +1,17 @@
 Booking a Venue for the Dinner
-A: Have many people replied to the questionnaire about our ten-year college dinner?
-B: Yes, there's been a lot of enthusiasm. Three dozen people have already said they'd like to come.
-A: Thirty-six! That's more than I anticipated. We'll need to book a venue soon.
+A: Have many people replied to the questionnaire about our college dinner?
+B: Yes, about three dozen so far. There's been a lot of enthusiasm about meeting up after ten years.
+A: That's more than I anticipated. We'll need to book a venue soon.
 B: I've looked at two places. One is the private hall at the Park Hotel, and the other is the river restaurant.
 A: I recall going to a wedding at the Park Hotel. That room was very grand, wasn't it?
 B: It was, and it's quiet enough for people to talk easily. The river restaurant is much more lively, though, and the food is cheaper.
-A: Does the restaurant have adequate space for nearly forty people to sit together?
+A: Does the restaurant have enough space for nearly forty people to sit together?
 B: They have an upstairs room that holds forty-five. It would be just for our group.
-A: That sounds great. What happens if a few people cancel at the last minute?
-B: We only pay for the final numbers we confirm a week before the night, so we won't lose money.
-A: Then the restaurant is the better choice. Seeing everyone again after ten years will make it a memorable evening.
-B: Agreed. By the way, a few people wrote on the form about food they can't eat.
-A: Can we send those details to the restaurant via their website once we've booked?
-B: Yes, the manager asked for the list two weeks before the dinner. I'll call her now and pay the deposit.
+A: That sounds good. What happens if someone cancels after we've confirmed the numbers?
+B: They still charge us for that meal. We can change the numbers without a charge until a week before the dinner, though.
+A: Then let's ask everyone to pay before that deadline. Have you checked the details people gave us about food they can't eat?
+B: I've made a list. The manager asked me to send it via their website so the kitchen can check it.
+A: Let's make sure they can provide meals for everyone before we pay a deposit.
+B: Agreed. I'll send the list now and ask them to keep the date free while they check.
 
-Vocabulary: adequate, anticipate, cancel, dozen, enthusiasm, grand, lively, memorable, questionnaire, recall, venue, via
+Vocabulary: anticipate, cancel, dozen, enthusiasm, grand, lively, questionnaire, recall, venue, via

@@ -1,0 +1,19 @@
+When the Map Sends Us the Wrong Way
+A: The navigation app wants us to turn through that farm gate. That can't be the road to the hotel.
+B: Don't turn there. The entrance says private. There's a car park ahead where we can stop and check.
+A: Good. Which side is it on?
+B: Just beyond that tree, on the left. There's plenty of room.
+A: Right, we're parked. Why is the arrow pointing back towards the gate?
+B: It may not have a clear satellite signal. Look at the blue dot. It shows us in the middle of a field.
+A: So the directions could be incorrect because it doesn't know where we are?
+B: Possibly. I wouldn't rely on its accuracy here. Can you change the scale so we can see the whole village?
+A: Like this? There's the highway we left ten minutes ago.
+B: Yes. The hotel sent us directions too. Let me open that message.
+A: I'd forgotten about those. Did we take the wrong exit?
+B: No, we took the right one. But the message says to stay on the main road until we reach a stone bridge.
+A: We haven't passed a bridge. The app must have sent us off the main road too soon.
+B: It looks that way. These rural roads all look similar to me. Shall I call the hotel and check which way to go?
+A: Yes. How far back do you reckon the main road is?
+B: About five minutes by car. Let's confirm where to turn before we leave this car park.
+
+Vocabulary: accuracy, arrow, dot, exit, highway, incorrect, navigation, reckon, rural, satellite, scale

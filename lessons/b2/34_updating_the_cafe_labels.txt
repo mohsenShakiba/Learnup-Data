@@ -2,14 +2,14 @@ Updating the Cafe Labels
 A: We've had another customer enquiry this morning about which of our cakes are made without wheat or dairy.
 B: People ask about that almost every day now. We should make the counter signs clearer before the council inspector visits next week.
 A: Have the food regulations changed since last year?
-B: The rules are the same, but the new council guidelines say we should list every main ingredient on the price tag beside each cake.
+B: No. The inspector sent us some guidelines to help us check our signs. Let's compare those with the recipes before we print new tags.
 A: What about the lemon cake? Since we modified that recipe to use oil, can we write "no dairy" on its tag?
-B: There isn't any dairy in the cake itself now, but we can only write that if we ensure it hasn't touched any dairy in the kitchen.
-A: That's hard in our small space. We use the same machine for mixing everything.
-B: Even a tiny trace of dairy can make some people ill. Unless we can eliminate that risk, the tag needs to say it's made in a kitchen that uses dairy and wheat.
+B: Changing the recipe doesn't ensure there's no dairy in the finished cake. We still use the same bowls and machine for everything.
+A: Could traces of dairy get into it from the other cakes?
+B: Yes, and even a tiny amount can make someone ill. We shouldn't claim there's no dairy unless we can eliminate that risk.
 A: Could we wash the machine and keep two bowls and a knife strictly for the lemon cake?
-B: Yes, and we can bake it first thing in the morning when the tables are clean.
-A: Then we can put "no dairy" on that tag. I'll print the new tags with the full list of ingredients this afternoon.
-B: Thanks. Can you show them to me before you put them on the display shelf?
+B: That might help, but we need to check how we prepare it, from start to finish. Let's ask the inspector what else we'd need to change.
+A: I'll leave "no dairy" off the tag, then. Can we check the ingredient lists together this afternoon?
+B: Yes. We'll also check what the signs need to say about dairy or wheat getting into the cakes from other food.
 
 Vocabulary: dairy, eliminate, enquiry, ensure, guideline, inspector, modify, regulation, strictly, tag, trace, wheat

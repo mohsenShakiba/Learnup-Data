@@ -1,17 +1,18 @@
 Changes to the Bus Route
-A: Have you seen the notice on the bus stop about our morning route to the station?
+A: Have you seen the notice at the bus stop about our morning route to the station?
 B: No, I've just got here. Are they changing the times again?
 A: They want to extend the route so the bus goes through the new suburb on the west side of town.
-B: That will add at least fifteen minutes to the duration of our journey every morning.
-A: That's why some people on our street oppose the plan. If we reach the station later, we'll miss the eight o'clock train.
-B: I can understand why they're doing it, though. The inhabitants of that new district don't have any public transportation yet.
-A: True, and the council says the extra passengers will justify running buses every ten minutes instead of every twenty.
-B: Higher frequency would be useful in the evenings. The real problem in the morning is the slow drive along the main highway.
-A: Exactly. Once the buses join the cars by the bridge, there's always a long delay.
-B: Didn't the council talk about painting a bus lane on that stretch of road last year?
-A: Yes, and the notice says they're asking for comments on the route before Friday.
-B: If they put the bus lane in first, the extra stop in the new suburb wouldn't make us late for the train.
-A: Let's both send that suggestion to the council website tonight.
-B: I'll do it on my phone while we're on the bus. Oh look, here it comes now.
+B: Does it say how much longer our journey will take?
+A: Yes. It gives the journey duration as forty minutes instead of twenty-five.
+B: Fifteen minutes longer? If we leave at the same time, we'll miss the eight o'clock train.
+A: That's why some people on our street oppose the plan. But people in that district don't have any public transportation yet.
+B: Fair point. Does it say whether the buses will run more often?
+A: Yes. The council says the extra passengers will justify running buses every ten minutes instead of every twenty.
+B: The higher frequency could help, but we already lose time in the long line of cars by the bridge.
+A: Didn't the council propose a bus lane there last year?
+B: Yes. That could reduce the delay. Are they asking for comments on this plan?
+A: Until Friday. Let's ask them to look at the bus lane again.
+B: I'll send a message on the bus. We'll probably need to catch an earlier one if this change goes ahead, though.
+A: Yes. We'll have to check the new times. Oh, here comes our bus now.
 
-Vocabulary: delay, district, duration, extend, frequency, highway, inhabitant, justify, lane, oppose, suburb, transportation
+Vocabulary: delay, district, duration, extend, frequency, justify, lane, oppose, suburb, transportation

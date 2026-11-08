@@ -1,0 +1,19 @@
+Repairing the Washing Machine
+A: Thanks for coming. The washing machine has been increasingly difficult to start. Now it won't start at all.
+B: Does the door close properly?
+A: It closes, but the machine keeps showing a message about the door. Could something be wrong with the electronics?
+B: Possibly, or there could be a mechanical failure in the door lock. I'll need to check the whole mechanism thoroughly.
+A: So a problem with the lock could stop the whole machine?
+B: Yes. It won't operate unless it can detect that the door is locked. I'll turn the power off before I examine it.
+A: Of course. This machine's quite old. Are parts still manufactured for it?
+B: Possibly. I'll check the model number and see whether a new lock is available before we discuss repairs.
+A: I was worried you'd say we need a whole new machine.
+B: Let's find the fault first. A door lock is usually relatively cheap, but I can't give you a price yet.
+A: Fair enough. It still washes well once it starts. I'd prefer to repair it if that's possible.
+B: Has it been making unusual noises? Have you seen any water on the floor?
+A: No. The only other problem is that the clothes sometimes come out wetter than before.
+B: Then I'll check whether it's removing the water efficiently too. That could affect what work it needs.
+A: Please include that in the estimate. I'll decide once I know the full cost.
+B: Certainly. I'll finish the checks, then explain what I've found before you agree to anything.
+
+Vocabulary: efficiently, electronics, failure, increasingly, manufacture, mechanical, mechanism, operate, relatively, thoroughly

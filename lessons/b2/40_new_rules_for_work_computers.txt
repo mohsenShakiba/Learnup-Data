@@ -1,17 +1,17 @@
 New Rules for Work Computers
 A: Have you managed to change your computer password yet? Mine keeps saying my new choice isn't strong enough.
-B: It took me three tries. You need at least twelve characters, with a combination of capital letters, numbers, and marks.
-A: That's much more complicated than the old eight-letter ones. How am I supposed to remember it?
-B: Write a line from a song you know and change a few letters into numbers. Why did the IT team impose all these new rules today?
-A: Someone at headquarters opened a fake message yesterday. It nearly exposed the company's customer records to thieves.
+B: Yes. I used the password manager that IT installed. It created a long combination of letters and numbers for me.
+A: That sounds complicated. How am I supposed to remember it?
+B: The manager stores it for you. I'll show you how to use it. Why did IT impose all these new rules today?
+A: Someone at headquarters entered their password on a fake website yesterday. It nearly exposed the company's customer records to thieves.
 B: No wonder they're worried about security threats. Did you see the second part of the instructions?
 A: About using our phones? I haven't read that far yet.
-B: Whenever you work away from the office, you have to enable a check that sends a six-number message to your phone instantly.
-A: So nobody can get into my account with just the password?
-B: Right. And they've changed the rules on saving files, too. The new policy prohibits copying company records onto a small disk or personal drive.
+B: Yes. We have to enable an extra check that sends us a number in a text message. Mine arrived almost instantly when I tried it.
+A: So I enter that number as well as my password?
+B: Right. And they've changed the rules on saving files, too. The new policy prohibits copying company records onto a personal hard disk.
 A: That makes sense. Someone could easily leave one of those on a train.
 B: Exactly. Every manager has been asked to reinforce that rule at this week's team meetings.
 A: Where should I save the files for tomorrow's presentation, then?
-B: Put them in the shared space on the internal network. Try your new password first, and I'll show you where it is.
+B: Put them in the shared space on the internal network. Let's set up your new password first, then I'll show you where it is.
 
 Vocabulary: combination, complicated, disk, enable, expose, headquarters, impose, instantly, password, prohibit, reinforce, threat

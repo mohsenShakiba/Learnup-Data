@@ -1,17 +1,17 @@
 The Hall Smoke Alarm
 A: Did you hear that short sound from the hall again? The smoke alarm has been doing it all afternoon.
-B: Yes, at an interval of about ten minutes. At first I thought steam from the bathroom shower had set it off.
-A: Nobody has used the shower since this morning, though. Why wouldn't the full alarm ring if it detected smoke?
-B: Because it isn't a fire warning. Look, the little red light on the case flashes each time it makes that noise.
-A: What does that mean?
-B: Usually that the power is low. It's terribly annoying when you're trying to read.
+B: Yes, at regular intervals, with a flash from the red light.
+A: Could steam from the shower have triggered it?
+B: Nobody has used the shower today. Besides, that would usually activate the full alarm.
+A: Then what does this sound mean? It's terribly distracting.
+B: Let's check the instructions. We need to know whether it can still detect smoke.
+A: Here they are. There's a section about the different warnings.
+B: Yes, that's precisely the warning it describes: one short sound with a red light. It says we need to replace the battery.
 A: Isn't our alarm connected to the main electricity wires in the ceiling?
-B: It is, but there's a small battery inside the mechanism as well. It activates the alarm if the main power goes off.
-A: Oh, I see. Could dust inside the case trigger that warning sound too?
-B: Yes. If dust gets inside, the alarm can't work precisely, so it warns you to clean it.
-A: Let's get the chair and check both. Do we have a new battery on the kitchen shelf?
-B: Yes, I bought a packet last month. I'll turn off the hall power switch before you open the case.
-A: Good idea. I'll clean the dust out and put the new battery in.
-B: Make sure the case is secure when you close it, or it'll keep making that sound constantly.
+B: It is, but it has a battery too, in case the main power goes off.
+A: Can we replace that ourselves?
+B: The instructions show how to do it. There's a small battery case on the side. Do we have the right battery?
+A: I'll check the packet in the kitchen. Then we can follow the steps here.
+B: All right. Afterwards, we need to check that the case is secure and test the alarm.
 
-Vocabulary: activate, constantly, detect, flash, interval, mechanism, precisely, secure, steam, terribly, trigger, wire
+Vocabulary: activate, besides, detect, distract, flash, interval, precisely, secure, steam, terribly, trigger, wire
