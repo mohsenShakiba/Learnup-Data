@@ -1,0 +1,17 @@
+The Hall Smoke Alarm
+A: Did you hear that short sound from the hall again? The smoke alarm has been doing it all afternoon.
+B: Yes, at an interval of about ten minutes. At first I thought steam from the bathroom shower had set it off.
+A: Nobody has used the shower since this morning, though. Why wouldn't the full alarm ring if it detected smoke?
+B: Because it isn't a fire warning. Look, the little red light on the case flashes each time it makes that noise.
+A: What does that mean?
+B: Usually that the power is low. It's terribly annoying when you're trying to read.
+A: Isn't our alarm connected to the main electricity wires in the ceiling?
+B: It is, but there's a small battery inside the mechanism as well. It activates the alarm if the main power goes off.
+A: Oh, I see. Could dust inside the case trigger that warning sound too?
+B: Yes. If dust gets inside, the alarm can't work precisely, so it warns you to clean it.
+A: Let's get the chair and check both. Do we have a new battery on the kitchen shelf?
+B: Yes, I bought a packet last month. I'll turn off the hall power switch before you open the case.
+A: Good idea. I'll clean the dust out and put the new battery in.
+B: Make sure the case is secure when you close it, or it'll keep making that sound constantly.
+
+Vocabulary: activate, constantly, detect, flash, interval, mechanism, precisely, secure, steam, terribly, trigger, wire

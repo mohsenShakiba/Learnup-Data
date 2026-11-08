@@ -1,0 +1,19 @@
+The Grocery Delivery Choices
+A: Why is the grocery bill higher than the total we saw yesterday?
+B: They sent organic oranges instead of the ones we ordered. Look, they cost nearly twice as much.
+A: That's considerably more. Did we agree to that?
+B: I left the automatic option on, so they could replace anything that wasn't available. I thought they'd send something equivalent in price.
+A: Apparently, that isn't how it works. Can we set a price limit?
+B: Let me check the order settings. No, but we can specify a preference for each item.
+A: What are the choices?
+B: Accept the shop's selection, choose something else ourselves, or ask them to leave the item out.
+A: Then let's give them a second choice for things we really need. We can do without oranges for a few days.
+B: Agreed. The eggs were missing too, so they didn't charge us for them. That's the reduction on this line.
+A: I see. I still like the convenience of having the heavy bags delivered. I just want to know what we'll pay.
+B: Me too. We can review these choices before the next order.
+A: What about today's oranges? Did they tell us about the change before they arrived?
+B: Yes, there's a message from this morning. I hadn't read it. It says to contact the shop if we don't want an item they've chosen.
+A: Let's ask what we can do, then. I'll leave the bag closed for now.
+B: I'll call them. Next time I'll read that message before the driver comes.
+
+Vocabulary: apparently, automatic, considerably, convenience, equivalent, grocery, organic, preference, reduction, selection, specify

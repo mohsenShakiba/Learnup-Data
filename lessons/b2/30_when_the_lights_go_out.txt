@@ -1,0 +1,19 @@
+When the Lights Go Out
+A: Has the power gone off in your room too? I was just starting dinner.
+B: Yes, and the street lighting has gone out. It looks like the whole road is in darkness.
+A: That was unexpected. Have you seen the candles?
+B: There's one on the kitchen table. I've lit it, but keep the paper bags away from the flame.
+A: I'll move them. Is your phone fully charged? Mine's nearly empty.
+B: Yes. I'll call the electricity company and ask how long this might last.
+A: Thanks. I'll put the food in the fridge while you call.
+B: I've just spoken to an operator. A team is working nearby, but they don't know how long the repair will take.
+A: So they haven't said when they'll restore the power?
+B: No. She said there would be another update shortly, but she couldn't promise a time.
+A: Then we shouldn't wait to eat. There are some sandwiches in the fridge.
+B: That'll do. Hopefully, we can cook the rest tomorrow.
+A: I'll get the sandwiches, then. Could you bring your phone over so I can see?
+B: Here. I'll turn on the light for you.
+A: Thanks. Let's eat at the kitchen table.
+B: All right. I'll check for that update after we've eaten.
+
+Vocabulary: candle, darkness, flame, fully, hopefully, lighting, operator, restore, shortly, unexpected
