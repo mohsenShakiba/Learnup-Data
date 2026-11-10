@@ -1,21 +1,21 @@
 The Presentation File Is Too Large
-A: I can't send the presentation to our teacher. The file is larger than the website allows.
+A: I can't upload the presentation for tomorrow's client meeting. The file is larger than the company website allows.
 B: How many slides have you made?
-A: Only twelve, but I inserted the full-size photos from our class trip. There are multiple photos on most pages.
-B: That might explain it. Do you need to retain them at that size?
-A: Probably not. We'll only show them in class. We won't print them as large posters.
+A: Only twelve, but I inserted the full-size photos from our visit to the factory. There are multiple photos on most pages.
+B: That might explain it. Do you really need to retain them at that size?
+A: Probably not. We'll only show them on the meeting room screen. We won't print them as large posters.
 B: Try making a copy first. Then you can reduce the resolution of the photos without changing the file you started with.
 A: Where do I do that?
 B: Select a photo and click this icon. It looks like a little picture with arrows around it.
 A: Here? There's an option to change all the photos at once.
 B: Yes. Try that on the copy, then check whether the pictures still look clear when you show a whole slide.
 A: They look fine. The file is significantly smaller now, but it's still just above the limit.
-B: Have you added any film?
-A: No, but there's an animation of a bus moving across the map on the first page.
+B: Have you added any video?
+A: No, but there's an animation of a truck moving across the map on the first slide.
 B: Do you need it to move?
-A: Not really. It just shows where we went. I could replace it with a still picture.
+A: Not really. It just shows the delivery route. I could replace it with a still picture.
 B: Try that. You could also convert the presentation to a PDF, but there's a limitation: it won't keep the movement.
-A: That's fine. The teacher said either format was acceptable. I'll try the PDF and check every page before I send it.
+A: That's fine. The client said either format was acceptable. I'll try the PDF and check every page before I upload it.
 B: Keep the presentation you started with too, in case you want to make changes later.
 
 Vocabulary: animation, convert, icon, insert, limitation, multiple, PDF, resolution, retain, significantly, slide
