@@ -1,21 +1,19 @@
 Packing Lunch for the Park
-A: Is this bag ready for lunch in the park? There's something sticky on the bottom.
-B: Oh, the drink has spilled. I didn't close the bottle properly.
-A: It hasn't reached the sandwiches, has it?
-B: No, they're in a separate box. Could you grab a cloth while I take everything out?
+A: Can you help me finish packing lunch for the park? The sandwiches are on the kitchen table.
+B: Sure. Is this the bag we're taking? There's something sticky on the bottom.
+A: Oh, the drink has spilled. I didn't close the bottle properly.
+B: I'll take everything out. Could you grab a cloth?
 A: Here. The blanket's wet along one edge too.
-B: I'll leave it outside to dry. We still have an hour before we need to go.
-A: Where's the chocolate? Please tell me it wasn't in that bag.
-B: It's on the kitchen table. I was going to wrap it in paper and put it in with the food.
-A: It might melt in this heat. Let's keep it in the fridge until we leave.
-B: All right. I'll put it beside the cold drinks. Do we need anything else?
-A: Some tissues. We can use those after we've eaten.
-B: There's a packet on the shelf. Have you chosen a place to meet everyone?
-A: I suggested the grass alongside the river. There's a large tree near the bridge.
-B: There were lots of bugs by the water last time. I'd rather sit a little further back.
-A: We can choose somewhere when we arrive. There's plenty of room further from the river.
-B: But how will the others find us if we move away from the bridge?
-A: I'll message everyone now and ask them to meet us at the gate at one. Then we can choose a place together.
-B: That works. I'll finish cleaning this bag and make sure the bottle's closed firmly before I pack it.
+B: I'll put it outside to dry. What time are we meeting everyone?
+A: One, so we have another hour. I'll wrap the sandwiches while you clean the bag.
+B: What about the chocolate on the table? It might melt in this heat.
+A: I'll leave it in the fridge until we go. Can you put a packet of tissues with the sandwiches?
+B: Sure. Where are we meeting?
+A: I suggested the grass alongside the river, near the bridge.
+B: There were lots of bugs by the water last time. Can we sit further back?
+A: Yes. I'll message everyone and ask them to meet us at the gate instead. Then we can choose a place together.
+B: Good idea. The bag's clean now, but the inside's still wet.
+A: Let's use the other one. I'll close this bottle firmly and keep it in the side pocket.
+B: Thanks. I'll leave the wet bag outside with the blanket.
 
 Vocabulary: alongside, blanket, bug, firmly, grab, melt, spill, sticky, tissue, wrap

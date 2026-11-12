@@ -1,19 +1,20 @@
 Choosing a Nursing Course
-A: I'm interested in nursing, but I'm not sure which course to apply for. Could you help me compare these two?
-B: Certainly. Are you hoping to study here, or would you move away?
-A: I'd prefer this institute because I could stay at home. The other course is in another city.
-B: That could make a big difference to the cost. Have you looked at the funding available for each one?
-A: The other college offers a scholarship, but only to a few students. I can't plan on getting it.
-B: Let's compare what you'd learn, then. Have you had any experience of nursing?
-A: I've been volunteering in healthcare for six months. I'm passionate about helping patients, but I know that isn't enough on its own.
-B: What have you learned from the nurses there?
-A: How much they need to know, and how carefully they check things. I'd like to specialize in working with children eventually.
-B: Then look at the practical experience each course offers. This one includes a placement at the local children's hospital.
-A: That's useful. Does every student go there?
-B: The description doesn't say. We should ask before you make that part of your decision.
-A: The other course has more psychology in the first year. I'd like to understand the psychological effects of a long illness.
-B: You could ask how that subject is taught here too. The course titles don't tell us everything.
-A: I'll write down both questions. Is there an open day soon?
-B: Next Thursday. You can meet the teaching staff and ask current students about their experience.
+A: Is this the office for careers advice? I'd like some help choosing a college course.
+B: Yes. Come in and take a seat. What would you like to study?
+A: Nursing. I've brought the details of two courses, but I'm not sure which one to apply for.
+B: Let's have a look. Is there one you prefer so far?
+A: The local institute would be easier because I could stay at home. The other course is in another city.
+B: Staying at home would help with the cost. Have you looked into funding for either course?
+A: The other college offers a scholarship, but only a few students get one. I couldn't rely on that.
+B: No, so it's worth comparing the costs without it. What else matters to you about the course?
+A: Practical experience. I've been volunteering at the hospital for six months. The nurses there have inspired me to work in healthcare.
+B: So you've had a chance to see what the work is like. Is there an area you'd like to specialize in?
+A: Working with children. I'm passionate about helping them, but I know I still have a lot to learn.
+B: Then this course could be a good fit. It mentions a placement at the local children's hospital.
+A: Oh, that sounds ideal. Would I definitely get to go there?
+B: It doesn't say whether every student goes there. You'd need to check with the college.
+A: I'm going to their open day next Thursday, so I'll ask then. I'd also like to know what support students get. Working with very ill children can be quite emotional.
+B: That's worth asking about. Try to talk to some current students too. They can tell you what support they've had during their placements.
+A: Good idea. I'll write those questions down and take them with me.
 
-Vocabulary: funding, healthcare, institute, nursing, passionate, placement, psychological, psychology, scholarship, specialize
+Vocabulary: emotional, funding, healthcare, inspire, institute, nursing, passionate, placement, scholarship, specialize

@@ -1,19 +1,23 @@
 Reporting a Missing Bag
-A: I'd like to report a possible theft. My bag disappeared from the cafe opposite the station this afternoon.
+A: Hello. I called the police about a missing bag, and they told me to come here.
+B: Yes, this is the right desk. Take a seat and tell me what happened.
+A: I think it may have been a theft. My bag disappeared from the cafe opposite the train station this afternoon.
 B: I'll take the details. Did anyone witness someone taking it?
 A: Not that I know of. I'd left my table briefly to collect my coffee. The bag was gone when I came back.
 B: Did you ask the cafe staff whether someone had handed it in?
 A: Yes. They checked behind the counter and around the tables. It was such a shock that I kept looking in the same places.
 B: Take your time. What was inside?
-A: My cards, my driving licence, and a black umbrella with a broken handle. My phone was in my pocket.
+A: My cards, my driving licence, and a bit of money. My phone was in my pocket.
 B: Have you had the cards blocked?
 A: Yes, I arranged that before I came here. I suspect the man at the next table took the bag, but I didn't actually see him touch it.
 B: What made you think it was him?
 A: He seemed to stare at it when I sat down. Then both he and the bag were gone when I returned.
-B: I'll record what you saw. We can't say with certainty that he took it, though.
+B: I'll record what you saw but you don't know with certainty that he took it, though.
 A: I understand. I don't mean to imply that I have proof. I wish I'd paid more attention.
 B: Can you describe his clothes?
-A: A dark coat, but I couldn't distinguish the colour in that light. I couldn't swear it was black.
-B: That's all right. Describe only what you remember. Then we'll go through the details of the bag itself.
+A: A dark coat. I couldn't distinguish between colors in that light, but I swear he looked at my bag.
+B: That's all right. I'll write down "dark coat". Now, what did the bag look like?
+A: It was a small brown leather bag with a round button on the front.
+B: Thank you. I'll add that to the report and take your contact details.
 
 Vocabulary: briefly, certainty, distinguish, imply, licence, shock, stare, suspect, swear, theft, witness

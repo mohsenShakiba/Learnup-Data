@@ -1,21 +1,19 @@
 Recovering from a Throat Infection
-A: Are you really planning to go into the office today? You still sound rough when you speak.
-B: I feel much better than yesterday. My fever has gone down, and my headache has gone too.
-A: What about your throat? Yesterday evening you could barely swallow your soup.
-B: It still hurts when I swallow, and I have a slight pain in my chest, but the medicine from the clinic is helping.
-A: Even so, the doctor said a throat infection like this takes several days to heal. She urged you to rest until Friday.
-B: I know, but we're finishing the monthly sales report this week. My section is crucial, and the others can't complete the report without my figures.
-A: Couldn't you send them the figures from home instead of going into the office all day?
-B: The files are already on the shared drive, actually. I just thought I should be there in case our manager has questions.
-A: If she needs to check anything, she can call or message you. Was she sympathetic when you phoned her on Monday?
-B: Very. She assured me that the team could manage and told me not to rush back before I was ready.
-A: Then it wouldn't be wise to go in today. If you don't give yourself time to recover properly, you'll be ill all week.
-B: Plus, I suppose the others won't thank me if I pass this infection on to the whole office.
-A: Exactly. Have you taken your morning tablet yet?
-B: Not yet. The box says I have to take it with food, and I haven't had breakfast.
-A: Sit down and I'll make you some warm soup and a hot drink. Do you want one of those vitamin drinks as well?
-B: Yes, please. My sister says they make you more immune to winter colds, though I know they aren't a quick cure.
-A: Well, a hot drink will help your throat anyway. Message your manager while I heat the soup.
-B: I will. I'll tell her I'm staying at home today, and that she can call me if she needs anything for the report.
+A: Come and sit at the kitchen table. I'll heat some soup for your breakfast.
+B: Thanks. Just a small bowl, please. I need to leave for work soon.
+A: You're going in? You could barely swallow your soup last night.
+B: It's easier this morning. My fever's gone down, and I only have a slight headache now.
+A: What did the doctor say about going back?
+B: She urged me to rest until Friday. I know I need time to recover, but they're finishing the monthly sales report today. My figures are crucial.
+A: Do you still need to send them over?
+B: No, I sent them yesterday. I just feel bad leaving the others to finish the report.
+A: Was your manager sympathetic when you called?
+B: Yes. She assured me they could manage. She even offered to finish my section herself.
+A: Then let her. You can thank her when you're back.
+B: You're right. And I don't want anyone else catching this infection. I'll message her now and say I'm staying home.
+A: Do you want me to bring your phone?
+B: It's here. I'll turn it off for a while once I've heard back from her.
+A: Probably wise. Your soup's ready.
+B: Thanks. I'll eat this and go back to bed.
 
-Vocabulary: assure, crucial, cure, fever, heal, immune, infection, recover, slight, swallow, sympathetic, urge, vitamin, wise
+Vocabulary: assure, crucial, fever, infection, recover, slight, swallow, sympathetic, urge, wise

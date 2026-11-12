@@ -1,19 +1,19 @@
 Repairing the Washing Machine
-A: Thanks for coming. The washing machine has been increasingly difficult to start. Now it won't start at all.
-B: Does the door close properly?
-A: It closes, but the machine keeps showing a message about the door. Could something be wrong with the electronics?
-B: Possibly, or there could be a mechanical failure in the door lock. I'll need to check the whole mechanism thoroughly.
-A: So a problem with the lock could stop the whole machine?
-B: Yes. It won't operate unless it can detect that the door is locked. I'll turn the power off before I examine it.
-A: Of course. This machine's quite old. Are parts still manufactured for it?
-B: Possibly. I'll check the model number and see whether a new lock is available before we discuss repairs.
-A: I was worried you'd say we need a whole new machine.
-B: Let's find the fault first. A door lock is usually relatively cheap, but I can't give you a price yet.
-A: Fair enough. It washed well before it stopped working. I'd prefer to repair it if that's possible.
-B: Has it been making unusual noises? Have you seen any water on the floor?
-A: No, but in the last few weeks the clothes sometimes came out wetter than before.
-B: Then I'll check whether it can still remove the water efficiently too. That could affect what work it needs.
-A: Please include that in the estimate. I'll decide once I know the full cost.
-B: Certainly. I'll finish the checks, then explain what I've found before you agree to anything.
+A: Thanks for coming. The washing machine's here in the kitchen. It's been increasingly difficult to start, and now it won't start at all.
+B: You mentioned a message on the display when you called. What does it say?
+A: It says the door's open, but it seems properly shut. Could something be wrong with the electronics?
+B: It could be that, or a mechanical failure in the lock. Let me try the door.
+A: So even a small fault in the lock could stop it working?
+B: Yes. It won't operate unless it detects that the door is locked. I'll switch the power off now so I can examine the mechanism.
+A: Is it worth repairing a machine this old?
+B: If it's just the lock, probably. Those are relatively cheap, but I need to check it thoroughly before I give you a price.
+A: Can you still get parts for this model?
+B: I'll check. Some parts for older models are no longer manufactured.
+A: One other thing: the clothes have been coming out wetter than usual.
+B: For how long?
+A: A few weeks. I meant to mention it when I called.
+B: Then I'll also check whether it's removing the water efficiently. The estimate needs to include both problems.
+A: Please do. I'd like to know the full cost before we decide on repairs.
+B: Of course. I'll explain what I've found before I order any parts.
 
 Vocabulary: efficiently, electronics, failure, increasingly, manufacture, mechanical, mechanism, operate, relatively, thoroughly
