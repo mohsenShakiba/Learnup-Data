@@ -1,19 +1,19 @@
 When the Lights Go Out
-A: Has the power gone off in your room too? I was just starting dinner.
-B: Yes, and the street lighting has gone out. It looks like the whole road is in darkness.
-A: That was unexpected. Have you seen the candles?
-B: There's one on the kitchen table. I've lit it, but keep the paper bags away from the flame.
-A: I'll move them. Is your phone fully charged? Mine's nearly empty.
-B: Yes. I'll call the electricity company and ask how long this might last.
-A: Thanks. I'll put the food in the fridge while you call.
-B: I've just spoken to an operator. A team is working nearby, but they don't know how long the repair will take.
-A: So they haven't said when they'll restore the power?
-B: No. She said there would be another update shortly, but she couldn't promise a time.
-A: Then we shouldn't wait to eat. There are some sandwiches in the fridge.
-B: That'll do. Hopefully, we can cook the rest tomorrow.
-A: I'll get the sandwiches, then. Could you bring your phone over so I can see?
-B: Here. I'll turn on the light for you.
-A: Thanks. Let's eat at the kitchen table.
-B: All right. I'll check for that update after we've eaten.
+A: Did your lights just go out too? I was just starting dinner.
+B: Yeah, the street lights are out too. Looks like the power's out on the whole street.
+A: Is your phone fully charged? Mine's almost dead. Can you check when it'll be back on?
+B: Yeah, hang on... The power company's website is useless. It just says there's a power cut. I'll try calling.
+A: Thanks. Where are the candles?
+B: On the shelf above the sink.
+A: Found them. I'll light one and put it on the table.
+B: Good. I'll move these paper bags out of the way.
+A: Okay. Have you got through to anyone?
+B: I'm still waiting for an operator. The recorded message says it's a widespread problem, but they're hoping to restore power shortly.
+A: "Shortly" could mean anything. I'm starving.
+B: There are some sandwiches in the fridge. Shall we have those?
+A: Yeah. Hopefully it won't be off all night. I only filled the fridge yesterday.
+B: It'd be a nightmare to throw all that food away. Let's keep the door closed as much as we can.
+A: I'll get the sandwiches out quickly, then. Can you pass me two plates?
+B: Here you go. Oh, hang on—someone's answered.
 
-Vocabulary: candle, darkness, flame, fully, hopefully, lighting, operator, restore, shortly, unexpected
+Vocabulary: candle, fully, hopefully, nightmare, operator, restore, shortly, starve, useless, widespread

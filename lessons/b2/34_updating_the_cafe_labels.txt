@@ -1,15 +1,19 @@
-Updating the Cafe Labels
-A: We've had another customer enquiry this morning about which of our cakes are made without wheat or dairy.
-B: People ask about that almost every day now. We should make the counter signs clearer before the council inspector visits next week.
-A: Have the food regulations changed since last year?
-B: No. The inspector sent us some guidelines to help us check our signs. Let's compare those with the recipes before we print new tags.
-A: What about the lemon cake? Since we modified that recipe to use oil, can we write "no dairy" on its tag?
-B: Changing the recipe doesn't ensure there's no dairy in the finished cake. We still use the same bowls and machine for everything.
-A: Could traces of dairy get into it from the other cakes?
-B: Yes, and even a tiny amount can make someone ill. We shouldn't claim there's no dairy unless we can eliminate that risk.
-A: Could we wash the machine and keep two bowls and a knife strictly for the lemon cake?
-B: That might help, but we need to check how we prepare it, from start to finish. Let's ask the inspector what else we'd need to change.
-A: I'll leave "no dairy" off the tag, then. Can we check the ingredient lists together this afternoon?
-B: Yes. We'll also check what the signs need to say about dairy or wheat getting into the cakes from other food.
+The Free Coffee Photo
+A: Why are people queuing outside already? We don't open for another twenty minutes.
+B: They're asking about free coffee. I tried to explain the breakfast offer, but some still assume the coffee's free.
+A: Have they seen the photo you posted last night?
+B: Yes. Let me check... Oh, no. I've somehow cut off the bottom of the sign.
+A: It literally just says "Free coffee". The "with breakfast" bit is missing.
+B: I cropped the photo to fit the post. I'm sorry. I didn't notice.
+A: Don't panic. Let's make the offer less confusing. Can you replace that photo?
+B: Yes. What do we do about the people waiting? There are eight of them.
+A: Let's honour the offer they saw. I don't want to disappoint them before they've even come inside.
+B: Eight free coffees? We can't do that all morning.
+A: Eight won't be a massive loss. I'm more concerned about them thinking we tricked them.
+B: Fair enough. What if more people arrive with the old photo?
+A: Explain the mistake at the top of the post. If anyone else has the old photo, ask them to speak to me.
+B: Okay. Should I change the board as well?
+A: Just make "with breakfast" bigger. There’s a marker by the till.
+B: I'll do that before I take the new photo. Then I'll start on those coffees.
 
-Vocabulary: dairy, eliminate, enquiry, ensure, guideline, inspector, modify, regulation, strictly, tag, trace, wheat
+Vocabulary: assume, concerned, confusing, disappoint, honour, literally, marker, massive, panic, somehow
