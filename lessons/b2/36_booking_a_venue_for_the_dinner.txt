@@ -1,17 +1,17 @@
 Booking a Venue for the Dinner
-A: Have many people replied to the questionnaire about our college dinner?
+A: Have many people filled in the questionnaire about our college dinner?
 B: Yes, about three dozen so far. There's been a lot of enthusiasm about meeting up after ten years.
 A: That's more than I anticipated. We'll need to book a venue soon.
 B: I've looked at two places. One is the private hall at the Park Hotel, and the other is the river restaurant.
-A: I recall going to a wedding at the Park Hotel. That room was very grand, wasn't it?
-B: It was, and it's quiet enough for people to talk easily. The river restaurant is much more lively, though, and the food is cheaper.
+A: I remember going to a wedding at the Park Hotel. The room was very grand, but I can't recall how many people it holds.
+B: It holds sixty, so there's plenty of space. The river restaurant is more lively, though, and the food is cheaper.
 A: Does the restaurant have enough space for nearly forty people to sit together?
-B: They have an upstairs room that holds forty-five. It would be just for our group.
+B: They have an upstairs room that holds forty-five. It would be just for our group, and we can bring our own decorations.
 A: That sounds good. What happens if someone cancels after we've confirmed the numbers?
 B: They still charge us for that meal. We can change the numbers without a charge until a week before the dinner, though.
 A: Then let's ask everyone to pay before that deadline. How should we order the food?
-B: The manager asked me to order via their website so the kitchen staff can check it.
-A: Let's make sure they can provide meals for everyone before we pay a deposit.
-B: Agreed. I'll submit the order now and ask them to keep the date free while they check.
+B: The manager asked me to send everyone's meal choices through their website so the kitchen staff can check them.
+A: Let's make sure they can provide all the meals we need before we pay a deposit.
+B: Agreed. I'll send him the choices we've received so far and ask him to keep the date free while we wait for the rest.
 
-Vocabulary: anticipate, cancel, dozen, enthusiasm, grand, lively, questionnaire, recall, venue, via
+Vocabulary: anticipate, cancel, decoration, dozen, enthusiasm, grand, lively, questionnaire, recall, venue

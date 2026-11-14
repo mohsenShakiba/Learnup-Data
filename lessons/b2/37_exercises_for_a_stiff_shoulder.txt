@@ -1,13 +1,13 @@
 Exercises for a Stiff Shoulder
-A: Hello. Come in and take a seat. Is this your first session of therapy for your shoulder?
-B: Yes. My doctor sent me because I've had a lot of pain in my right shoulder and neck for the last three weeks.
-A: Raise your arm slowly for me. Does that motion hurt?
+A: Hello. Come in and take a seat. Have you had any therapy for your shoulder before?
+B: No. My doctor sent me because I've had a lot of pain in my right shoulder and neck for the last three weeks.
+A: Raise your arm slowly for me. Does it hurt when you do that?
 B: It pulls at the top of my shoulder, and my neck feels very tight by the end of the day.
 A: Your shoulder joint seems to move quite well, but you mentioned tension in your neck. Do you work at a computer?
 B: Yes, all day. I noticed yesterday that I lean forward when I'm reading small text on the monitor.
 A: Could you move your monitor closer so you can read without leaning forward?
 B: I can do that at home, yes. What can I do to relieve the pain when it starts?
-A: I'll demonstrate a short sequence of gentle exercises that may help. We'll try them together before you do them at home.
+A: I'll demonstrate a few gentle exercises that may help. Then you can try them.
 B: Will they take long? It's hard to stop for half an hour during the working day.
 A: These should take about five minutes. Short, regular sessions can be more beneficial than one long session at the weekend. Watch me bring my shoulders back like this.
 B: Like this? Am I pulling back too far?
@@ -15,6 +15,6 @@ A: That's enough. Keep the movement gentle and breathe steadily. Stop if it make
 B: That feels comfortable. How soon will these exercises strengthen the muscles?
 A: That takes time. Let's review your progress in two weeks and decide whether to change the exercises.
 B: Should I book with you again or see another therapist?
-A: With me, if possible. The desk can arrange it before you leave.
+A: With me, if possible. You can book your next appointment on your way out.
 
-Vocabulary: beneficial, demonstrate, joint, lean, motion, relieve, sequence, steadily, strengthen, tension, therapist, therapy
+Vocabulary: beneficial, demonstrate, joint, lean, relieve, steadily, strengthen, tension, therapist, therapy

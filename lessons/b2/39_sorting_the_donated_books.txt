@@ -1,8 +1,8 @@
 Sorting the Donated Books
 A: Are these the boxes of books that the retired teacher brought into the shop this morning?
-B: Yes. He taught at the university for forty years, so there are dozens of literary studies and histories in here.
-A: How should we classify them for the shelves? We don't have a separate section for university books.
-B: Put the histories by the window and the literary studies beside them. The contemporary novels can go on the front table with the other recent books.
+B: Yes. He taught at the university for forty years, so most are about history and literature. There are a few fantasy and romance novels too.
+A: How should we sort them? We don't have a separate section for university books.
+B: Put the books about history and literature by the window. The contemporary novels can go on the front table with the other recent books.
 A: What about these older novels at the bottom of the box?
 B: Let me see. Most of these are well-known classics that students buy every autumn, so price them at three pounds each.
 A: Wait—look at this one. It's from 1910, and there are illustrations on almost every page.
@@ -14,4 +14,4 @@ B: Perhaps. We'd need to ask a specialist book dealer to value it first. Its age
 A: I'll put it in the office safe for now. Do we have the teacher's phone number?
 B: Yes, he left it on the delivery note in case we wanted to collect his remaining boxes. I'll call him now.
 
-Vocabulary: auction, classic, classify, collector, contemporary, dealer, illustration, literary, novelist, specialist
+Vocabulary: auction, classic, collector, contemporary, dealer, fantasy, illustration, novelist, romance, specialist

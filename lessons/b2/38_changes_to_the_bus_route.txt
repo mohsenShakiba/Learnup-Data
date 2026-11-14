@@ -3,16 +3,16 @@ A: Have you seen the notice at the bus stop about our morning route to the stati
 B: No, I've just got here. Are they changing the times again?
 A: They want to extend the route so the bus goes through the new suburb on the west side of town.
 B: Does it say how much longer our journey will take?
-A: Yes. It gives the journey duration as forty minutes instead of twenty-five.
-B: Fifteen minutes longer? If we leave at the same time, we'll miss the eight o'clock train.
-A: That's why some people on our street oppose the plan. But people in that district don't have any public transportation yet.
+A: Yes. It says the journey will take forty minutes instead of twenty-five.
+B: Fifteen minutes longer? We're bound to miss the eight o'clock train if we leave at the same time.
+A: That's why some people on our street oppose the plan. But people living there don't have any public transportation yet.
 B: Fair point. Does it say whether the buses will run more often?
 A: Yes. The council says the extra passengers will justify running buses every ten minutes instead of every twenty.
-B: The higher frequency could help, but we already lose time in the long line of cars by the bridge.
-A: Didn't the council propose a bus lane there last year?
-B: Yes. That could reduce the delay. Are they asking for comments on this plan?
-A: Until Friday. Let's ask them to look at the bus lane again.
+B: Having buses every ten minutes could help, but we already lose time in the long line of cars by the bridge.
+A: Didn't the mayor promise a bus lane there last year?
+B: Yes. That could reduce the delay. Are they going to consult passengers before they decide on the new route?
+A: Yes, we have until Friday to comment. Let's ask them to look at the bus lane again.
 B: I'll send a message on the bus. We'll probably need to catch an earlier one if this change goes ahead, though.
 A: Yes. We'll have to check the new times. Oh, here comes our bus now.
 
-Vocabulary: delay, district, duration, extend, frequency, justify, lane, oppose, suburb, transportation
+Vocabulary: bound, consult, delay, extend, justify, lane, mayor, oppose, suburb, transportation
