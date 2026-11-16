@@ -1,10 +1,10 @@
 News from the Market
 A: Have you had a chance to read my article on the new street market? It goes to print tomorrow.
-B: Yes, I've just finished it. Overall it reads well, but the editorial team thinks the first half shows a bit of bias.
+B: Yes, I've just finished it. Overall it reads well, though the others at the editorial meeting felt the first half showed a bit of bias.
 A: Really? In what way?
 B: You only interviewed people who run a stall. Naturally, they're happy about the extra publicity and sales.
 A: That's true. I spent most of Saturday talking to them.
-B: To make it more balanced, we also need some input from the shops around the square. Several managers were worried about losing parking spaces.
+B: To make it more balanced, we also need to hear from the shops around the square. Several managers were worried about losing parking spaces.
 A: I actually spoke to two of those shop managers yesterday. I could incorporate a few lines from them about how the market has affected their trade.
 B: Good. You also wrote that visitor numbers in the square have increased by five hundred on Saturdays. Where did that figure come from?
 A: From the local government's monthly report. They counted visitors at the car park and the station.
@@ -12,10 +12,10 @@ B: Then cite that report, with its date, so people know the figure comes from of
 A: Will do. What about the graphic at the bottom of the page? Is the map of the square clear enough?
 B: Mostly, but the street names along the bottom are very small.
 A: I can make the map slightly larger and put the market opening times beside it.
-B: That should fix it. Once this page is ready, our first publication will be complete.
+B: That should fix it. Once this page is done, the whole paper will be ready for publication.
 A: Have we arranged everything for distribution on Thursday?
 B: Yes. The library, the station and the cafes around the square have all agreed to take copies.
 A: Great. I'll add the shop managers' comments and the report details tonight, then send you the revised page.
 B: Thanks. I'll check it first thing in the morning before I send the file to print.
 
-Vocabulary: balanced, bias, cite, distribution, editorial, graphic, incorporate, input, publication, publicity, stall
+Vocabulary: balanced, bias, cite, distribution, editorial, graphic, incorporate, publication, publicity, stall

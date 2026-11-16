@@ -3,7 +3,7 @@ A: Is this the office for careers advice? I'd like some help choosing a college 
 B: Yes. Come in and take a seat. What would you like to study?
 A: Nursing. I've brought the details of two courses, but I'm not sure which one to apply for.
 B: Let's have a look. Is there one you prefer so far?
-A: The local institute would be easier because I could stay at home. The other course is in another city.
+A: The health institute here in town would be much easier because I could stay at home. The other course is at a college in another city.
 B: Staying at home would help with the cost. Have you looked into funding for either course?
 A: The other college offers a scholarship, but only a few students get one. I couldn't rely on that.
 B: No, so it's worth comparing the costs without it. What else matters to you about the course?

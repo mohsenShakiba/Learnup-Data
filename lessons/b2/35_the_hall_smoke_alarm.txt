@@ -1,17 +1,17 @@
 The Hall Smoke Alarm
-A: Did you hear that short sound from the hall again? The smoke alarm has been doing it all afternoon.
-B: Yes, at regular intervals, with a flash from the red light.
+A: Did you hear the hall smoke alarm again? It's been making that short sound all afternoon.
+B: Yeah, with a little flash from the red light each time.
 A: Could steam from the shower have triggered it?
-B: Nobody has used the shower today. Besides, that would usually activate the full alarm.
-A: Then what does this sound mean? It's terribly distracting.
-B: Let's check the instructions. We need to know whether it can still detect smoke.
-A: Here they are. There's a section about the different warnings.
-B: Yes, that's precisely the warning it describes: one short sound with a red light. It says we need to replace the battery.
-A: Isn't our alarm connected to the main electricity wires in the ceiling?
-B: It is, but it has a battery too, in case the main power goes off.
-A: Can we replace that ourselves?
-B: The instructions show how to do it. There's a small battery case on the side. Do we have the right battery?
-A: I'll check the packet in the kitchen. Then we can follow the steps here.
-B: All right. Afterwards, we need to check that the case is secure and test the alarm.
+B: Nobody's used the shower today. Besides, that usually sets the whole alarm off.
+A: Then what does it mean? I'm trying to read and it's really distracting—it's getting on my nerves.
+B: Let's check the instructions. First we need to make sure it can still detect smoke properly.
+A: Here they are. There's a list of warning sounds on the back.
+B: Look—one short sound at one-minute intervals means the battery's running low.
+A: Isn't ours connected to the electricity wires in the ceiling?
+B: It is, though it has a battery inside too, in case the main power goes off.
+A: Can we change that ourselves?
+B: Yes, there's a small battery case on the side. Do we have a new battery that size?
+A: I'll check the packet in the kitchen, then we can follow the steps here.
+B: Great. Afterwards, we just push the case shut until it's secure and press the test button.
 
-Vocabulary: activate, besides, detect, distract, flash, interval, precisely, secure, steam, terribly, trigger, wire
+Vocabulary: besides, detect, distract, flash, interval, nerve, secure, steam, trigger, wire

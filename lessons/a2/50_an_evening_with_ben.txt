@@ -5,7 +5,7 @@ A: About nine. The concert finishes at eight thirty.
 B: Does he need to go to bed before then?
 A: Yes, at eight. He doesn't sleep in the afternoon any more, so he gets tired early.
 B: Can he get ready for bed by himself?
-A: Yes, but he usually needs help with the buttons.
+A: Yes, but he usually needs help with the buttons on his sleeves.
 B: And what about food? Should I cook something for him?
 A: No, his dinner is in the fridge. You can give it to him at seven.
 B: Is there anything he doesn't like?
@@ -20,4 +20,4 @@ B: All right. Wish me luck!
 A: You'll be fine. Call me if you need anything.
 B: Enjoy the concert. See you at nine.
 
-Vocabulary: any more, cry, grandparent, happily, hide, himself, kid, refuse, tradition, wish
+Vocabulary: any more, cry, grandparent, happily, hide, himself, refuse, tradition, wish, sleeve

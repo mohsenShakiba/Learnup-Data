@@ -1,15 +1,15 @@
 The Locked Basement Room
-A: You're back! Did you get the equipment for our workshop?
-B: Yes, the kit's on that desk. The basement room was locked when I got there, though.
-A: Oh. I'd told the clerk we needed it for the morning session.
-B: He said nobody had informed him. Had you sent the message to his new address?
-A: New address? I used the same one as last time.
-B: He changed it last month. There's a note on the door at the end of the corridor.
-A: I've just checked my message. I used the old one. My fault. How did you get in?
-B: I called him. He'd left a spare key with the assistant at the front desk.
-A: I'll send him an apology. Is the camera ready?
-B: Almost. The cable in the bag was too short, so I found a longer one. Can you help me adjust the display?
-A: Of course. Move it over here so everyone can see it.
-B: Thanks. Then we're ready for the first group.
+A: You took a while! Did you get the camera kit for our workshop?
+B: Yes, it's on the desk. The basement room was locked when I got down there, though.
+A: Really? I'd sent a message to the office before I left yesterday so someone could open it for the morning session.
+B: Nobody at the front desk had seen a message from you when I asked. Did you send it to their new number?
+A: New number? No, I used the old one on my phone.
+B: Ah, they changed it last month.
+A: Oh, my fault. Sorry you had to sort that out. How did you get in?
+B: Fortunately, the manager had left a spare key at the front desk before he went out.
+A: Good thing he did. Is everything ready now?
+B: Almost. The cable in the bag was too short to reach the wall, so I had to find a longer one. Can you check the camera's display while I adjust the stand?
+A: Sure. Up a little bit... That's great, you can see the whole board now.
+B: Good, because a few people are already waiting out in the corridor. Let's let them in.
 
-Vocabulary: adjust, apology, basement, cable, clerk, corridor, display, fault, inform, kit, session, spare, workshop
+Vocabulary: adjust, basement, cable, corridor, display, fault, kit, session, spare, workshop

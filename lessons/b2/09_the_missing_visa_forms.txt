@@ -1,15 +1,15 @@
 Checking the Visa Forms
 A: Is the envelope on the kitchen counter ready for our visa interview tomorrow?
-B: Almost. Can you check this form while I make a copy of our marriage certificate?
-A: Wait. This is our old address. Where did you get this form?
-B: From an old message. I must have opened the wrong attachment. I assumed the saved form was up to date.
-A: Can you change the address on your computer?
-B: Yes, I'll print a fresh copy. I should have checked before printing the first one.
-A: It's better to find out tonight. Do you have the letter about your income?
-B: Yes, it's in the envelope. The list also asks for a household bill as proof of our address.
-A: Here's the electricity bill. It has both our names on it.
-B: Thanks. The new copy's coming out now. Can you check it against the bill?
-A: The address matches now. It just needs your signature at the bottom.
-B: Done. I'll put the form and the bill in with the certificate, then the envelope is ready.
+B: Almost. Could you check this form while I make a copy of our marriage certificate?
+A: Hang on, this has our old address on it. Which file did you print?
+B: Oh no. I must have opened the attachment from an old message instead of the updated form on my computer. I just assumed it was the right one.
+A: Do you still have the updated one on your computer?
+B: Yes, here it is. I'm printing it now. I really should have checked it before I printed the whole thing.
+A: Better to spot it tonight than tomorrow morning! Did you pack the letter from work about your income?
+B: Yes, that's already in the envelope. The list also asks for a recent household bill as proof of address.
+A: Here's last month's electricity bill. It has both our names on it.
+B: Great, thanks. The new copy's coming out now. Could you check the address against the bill?
+A: Yes, the address matches now. Don't forget your signature at the bottom.
+B: Done. I'll put the form and the bill in with the certificate, and then the envelope's ready for the morning.
 
 Vocabulary: assume, attachment, certificate, counter, envelope, household, income, proof, signature, visa

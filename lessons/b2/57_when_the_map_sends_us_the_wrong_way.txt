@@ -1,21 +1,21 @@
 When the Map Sends Us the Wrong Way
 A: We've been driving through this village for ten minutes. Does your phone still say we're close to the hotel?
 B: Yes, but the map doesn't look right. Keep going along this road for now.
-A: What does the navigation app want us to do?
-B: Turn through that farm gate. Don't turn there, though. The entrance says private.
+A: What's the navigation app telling us to do now?
+B: Turn through that farm gate. Don't turn there, though—the entrance says private.
 A: Can you see somewhere I can stop?
-B: There's a car park just beyond that tree, on the left. There's plenty of room.
+B: Careful round this sharp curve. There's a car park on the left, but the entrance is hidden behind those bushes.
 A: Right, we're parked. Let me see your phone. Why is the arrow pointing back towards the gate?
-B: It may not have a clear satellite signal. Look at the blue dot. It shows us in the middle of a field.
-A: So the directions could be incorrect because it doesn't know where we are?
-B: Possibly. I wouldn't rely on its accuracy here. Try changing the scale so we can see the whole village.
-A: Like this? There's the highway we left ten minutes ago.
+B: It may not have a clear satellite signal. Look at the blue dot—it shows us in the middle of a field.
+A: So it's giving us the wrong directions because it doesn't know where we are?
+B: Looks like it. Try moving the map back so we can see the whole village.
+A: Like this? Oh, there's the highway we left ten minutes ago.
 B: Yes. The hotel sent us directions too. Give me the phone and I'll open that message.
 A: I'd forgotten about those. Did we take the wrong exit?
 B: No, we took the right one. But the message says to stay on the main road until we reach a stone bridge.
-A: We haven't passed a bridge. The app must have sent us off the main road too soon.
+A: We haven't passed a stone bridge. The app must have sent us off the main road too soon.
 B: It looks that way. These rural roads all look similar to me. Shall I call the hotel and check which way to go?
 A: Yes. How far back do you reckon the main road is?
 B: About five minutes by car. Let's confirm where to turn before we leave this car park.
 
-Vocabulary: accuracy, arrow, dot, exit, highway, incorrect, navigation, reckon, rural, satellite, scale
+Vocabulary: arrow, bush, curve, dot, exit, hidden, highway, navigation, reckon, rural, satellite

@@ -10,4 +10,4 @@ A: I want a big pizza.
 B: Wait, I want a pizza too.
 A: I knew it.
 
-Vocabulary: big, free, hey, hungry, restaurant, sit, think, very, wait
+Vocabulary: big, free, hey, hungry, restaurant, sit, think, very, wait, salad, pizza

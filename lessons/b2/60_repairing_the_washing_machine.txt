@@ -2,18 +2,18 @@ Repairing the Washing Machine
 A: Thanks for coming. The washing machine's here in the kitchen. It's been increasingly difficult to start, and now it won't start at all.
 B: You mentioned a message on the display when you called. What does it say?
 A: It says the door's open, but it seems properly shut. Could something be wrong with the electronics?
-B: It could be that, or a mechanical failure in the lock. Let me try the door.
+B: It could be that, or a mechanical fault in the lock. Sometimes the rubber around the door gets out of shape and stops it shutting properly. Let me try it.
 A: So even a small fault in the lock could stop it working?
 B: Yes. It won't operate unless it detects that the door is locked. I'll switch the power off now so I can examine the mechanism.
 A: Is it worth repairing a machine this old?
-B: If it's just the lock, probably. Those are relatively cheap, but I need to check it thoroughly before I give you a price.
+B: If it's just the lock, probably. Those are relatively cheap, though I need to check it thoroughly before I give you a price.
 A: Can you still get parts for this model?
 B: I'll check. Some parts for older models are no longer manufactured.
 A: One other thing: the clothes have been coming out wetter than usual.
 B: For how long?
 A: A few weeks. I meant to mention it when I called.
-B: Then I'll also check whether it's removing the water efficiently. The estimate needs to include both problems.
+B: Then I'll also check whether it's clearing the water efficiently. The estimate needs to include both problems.
 A: Please do. I'd like to know the full cost before we decide on repairs.
 B: Of course. I'll explain what I've found before I order any parts.
 
-Vocabulary: efficiently, electronics, failure, increasingly, manufacture, mechanical, mechanism, operate, relatively, thoroughly
+Vocabulary: efficiently, electronics, increasingly, manufacture, mechanical, mechanism, operate, relatively, rubber, thoroughly

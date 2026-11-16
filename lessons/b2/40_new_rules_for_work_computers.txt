@@ -2,7 +2,7 @@ New Rules for Work Computers
 A: Have you managed to change your computer password yet? Mine keeps saying my new choice isn't strong enough.
 B: Yes. I used the password manager that IT installed. It created a long combination of letters and numbers for me.
 A: That sounds complicated. How am I supposed to remember it?
-B: The manager stores it for you. I'll show you how to use it. Why did IT impose all these new rules today?
+B: It saves it for you. I'll show you how to use it. Why did IT impose all these new rules today?
 A: Someone at headquarters entered their password on a fake website yesterday. That could have exposed our customers' personal information.
 B: No wonder they're worried about security threats. Did you see the second part of the instructions?
 A: About using our phones? I haven't read that far yet.
@@ -14,4 +14,4 @@ B: Exactly. Every manager has been asked to reinforce that rule at this week's t
 A: Where should I save the files for tomorrow's presentation, then?
 B: Put them in the shared space on the internal network. Let's set up your new password first, then I'll show you where it is.
 
-Vocabulary: combination, complicated, enable, expose, headquarters, impose, instantly, password, prohibit, reinforce, threat
+Vocabulary: combination, complicated, enable, expose, external, headquarters, impose, instantly, password, prohibit, reinforce, threat

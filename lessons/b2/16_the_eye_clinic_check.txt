@@ -1,17 +1,17 @@
 At the Eye Clinic
-A: Hello. I've come to have my vision checked, but this letter says "Eye Surgery" at the top. Am I having an operation today?
-B: No. You're seeing the surgeon so she can assess the problem and discuss possible treatment.
-A: That's a relief. I was getting anxious because I hadn't expected an operation.
-B: I'm sorry the letter wasn't clear. Have you brought a list of your medication?
-A: Yes, but the doctor changed one of my pills last week. I don't remember the new name.
+A: Hello. I have a ten o'clock appointment about my left eye, and I wanted to check something. My letter says "Eye Surgery" at the top. Am I having an operation today?
+B: No, don't worry. Today you're just seeing the surgeon so she can assess your eye and talk through possible treatment.
+A: Oh, that's a relief. I got quite anxious when I saw that on the letter.
+B: I'm sorry. That heading confuses a lot of people. Did you bring a list of any regular medication you take?
+A: I did, but my doctor changed one of my pills last week, and I can't remember the new name.
 B: Do you have the box with you?
-A: No, but my doctor sent me the details in a message. Can I show you that?
-B: Yes, that will help us keep your records accurate.
-A: If I need surgery, will I have to stay overnight?
-B: That depends on which procedure the surgeon recommends. She'll explain how long recovery would take and whether you'd need help at home.
-A: Can I ask her about time off work too? My eye has been very sensitive to the lights in the office.
-B: Yes. Tell her when that happens and how it affects your work.
-A: I'll write that down before I go in. I always forget my questions when I'm nervous.
-B: Take your time. She's still with another patient.
+A: No, sorry, but my doctor sent me a message with the name in it. Can I show you that?
+B: Yes, of course. We just need to make sure your records are accurate before you go in.
+A: If I need surgery later on, will I have to stay overnight?
+B: It depends on which procedure she recommends, though most people go home the same day. She'll explain how long recovery takes and whether you'd need help at home.
+A: Can I ask her about a note for work too? My eye's been really sensitive to the office lights, and it's affecting my vision at the computer.
+B: Yes, definitely tell her when it's worst and how it affects your work.
+A: I'll write that down on my phone now. I always forget half my questions once I'm in the room.
+B: Take your time. She's still with another patient, so it'll be about ten minutes.
 
 Vocabulary: accurate, anxious, assess, medication, overnight, pill, procedure, recovery, sensitive, surgeon, surgery, vision

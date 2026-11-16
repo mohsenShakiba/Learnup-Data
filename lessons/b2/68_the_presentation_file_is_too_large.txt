@@ -1,21 +1,21 @@
 The Presentation File Is Too Large
 A: I can't upload the presentation for tomorrow's client meeting. The file is larger than the company website allows.
 B: How many slides have you made?
-A: Only twelve, but I inserted the full-size photos from our visit to the factory. There are multiple photos on most pages.
-B: That might explain it. Do you really need to retain them at that size?
+A: Only twelve, though I inserted the full-size photos from our visit to the factory. There are multiple photos on most pages.
+B: That might explain it. Do they really need to stay that big?
 A: Probably not. We'll only show them on the meeting room screen. We won't print them as large posters.
-B: Try making a copy first. Then you can reduce the resolution of the photos without changing the file you started with.
+B: Try saving a second copy first. Then you can reduce the resolution of the photos without changing your main file.
 A: Where do I do that?
 B: Select a photo and click this icon. It looks like a little picture with arrows around it.
 A: Here? There's an option to change all the photos at once.
 B: Yes. Try that on the copy, then check whether the pictures still look clear when you show a whole slide.
-A: They look fine. The file is significantly smaller now, but it's still just above the limit.
-B: Have you added any video?
-A: No, but there's an animation of a truck moving across the map on the first slide.
-B: Do you need it to move?
-A: Not really. It just shows the delivery route. I could replace it with a still picture.
-B: Try that. You could also convert the presentation to a PDF, but there's a limitation: it won't keep the movement.
-A: That's fine. The client said either format was acceptable. I'll try the PDF and check every page before I upload it.
-B: Keep the presentation you started with too, in case you want to make changes later.
+A: They look fine. The file is significantly smaller now, though it's still just above the maximum size.
+B: Have you got any audio clips in there?
+A: No, just an animation on the first slide showing a truck moving across the map.
+B: Does it actually need to move?
+A: Not really—it just shows the delivery route. I could replace it with a still map.
+B: Try that. And if it's still slightly over, you can convert the whole presentation to a PDF.
+A: Good idea—the client said either format was acceptable. I'll check every page before I upload it.
+B: Just keep your main presentation file too, in case you want to edit anything later.
 
-Vocabulary: animation, convert, icon, insert, limitation, multiple, PDF, resolution, retain, significantly, slide
+Vocabulary: animation, audio, convert, icon, insert, multiple, PDF, resolution, significantly, slide

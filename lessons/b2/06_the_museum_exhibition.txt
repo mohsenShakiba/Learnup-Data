@@ -1,15 +1,15 @@
 The Museum Exhibition
-A: I've brought the leaflets for the exhibition opening. Where do you want them?
-B: On the front desk, please. Have you seen the temporary barrier across the entrance to the side room?
-A: Yes. Is that room still closed? The winter exhibit is in there.
-B: One of the wooden panels came loose this morning. It's being repaired now.
-A: Have any of the artworks been damaged?
-B: No, they're all safe. The paintings have been moved to the main hall while the work is being done.
-A: So do I need to change the route for my tour?
-B: Yes. The manager has approved a new route through the main hall. Here's the map.
-A: Thanks. I've been assigned a group at two. Where should I meet them?
-B: At the front desk as usual. I'll explain the change when they collect their tickets.
+A: I've brought the leaflets for today's exhibition opening. Where would you like them?
+B: On the front desk, please. Have you seen the barrier across the entrance to the side room?
+A: Yes, I just walked past it. Why is that room closed?
+B: One of the wooden wall panels came loose early this morning. It's being repaired at the moment.
+A: Oh no. Have any of the exhibits been damaged?
+B: No, everything's safe. All the artwork from that wall has been moved into the main hall while the work is being done.
+A: Does that mean I need to change the route for my afternoon tour?
+B: Yes. A temporary route through the main hall has been approved by the manager. Here's the new map.
+A: Thanks. I've been assigned the two o'clock group. Since the main hall will be busier than usual, should I still meet them here at the desk?
+B: Yes, meet them here as usual. I'll explain the room change when they collect their tickets.
 A: These leaflets still show the old route. Shall I put a copy of the new map inside each one?
-B: Please. I'll help you. We still have half an hour before the doors open.
+B: Good idea, thanks. I'll help you. We still have half an hour before the doors open.
 
 Vocabulary: approve, artwork, assign, barrier, exhibit, leaflet, loose, opening, panel, temporary

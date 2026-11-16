@@ -5,10 +5,10 @@ A: Can I take a look at it?
 B: Sure. Do you think you can fix it?
 A: No, but my brother repaired my bike once.
 B: Great. Can he help me today?
-A: Yes. He has the right tools at home.
+A: Yes. He has the right tools at home. I'll put them in my backpack and bring them here.
 B: Can I borrow your bike until tomorrow?
 A: Of course. I can lend it to you.
 B: That's very helpful.
 A: No problem. I’ll call him now. 
 
-Vocabulary: borrow, broken, fix, helpful, lend, problem, push, repair, tool, wheel
+Vocabulary: borrow, broken, fix, helpful, lend, push, repair, tool, wheel, backpack

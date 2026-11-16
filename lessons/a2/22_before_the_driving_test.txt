@@ -4,7 +4,7 @@ B: My driving test is tomorrow. I don't feel ready.
 A: You practise every week. You'll be fine.
 B: Yes, but I still make mistakes.
 A: What is difficult for you?
-B: I get nervous when I want to park.
+B: I get nervous when I want to park, especially when there's a lot of traffic.
 A: You should ask your teacher for advice.
 B: We have one more lesson this afternoon.
 A: Good. You can practise with her before the test.
@@ -18,4 +18,4 @@ B: And if I fail, I'll take more lessons and try again.
 A: That's right. So don't worry.
 B: Thanks. I feel better now.
 
-Vocabulary: advice, driving, fail, improve, mistake, pass, practise, progress, test, worried
+Vocabulary: advice, driving, fail, improve, pass, practise, progress, test, worried, traffic
