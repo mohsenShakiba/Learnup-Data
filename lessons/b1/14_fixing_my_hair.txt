@@ -1,21 +1,17 @@
 Fixing My Hair
-A: Hi. Can I book an appointment for today?
+A: Hi. Could you tell me if you have an appointment free to cut my hair today?
 B: I'm free at two o'clock. Do you just need a cut?
-A: Yes. I tried to cut my own hair last night. I only meant to cut a tiny bit, but look at it now!
-B: Let me see. One side is shorter than the other. We can make both sides the same length.
-A: I'm glad you can fix it. My sister's wedding is tomorrow, and I can't go looking like this.
-B: Do you want something very different?
-A: Nothing fancy. I just don't want to look horrible in the photos.
-B: I should warn you: I'll need to take quite a lot off this side.
-A: Could you show me how short it will be?
+A: Yes, please. I tried to cut the front myself last night. I only meant to take a tiny bit off, and look at it now!
+B: Let me have a quick look before my next customer arrives. Hmm, one side is quite a bit shorter than the other.
+A: My sister's wedding is tomorrow, and I can't go to it like this! I'm so glad you have space today.
+B: Don't worry, we can make both sides the same length, but I should warn you: I'll need to take quite a lot off the longer side.
+A: Could you show me how short it will be? I don't want anything fancy. I just don't want to look horrible in the wedding photos.
 B: Here's a photo of a similar cut. What do you think?
-A: I like it, but I'm not sure whether I'm brave enough to have hair that short.
-B: We can leave it longer on top, like in this other photo.
-A: Oh, I prefer that one. Do you know how long it will take?
+A: I like that cut, but I'm not sure whether I'm brave enough to have hair that short all over.
+B: Then we can leave more length on top, like in this second photo.
+A: Oh, I prefer that one. Do you know how long the cut will take?
 B: About half an hour.
-A: Great. I'll take the appointment at two.
-B: What's your name?
-A: Alex Green. I'm so grateful. I nearly tried to fix it myself this morning.
-B: Then I'm glad you came here first!
+A: Great, I'll take the appointment at two. My name's Alex Green, and I'm so grateful! I nearly tried to fix the other side myself this morning.
+B: Then I'm very glad you came in here first! See you at two.
 
 Vocabulary: appointment, brave, fancy, glad, grateful, horrible, length, tiny, warn, whether

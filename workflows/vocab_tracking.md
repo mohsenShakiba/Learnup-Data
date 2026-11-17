@@ -17,6 +17,9 @@
 | `vocabs/b2.csv` | Canonical permitted B2 lemmas; A1, A2, and B1 vocabulary is also permitted. |
 | `lessons/b2_used_vocabs.csv` | B2 lemmas introduced anywhere in B2 conversations. |
 | `lessons/b2_missing_vocabs.csv` | B2 lemmas not introduced yet. |
+| `vocabs/c1.csv` | Canonical permitted C1 lemmas; A1, A2, B1, and B2 vocabulary is also permitted. |
+| `lessons/c1_used_vocabs.csv` | C1 lemmas introduced anywhere in C1 conversations. |
+| `lessons/c1_missing_vocabs.csv` | C1 lemmas not introduced yet. |
 | `lessons/need_attention.csv` | Conversation words not covered by the intended vocabulary lists. |
 
 ## Vocabulary Selection
@@ -79,3 +82,5 @@ For A2, run the same validation with `a2.csv`, `a2_used_vocabs.csv`, and `a2_mis
 For B1, substitute `b1.csv`, `b1_used_vocabs.csv`, and `b1_missing_vocabs.csv`. When checking dialogue difficulty with `scripts/level_check.py`, pass `a1,a2,b1` as the allowed levels.
 
 For B2, substitute `b2.csv`, `b2_used_vocabs.csv`, and `b2_missing_vocabs.csv`. When checking dialogue difficulty with `scripts/level_check.py`, pass `a1,a2,b1,b2` as the allowed levels.
+
+For C1, substitute `c1.csv`, `c1_used_vocabs.csv`, and `c1_missing_vocabs.csv`. When checking dialogue difficulty with `scripts/level_check.py`, pass `a1,a2,b1,b2,c1` as the allowed levels.

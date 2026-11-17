@@ -1,0 +1,17 @@
+After the Overnight Power Surge
+A: You're in early—and on your second cup of coffee already! Did last night's storm cause trouble here at the office?
+B: It certainly did. A massive power surge hit our street just before two in the morning.
+A: Were you still up when it happened?
+B: No, I was fast asleep. Only when the automatic alert rang on my phone did I realize our main computer network had gone down.
+A: Oh no. Did the surge damage any of the hardware in the back room?
+B: Not only did it blow the main switch by the door, but the cooling equipment in there came to a sudden halt too.
+A: What about all the customer payments from late last night?
+B: Thankfully, they're safe. Had we not installed that new backup battery in October, we would have lost every overnight transaction.
+A: What a relief. Have you managed to retrieve the night log and verify that all the orders went through?
+B: Yes, every single order matches the payment records, and the room temperature has started to stabilize now that our spare cooling machine is plugged into the hall wall.
+A: Can I turn the back-room switch on again before the rest of the staff arrive at nine?
+B: No—under no circumstances should anyone touch that switch until the outside contractor replaces the burned cable at ten.
+A: Right, I'll leave it alone and put a warning sign across the door, following the safety protocol.
+B: Thanks. And should the electricity dip again tonight, the backup battery will keep the network running until morning.
+
+Vocabulary: alert, backup, contractor, dip, halt, hardware, log, plug, protocol, retrieve, stabilize, surge, transaction, verify

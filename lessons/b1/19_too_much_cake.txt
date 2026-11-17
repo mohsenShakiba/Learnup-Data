@@ -1,17 +1,15 @@
 Too Much Cake
-A: That looks like a lot of mixture for one cake.
-B: I know. I've weighed the flour carefully and checked every ingredient.
-A: How many people is the recipe for?
-B: Twelve. I made a bit more just to make sure we have enough.
-A: That explains it. What are you going to bake it in?
-B: In this tin, but it won't fit.
-A: I have another tin the same size. We can make two cakes.
-B: And put one on top of the other? Two layers will look impressive.
-A: Then we'll still have too much cake. Why don't you freeze one for another day?
-B: Can I freeze it whole?
-A: Yes, but I usually cut mine into slices first. Then I can take out just what I need.
-B: Good idea. One cake for tonight and one for another day.
-A: I'll get the other tin.
-B: Thanks. I'll pour half the mixture into each one.
+A: That looks like an enormous bowl of mixture for one cake!
+B: Does it? I weighed the flour carefully and checked every single ingredient on the list.
+A: Let me see the recipe. Ah, look at the top. It serves twelve people, and there are only four of us for dinner tonight!
+B: Oh, no! I didn't check how many people it was for. What am I going to bake it in? It won't all fit in this cake tin.
+A: The recipe says to divide it between two tins. Wait, I have another round tin the same size in the cupboard.
+B: Oh, good! Should we bake both and put jam in the middle? A tall cake with two layers will look really impressive.
+A: It'll look lovely, although four of us will never eat a cake that big! Why don't we serve one tonight and freeze the other one for next weekend?
+B: Can you freeze a cake whole after you bake it?
+A: Yes, once it's completely cool. I usually cut mine into slices before I freeze it, because then I can take out just a slice or two when I want some.
+B: That's a smart idea. One fresh cake for tonight and another one ready for next week!
+A: Here's the second tin. I'll put a little butter inside it for you now.
+B: Thanks! As soon as it's ready, I'll pour half the mixture into each tin.
 
 Vocabulary: bake, flour, freeze, impressive, ingredient, layer, mixture, pour, slice, tin, weigh

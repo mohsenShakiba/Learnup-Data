@@ -4,14 +4,14 @@
 
 Every lesson may use only grammar inherited from lower levels or introduced in that lesson or an earlier lesson at the same level. This applies to all learner-facing text, including dialogue, titles, instructions, examples, and exercises.
 
-`grammars/<level>_grammar_to_lessons.csv` is the source of truth for when a grammar point becomes available at that level. A grammar point with no `conversation_id` is **not available** in that level's lessons until the CSV assigns it an introduction lesson. A2 lessons may also use grammar already available by the end of A1. B1 lessons inherit the grammar available by the end of A1 and A2. B2 lessons inherit the grammar available by the end of A1, A2, and B1.
+`grammars/<level>_grammar_to_lessons.csv` is the source of truth for when a grammar point becomes available at that level. A grammar point with no `conversation_id` is **not available** in that level's lessons until the CSV assigns it an introduction lesson. A2 lessons may also use grammar already available by the end of A1. B1 lessons inherit the grammar available by the end of A1 and A2. B2 lessons inherit the grammar available by the end of A1, A2, and B1. C1 lessons inherit the grammar available by the end of A1, A2, B1, and B2.
 
 A lesson after the latest mapped introduction is a review lesson unless the mapping is extended first. A higher lesson number does not unlock additional grammar by itself.
 
 ## Determine a Lesson's Grammar Scope
 
 1. Get the level and lesson number from its path and filename. For example, `lessons/a1/10_at_the_doctor.txt` is A1 lesson 10 and `lessons/a2/02_the_lost_phone.txt` is A2 lesson 2.
-2. Read the mapping for the lesson's level, such as `grammars/a1_grammar_to_lessons.csv`, `grammars/a2_grammar_to_lessons.csv`, `grammars/b1_grammar_to_lessons.csv`, or `grammars/b2_grammar_to_lessons.csv`.
+2. Read the mapping for the lesson's level, such as `grammars/a1_grammar_to_lessons.csv`, `grammars/a2_grammar_to_lessons.csv`, `grammars/b1_grammar_to_lessons.csv`, `grammars/b2_grammar_to_lessons.csv`, or `grammars/c1_grammar_to_lessons.csv`.
 3. Include every row whose numeric `conversation_id` is less than or equal to the lesson number.
 4. Treat the resulting grammar points as the lesson's permitted grammar inventory.
 5. Do not use a grammar point whose introduction lesson is later than the lesson being written or edited. Rewrite the relevant wording so it uses only the permitted inventory.
@@ -115,6 +115,28 @@ Basic forms of these constructions already introduced at A1 or A2 remain availab
 This order follows the `order` values in the B2 grammar JSON files. All current B2 grammar rows now have an introduction lesson. Conversations 11 onward review the available grammar unless additional topics are mapped first.
 
 Basic forms of these constructions already introduced at A1, A2, or B1 remain available through inheritance; their additional B2 uses need a mapped introduction.
+
+## Current C1 Introduction Order
+
+| Introduced in lesson | Grammar available from that lesson onward |
+| --- | --- |
+| 1 | Word formation |
+| 2 | Advanced article use |
+| 3 | Advanced determiners and quantifiers |
+| 4 | Nominalization |
+| 5 | Participle clauses |
+| 6 | Cleft and pseudo-cleft sentences |
+| 7 | Advanced inversion |
+| 8 | Ellipsis and substitution |
+| 9 | Mixed conditionals |
+| 10 | Advanced modality |
+
+This order follows the `order` values in the C1-C2 grammar JSON files. The remaining C1 grammar rows have no introduction lesson and are not available yet:
+
+- Hedging and softening
+- Register and discourse control
+
+Basic forms of these constructions already introduced at A1, A2, B1, or B2 remain available through inheritance; their additional C1 uses need a mapped introduction.
 
 ## Authoring and Review Checklist
 

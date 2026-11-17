@@ -1,0 +1,16 @@
+The Drop in Subscriptions
+A: Pull up a chair next to my desk for a second—have you seen this week's figures for our Friday newsletter?
+B: Not yet. Oh, hang on—why have forty annual subscriptions ended since Tuesday morning?
+A: That's what I'm trying to work out. A drop this sharp can't be explained by the August holidays alone.
+B: No, especially when the percentage of people opening Friday's issue is still a strong indicator of customer loyalty. Look at the dates—the dip correlates almost exactly with Tuesday's payment-page update, so it must reflect something on that screen.
+A: Let's test the new payment interface on my phone right now... Ah, look at that tiny button at the bottom.
+B: It's half hidden on a small screen! There may well be a layout error in certain phone browsers.
+A: Look at the billing choices above it too. The monthly extra box is selected by default, so anyone who wants the basic annual plan has to opt out themselves.
+B: Who approved that? Charging extra unless people spot a tiny box could easily be seen as dishonest—no wonder loyal subscribers are walking away.
+A: Wait, have our automatic payment reminders been going out properly this week?
+B: Let me check the email log... Half of Tuesday's confirmation links bounced or landed straight in people's spam folders.
+A: That makes it even worse. Existing subscribers are expected to click that confirmation link within three days, or their account closes automatically.
+B: Or people could simply be giving up when the link doesn't arrive. Let's ask the technical team to remove that default box today and extend the deadline by a week.
+A: Agreed—and once the page works properly on phones, I'll write a short apology note to the forty people we lost.
+
+Vocabulary: bounce, browser, confirmation, correlate, default, indicator, interface, loyalty, newsletter, opt, reminder, spam, subscriber, subscription

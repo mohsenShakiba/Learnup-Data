@@ -1,7 +1,7 @@
 The Tablet Update
-A: This app isn't working properly on my tablet. I'm trying to finish my assignment, and it closes by itself every few minutes.
-B: Look at the top of your screen. There's a software update, and you're still using an old version.
-A: Should I do the update now? The assignment's due in fifteen minutes, and I really need a good grade on it.
+A: This app isn't working properly on my tablet. I've just finished my assignment, and I'm trying to check it, but the app closes by itself every few minutes.
+B: Look at the top of your screen. Your tablet needs a software update, and you're still using an old version.
+A: Should I do the update now? The assignment's due in fifteen minutes, and if it's late, I'll get a bad grade.
 B: Not now! Updates can take twenty minutes. Save your file first. If that app closes before you save, you lose your latest changes.
 A: Done, I've saved it. I'll attach the file to an email for my teacher and send it now.
 B: Good idea. Then you know your teacher has it on time.
@@ -10,6 +10,6 @@ B: Check your battery first. Oh, it's really low, and the school wifi isn't grea
 A: Does that matter?
 B: Yes. If you lose your wifi connection during an update, the download stops. Can you wait until you get home?
 A: Yes, I'll charge the tablet when I get home and do the update tonight.
-B: Good plan. If the app still doesn't work after the update, I'll help you check it tomorrow.
+B: Good plan. If the app still doesn't work after the update, we can check it together tomorrow.
 
 Vocabulary: assignment, attach, battery, connection, due, file, grade, properly, software, version

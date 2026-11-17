@@ -1,17 +1,17 @@
 When the Lift Stops
-A: Hello? Is anyone there? The lift has stopped.
-B: Yes. We heard the alarm. I'm the security guard. Are you hurt?
-A: No, but I'm alone, and the doors won't open.
-B: What floor does the number show?
-A: Three. I'm frightened. It's such a small space.
-B: My colleague is going to fix it. You can keep talking to me while we wait.
-A: There's a small gap between the doors. Can I push them open?
-B: Please don't force them. Someone needs to check the lift first for your safety.
-A: Okay. I'm feeling really uncomfortable. can you hurry, please?
-B: We are fixing it right now. Try to breathe slowly.
-A: I'm trying, how long will it take?
-B: A couple of minutes probably. try to stay calm.
-A: My friend is waiting for me downstairs.
-B: It won't take long, I promise.
+A: Hello? Can anyone hear me? The lift just made a sudden stop between floors!
+B: Hello, yes, I can hear you clearly. Your alarm came through to the front desk. I'm the building security guard. Are you hurt?
+A: No, I'm fine, although I'm in here alone and the doors won't open.
+B: Which floor number is showing on the little screen above the door?
+A: It says three. I'm quite frightened. It's such a small space.
+B: You're completely safe, I promise. Our repair worker is already in the control room checking the power, and you can keep talking to me while you wait.
+A: There's a narrow gap between the doors. Can I push them open?
+B: Please don't force them. Wait for the lift to reach the floor properly. That's really important for your safety.
+A: Okay, I won't touch them. It's getting warm in here, and I'm feeling really uncomfortable. Will it take much longer?
+B: Only another minute or two. Try to breathe slowly.
+A: I'm trying. My phone has no signal in here, and my friend is waiting for me downstairs by the main entrance.
+B: Try to stay calm. I'm right by the entrance desk, so tell me your friend's name and I'll let them know what's happening.
+A: Thank you, it's Maya. Oh, wait! The lights just came back on, and the lift is moving down!
+B: Great, the power's back on. The doors will open on the ground floor in a few seconds, and Maya is right here waiting for you.
 
-Vocabulary: alarm, breathe, calm, force, frighten, guard, safety, security, uncomfortable
+Vocabulary: alarm, breathe, calm, force, frighten, guard, safety, security, signal, sudden, uncomfortable

@@ -1,19 +1,19 @@
 A Photo for My Application
-A: Can you take a portrait of me for my job application?
-B: Sure. Do you need it today?
-A: Yes. The studio near work is closed.
-B: I'm not a professional photographer, but we can try. Stand by the window. There's more light.
+A: Can you take a photo of me for my job application? I don't have a suitable one on my phone.
+B: Sure. Do you need to send it today?
+A: Yes, before five, and the photo studio near work is closed today.
+B: I'm not a professional photographer, but we can try. Stand by the window. There's more light there.
 A: Like this? I want to make a good impression.
 B: You look smart, but move slightly to your left.
 A: Is this better?
 B: Yes. Turn your head a little. That's it. Here's the first photo.
-A: Oh, I look nervous.
+A: Oh, I look really nervous.
 B: Relax your shoulders. You don't have to stand so straight.
-A: I don't feel very confident.
-B: That's all right. We have time. Tell me about the job.
-A: It's in a school. I can teach art there.
-B: That sounds good. There, I've taken another photo. You look more cheerful, and you're smiling more naturally.
-A: Much better. I'll use that one.
+A: Sorry, I don't feel very confident in front of a camera.
+B: That's all right. Forget the camera for a second and tell me about the job.
+A: It's at a local school. They need a new art teacher, and their art room is huge!
+B: Hold that smile! Look, I took another photo while you were talking. You look much more cheerful, and you're smiling more naturally.
+A: Oh, that's much better. I'll use that one.
 B: Great. I'll send it to you now.
 
-Vocabulary: application, cheerful, confident, impression, naturally, photographer, portrait, slightly, smart, studio
+Vocabulary: application, cheerful, confident, impression, naturally, photographer, slightly, smart, studio, suitable

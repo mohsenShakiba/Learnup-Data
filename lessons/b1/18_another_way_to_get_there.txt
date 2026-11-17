@@ -1,18 +1,16 @@
 Another Way to Get There
-A: Why hasn't the ten o'clock train left?
-B: We made an announcement about the 10 o'clock train.
-A: What happened?
-B: A train has broken down on the line ahead. We're unable to run trains that way for now.
-A: I need to get to Milton. My daughter graduates today, and the ceremony starts at one.
-B: We've arranged a bus outside the main entrance.
-A: Is that the one with "Northbridge" on the front?
-B: Yes. That's its final destination, but it stops at Milton station first.
-A: When does it leave?
-B: The next departure is at ten fifteen. You should reach Milton within two hours.
-A: Can I use my train ticket?
-B: Yes. Just show it to the driver.
-A: Thank you. I will wait outside.
-B: You can wait indoors for now, no need to hurry.
-A: Good. I'll call my daughter and let her know I'm taking the bus.
+A: Hello, sorry to ask. The departure board still says "Late" for the ten o'clock train to Milton. Do you know why it hasn't left yet?
+B: I'm sorry. We made an announcement a moment ago, although it's very noisy in the station. Another train has broken down on the line ahead, so we're unable to run trains that way this morning.
+A: Oh, dear. I really need to get to Milton. My daughter graduates from university today, and her ceremony starts at one o'clock.
+B: Don't worry, you'll still get there in time. We've arranged extra buses outside the main entrance.
+A: I walked past a bus with "Northbridge" on the front when I came in. Is that the one?
+B: Yes. Northbridge is its final destination, but it stops at Milton station on the way.
+A: What time does it leave?
+B: At half past ten, so in about twenty minutes. The roads are clear, so you should reach Milton within an hour.
+A: That's good to hear! Can I use my train ticket on the bus?
+B: Yes, just show it to the driver when you get on.
+A: Thank you. I'll go and wait outside now.
+B: It's quite cold out there, so you can wait indoors in the warm cafe area for ten minutes. There's plenty of space on the bus, so you don't need to hurry.
+A: Good idea. I'll call my daughter now and let her know I'm coming by bus.
 
 Vocabulary: ahead, announcement, ceremony, departure, destination, graduate, hurry, indoors, unable, within
