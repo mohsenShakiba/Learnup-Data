@@ -1,21 +1,21 @@
 Collecting a Hire Car
-A: Hi. I'm here to hire a car for the weekend.
-B: Of course. Small or large?
-A: Small, please. How much is it?
-B: It's forty pounds for two days, including tax. You pay for the fuel too.
-A: All right. Is there a limit on the distance?
-B: Two hundred miles a day. Here's the hire agreement.
-A: That's enough. Do I need to buy fuel before I return the car?
-B: Yes. We'll check the fuel level together before you leave. Please bring it back with the same amount.
-A: Will I have to pay extra if there's less?
-B: We'll charge you for the missing fuel, plus ten pounds. That's our policy.
-A: All right. Can we look at the car together?
-B: Yes. Come with me. We'll check it for damage before you drive away.
-A: There's a mark near the front tyre.
-B: Yes. That mark is on the agreement already.
-A: And there's some dirt on the back seat.
-B: I'm sorry. I'll clean that before you leave.
-A: Thanks. What time do I have to return the car?
-B: By six on Sunday. We'll check it together when you arrive.
+A: Hi. I booked a small hire car online for the weekend.
+B: Hello. Everything's ready for you. Here's the hire agreement. It's forty pounds for two days, including tax.
+A: Great. Do you have a daily limit on miles?
+B: Two hundred miles a day.
+A: That's more than enough. What's your fuel policy?
+B: The car's half full now, so please buy enough fuel to bring it back at the same level.
+A: Will I have to pay extra if there's less fuel when I return it?
+B: Yes, we'll charge you for the missing fuel, plus ten pounds.
+A: All right. Can we check the car outside before I sign the agreement?
+B: Of course. Come with me. We'll check it for damage together before you drive away.
+A: There's a small mark on the passenger door here.
+B: Yes, that mark's on the agreement already.
+A: Good. That front tyre looks a bit low, too.
+B: You're right, it needs a bit more air. And I'm sorry, there's some dirt on the back seat from this morning.
+A: Do we have time for both now?
+B: Yes, I'll put air in the tyre and clean the seat before you leave.
+A: Thanks. What time do I have to return the car on Sunday?
+B: Any time before six. We'll sign the agreement inside as soon as I finish the tyre and the seat.
 
 Vocabulary: agreement, charge, dirt, fuel, hire, limit, plus, policy, tax, tyre

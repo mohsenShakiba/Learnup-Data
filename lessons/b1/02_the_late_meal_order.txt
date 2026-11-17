@@ -1,17 +1,17 @@
 The Late Meal Order
-A: Has our food arrived yet?
-B: No. I've checked my account, but there's no update.
+A: Has our lunch arrived yet? Our meeting starts in fifteen minutes.
+B: No. They've confirmed the order on the app, but there's been no update since then.
 A: Have we paid already?
-B: Yes. Here's the receipt. The total is eighteen pounds.
-A: Our meeting starts in fifteen minutes. Have you tried to contact the restaurant?
-B: I've called twice, but the staff haven't answered.
-A: Try a message. Ask them to confirm the arrival time.
-B: Good idea. There, I've sent it.
-A: I can get us something hot from the cafe downstairs instead.
-B: Wait, here's a reply. They haven't made our food yet.
-A: That's disappointing. Let's tell them we don't want the food now and ask for our money back.
-B: Yes. I'll ask them to stop the order and return the payment.
-A: All right. I'll go to the cafe. What do you want?
-B: Anything hot, please. I've had enough trouble with this order!
+B: Yes, they've already taken the payment from my account.
+A: Have you tried to contact the restaurant?
+B: I've called twice, but no one's answered.
+A: Send them a message on the app, then.
+B: Good idea. There, I've sent one.
+A: I can get us something quick from the cafe downstairs instead.
+B: Wait, they've just replied. They don't have enough staff in the kitchen today, so they haven't even started our food yet.
+A: That's really disappointing. It can't possibly get here before our meeting now.
+B: No. I'll ask for a refund on the app. The receipt says eighteen pounds in total.
+A: Good. I'll go down to the cafe now. What do you want?
+B: A sandwich, please. I'm really hungry!
 
-Vocabulary: account, arrival, confirm, contact, disappointing, payment, receipt, staff, total, update
+Vocabulary: account, confirm, contact, disappointing, payment, possibly, receipt, staff, total, update

@@ -1,19 +1,19 @@
 A Place for the Weekend
-A: Have you looked at any accommodation for our weekend away?
-B: Yes. Look at this cottage in the countryside. Here are some photos.
-A: It looks peaceful. How much does it cost to rent?
-B: Eighty pounds a night. It has two bedrooms and a private garden.
-A: Is the location convenient? We won't have a car.
-B: There's a bus, but it only runs twice a day.
-A: That won't work. Have you stayed anywhere more central in the city?
-B: Yes. I stayed at a small hotel by the station last year.
-A: Was it noisy?
-B: A little, but my room was at the back.
-A: That sounds more suitable. How much is it?
-B: It's sixty pounds a night. I've just checked the prices.
-A: We can afford that. Let's make a reservation.
-B: For Friday and Saturday?
-A: Yes, two nights. Can you ask for a room at the back?
+A: Have you looked at places to stay for our weekend away?
+B: Yes, a few. Look at the photos of this cottage in the countryside, just outside town.
+A: Oh, it looks so peaceful. How much does it cost to rent?
+B: Eighty pounds a night. It has a nice kitchen and its own private garden.
+A: With the train tickets as well, that's a bit more than we can afford. And how do we get there without a car?
+B: There's a bus from town, but it only runs twice a day.
+A: Twice a day isn't very convenient. Have you ever stayed somewhere more central, in town?
+B: Yes, I stayed at a small hotel near the station last year. It's in a great location, and you can walk everywhere from there.
+A: Was it noisy by the station?
+B: A little at the front, but my room was at the back and it was quiet.
+A: How much is a room there now?
+B: Sixty pounds a night. I've just checked their website too.
+A: That's much better. Let's stay there instead.
+B: For Friday and Saturday night?
+A: Yes, two nights. Can you put a request on the reservation for a room at the back?
 B: Of course. I'll book it now.
 
-Vocabulary: accommodation, afford, central, convenient, cottage, countryside, location, peaceful, private, rent, reservation, suitable
+Vocabulary: afford, central, convenient, cottage, countryside, location, peaceful, private, rent, reservation

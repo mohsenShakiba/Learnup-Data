@@ -1,15 +1,15 @@
 The Tablet Update
-A: This program isn't working properly. It closes frequently, even when I'm just reading.
-B: Look, there's an update message. A new version of the software is available.
-A: Should I do the update now? I don't want to lose my assignment.
-B: Save the file first. If you close this program before you save, you lose your latest changes.
-A: Done. I'll attach a copy to a message for my teacher too.
-B: Good idea. How much power is left in the battery?
-A: Just a little.
-B: Charge the tablet first, then. You'll need a network connection for the update too.
-A: I'll do it after class. My assignment's due in ten minutes.
-B: Then send it now. The update can wait.
-A: Can you help me with the update after class?
-B: Of course. If the program still doesn't work after the update, we'll ask the teacher for help.
+A: This app isn't working properly on my tablet. I'm trying to finish my assignment, and it closes by itself every few minutes.
+B: Look at the top of your screen. There's a software update, and you're still using an old version.
+A: Should I do the update now? The assignment's due in fifteen minutes, and I really need a good grade on it.
+B: Not now! Updates can take twenty minutes. Save your file first. If that app closes before you save, you lose your latest changes.
+A: Done, I've saved it. I'll attach the file to an email for my teacher and send it now.
+B: Good idea. Then you know your teacher has it on time.
+A: There, I've sent it! Can I start the update now?
+B: Check your battery first. Oh, it's really low, and the school wifi isn't great in this room.
+A: Does that matter?
+B: Yes. If you lose your wifi connection during an update, the download stops. Can you wait until you get home?
+A: Yes, I'll charge the tablet when I get home and do the update tonight.
+B: Good plan. If the app still doesn't work after the update, I'll help you check it tomorrow.
 
-Vocabulary: assignment, attach, battery, connection, due, file, frequently, properly, software, version
+Vocabulary: assignment, attach, battery, connection, due, file, grade, properly, software, version
