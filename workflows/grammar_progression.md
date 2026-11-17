@@ -130,11 +130,10 @@ Basic forms of these constructions already introduced at A1, A2, or B1 remain av
 | 8 | Ellipsis and substitution |
 | 9 | Mixed conditionals |
 | 10 | Advanced modality |
+| 11 | Hedging and softening |
+| 12 | Register and discourse control |
 
-This order follows the `order` values in the C1-C2 grammar JSON files. The remaining C1 grammar rows have no introduction lesson and are not available yet:
-
-- Hedging and softening
-- Register and discourse control
+This order follows the `order` values in the C1-C2 grammar JSON files. All current C1 grammar rows now have an introduction lesson. Conversations 13 onward review the available grammar unless additional topics are mapped first.
 
 Basic forms of these constructions already introduced at A1, A2, B1, or B2 remain available through inheritance; their additional C1 uses need a mapped introduction.
 

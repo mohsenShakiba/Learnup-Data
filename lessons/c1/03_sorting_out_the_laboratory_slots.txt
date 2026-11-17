@@ -5,7 +5,7 @@ A: How many names are down for Friday so far?
 B: There's only a handful—four at two o'clock, with no names in the four o'clock slot whatsoever.
 A: It's hardly worth running Friday afternoon for four people. Could we merge them into Thursday's two o'clock group?
 B: Let's see—there's still a little space in Thursday's room. It has eleven students at the moment.
-A: Good, that brings it to fifteen. Each bench only takes two people safely, and we have little spare equipment once a group goes over sixteen.
+A: Good, that brings it to fifteen. Each bench only takes two people safely, and we have very little spare equipment once a group goes over sixteen.
 B: Hang on—six undergraduates who enrolled yesterday still haven't chosen a group. A few of them emailed this morning because the only open morning slot clashes with their seminar.
 A: Since next week's safety session is mandatory, let's allocate places in Wednesday afternoon's group to all six so nobody misses it.
 B: Let me check Wednesday afternoon... That group has ten students right now, so adding six takes it to sixteen.
