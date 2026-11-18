@@ -6,9 +6,9 @@ B: Yeah, hang on... The power company's website is useless. It just says there's
 A: Thanks. Where are the candles?
 B: On the shelf above the sink.
 A: Found them. I'll light one and put it on the table.
-B: Good. I'll move these paper bags out of the way.
+B: Hang on, your sleeve's close to the flame. Let me move these paper bags first.
 A: Okay. Have you got through to anyone?
-B: I'm still waiting for an operator. The recorded message says it's a widespread problem, but they're hoping to restore power shortly.
+B: I'm still waiting for an operator. The recorded message says half the town's in darkness. They're hoping to have the power back shortly.
 A: "Shortly" could mean anything. I'm starving.
 B: There are some sandwiches in the fridge. Shall we have those?
 A: Yeah. Hopefully it won't be off all night. I only filled the fridge yesterday.
@@ -16,4 +16,4 @@ B: It'd be a nightmare to throw all that food away. Let's keep the door closed a
 A: I'll get the sandwiches out quickly, then. Can you pass me two plates?
 B: Here you go. Oh, hang on—someone's answered.
 
-Vocabulary: candle, fully, hopefully, nightmare, operator, restore, shortly, starve, useless, widespread
+Vocabulary: candle, darkness, flame, fully, hopefully, nightmare, operator, shortly, starve, useless

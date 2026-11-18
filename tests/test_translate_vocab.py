@@ -107,7 +107,9 @@ class TranslationTests(unittest.TestCase):
         self.assertEqual(vocab.load_vocabulary(self.args.input), [
             {"lemma": "book", "level": "A1"}, {"lemma": "book", "level": "B1"},
         ])
-        self.args.input.write_text("lemma,level\nbook,C2\n", encoding="utf-8")
+        self.args.input.write_text("lemma,level\nindictment,C2\n", encoding="utf-8")
+        self.assertEqual(vocab.load_vocabulary(self.args.input), [{"lemma": "indictment", "level": "C2"}])
+        self.args.input.write_text("lemma,level\nbook,C3\n", encoding="utf-8")
         with self.assertRaises(ValueError):
             vocab.load_vocabulary(self.args.input)
 

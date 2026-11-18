@@ -3,18 +3,18 @@ A: Is this the office for careers advice? I'd like some help choosing a college 
 B: Yes. Come in and take a seat. What would you like to study?
 A: Nursing. I've brought the details of two courses, but I'm not sure which one to apply for.
 B: Let's have a look. Is there one you prefer so far?
-A: The health institute here in town would be much easier because I could stay at home. The other course is at a college in another city.
+A: The college here in town would be much easier because I could stay at home. The other course is in another city.
 B: Staying at home would help with the cost. Have you looked into funding for either course?
-A: The other college offers a scholarship, but only a few students get one. I couldn't rely on that.
+A: A few students get their fees paid, but I couldn't count on that. I'd have to keep my weekend job.
 B: No, so it's worth comparing the costs without it. What else matters to you about the course?
 A: Practical experience. I've been volunteering at the hospital for six months. The nurses there have inspired me to work in healthcare.
-B: So you've had a chance to see what the work is like. Is there an area you'd like to specialize in?
-A: Working with children. I'm passionate about helping them, but I know I still have a lot to learn.
-B: Then this course could be a good fit. It mentions a placement at the local children's hospital.
-A: Oh, that sounds ideal. Would I definitely get to go there?
-B: It doesn't say whether every student goes there. You'd need to check with the college.
-A: I'm going to their open day next Thursday, so I'll ask then. I'd also like to know what support students get. Working with very ill children can be quite emotional.
-B: That's worth asking about. Try to talk to some current students too. They can tell you what support they've had during their placements.
+B: Is there a part of nursing that particularly interests you?
+A: Yes, cancer care. My mum had breast cancer when I was little. One nurse always made time for my questions. That's why I'm so passionate about working with families.
+B: Then look at this course. Students spend a month on a hospital team that supports patients and their families.
+A: Could I talk to someone on that team? I'm interested in what happens after treatment too. Mum's a survivor, and she still goes back once a year.
+B: The course page doesn't name anyone, but the college could put you in touch. Are you going to the open day?
+A: Yes, on Thursday. I'll ask then. I'd also like to know how students deal with the emotional side of the job. It must be challenging.
+B: It is. Talk to the students who have already spent time on that team. They'll know what support they had when they needed it.
 A: Good idea. I'll write those questions down and take them with me.
 
-Vocabulary: emotional, funding, healthcare, inspire, institute, nursing, passionate, placement, scholarship, specialize
+Vocabulary: breast, cancer, challenging, emotional, funding, healthcare, inspire, nursing, passionate, survivor

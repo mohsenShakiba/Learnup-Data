@@ -1,17 +1,17 @@
-Booking a Venue for the Dinner
-A: Have many people filled in the questionnaire about our college dinner?
-B: Yes, about three dozen so far. There's been a lot of enthusiasm about meeting up after ten years.
-A: That's more than I anticipated. We'll need to book a venue soon.
+Choosing a Restaurant for the College Dinner
+A: How many people have said yes to the college dinner?
+B: About three dozen so far. People are really enthusiastic about meeting up after ten years.
+A: That's more than I expected. We should book somewhere soon.
 B: I've looked at two places. One is the private hall at the Park Hotel, and the other is the river restaurant.
-A: I remember going to a wedding at the Park Hotel. The room was very grand, but I can't recall how many people it holds.
-B: It holds sixty, so there's plenty of space. The river restaurant is more lively, though, and the food is cheaper.
-A: Does the restaurant have enough space for nearly forty people to sit together?
-B: They have an upstairs room that holds forty-five. It would be just for our group, and we can bring our own decorations.
+A: I went to a wedding at the Park Hotel once. The room was very grand. There was a ballet class upstairs, though, and we could hear them jumping up and down.
+B: The restaurant's more lively. They're holding a punk gig downstairs that night, but it doesn't start until ten.
+A: Ten's fine for most of us. Can the restaurant seat nearly forty people together?
+B: Yes, we'd be in the upstairs room and we'd finish eating before the band started. It holds forty-five, and we can bring our own decorations.
 A: That sounds good. What happens if someone cancels after we've confirmed the numbers?
 B: They still charge us for that meal. We can change the numbers without paying extra until a week before the dinner, though.
 A: Then let's ask everyone to pay before that deadline. How should we order the food?
 B: The manager asked me to send everyone's meal choices through their website so the kitchen staff can check them.
-A: Let's make sure they can provide all the meals we need before we pay a deposit.
-B: Agreed. I'll send him the choices we've received so far and ask him to keep the date free while we wait for the rest.
+A: Before we book, check the date of the town parade too. Last year the main road closed and my taxi couldn't get near the restaurant.
+B: Good point. I'll ask the manager whether we can still get to the front door by car and how late we can stay upstairs after dinner.
 
-Vocabulary: anticipate, cancel, decoration, dozen, enthusiasm, grand, lively, questionnaire, recall, venue
+Vocabulary: ballet, cancel, decoration, dozen, enthusiastic, gig, grand, lively, parade, punk

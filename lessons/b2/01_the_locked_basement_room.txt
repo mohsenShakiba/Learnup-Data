@@ -8,8 +8,8 @@ B: Ah, they changed it last month.
 A: Oh, my fault. Sorry you had to sort that out. How did you get in?
 B: Fortunately, the manager had left a spare key at the front desk before he went out.
 A: Good thing he did. Is everything ready now?
-B: Almost. The cable in the bag was too short to reach the wall, so I had to find a longer one. Can you check the camera's display while I adjust the stand?
-A: Sure. Up a little bit... That's great, you can see the whole board now.
-B: Good, because a few people are already waiting out in the corridor. Let's let them in.
+B: Almost. The cable in the bag was too short to reach the wall. I found a longer one. Can you check the camera's display? I need the upper half of the board in the picture.
+A: Move it upwards a little... That's it. I can see every word on the board now.
+B: Good, because a few people are already waiting outside. Let's let them in.
 
-Vocabulary: adjust, basement, cable, corridor, display, fault, kit, session, spare, workshop
+Vocabulary: basement, cable, display, fault, kit, session, spare, upper, upwards, workshop

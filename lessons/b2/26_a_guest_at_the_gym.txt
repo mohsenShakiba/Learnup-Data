@@ -1,19 +1,19 @@
 A Guest at the Gym
-A: Can I bring my sister with me tomorrow? She's visiting for the weekend.
+A: Can I bring my sister to the gym tomorrow? She's visiting for the weekend.
 B: Yes. Your membership includes one guest visit a month. Have you used yours yet?
-A: No. Can she use all the facilities, including the pool?
+A: No. Can she swim and use the gym on the same visit?
 B: The pool and the gym, yes. Classes aren't included in the guest pass.
 A: That's fine. Do I need to register her in advance?
 B: You can do it now or when you arrive. She'll need to bring photo ID.
-A: Even if she comes in with me?
-B: Yes, I'm afraid photo ID is compulsory for all first-time guests.
-A: All right. Are there any time restrictions on guest passes at the weekend?
-B: No, the pass is valid all day, though there's a maximum stay of two hours in the pool. You'll need to reserve a time for that.
+A: She has a student card with her photo on it. It shows her date of birth too.
+B: That's fine. We ask because the morning swim is for adults only.
+A: Great. Is the water deep all the way along? She's still learning.
+B: She can stay at the end by the steps. The depth is marked on the wall there. There's a maximum stay of two hours, and you do need to book a time.
 A: Could we swim from ten to eleven and use the gym afterwards?
-B: Yes, there are spaces at ten. Shall I reserve two for you?
-A: Please. Is there anything else she'll need to bring?
-B: Just a towel, and a swimming cap for the pool. We sell caps here if she doesn't have one.
+B: Yes, we have spaces at ten. Shall I put you down?
+A: Please. Does she need anything apart from a towel?
+B: A cap, and something for eye protection if the water bothers her eyes. It's a nice time to go. My sister swims at ten and finds it more enjoyable before the pool gets busy.
 A: Great. Can we leave for lunch and come back to the gym?
-B: Yes, of course. Just keep the guest pass with you.
+B: Yes. Keep the guest pass with you. She'll need it to activate the gate again.
 
-Vocabulary: advance, afterwards, compulsory, facility, ID, maximum, membership, register, reserve, restriction, valid
+Vocabulary: activate, advance, afterwards, depth, enjoyable, ID, maximum, membership, protection, register

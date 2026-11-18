@@ -1,10 +1,10 @@
 When the Map Sends Us the Wrong Way
 A: We've been driving through this village for ten minutes. Does your phone still say we're close to the hotel?
 B: Yes, but the map doesn't look right. Keep going along this road for now.
-A: What's the navigation app telling us to do now?
+A: Which way does the map say to go now?
 B: Turn through that farm gate. Don't turn there, though—the entrance says private.
 A: Can you see somewhere I can stop?
-B: Careful round this sharp curve. There's a car park on the left, but the entrance is hidden behind those bushes.
+B: Careful round this sharp bend. There's a car park on the left, but the entrance is hidden behind those bushes.
 A: Right, we're parked. Let me see your phone. Why is the arrow pointing back towards the gate?
 B: It may not have a clear satellite signal. Look at the blue dot—it shows us in the middle of a field.
 A: So it's giving us the wrong directions because it doesn't know where we are?
@@ -14,8 +14,8 @@ B: Yes. The hotel sent us directions too. Give me the phone and I'll open that m
 A: I'd forgotten about those. Did we take the wrong exit?
 B: No, we took the right one. But the message says to stay on the main road until we reach a stone bridge.
 A: We haven't passed a stone bridge. The app must have sent us off the main road too soon.
-B: It looks that way. These rural roads all look similar to me. Shall I call the hotel and check which way to go?
-A: Yes. How far back do you reckon the main road is?
-B: About five minutes by car. Let's confirm where to turn before we leave this car park.
+B: I think so. Oh, look at the hotel message. They're warning people about the hot-air balloons. The road by the field is closed until the last landing of the day.
+A: Can we still cross that bridge? I see a sign for a firework show there tonight.
+B: We'd better call the hotel before we drive any further. Give them the name on that car park sign. They'll know where we're parked.
 
-Vocabulary: arrow, bush, curve, dot, exit, hidden, highway, navigation, reckon, rural, satellite
+Vocabulary: arrow, balloon, bush, dot, exit, firework, hidden, highway, landing, satellite

@@ -1,15 +1,15 @@
-Planning the Health Seminar
-A: Here's the draft agenda for Saturday's health seminar. Could you check the times before I send it out?
-B: Hang on, Dr. Carter's talk is at half past eleven. She told me she needs to leave by eleven for her nutrition clinic.
-A: Oh, good catch. Her outline says she needs half an hour. I'll move her to ten.
-B: Can we give her until eleven? The feedback from last time was that people didn't get to ask all their questions.
-A: Yes, that gives her half an hour for questions. How many people have signed up?
-B: Seventy so far.
-A: Hang on, the ground-floor room can only accommodate sixty. We're going to need somewhere bigger.
-B: The upstairs hall, which seats eighty, is free until twelve. I checked this morning.
-A: Perfect. Let's book that now and close registration as soon as we reach eighty.
-B: I'll change the room on the form. Can you send Dr. Carter the updated agenda?
-A: Yes. Once she confirms the new time, I'll let the participants know about both changes.
-B: Great. Then I'll print copies for Saturday morning.
+Moving a Talk on Children's Health
+A: Can you check the agenda for Saturday's talks on children's health before I send it out?
+B: Dr Carter's talk on vitamins is at half past eleven. She told me she needs to leave by eleven for her clinic.
+A: Oh, good catch. I'll move her to ten. Is she still bringing those food labels for parents to look at?
+B: Yes. Parents asked about protein in school lunches last time. The feedback was that they wanted time to ask her questions about what their kids eat.
+A: Let's keep ten until eleven free for her, then. She can do half an hour of questions after the talk. How many people have signed up?
+B: Seventy, including some children who have been learning about the organs of the body. They asked if she could bring that big model of a heart again.
+A: Seventy? The ground-floor room only seats sixty. Could we use the hall upstairs?
+B: The upstairs hall, which seats eighty, is free until twelve. A dad mentioned on the registration form that his hearing is poor. Let's keep him a seat at the front.
+A: Good idea. And is there a lift? Last time we had a family turn back at the stairs.
+B: Yes, there's one just inside the side door. I'll add that to the form. Could you ask Dr Carter whether she wants us to print anything for her talk? She used a big visual guide to food groups last time.
+A: Yes. I'll also let the disability support team know about the room change. They arranged help for two families.
+B: Thanks. I'll print copies of the new agenda once she's confirmed.
 
-Vocabulary: accommodate, agenda, clinic, draft, feedback, nutrition, outline, participant, registration, seminar
+Vocabulary: agenda, clinic, disability, feedback, hearing, organ, protein, registration, visual, vitamin

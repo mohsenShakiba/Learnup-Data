@@ -1,11 +1,11 @@
 Returning the Borrowed Camera
-A: Here's your camera back. Look, I have to confess something before you open the bag.
+A: Here's your camera back. Before you open the bag, I need to tell you what happened to it.
 B: What's happened?
 A: It slipped off the table yesterday. There's a nasty mark on the side and a tear in the case.
 B: Let me look. Does it still work?
 A: Yes, though I haven't checked every setting. I'm ashamed to say I didn't call you straight away.
 B: Why didn't you?
-A: I was desperate to get it repaired before you needed it, and the shop couldn't look at it until next week.
+A: I was desperate to get it repaired before you needed it. The shop had a quick look at the outer case, but they can't open the camera until next week.
 B: I'd have preferred to hear about it yesterday. I need it for work tomorrow.
 A: I know—I really regret waiting. I've felt miserable about it all morning.
 B: Well, I appreciate your honesty, anyway. Let's see whether I can still use it tomorrow.
@@ -13,7 +13,7 @@ A: Could we test it here? If there's a problem, I'll pay for you to hire one whi
 B: Yes. Good thing you left the case on—that might have protected the lens.
 A: The shop said the same, though they couldn't promise there was no damage inside. I hope you can forgive me.
 B: Of course. It was an accident. Just tell me sooner if anything like this happens again.
-A: I will. Shall I clear the table so we can take some test photos?
+A: I will. Shall I clear the table so we can take a few test photos?
 B: Please. I'll get my other lens so we can see whether the camera works with that one too.
 
-Vocabulary: ashamed, confess, desperate, forgive, honesty, miserable, nasty, regret, slip, tear
+Vocabulary: ashamed, desperate, forgive, honesty, miserable, nasty, outer, regret, slip, tear

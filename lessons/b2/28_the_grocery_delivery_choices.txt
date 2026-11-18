@@ -2,18 +2,18 @@ The Grocery Delivery Choices
 A: Why is the grocery bill nearly ten pounds higher than the total we saw yesterday?
 B: Look at the receipt—they sent organic coffee and organic oranges instead of our usual ones.
 A: Did we agree to let them send more expensive items?
-B: Look at the order settings—letting them replace missing items is automatic unless you turn that setting off. I thought they'd pick something equivalent in price.
-A: Apparently, that isn't how it works. I didn't expect the final total to vary this much.
-B: Under "Preferences", we can choose what happens when an item is out of stock.
+B: Look at the settings. Letting them replace missing items is automatic unless you turn it off. I thought the prices would be similar.
+A: Apparently the price can differ quite a bit. What's this extra pound on the receipt?
+B: That's for the bags. Look at the bottom. "Bags are charged additionally." Here's where we choose what happens when they're out of an item.
 A: What are the options?
 B: Let them pick another item, choose a second option ourselves, or ask them to leave the item out.
-A: Then let's choose a second option for things we really need. We can do without oranges for a few days.
+A: Let's do that for the coffee. As for the oranges, I'd be happy with the cheaper, oddly shaped ones. I'm only going to cut them up.
 B: Agreed. Half our dairy items were missing too, so they didn't charge us for those.
-A: Maybe we should book a morning delivery next time, while they still have a better selection in stock.
+A: Maybe we should book a morning delivery. There might be a better selection before they start packing all those orders for the afternoon rush.
 B: Good idea. I still like the convenience of having the groceries delivered—I just want to know what we'll pay.
-A: Me too. What about today's coffee and oranges? Did they tell us about the changes before the driver arrived?
-B: Yes, there's a message from this morning. I hadn't read it. It says to contact the shop if we don't want an item they've chosen.
-A: Let's ask what we can do, then. I haven't opened that bag yet.
-B: I'll call them. Next time I'll read that message before the driver comes.
+A: Me too. Can we return the coffee and oranges they sent this time?
+B: Yes. There's a message asking us to call if we don't want them. Have you opened either bag?
+A: No, they're both still on the table.
+B: Good. I'll ring the shop before we put them away.
 
-Vocabulary: apparently, automatic, convenience, dairy, equivalent, grocery, organic, preference, selection, vary
+Vocabulary: additionally, apparently, automatic, convenience, dairy, differ, grocery, rush, selection, shaped

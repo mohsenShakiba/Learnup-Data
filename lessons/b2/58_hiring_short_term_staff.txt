@@ -1,21 +1,21 @@
 Hiring Short-Term Staff
 A: Do you have a minute before you go back to the packing floor? I've just checked next month's orders.
 B: Sure. Are they higher than we expected?
-A: Much higher. We've had dozens of large orders from new shops, and the total already exceeds last December's.
+A: Much higher. That new space game is ready for launch next month. The shops have ordered twice as many copies as last December.
 B: Orders are growing much more rapidly than we planned for, then. Our team won't manage that volume on their own, especially with two people away next month.
-A: Exactly. Even with extra hours, our weekly output wouldn't be high enough.
+A: Yes. Just look at the boxes. The ordinary game fits in one small case. The special one comes with an alien figure and a book about the making of the game.
 B: Could we bring in temporary staff on a short-term contract until the end of the busy period?
-A: That's what I was thinking. I called a recruitment agency this morning to see who they have available.
-B: Can they send people who have done packing work before?
-A: Yes, they have four people with experience.
-B: Have we got room in the budget to take on all four for six weeks?
-A: We should have, if our manager approves the cost today. Do we have space for four more people on the floor?
-B: Yes, if we use the two spare tables at the back. With experience, they should learn how we pack orders in a day or two.
-A: Good. What about the new label software we were planning to implement next Monday?
-B: Doing both in the same week will slow everyone down. The transition to new software always takes time.
-A: Good point. Let's leave that until January. Who can help the new staff if any problems arise while you're checking deliveries?
-B: I'll put Sam at the table beside them to ensure every order's checked properly before it goes out.
+A: Yes. I called the agency this morning. They have four people free from Monday, all with packing experience.
+B: Good. It's important they can tell the boxes apart. Does every special order get a figure?
+A: Yes. The book's only for orders before the official launch, though. Orders after that get the figure and a poster of the game's universe instead.
+B: Do we have room in the budget to take on all four for six weeks?
+A: Yes, if the manager approves it today. What about training? People sometimes confuse the two boxes because there's a picture of the same alien on both.
+B: We have two empty tables. I'll set out one complete box of each kind. It's the little extras that hold us up when we have to distribute so many.
+A: What about the special golden figures? I heard a customer say there was a lottery for those.
+B: There is. One lucky person in every hundred gets one. Those boxes are coming ready to go, so the new people won't have to open them.
+A: Good. Can Sam stay with the new team on Monday? He packed the last game. Its popularity took us by surprise and he knows where we lost time.
+B: Yes. He'll be at the table beside them. He can also handle any questions from the shops.
 A: Great. If our manager agrees today, they can start next Monday. I'll take the figures to her office now.
 B: Let me know what she says, and I'll get those spare tables ready.
 
-Vocabulary: arise, ensure, exceed, implement, output, rapidly, recruitment, short-term, transition, volume
+Vocabulary: alien, distribute, launch, lottery, making, popularity, rapidly, short-term, universe, volume

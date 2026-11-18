@@ -1,21 +1,21 @@
-News from the Market
+A Second Look at the Market Story
 A: Have you had a chance to read my article on the new street market? It goes to print tomorrow.
-B: Yes, I've just finished it. Overall it reads well, though the others at the editorial meeting felt the first half showed a bit of bias.
+B: Yes, I've just finished it. The photos are lovely, but there's a pretty big gap in the story.
 A: Really? In what way?
-B: You only interviewed people who run a stall. Naturally, they're happy about the extra publicity and sales.
-A: That's true. I spent most of Saturday talking to them.
-B: To make it more balanced, we also need to hear from the shops around the square. Several managers were worried about losing parking spaces.
-A: I actually spoke to two of those shop managers yesterday. I could incorporate a few lines from them about how the market has affected their trade.
-B: Good. You also wrote that visitor numbers in the square have increased by five hundred on Saturdays. Where did that figure come from?
-A: From the local government's monthly report. They counted visitors at the car park and the station.
-B: Then cite that report, with its date, so people know the figure comes from official data.
-A: Will do. What about the graphic at the bottom of the page? Is the map of the square clear enough?
-B: Mostly, but the street names along the bottom are very small.
-A: I can make the map slightly larger and put the market opening times beside it.
+B: You only interviewed people selling things at the market. They're delighted at all the extra customers. Have you spoken to the neighbours?
+A: I spoke to a couple of shop managers on my way home. What are you worried I've missed?
+B: Both sides need a say if the story's going to be balanced. Did the managers mention why the police were there on Saturday?
+A: Yes. One showed me a photo of armed police outside his shop. He'd heard there'd been a shooting, but he didn't see it himself.
+B: Have the police confirmed what happened? The photo tells us the police were there, but it doesn't tell us why.
+A: I called them. They said someone had found a bullet in the street. Nobody was hurt. Someone's claiming online that a man's already in jail for shooting at a shop window.
+B: People will think somebody's sitting in a cell already. Did you ask the police about that post? We can't print a claim like that without checking.
+A: They said nobody's been arrested. They're asking for witnesses to call the number in this graphic. Can I put it just under the map?
+B: Yes. Let's make the street names bigger too. Can people tell from the article where the bullet was found?
+A: I'll check the street name again. I'll change the headline too. It makes it sound like we know there was a shooting.
 B: That should fix it. Once this page is done, the whole paper will be ready for publication.
-A: Have we arranged everything for distribution on Thursday?
-B: Yes. The library, the station and the cafes around the square have all agreed to take copies.
-A: Great. I'll add the shop managers' comments and the report details tonight, then send you the revised page.
+A: Can we check one more thing? There's a quote from a shop manager saying this might threaten the future of the market. Has anyone actually said it could close?
+B: I've heard nothing about closing it. The minister who opened it said she'd visit again in the spring. Did the manager give you a reason?
+A: No, he didn't. I'll ask the manager why he's worried before we print his comment. If it's just a guess, I can leave it out.
 B: Thanks. I'll check it first thing in the morning before I send the file to print.
 
-Vocabulary: balanced, bias, cite, distribution, editorial, graphic, incorporate, publication, publicity, stall
+Vocabulary: armed, balanced, bullet, cell, graphic, jail, minister, publication, shooting, threaten

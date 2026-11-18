@@ -1,15 +1,15 @@
 Checking the Visa Forms
-A: Is the envelope on the kitchen counter ready for our visa interview tomorrow?
+A: Is the envelope on the kitchen table ready for our visa interview tomorrow?
 B: Almost. Could you check this form while I make a copy of our marriage certificate?
 A: Hang on, this has our old address on it. Which file did you print?
-B: Oh no. I must have opened the attachment from that old email. I just assumed it was the right one.
-A: Can you find the one we updated?
+B: Oh no. I must have printed the file from the old email. I just assumed it was the right one.
+A: Can you find the new one? We corrected the country of birth on that one too. Remember, the first copy had it down as Spain, which was incorrect.
 B: Yes, here it is on my computer. I'm printing it now. I should have checked the address first.
 A: Better to spot it tonight than tomorrow morning! Did you pack the letter from work about your income?
 B: Yes, that's already in the envelope. The list also asks for a recent household bill as proof of address.
-A: Here's last month's electricity bill. It has both our names on it.
-B: Great, thanks. The new copy's coming out now. Could you check the address against the bill?
+A: Here's last month's electricity bill. It has both our names on it. Do they also need proof that you're a British citizen?
+B: That's what my passport is for. Thanks. The new copy's coming out now. Could you check the address against the bill?
 A: Yes, the address matches now. Don't forget your signature at the bottom.
 B: Done. I'll put the form and the bill in with the certificate, and then the envelope's ready for the morning.
 
-Vocabulary: assume, attachment, certificate, counter, envelope, household, income, proof, signature, visa
+Vocabulary: assume, certificate, citizen, envelope, household, income, incorrect, proof, signature, visa

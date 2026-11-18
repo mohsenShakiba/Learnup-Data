@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Enrich A1-C1 vocabulary using a Anthropic (Claude API) key.
+"""Enrich A1-C2 vocabulary using an Anthropic (Claude API) key.
 
 Python 3.10+; no third-party packages required. From the project root in PowerShell:
 
@@ -11,8 +11,9 @@ Alternatively, save the key alone in .anthropic-api-key in the project root
 (ignored by Git). ANTHROPIC_API_KEY takes precedence over that file.
 API reference: https://platform.claude.com/docs/en/build-with-claude/structured-outputs
 
-Input defaults to vocabs/a1-c1.csv (lemma,level). Output defaults to
-vocabs/a1-c1-translated.csv, with one row per selected level-appropriate meaning/part of speech:
+The combined input and output retain their original filenames, vocabs/a1-c1.csv
+and vocabs/a1-c1-translated.csv. Both now include levels A1 through C2. The input
+columns are lemma and level. Each output row is one selected meaning/part of speech:
 lemma,level,part_of_speech,sense_id,translation_fa,definition_en,example_en,example_fa,
 grammar_en,grammar_fa,word_forms,pronunciation_uk,pronunciation_us.
 Grammar, labeled inflections, and British/American IPA are specific to each sense.
@@ -58,7 +59,7 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parent.parent
-LEVELS = ("A1", "A2", "B1", "B2", "C1")
+LEVELS = ("A1", "A2", "B1", "B2", "C1", "C2")
 PARTS_OF_SPEECH = (
     "noun", "verb", "adjective", "adverb", "pronoun", "determiner",
     "article", "preposition", "conjunction", "interjection", "auxiliary verb",
@@ -80,6 +81,7 @@ that level, ordered from most useful to least useful. For A1-A2, normally give
 one or two core senses; include more only when essential everyday uses would
 otherwise be missing. For B1-B2, add common broader uses appropriate to the level.
 For C1, include useful advanced nuances without chasing every possible meaning.
+For C2, include formal, specialized, or idiomatic uses when central to the lemma.
 These are selection guidelines, not quotas: never invent senses to reach a count.
 Include only parts of speech useful at the given level. A headword's level does
 not make all its meanings suitable for that level. Do not include a harder sense

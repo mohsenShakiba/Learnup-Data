@@ -1,10 +1,10 @@
-Having a Jacket Altered
-A: Hello. Do you alter jackets here? This one fits across my shoulders, but the sleeves are too long.
+The Sleeves on My Jacket
+A: Hello. Could you make the sleeves on this jacket a bit shorter? It fits across my shoulders, but you can hardly see my hands.
 B: Yes, of course. Let me see it on you. Does it have matching trousers, or is it just the jacket?
 A: Just the jacket. It's quite casual, really, though I was hoping to wear it to my sister's wedding.
 B: With dark trousers and a white shirt, it would look quite elegant. Let's see how much shorter the sleeves need to be.
 A: Good. I don't really want to buy a whole new outfit.
-B: That makes sense. Let your arms hang down. I'll pin the fabric just below your wrist, here.
+B: Stand the way you normally would. See how low the sleeve hangs over your palm? I'd bring it back to just below your wrist.
 A: So about an inch shorter?
 B: Yes. Bend your elbow for me before I take the final measurement. Does that feel comfortable?
 A: Yes, there's plenty of room. Will you have to move these buttons?
@@ -16,4 +16,4 @@ B: Let me check the inside... Twenty pounds, including moving the buttons.
 A: That's fine. Could I collect it on Thursday?
 B: Yes. Bring the shirt you'll wear with it if you want to check the length together.
 
-Vocabulary: alter, casual, elbow, elegant, inch, matching, measurement, neat, outfit, wrist
+Vocabulary: casual, elbow, elegant, inch, matching, measurement, neat, outfit, palm, wrist

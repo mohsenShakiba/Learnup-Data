@@ -1,17 +1,17 @@
 The Hall Smoke Alarm
 A: Did you hear the hall smoke alarm again? It's been making that short sound all afternoon.
 B: Yeah, with a little flash from the red light each time.
-A: Could steam from the shower have triggered it?
+A: Could steam from the shower have set it off?
 B: Nobody's used the shower today. Besides, that usually sets the whole alarm off.
-A: Then what does it mean? I'm trying to read and it's really distracting—it's getting on my nerves.
-B: Let's check the instructions. First we need to make sure it can still detect smoke properly.
-A: Here they are. There's a list of warning sounds on the back.
-B: Look—one short sound at one-minute intervals means the battery's running low.
+A: Then why does it keep doing that? It's getting on my nerves. I can't get through a page of my book.
+B: Let's check the instructions. It could be telling us there's a fault.
+A: Here they are. There's a list of sounds on the back. It says the frequency of the flashes matters too.
+B: One short sound and one flash every minute? That's the warning for a low battery.
 A: Isn't ours connected to the electricity wires in the ceiling?
 B: It is, though it has a battery inside too, in case the main power goes off.
-A: Can we change that ourselves?
-B: Yes, there's a small battery case on the side. Do we have a new battery that size?
+A: Can we change the battery ourselves? A firefighter came to our building last year and showed us how to check the alarm, but I can't remember how he opened it.
+B: Yes. Look under "Commonly asked questions". There's a picture showing where the battery goes.
 A: I'll check the packet in the kitchen, then we can follow the steps here.
-B: Great. Afterwards, we just push the case shut until it's secure and press the test button.
+B: Good. Once the battery's secure, we can push the test button. There's a number to ring here in case of failure.
 
-Vocabulary: besides, detect, distract, flash, interval, nerve, secure, steam, trigger, wire
+Vocabulary: besides, commonly, failure, firefighter, flash, frequency, nerve, secure, steam, wire

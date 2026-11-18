@@ -4,18 +4,18 @@ B: How many slides have you made?
 A: Only twelve, though I inserted the full-size photos from our visit to the factory. There are multiple photos on most pages.
 B: That might explain it. Do they really need to stay that big?
 A: Probably not. We'll only show them on the meeting room screen. We won't print them as large posters.
-B: Try saving a second copy first. Then you can reduce the resolution of the photos without changing your main file.
+B: Try saving a second copy. Then you can make the pictures smaller without changing your main file.
 A: Where do I do that?
 B: Select a photo and click this icon. It looks like a little picture with arrows around it.
 A: Here? There's an option to change all the photos at once.
 B: Yes. Try that on the copy, then check whether the pictures still look clear when you show a whole slide.
-A: They look fine. The file is significantly smaller now, though it's still just above the maximum size.
+A: They're clear. The file's much smaller now, but still over the limit. Is there anything else that takes up a lot of space?
 B: Have you got any audio clips in there?
-A: No, just an animation on the first slide showing a truck moving across the map.
-B: Does it actually need to move?
-A: Not really—it just shows the delivery route. I could replace it with a still map.
-B: Try that. And if it's still slightly over, you can convert the whole presentation to a PDF.
+A: No, just an animation on the first slide. It shows how we capture heat in the factory and use it again. The team sent me two sets of graphics, one with moving arrows and one without.
+B: Does it have to move? Could you get the same idea across with a still picture, or is the motion important?
+A: A still picture should work. I can show them where the heat goes by pointing to the arrows. I was worried I'd have to change the programming to stop them moving.
+B: Just replace the animation with the other picture they sent. If it's still too big, save the slides as a PDF.
 A: Good idea—the client said either format was acceptable. I'll check every page before I upload it.
 B: Just keep your main presentation file too, in case you want to edit anything later.
 
-Vocabulary: animation, audio, convert, icon, insert, multiple, PDF, resolution, significantly, slide
+Vocabulary: animation, audio, capture, graphics, icon, insert, multiple, PDF, programming, slide

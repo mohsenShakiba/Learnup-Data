@@ -1,17 +1,17 @@
 At the Eye Clinic
 A: Hello. I have a ten o'clock appointment about my left eye, and I wanted to check something. My letter says "Eye Surgery" at the top. Am I having an operation today?
-B: No, don't worry. Today you're just seeing the surgeon so she can assess your eye and talk through possible treatment.
-A: Oh, that's a relief. I got quite anxious when I saw that on the letter.
+B: No, today you're just seeing the doctor. She'll check your eye and discuss what might help.
+A: Oh, good. I got quite anxious when I saw that heading.
 B: I'm sorry. That heading confuses a lot of people. Did you bring a list of any regular medication you take?
 A: I did, but my doctor changed one of my pills last week, and I can't remember the new name.
 B: Do you have the box with you?
 A: No, sorry, but my doctor sent me a message with the name in it. Can I show you that?
 B: Yes, of course. We just need to make sure your records are accurate before you go in.
 A: If I need surgery later on, will I have to stay overnight?
-B: It depends on which procedure she recommends, though most people go home the same day. She'll explain how long recovery takes and whether you'd need help at home.
+B: It depends on the kind of operation. Most people go home the same day. She'll explain how long recovery takes and whether you'd need help at home.
 A: Can I ask her about a note for work too? My eye's been really sensitive to the office lights, and it's affecting my vision at the computer.
 B: Yes, definitely tell her when it's worst and how it affects your work.
-A: I'll write that down on my phone now. I always forget half my questions once I'm in the room.
+A: I'll make a note of that. The constant light above my desk bothers me more than the screen. I'd like to ask whether changing desks would help.
 B: Take your time. She's still with another patient, so it'll be about ten minutes.
 
-Vocabulary: accurate, anxious, assess, medication, overnight, pill, procedure, recovery, sensitive, surgeon, surgery, vision
+Vocabulary: accurate, anxious, constant, medication, overnight, pill, recovery, sensitive, surgery, vision

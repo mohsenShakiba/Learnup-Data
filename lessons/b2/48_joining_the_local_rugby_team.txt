@@ -1,12 +1,12 @@
 Joining the Local Rugby Team
-A: Are you still trying to recruit people for your rugby team? I saw the notice at work.
-B: Yes, especially in defence. Have you played for a team before?
+A: Are you still looking for people for your rugby team? I saw the notice at work.
+B: Yes, especially defenders. Have you played for a team before?
 A: At college, but that was five years ago. How serious is your league?
 B: We want to win, but it's still a Sunday activity. Most of us work all week.
 A: That's good. In my last team we blamed each other whenever we lost.
-B: Our league's pretty strict about conduct on the field—no shouting at each other or arguing with the referee.
-A: Does everyone actually stick to that when you're losing?
-B: Mostly, yeah. Even after a heavy defeat last Sunday, our captain tried to motivate everyone for the next game.
+B: We try to keep the anger off the field. It's hard to defend well if you're shouting at the person next to you.
+A: How about in a big game, like the final of a championship? My old captain always got angry if we were behind.
+B: Yeah. After a heavy defeat last Sunday, our captain had a quiet word with each of us. He picked out one thing we'd got right. That's how you motivate people.
 A: That sounds like a good leader. How often do you train?
 B: Wednesday evenings. Come this week and see how you get on with us before you join.
 A: I'd like that. Do I need to buy a team shirt?
@@ -16,4 +16,4 @@ B: The hospital team this Sunday. And we've got a local tournament next month ag
 A: Then I'll start with Wednesday's training. I need to find out whether I can still run for more than ten minutes.
 B: Come at six. We'll warm up first, and you can take a break whenever you need one.
 
-Vocabulary: conduct, defeat, defence, league, motivate, opponent, recruit, referee, sponsor, tournament
+Vocabulary: anger, championship, defeat, defend, defender, league, motivate, opponent, sponsor, tournament

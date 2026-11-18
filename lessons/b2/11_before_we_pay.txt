@@ -1,16 +1,16 @@
 Before We Pay
-A: Look at this. The running shoes I wear are half price on this website. What a bargain!
-B: Hang on, I've never heard of that shop. Are you sure they're genuine?
+A: Look at this. The running shoes I wear are half price on this website, with a free pair of socks with every purchase.
+B: Hang on, I've never heard of that shop. Are you sure those are the real thing?
 A: The photos look pretty convincing. They have the exact same logo on the side as mine.
 B: Anyone can copy photos, though. Have you checked the shop's rating?
 A: Five stars, but there are only two reviews... Oh wait, the comments are identical.
 B: And they were both posted today. Those are almost certainly fake.
 A: Let me check the payment page... That's strange, there's no option to pay by card. They want me to transfer the money directly.
-B: Leave it, then. If it's fraud, it's much harder to get your money back after a transfer. Do they give an address or a phone number?
+B: I'd leave it, then. If someone robbed you that way, it could be hard to get your money back. Is there a phone number on the website?
 A: No, just a contact form. Yeah, I definitely don't trust this website now.
 B: Have you entered any personal info or sent them any money?
 A: No. I haven't filled anything in yet.
-B: Good. Let's look elsewhere. Do you need a new pair straight away?
-A: Not really, my old ones will last another month or two. I'll wait for a sale in town.
+B: Good. I'd avoid that shop. Is there any independent information about it on the runners' forum?
+A: I'll ask there before I spend anything. My old shoes will last another month or two.
 
-Vocabulary: bargain, convincing, elsewhere, fake, fraud, genuine, identical, info, logo, rating, trust
+Vocabulary: convincing, fake, forum, identical, logo, purchase, rating, rob, transfer, trust
