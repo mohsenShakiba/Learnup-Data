@@ -1,15 +1,15 @@
 Checking the Fragile Orders
-A: Walking into the loading bay just now, I noticed six large boxes sitting near the open door in the rain.
-B: Oh no—those are the bulk orders going up to Glasgow with the four o'clock driver. Did the rain reach them?
-A: Only the outside got a bit wet, thankfully—though there are empty boxes left right across the side exit, which is a real trip hazard.
-B: Let me come over and see—I'll clear those out of the way in a minute. The temporary staff were rushing to finish the shipping labels before their break, and I was on the phone at the desk instead of overseeing the bay.
-A: Look—that top box marked fragile is crushed at one end, too. Should we inspect the bottles inside before the truck arrives?
+A: There are six big boxes getting wet by the open loading bay door.
+B: Oh no—those are the bulk orders going up to Glasgow with the four o'clock driver. How wet are they?
+A: Just a little wet on the outside, thankfully. Mind those empty boxes by the side exit, though. They're a trip hazard.
+B: I'll shift the empty ones. Can you help me get the Glasgow boxes further inside?
+A: Sure. Hang on, this top box marked fragile is crushed at one end. Should we inspect the bottles before the truck gets here?
 B: Definitely. Given what happened with those broken bottles last month, I don't want to take any chances today.
-A: Pass me the knife and I'll open the tape... That's good news—every bottle inside is completely intact.
-B: Hang on, look at the top seal on this bottle on the left. It's slightly bent at the edge.
-A: You're right, that's a factory defect, not damage from packing. If oil leaks out, it'll ruin the whole box.
+A: Pass me the knife and I'll cut the tape... Well, the bottles look intact.
+B: They do, but look at the seal on this one. See how the edge is bent?
+A: Oh, I see it. Looks like a factory defect. If the oil leaks out, it'll ruin the whole box.
 B: Let's set that bottle aside and bring a replacement from the main warehouse.
 A: I'll wrap an extra sheet of thick paper around each bottle too, so nothing moves in transit on the long drive north.
-B: Thanks. Once we tape this box shut again, let's move the whole pile further inside the bay until the driver pulls up.
+B: Thanks. I'll put a fresh shipping label on it once we've taped it up.
 
-Vocabulary: bay, bulk, crush, defect, fragile, hazard, inspect, intact, leak, oversee, replacement, seal, shipping, thankfully, transit, warehouse
+Vocabulary: bay, bulk, crush, defect, fragile, hazard, inspect, intact, leak, replacement, seal, shipping, thankfully, transit, warehouse

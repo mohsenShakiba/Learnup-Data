@@ -1,17 +1,17 @@
 Sharing the Extra Work
 A: Could we go through my task list before you leave the office? I've been dealing with Sam's orders this week, and I'm falling behind with my own reports.
 B: Of course. You looked a bit overwhelmed yesterday. How much of your day are his orders taking?
-A: Most of the morning. I thought I could manage during his absence, but there seem to be more customer queries than I expected.
-B: We might want to delegate some of those calls to Leo. He's been asking for more responsibility.
-A: I'm not entirely convinced he's ready to handle complaints on his own. He still needs supervision when a customer asks for a different price.
-B: He's competent with ordinary orders, though. Could he take those and pass any complaints to me?
-A: Yes, that would help. Is there any scope to move Friday's report to Monday as well?
-B: I'll check with my supervisor. She needs the sales figures on Friday, but she may be happy to wait for the rest.
-A: Even that would take a real burden off me. I don't want to rush the figures and miss something.
+A: Most of the morning. I thought I could manage, but I'm getting twice as many customer queries as I expected.
+B: Is there anything we could delegate to Leo? He's been asking for more responsibility.
+A: Ordinary orders, yes. He still needs supervision when a customer asks for a different price.
+B: Could he pass those calls to me? I'm at my desk most of the day.
+A: That would take a real burden off me. Is there any scope to move Friday's report to Monday as well?
+B: I'll check with my supervisor. She needs the sales figures on Friday, but we might be able to postpone the rest.
+A: That would give me time to check the figures. I don't want to rush them and miss something.
 B: Agreed. Have you shown Leo where Sam keeps the order records?
-A: Yes, we went through them yesterday. I'm happy to answer his questions, but checking every call would take almost as long as doing them myself.
-B: Then perhaps we could give him a little more autonomy with those orders. I'll stay nearby for anything he can't resolve.
-A: That could work. I appreciate you being supportive; I was worried this would look like I wasn't willing to help.
-B: Your willingness isn't in doubt. We just gave you too much at once. I'll speak to Leo now and confirm the report deadline this afternoon.
+A: Yes, we went through them yesterday. He did the last three orders himself. I'd be happy to let him carry on, if you're there for the difficult calls.
+B: I will be. He's competent, and he knows when to ask for help.
+A: Thanks for being so supportive. I was worried this would sound like I didn't want to help Sam.
+B: We gave you too much to do. I'll speak to Leo now and let you know about the report this afternoon.
 
-Vocabulary: absence, autonomy, burden, competent, delegate, overwhelm, query, scope, supervision, supervisor, supportive, willingness
+Vocabulary: burden, competent, delegate, overwhelm, postpone, query, scope, supervision, supervisor, supportive

@@ -1,18 +1,18 @@
 A Photo for My Application
-A: Can you take a photo of me for my job application? I don't have a suitable one on my phone.
+A: Can you take a photo of me here by the window? I need one for a new job.
 B: Sure. Do you need to send it today?
-A: Yes, before five, and the photo studio near work is closed today.
-B: I'm not a professional photographer, but we can try. Stand by the window. There's more light there.
-A: Like this? I want to make a good impression.
-B: You look smart, but move slightly to your left.
-A: Is this better?
-B: Yes. Turn your head a little. That's it. Here's the first photo.
-A: Oh, I look really nervous.
+A: Yes, the application's due at five. I don't have a suitable photo, and the studio near work is closed today.
+B: I'm no photographer, but the light's good here.
+A: Do I look smart enough in this shirt? I want to make a good impression.
+B: You do. Just move slightly to your left.
+A: Like this?
+B: Yes. That's it. Here, have a look.
+A: Oh, I wanted to look cheerful. I just look nervous!
 B: Relax your shoulders. You don't have to stand so straight.
-A: Sorry, I don't feel very confident in front of a camera.
-B: That's all right. Forget the camera for a second and tell me about the job.
+A: I never feel very confident in front of a camera.
+B: Forget the camera for a second. Tell me about the job.
 A: It's at a local school. They need a new art teacher, and their art room is huge!
-B: Hold that smile! Look, I took another photo while you were talking. You look much more cheerful, and you're smiling more naturally.
+B: Look, I took another one while you were talking. You're smiling much more naturally in this one.
 A: Oh, that's much better. I'll use that one.
 B: Great. I'll send it to you now.
 

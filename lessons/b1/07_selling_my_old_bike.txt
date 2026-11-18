@@ -1,16 +1,16 @@
 Selling My Old Bike
-A: I've decided to sell my bike. Can you help me with the ad?
+A: I'm going to sell my bike online. Can you help me with the price?
 B: Sure. Why are you selling it?
-A: I take the train to work now, and this bike's too big for the train. It doesn't fold.
-B: Right. Start with the brand and a few clear photos.
-A: I've taken some already. The frame has no marks on it, and the chain's new.
-B: Good. How much do you want for it?
-A: I paid two hundred pounds for it originally. What's it worth now?
-B: It's in great condition, and that brand is very reliable. Try a hundred pounds.
+A: I take the train to work now. This bike's too big to take with me, and it doesn't fold.
+B: Have you taken any photos for the ad yet?
+A: Yes, look. The frame has no marks on it, and the chain's new.
+B: It looks good. How much did you pay for it?
+A: Two hundred pounds originally. What's it worth now?
+B: It's a reliable brand. Try a hundred pounds.
 A: Fair enough. Should I offer to deliver it if someone lives near here?
-B: No, let people come and try it first.
-A: Good point, but I prefer to avoid giving my home address to strangers.
-B: We can meet them somewhere busy instead, like outside the station.
+B: People usually like to try a bike first.
+A: True, but I don't want to give my home address to strangers.
+B: How about meeting them outside the station? It's always busy there.
 A: Can you come with me if someone wants to see it?
 B: Yes, I'm free on Saturday afternoon.
 A: Saturday works well. I'll put that in the ad.

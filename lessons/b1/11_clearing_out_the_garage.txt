@@ -1,17 +1,17 @@
 Clearing Out the Garage
-A: Can you help me clear out the garage? There's so much stuff in here that I can't get the car inside.
-B: Sure. What's in these boxes by the door?
-A: Those are the art books that my grandfather gave me. Some of them are quite valuable, so I shouldn't leave them out here in the cold.
-B: Let's carry them into the house first, then. What about this old computer keyboard?
-A: That's the one that I used with my old computer. It still works, so it seems a waste to throw it away.
-B: There's a community shop in our neighbourhood that collects old computer equipment for families who need it.
-A: Good idea, I'll take it there tomorrow. And what should we do with this wooden table?
-B: It looks fairly solid under all this dust.
-A: I know, and it's a nice table, but we rarely use it. It takes up too much space out here.
+A: Can you give me a hand with these boxes? There's no room in here for the car.
+B: Sure. Where do you want the ones by the door?
+A: In the house, please. They're full of art books that my grandfather gave me. Some are quite valuable. I don't want to leave them in the garage.
+B: What about this old keyboard?
+A: It still works. It seems a waste to throw it away.
+B: There's a shop in our neighbourhood that takes old computer equipment.
+A: Good idea. I'll take it there tomorrow. What about this wooden table?
+B: It looks fairly solid under all this dust. Do you want to keep it?
+A: We rarely use it. Mostly we just leave stuff on it.
 B: Maybe the woman who moved into the flat next door needs a kitchen table.
-A: Oh, let's offer it to her! Can you send her a photo?
-B: Let's clean the dust off it with a cloth first. Then I'll measure the top so she can check the size.
-A: Great. Let's move it against the wall for now, and there'll finally be room for the car.
+A: Let's offer it to her. Can you send her a photo?
+B: Sure. Pass me that cloth first. I'll measure the top too, so she can check the size.
+A: Thanks. If we move it against the wall, there'll be room for the car tonight.
 B: All right, take that end and I'll lift this side.
 
 Vocabulary: dust, fairly, garage, keyboard, measure, neighbourhood, rarely, solid, stuff, valuable, waste

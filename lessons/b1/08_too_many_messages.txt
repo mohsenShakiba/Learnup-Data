@@ -1,15 +1,15 @@
 Too Many Messages
-A: I can't concentrate in here. People keep sending messages to the group chat.
-B: Is it the marketing team again?
-A: Yes, and I really need to finish this presentation for a client before four.
-B: Can't you stop checking the chat for half an hour?
-A: What if there's a serious issue with their project?
-B: I'm in that chat too, so I'll answer their questions until you finish. You can ignore the messages for now.
-A: Thanks. I'll tell them I'm busy for the next hour. There, I've sent a quick message.
-B: Good. Put your phone on silent too.
-A: Done. I'm under a lot of pressure today, and I still haven't finished the last part of the presentation.
-B: Keep it simple. That client prefers a clear summary of the main points, not pages of detail.
-A: True, that helps. My phone's on silent now, so can you remind me to stop writing at quarter to four?
-B: Of course. I'll come back at quarter to four, and we can check everything together before you send it.
+A: Can you watch the office chat for a bit? My phone hasn't stopped all morning.
+B: Sure. What's going on?
+A: The marketing team keeps sending me questions, and I can't concentrate. I need to finish a presentation for a client by four.
+B: Why don't you put your phone on silent?
+A: I don't want to ignore them if there's a serious issue with the project.
+B: I'll answer them. If there's a problem, I'll come and tell you.
+A: Thanks. I'll put my phone on silent, then.
+B: How much of the presentation do you still have to do?
+A: Just the last part. I'm under pressure to keep it short, but there's so much to say.
+B: That client likes a clear summary. What matters most to them?
+A: The price and the start date. I'll just put those on the last page. Can you remind me to stop at quarter to four so we have time to check it?
+B: Sure. I'll be at your desk then.
 
 Vocabulary: client, concentrate, ignore, issue, marketing, presentation, pressure, remind, silent, summary

@@ -1,15 +1,15 @@
 Moving Offices Tomorrow
 A: Are we really moving upstairs tomorrow? That's awful timing, with our report deadline on Friday.
-B: I'm afraid so. The IT team will be moving the equipment and installing the new monitors upstairs all day tomorrow, so our internal network will be off until the evening.
+B: Yes. IT will be installing the new monitors upstairs tomorrow, and our internal network will be down for the day.
 A: Wait, I still need last month's sales figures, and I couldn't open the database just now.
-B: Don't worry, they're moving it across this afternoon. They'll have finished the transfer by six tonight, so I'll save a copy of the figures and send them to you before I leave.
+B: They're moving the database this afternoon. They'll have finished the transfer by six, so I can send you the figures before I leave.
 A: That's a relief. I can work on the report from home tomorrow, then.
 B: Do you need anything else before we pack up our desks?
-A: No, once I put those figures in, I only have a few minor changes left to make. When can we use the new room?
+A: No, just those figures. There are only a few minor changes to make after that. When can we use the new room?
 B: The schedule says they'll have connected all the computers by nine on Friday morning.
 A: That doesn't leave much time if anything goes wrong.
 B: True. Let's plan to send the report from home on Friday morning too, and we can settle in after the deadline.
-A: Good idea. Will you be coming in tomorrow to let the moving team in?
-B: Yes, I'll be working in the meeting room downstairs from eight in case they need anything.
+A: Good idea. Who's letting the moving team in tomorrow?
+B: I am. I'll be in the meeting room downstairs from eight in case they need anything.
 
 Vocabulary: database, deadline, install, internal, minor, monitor, relief, settle, timing, transfer

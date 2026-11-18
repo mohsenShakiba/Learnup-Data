@@ -1,9 +1,9 @@
 Taking Down the Old Shed
-A: Now we've emptied the garden shed, do you still think it's worth repairing? Look at the gap under that side wall.
-B: I hadn't noticed how far it had sunk. I thought we only needed to replace the roof.
+A: Now we've got all the boxes out, come and look at the gap under this side wall.
+B: Oh. I hadn't noticed how far that end of the shed had sunk. I thought we only needed a new roof.
 A: So did I. But the contractor who came yesterday said there was structural damage to the frame as well.
 B: Then buying a new roof won't solve much. Did he give you a price for removing the whole thing?
-A: Yes. His quote includes removal and disposal of the old timber. We just need to leave a clear path from the gate.
+A: Three hundred pounds. His quote says "removal of shed and disposal of timber". We just need to leave a clear path from the gate.
 B: Could we take it apart ourselves and save the money?
 A: I'd rather not. Some of the screws have broken off, and the wall moved when I pushed the door. I don't want it coming down on us.
 B: Fair enough. What about putting a smaller shed in the same place?

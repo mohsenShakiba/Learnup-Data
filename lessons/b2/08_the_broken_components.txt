@@ -1,14 +1,14 @@
 The Broken Components
 A: Did the factory agree to replace those broken motor components?
-B: Eventually, yes. At first, their sales manager denied there was anything wrong with them, even after I told him our mechanic had spotted the damaged steel rings.
+B: Yes. At first their sales manager denied there was a problem. He didn't believe our mechanic about the damaged steel rings.
 A: What changed his mind?
-B: I sent him the photos. Ten minutes later, he called back and said they'd found a fault on one of their machines and had suspended production until it was fixed.
+B: The photos I sent him. He called back to say they'd found a fault on one of their machines and had suspended production.
 A: How did our boxes get sent out, then?
 B: He admitted nobody had checked them properly before they left. I reminded him how urgent our order was.
 A: Did he give you a date for the next delivery? Our customer will charge us a penalty if we finish the job late.
-B: He estimated they could get new parts to us by Thursday, but he needed to check their stock first.
-A: Thursday doesn't leave us much time. Can he guarantee they'll be here by then?
-B: Not yet. I told him to give us a clear answer by three this afternoon.
+B: Thursday was his estimate. He won't guarantee that until he's checked their stock.
+A: Thursday's tight. When will we know for sure?
+B: I told him we need an answer by three this afternoon.
 A: Let's ask another company for a price just in case.
 B: I've already done that. I sent the details to the place in Bristol an hour ago, and I'll call them if they haven't replied by two.
 A: Good thinking. What should we do with the damaged parts?

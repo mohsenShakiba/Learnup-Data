@@ -1,19 +1,17 @@
 The Wrong Date on the Tickets
-A: Hi. I'm a bit confused about these theatre tickets. They're for tonight, Friday, but I asked for Saturday.
-B: Let me check for you. Was the booking made here at the desk?
-A: Yes, yesterday afternoon. Here's my receipt.
-B: Oh, I'm sorry. Your booking was entered for Friday by mistake.
-A: Can I exchange them for tomorrow's performance?
-B: Of course. I can switch them to Saturday's seven o'clock show right now.
-A: Yes, please. Do you still have two seats together?
-B: You're lucky. Two seats in the second row were just released this morning.
-A: That's great! Do I have to pay anything extra? The tickets were bought with a student discount.
-B: No, the Saturday price is the same, and your student discount still applies.
-A: Good. Is there usually a long queue to get in?
-B: Only right before seven. The doors are opened forty-five minutes early, so come around half past six.
-A: Perfect, half past six is easy for us.
-B: After your tickets are checked at the door, you can go directly to your seats.
-A: Thanks. I really appreciate your help.
-B: Here are your new tickets for Saturday at seven. Enjoy the show!
+A: Hi. Could you check the date on these tickets for me? I asked for Saturday.
+B: Of course. Did you buy them here at the desk?
+A: Yes, yesterday. Here's my receipt. I'm a bit confused because both tickets say Friday.
+B: Let me check. Oh, I'm sorry. Your booking's for tonight's performance.
+A: Can I exchange them for tomorrow's show?
+B: Yes, I can switch them to Saturday at seven.
+A: Do you still have two seats together?
+B: Yes, two seats in the second row were released this morning.
+A: Great, I'll take those. I had a student discount on the first tickets. Do I pay anything extra?
+B: No, the price is the same. Here are your new tickets.
+A: Thanks. Can we go directly to our seats at half past six? My friend can't stand in a queue for long.
+B: Yes. The doors open at quarter past six. It's usually quiet at half past.
+A: That's good to know. I really appreciate your help.
+B: You're welcome. Enjoy the show!
 
 Vocabulary: appreciate, confuse, directly, discount, exchange, performance, queue, release, row, switch
