@@ -1,14 +1,14 @@
 The Receipt for the Staff Meeting
-A: Can you help me with this expense form? I bought the tea and cake for tomorrow's staff meeting, but my lunch is on the same receipt.
-B: That's fine. The guidelines say you can use the receipt as long as you only claim what you bought for work.
-A: I've already put in the full amount. Can I adjust it here?
-B: Yes, right there. Put in the total for the tea and cake.
-A: Do you need the paper receipt, or can I just take a photo?
-B: A photo's sufficient. Add it as an attachment, with a note to clarify why the totals are different.
-A: Right. It also says "Obtain prior approval." Maya asked me in person. Does that count?
-B: Ask her to confirm it by email. That's the usual procedure when there's nothing in writing.
-A: Now it wants me to justify the expense. Do I need to write much?
-B: Just put "Tea and cake for the staff meeting." That's enough.
-A: Thanks. I'll ask Maya before she goes.
+A: Have you filled in one of these online expense forms before? I bought the tea and cake for tomorrow's staff meeting, and the cafe put my cheese sandwich on the same receipt.
+B: Don't tell me you're trying to make the company pay for your lunch.
+A: No! I uploaded the photo as an attachment and typed in the full total before I noticed. Can I still adjust the amount?
+B: Yes, just click on the total and take your sandwich off. Then add a quick note at the bottom to clarify why the figure you're claiming doesn't match the receipt.
+A: Oh, good. Will finance still ask for the paper receipt, or is a clear photo sufficient?
+B: A photo is fine. Under the new guidelines, staff only have to keep paper receipts for travel and hotels.
+A: I'm nearly done, then. Hang on—this box says I needed to obtain prior approval from a manager, and Maya only asked me in the kitchen this morning.
+B: Normal procedure is to have something in writing, so ask Maya to send you a quick email before you send the form off.
+A: Right, I'll message her now. One last thing—where it asks me to justify the cost, how much detail do they want?
+B: One line is plenty. Just write "Tea and cake for Friday's staff meeting"—accountants hate blank boxes, that's all.
+A: Fair enough. I'll catch Maya before she goes home.
 
 Vocabulary: adjust, attachment, clarify, expense, guideline, justify, obtain, prior, procedure, sufficient

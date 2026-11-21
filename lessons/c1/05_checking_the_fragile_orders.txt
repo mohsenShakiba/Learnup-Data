@@ -1,15 +1,14 @@
 Checking the Fragile Orders
-A: There are six big boxes getting wet by the open loading bay door.
-B: Oh no—those are the bulk orders going up to Glasgow with the four o'clock driver. How wet are they?
-A: Just a little wet on the outside, thankfully. Mind those empty boxes by the side exit, though. They're a trip hazard.
-B: I'll shift the empty ones. Can you help me get the Glasgow boxes further inside?
-A: Sure. Hang on, this top box marked fragile is crushed at one end. Should we inspect the bottles before the truck gets here?
-B: Definitely. Given what happened with those broken bottles last month, I don't want to take any chances today.
-A: Pass me the knife and I'll cut the tape... Well, the bottles look intact.
-B: They do, but look at the seal on this one. See how the edge is bent?
-A: Oh, I see it. Looks like a factory defect. If the oil leaks out, it'll ruin the whole box.
-B: Let's set that bottle aside and bring a replacement from the main warehouse.
-A: I'll wrap an extra sheet of thick paper around each bottle too, so nothing moves in transit on the long drive north.
-B: Thanks. I'll put a fresh shipping label on it once we've taped it up.
+A: Come and look outside the back door—the driver just left our bulk order of local apple juice out in the rain without even ringing the bell!
+B: You can't be serious. Every box is marked "Fragile," and one end of this bottom one is badly crushed.
+A: Left out there much longer, the wet box would have fallen apart completely. Thankfully, the rain only just started—help me lift this crushed one onto the table so we can inspect the bottles before we open the shop.
+B: Right, I've got this side. Knowing how rough that delivery company can be, I'm surprised anything arrives in one piece after a morning in transit.
+A: Look, the wet tape is already coming loose—hang on, every single glass bottle inside is intact!
+B: Whoever packed them at the warehouse used plenty of thick paper, clearly. Pass me a couple so I can start putting them out on the front shelves.
+A: Wait—don't take this one yet. Why is the paper round it wet and sticky?
+B: Let me see—that isn't rain. Look at the paper seal round the top: it's broken right across, and apple juice is starting to leak down the glass.
+A: The knock didn't cause that, though—the top wasn't put on straight at the factory. That's a defect we'll have to report.
+B: Take a quick photo of the bottle next to the shipping label on the box. They're always good about sending a free replacement with next week's order.
+A: Good idea—I'll message them now while you check the other five boxes, just in case.
 
-Vocabulary: bay, bulk, crush, defect, fragile, hazard, inspect, intact, leak, replacement, seal, shipping, thankfully, transit, warehouse
+Vocabulary: bulk, crush, defect, fragile, inspect, intact, leak, replacement, seal, shipping, thankfully, transit, warehouse

@@ -1,15 +1,13 @@
-Editing the Fishing Documentary
-A: Can I hear the bit of the fishing documentary you've been working on?
-B: Pull up a chair. Listen to the start of the captain's interview. Can you hear that low noise when he stops talking?
-A: Just about. Was the wind hitting the window again?
-B: It was the fridge behind the captain. Before I put a filter on the track, you could barely hear him.
-A: I can hear every word now. I'd read the transcript, but it's the way he says his dad's name that gets me.
-B: That's what I'd like to open with. Do we need any commentary, though? You can't really see which boat he's talking about.
-A: Play me the first few seconds again. What's on screen when he starts talking?
-B: You get a glimpse of the boat as he points to it, but that's all the footage we have of it.
-A: There's a photo in the town archive of him and his dad on that boat. You can see the whole fishing fleet behind them.
-B: That would work. Who owns the copyright? I'd love to use it in the trailer too.
-A: The museum does. They emailed permission for the film and the trailer this morning. The captain's signed the consent form too.
-B: Good. Let's try it with the photo and see how it looks.
+Editing the Harbour Documentary
+A: Play that ending again in a minute—I honestly didn't expect a two-minute trailer to move me like that.
+B: Really? What I was worried about was the sound in the old captain's kitchen. Before I put a filter on his audio track, his fridge was louder than he was.
+A: You'd never guess now. I typed up the interview transcript myself last week, yet it's that quiet pause before he says his dad's name that really gets you.
+B: Me too. Do you think people watching the film will need a line of spoken commentary over the harbour shot, though? You only catch a brief glimpse of his dad's boat in our footage from that wet morning, so they might not realize which one he's pointing at.
+A: Rather than talking over him, what if we cut to that black-and-white photo I found in the town archive—the one of him at sixteen right beside his dad, with the whole fishing fleet behind them?
+B: Oh, that's a much better idea—his own words do all the work then. Who holds the copyright on that photo, though?
+A: The local museum does. When I copied it last week, they said local projects can use archive photos for free as long as we thank the museum at the end.
+B: Even better. And did the captain ever sign his consent form? I don't want to put the trailer online on Friday until all the forms are back.
+A: It's right here in my bag—I walked down to the harbour to collect it from him, and he made me stay for two cups of tea and three more stories.
+B: That explains why you were gone all afternoon! Send me a copy of that photo, then, and let's try it in the cut.
 
-Vocabulary: archive, commentary, consent, copyright, filter, fleet, footage, glimpse, trailer, transcript
+Vocabulary: archive, commentary, consent, copyright, filter, fleet, footage, glimpse, harbour, trailer, transcript
